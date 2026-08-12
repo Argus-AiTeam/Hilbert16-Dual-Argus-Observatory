@@ -3,12 +3,12 @@
 > Generated deterministically from Argus durable state. No model writes this page, and it carries no cross-process solution transfer.
 > 本页面由确定性监控器根据 Argus 持久状态生成，不由模型写入，也不承担跨进程解题内容传递。
 
-**Updated / 更新时间:** 2026-08-12 14:59:53 UTC
+**Updated / 更新时间:** 2026-08-12 15:04:56 UTC
 
 | Seat | State | Stage | Active role | Round | Current mission | Review | Since semantic progress |
 |---|---|---|---|---:|---|---|---:|
-| A | running | `scope` | engineer | 1/32 | Prove finite cyclicity near normally hyperbolic equilibrium ovals | none | 2s |
-| B | running | `scope` | engineer | 1/32 | Investigate configuration constraints and algebraic bounds for limit cy… | none | 1s |
+| A | running | `scope` | planner | 1/32 | Prove finite cyclicity near normally hyperbolic equilibrium ovals | done | 1m |
+| B | running | `scope` | engineer | 2/32 | Investigate configuration constraints and algebraic bounds for limit cy… | none | 4m |
 
 **Isolation integrity / 隔离完整性:** ✅ immutable controls match
 
@@ -18,7 +18,7 @@
 - **Route:** theory / upper constraints
 - **Models:** Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro
 - **Mission:** Prove finite cyclicity near normally hyperbolic equilibrium ovals
-- **Reviewer state:** `none`; rejected attempts: 0
+- **Reviewer state:** `done`; rejected attempts: 0
 - **Frontier signal:** not yet classified
 - **Research artifacts present:** `research/LOCAL_TO_GLOBAL.md`, `research/PIPELINE_STATE.json`, `research/PROOF_GRAPH.json`, `research/ROUTE_LEDGER.json`, `research/SCOPE.md`
 - **Git:** `d19fd41` · 6 changed path(s) · policy: forbid additional Argus team processes
