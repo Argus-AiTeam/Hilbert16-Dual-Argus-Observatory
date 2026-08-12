@@ -1,0 +1,21 @@
+# Runtime-only monitor state
+monitor/runtime/
+*.tmp
+*.lock
+
+# LaTeX build intermediates
+final/*.aux
+final/*.bbl
+final/*.bcf
+final/*.blg
+final/*.fdb_latexmk
+final/*.fls
+final/*.log
+final/*.out
+final/*.run.xml
+final/*.toc
+
+# Raw provider/daemon logs are intentionally excluded
+raw-logs/
+events.jsonl
+agent-io/
