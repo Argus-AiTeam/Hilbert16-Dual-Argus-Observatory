@@ -3,12 +3,12 @@
 > Generated deterministically from Argus durable state. No model writes this page, and it carries no cross-process solution transfer.
 > 本页面由确定性监控器根据 Argus 持久状态生成，不由模型写入，也不承担跨进程解题内容传递。
 
-**Updated / 更新时间:** 2026-08-12 14:24:44 UTC
+**Updated / 更新时间:** 2026-08-12 14:29:45 UTC
 
 | Seat | State | Stage | Active role | Round | Current mission | Review | Since semantic progress |
 |---|---|---|---|---:|---|---|---:|
-| A | running | `scope` | engineer | 1/32 | Formalize the Hilbert-number and configuration problem | none | 4s |
-| B | running | `scope` | engineer | 4/32 | Establish Rigorous Conventions and Problem Scope | none | 2s |
+| A | running | `scope` | engineer | 1/32 | Formalize the Hilbert-number and configuration problem | none | 3s |
+| B | running | `scope` | planner | 8/32 | Establish Rigorous Conventions and Problem Scope | done | 7s |
 
 **Isolation integrity / 隔离完整性:** ✅ immutable controls match
 
@@ -30,10 +30,10 @@
 - **Route:** construction / lower bounds
 - **Models:** Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol
 - **Mission:** Establish Rigorous Conventions and Problem Scope
-- **Reviewer state:** `none`; rejected attempts: 0
+- **Reviewer state:** `done`; rejected attempts: 0
 - **Frontier signal:** not yet classified
-- **Research artifacts present:** `research/CONVENTIONS.md`, `research/PIPELINE_STATE.json`, `research/ROUTE_LEDGER.json`, `research/literature/summary.md`
-- **Git:** `ab9ddae` · 4 changed path(s) · policy: forbid additional Argus team processes
+- **Research artifacts present:** `research/CONVENTIONS.md`, `research/PIPELINE_STATE.json`, `research/PROOF_GRAPH.json`, `research/ROUTE_LEDGER.json`, `research/literature/summary.md`
+- **Git:** `ab9ddae` · 7 changed path(s) · policy: forbid additional Argus team processes
 - **Broker mailboxes:** inbox 0 · outbox 0
 
 ## Interpretation / 判读
