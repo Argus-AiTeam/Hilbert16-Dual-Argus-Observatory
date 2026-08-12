@@ -3,12 +3,12 @@
 > Generated deterministically from Argus durable state. No model writes this page, and it carries no cross-process solution transfer.
 > 本页面由确定性监控器根据 Argus 持久状态生成，不由模型写入，也不承担跨进程解题内容传递。
 
-**Updated / 更新时间:** 2026-08-12 14:54:52 UTC
+**Updated / 更新时间:** 2026-08-12 14:59:53 UTC
 
 | Seat | State | Stage | Active role | Round | Current mission | Review | Since semantic progress |
 |---|---|---|---|---:|---|---|---:|
-| A | running | `scope` | engineer | 1/32 | Prove finite cyclicity near normally hyperbolic equilibrium ovals | none | 8s |
-| B | running | `scope` | engineer | 1/32 | Investigate uniform finiteness and the Dumortier-Roussarie finite cycli… | none | 2s |
+| A | running | `scope` | engineer | 1/32 | Prove finite cyclicity near normally hyperbolic equilibrium ovals | none | 2s |
+| B | running | `scope` | engineer | 1/32 | Investigate configuration constraints and algebraic bounds for limit cy… | none | 1s |
 
 **Isolation integrity / 隔离完整性:** ✅ immutable controls match
 
@@ -29,11 +29,11 @@
 - **Session / PID:** `s-2fd8729b` / `1932685`
 - **Route:** construction / lower bounds
 - **Models:** Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol
-- **Mission:** Investigate uniform finiteness and the Dumortier-Roussarie finite cyclicity program
+- **Mission:** Investigate configuration constraints and algebraic bounds for limit cycles
 - **Reviewer state:** `none`; rejected attempts: 0
 - **Frontier signal:** not yet classified
-- **Research artifacts present:** `research/CONVENTIONS.md`, `research/O_n_squared_lower_bound.md`, `research/PIPELINE_STATE.json`, `research/PROOF_GRAPH.json`, `research/ROUTE_LEDGER.json`, `research/literature/summary.md`, `research/solve/bottlenecks.md`, `research/solve/christopher_lloyd.py`, `research/solve/christopher_lloyd_formalization.txt`, `research/solve/cl_mechanism_check.py`, `research/solve/cl_mechanism_details.md`, `research/solve/h2_bound_evidence.txt`, `research/solve/uniform_finiteness_brief.md`, `research/solve/verify_cl_perturbation.py`, `research/solve/verify_h2_lower_bound.py`
-- **Git:** `ab9ddae` · 36 changed path(s) · policy: forbid additional Argus team processes
+- **Research artifacts present:** `research/CONVENTIONS.md`, `research/O_n_squared_lower_bound.md`, `research/PIPELINE_STATE.json`, `research/PROOF_GRAPH.json`, `research/ROUTE_LEDGER.json`, `research/literature/summary.md`, `research/solve/bottlenecks.md`, `research/solve/christopher_lloyd.py`, `research/solve/christopher_lloyd_formalization.txt`, `research/solve/cl_mechanism_check.py`, `research/solve/cl_mechanism_details.md`, `research/solve/configuration_investigation.md`, `research/solve/h2_bound_evidence.txt`, `research/solve/next_target.json`, `research/solve/uniform_finiteness_brief.md`, `research/solve/verify_cl_perturbation.py`, `research/solve/verify_h2_lower_bound.py`
+- **Git:** `ab9ddae` · 38 changed path(s) · policy: forbid additional Argus team processes
 - **Broker mailboxes:** inbox 0 · outbox 0
 
 ## Interpretation / 判读

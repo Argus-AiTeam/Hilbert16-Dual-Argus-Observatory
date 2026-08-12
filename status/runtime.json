@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-12 14:54:52 UTC",
+  "generated_at_utc": "2026-08-12 14:59:53 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -23,7 +23,7 @@
       "inbox_files": 0,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1786546483.771309,
+      "last_progress_at": 1786546791.8417163,
       "max_rounds": 32,
       "mission_id": "8259aa4bf3d9",
       "mission_status": "working",
@@ -31,7 +31,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 0,
       "pid": 1932482,
-      "progress_age_seconds": 8.364467144012451,
+      "progress_age_seconds": 2.1109917163848877,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -56,7 +56,9 @@
         "research/solve/christopher_lloyd_formalization.txt",
         "research/solve/cl_mechanism_check.py",
         "research/solve/cl_mechanism_details.md",
+        "research/solve/configuration_investigation.md",
         "research/solve/h2_bound_evidence.txt",
+        "research/solve/next_target.json",
         "research/solve/uniform_finiteness_brief.md",
         "research/solve/verify_cl_perturbation.py",
         "research/solve/verify_h2_lower_bound.py"
@@ -64,7 +66,7 @@
       "frontier_change": "",
       "frontier_summary": "",
       "git": {
-        "dirty_paths": 36,
+        "dirty_paths": 38,
         "head": "ab9ddae",
         "last_commit": "policy: forbid additional Argus team processes"
       },
@@ -72,15 +74,15 @@
       "inbox_files": 0,
       "label": "B",
       "last_event": "engineer.progress",
-      "last_progress_at": 1786546489.5388277,
+      "last_progress_at": 1786546792.8942044,
       "max_rounds": 32,
-      "mission_id": "8cc6207f5ca9",
+      "mission_id": "7fd6eb250a3b",
       "mission_status": "working",
-      "mission_title": "Investigate uniform finiteness and the Dumortier-Roussarie finite cyclicity program",
+      "mission_title": "Investigate configuration constraints and algebraic bounds for limit cycles",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 0,
       "pid": 1932685,
-      "progress_age_seconds": 2.5969483852386475,
+      "progress_age_seconds": 1.0585036277770996,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
