@@ -19,6 +19,10 @@ The coordinator is the sole writer of this observability repository and the sole
 
 Blind phase. No cross-process mathematical content may be transferred. Both processes are independently executing their first `scope` mission.
 
+## Active interventions
+
+- `B-001` (2026-08-12 14:27 UTC): B repeated checkpoint/literature summaries through multiple fast rounds without proposition-level progress. The coordinator required completion of the bounded scope artifact, source discipline, a populated route ledger, and handoff to Reviewer. No content from A was disclosed.
+
 ## Integrity gate
 
 A claim enters the final synthesis only after its statement, hypotheses, quantifiers, dependencies, and evidence have been independently checked.

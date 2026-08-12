@@ -10,3 +10,4 @@ Curated campaign events will be appended here by the coordinator. Routine heartb
 | 2026-08-12 14:18 | Isolated Pi backends passed live model smoke tests | Both diversified model routes are executable |
 | 2026-08-12 14:19 | Argus A and Argus B daemons launched | Independent blind research began |
 | 2026-08-12 14:20 | Both planners opened distinct scope missions | No mathematical claim yet; correct prerequisite work underway |
+| 2026-08-12 14:27 | Coordinator detected repeated non-progress in B and issued `B-001` | Prevented checkpoint/literature bookkeeping from replacing proposition-level work; no A content disclosed |

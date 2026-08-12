@@ -3,12 +3,12 @@
 > Generated deterministically from Argus durable state. No model writes this page, and it carries no cross-process solution transfer.
 > 本页面由确定性监控器根据 Argus 持久状态生成，不由模型写入，也不承担跨进程解题内容传递。
 
-**Updated / 更新时间:** 2026-08-12 14:24:05 UTC
+**Updated / 更新时间:** 2026-08-12 14:24:44 UTC
 
 | Seat | State | Stage | Active role | Round | Current mission | Review | Since semantic progress |
 |---|---|---|---|---:|---|---|---:|
-| A | running | `scope` | engineer | 1/32 | Formalize the Hilbert-number and configuration problem | none | 9s |
-| B | running | `scope` | engineer | 4/32 | Establish Rigorous Conventions and Problem Scope | none | 6s |
+| A | running | `scope` | engineer | 1/32 | Formalize the Hilbert-number and configuration problem | none | 4s |
+| B | running | `scope` | engineer | 4/32 | Establish Rigorous Conventions and Problem Scope | none | 2s |
 
 **Isolation integrity / 隔离完整性:** ✅ immutable controls match
 

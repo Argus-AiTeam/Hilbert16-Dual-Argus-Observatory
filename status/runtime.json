@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-12 14:24:05 UTC",
+  "generated_at_utc": "2026-08-12 14:24:44 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -19,7 +19,7 @@
       "inbox_files": 0,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1786544635.5486708,
+      "last_progress_at": 1786544680.3917913,
       "max_rounds": 32,
       "mission_id": "9f3ec70669ca",
       "mission_status": "working",
@@ -27,7 +27,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 0,
       "pid": 1932482,
-      "progress_age_seconds": 9.753227472305298,
+      "progress_age_seconds": 4.558127403259277,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -57,7 +57,7 @@
       "inbox_files": 0,
       "label": "B",
       "last_event": "engineer.progress",
-      "last_progress_at": 1786544638.660339,
+      "last_progress_at": 1786544682.721128,
       "max_rounds": 32,
       "mission_id": "33cb73fb8826",
       "mission_status": "working",
@@ -65,7 +65,7 @@
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 0,
       "pid": 1932685,
-      "progress_age_seconds": 6.64155912399292,
+      "progress_age_seconds": 2.228790760040283,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
