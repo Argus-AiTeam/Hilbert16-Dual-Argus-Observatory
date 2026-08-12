@@ -3,12 +3,12 @@
 > Generated deterministically from Argus durable state. No model writes this page, and it carries no cross-process solution transfer.
 > 本页面由确定性监控器根据 Argus 持久状态生成，不由模型写入，也不承担跨进程解题内容传递。
 
-**Updated / 更新时间:** 2026-08-12 14:34:46 UTC
+**Updated / 更新时间:** 2026-08-12 14:39:48 UTC
 
 | Seat | State | Stage | Active role | Round | Current mission | Review | Since semantic progress |
 |---|---|---|---|---:|---|---|---:|
-| A | running | `scope` | engineer | 1/32 | Formalize the Hilbert-number and configuration problem | none | 2m |
-| B | running | `scope` | planner | 1/32 | Formalize scalable lower-bound constructions for H(n) | done | 5s |
+| A | running | `scope` | engineer | 1/32 | Prove the local-to-global cyclicity reduction for uniform Hilbert finit… | none | 2s |
+| B | running | `scope` | engineer | 3/32 | Investigate quadratic-system bottlenecks and uniform bound obstructions | continue | 9s |
 
 **Isolation integrity / 隔离完整性:** ✅ immutable controls match
 
@@ -17,11 +17,11 @@
 - **Session / PID:** `s-54f17ee7` / `1932482`
 - **Route:** theory / upper constraints
 - **Models:** Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro
-- **Mission:** Formalize the Hilbert-number and configuration problem
+- **Mission:** Prove the local-to-global cyclicity reduction for uniform Hilbert finiteness
 - **Reviewer state:** `none`; rejected attempts: 0
 - **Frontier signal:** not yet classified
-- **Research artifacts present:** `research/PIPELINE_STATE.json`
-- **Git:** `d19fd41` · 1 changed path(s) · policy: forbid additional Argus team processes
+- **Research artifacts present:** `research/PIPELINE_STATE.json`, `research/SCOPE.md`
+- **Git:** `d19fd41` · 2 changed path(s) · policy: forbid additional Argus team processes
 - **Broker mailboxes:** inbox 0 · outbox 0
 
 ### Argus B
@@ -29,11 +29,11 @@
 - **Session / PID:** `s-2fd8729b` / `1932685`
 - **Route:** construction / lower bounds
 - **Models:** Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol
-- **Mission:** Formalize scalable lower-bound constructions for H(n)
-- **Reviewer state:** `done`; rejected attempts: 0
+- **Mission:** Investigate quadratic-system bottlenecks and uniform bound obstructions
+- **Reviewer state:** `continue`; rejected attempts: 1
 - **Frontier signal:** not yet classified
-- **Research artifacts present:** `research/CONVENTIONS.md`, `research/PIPELINE_STATE.json`, `research/PROOF_GRAPH.json`, `research/ROUTE_LEDGER.json`, `research/literature/summary.md`, `research/solve/christopher_lloyd.py`, `research/solve/h2_bound_evidence.txt`, `research/solve/verify_h2_lower_bound.py`
-- **Git:** `ab9ddae` · 10 changed path(s) · policy: forbid additional Argus team processes
+- **Research artifacts present:** `research/CONVENTIONS.md`, `research/PIPELINE_STATE.json`, `research/PROOF_GRAPH.json`, `research/ROUTE_LEDGER.json`, `research/literature/summary.md`, `research/solve/bottlenecks.md`, `research/solve/christopher_lloyd.py`, `research/solve/christopher_lloyd_formalization.txt`, `research/solve/h2_bound_evidence.txt`, `research/solve/verify_cl_perturbation.py`, `research/solve/verify_h2_lower_bound.py`
+- **Git:** `ab9ddae` · 11 changed path(s) · policy: forbid additional Argus team processes
 - **Broker mailboxes:** inbox 0 · outbox 0
 
 ## Interpretation / 判读
