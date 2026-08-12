@@ -4,8 +4,8 @@
 
 ### Two isolated research processes · Evidence-first coordination
 
-[![Argus A](https://img.shields.io/badge/Argus_A-initializing-64748b)](status/argus-a.md)
-[![Argus B](https://img.shields.io/badge/Argus_B-initializing-64748b)](status/argus-b.md)
+[![Argus A](https://img.shields.io/badge/Argus_A-running-16a34a)](status/argus-a.md)
+[![Argus B](https://img.shields.io/badge/Argus_B-running-16a34a)](status/argus-b.md)
 [![Communication](https://img.shields.io/badge/communication-brokered-2563eb)](status/coordinator.md)
 [![Complete solution](https://img.shields.io/badge/complete_solution-not_claimed-f59e0b)](#scientific-state)
 
@@ -32,10 +32,11 @@ The campaign has four explicit goals:
 |---|---|---|
 | Workspace | `math1/` | `math2/` |
 | Primary lens | theory, finiteness, upper constraints, configurations | constructions, lower bounds, bifurcations, computation |
-| Stage | initializing | initializing |
-| Daemon | not started | not started |
-| Last reviewed progress | none | none |
-| Blocker | awaiting launch preflight | awaiting launch preflight |
+| Stage | `scope`: formalize Hilbert number and configurations | `scope`: establish rigorous conventions and scope |
+| Daemon | running · PID `1932482` | running · PID `1932685` |
+| Current task | formalize Hilbert number/configuration relation | establish rigorous conventions/problem scope |
+| Last reviewed progress | none yet; first Engineer round active | none yet; first Engineer round active |
+| Blocker | none operational | none operational |
 | Detail | [View A](status/argus-a.md) | [View B](status/argus-b.md) |
 
 ## Coordination lifecycle
@@ -66,4 +67,4 @@ stateDiagram-v2
 - neither Argus process may read this repository, and this repository is not an exchange channel;
 - final output will include separate Chinese and English reports, LaTeX sources, and PDFs.
 
-_Initialized: 2026-08-12 14:08 UTC._
+_Both isolated campaigns launched successfully at 2026-08-12 14:19 UTC._

@@ -4,8 +4,8 @@
 
 ### 两个隔离研究进程 · 一套证据优先的协调机制
 
-[![Argus A](https://img.shields.io/badge/Argus_A-初始化中-64748b)](status/argus-a.md)
-[![Argus B](https://img.shields.io/badge/Argus_B-初始化中-64748b)](status/argus-b.md)
+[![Argus A](https://img.shields.io/badge/Argus_A-运行中-16a34a)](status/argus-a.md)
+[![Argus B](https://img.shields.io/badge/Argus_B-运行中-16a34a)](status/argus-b.md)
 [![交流](https://img.shields.io/badge/交流-经协调者转发-2563eb)](status/coordinator.md)
 [![完整解](https://img.shields.io/badge/完整解-尚未宣称-f59e0b)](#科学状态)
 
@@ -32,10 +32,11 @@
 |---|---|---|
 | 工作区 | `math1/` | `math2/` |
 | 优先视角 | 理论、有限性、上界与配置约束 | 构造、下界、分岔与计算反证 |
-| 当前阶段 | 初始化 | 初始化 |
-| daemon | 尚未启动 | 尚未启动 |
-| 最近经审查进展 | 无 | 无 |
-| 当前阻塞 | 等待启动预检 | 等待启动预检 |
+| 当前阶段 | `scope`：形式化 Hilbert 数与配置问题 | `scope`：建立严格约定与问题边界 |
+| daemon | 运行中 · PID `1932482` | 运行中 · PID `1932685` |
+| 当前任务 | 形式化 Hilbert 数和配置关系 | 建立严格约定和问题范围 |
+| 最近经审查进展 | 尚无；首轮 Engineer 正在执行 | 尚无；首轮 Engineer 正在执行 |
+| 当前阻塞 | 无运行阻塞 | 无运行阻塞 |
 | 详细状态 | [查看 A](status/argus-a.md) | [查看 B](status/argus-b.md) |
 
 ## 调度流程
@@ -66,4 +67,4 @@ stateDiagram-v2
 - 两个 Argus 不读取本仓库，本仓库不承担交流功能；
 - 最终将发布中文与英文两个版本的报告，并保留 LaTeX 源文件和 PDF。
 
-_初始化时间：2026-08-12 14:08 UTC。_
+_两个隔离研究进程已于 2026-08-12 14:19 UTC 成功启动。_

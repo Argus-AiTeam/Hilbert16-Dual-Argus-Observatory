@@ -5,8 +5,8 @@
 ### Two isolated research processes, one evidence-first coordination layer
 
 [![Visibility](https://img.shields.io/badge/repository-private-6f42c1)](#)
-[![Argus A](https://img.shields.io/badge/Argus_A-initializing-64748b)](status/argus-a.md)
-[![Argus B](https://img.shields.io/badge/Argus_B-initializing-64748b)](status/argus-b.md)
+[![Argus A](https://img.shields.io/badge/Argus_A-running-16a34a)](status/argus-a.md)
+[![Argus B](https://img.shields.io/badge/Argus_B-running-16a34a)](status/argus-b.md)
 [![Coordination](https://img.shields.io/badge/coordination-isolated-2563eb)](status/coordinator.md)
 [![Scientific claim](https://img.shields.io/badge/full_solution-not_claimed-f59e0b)](#scientific-integrity)
 
@@ -51,4 +51,4 @@ This repository distinguishes **complete solution**, **verified partial result**
 
 > This repository is an observability record, not a communication channel between the two research processes.
 
-_Last dashboard initialization: 2026-08-12 14:08 UTC._
+_Both isolated campaigns launched successfully at 2026-08-12 14:19 UTC._
