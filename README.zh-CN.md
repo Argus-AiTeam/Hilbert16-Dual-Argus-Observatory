@@ -9,7 +9,7 @@
 [![交流](https://img.shields.io/badge/交流-经协调者转发-2563eb)](status/coordinator.md)
 [![完整解](https://img.shields.io/badge/完整解-尚未宣称-f59e0b)](#科学状态)
 
-**[总入口](README.md) · [English](README.en.md)**
+**[总入口](README.md) · [English](README.en.md) · [实时运行状态](status/live.md)**
 
 </div>
 

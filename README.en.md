@@ -9,7 +9,7 @@
 [![Communication](https://img.shields.io/badge/communication-brokered-2563eb)](status/coordinator.md)
 [![Complete solution](https://img.shields.io/badge/complete_solution-not_claimed-f59e0b)](#scientific-state)
 
-**[Landing page](README.md) · [中文](README.zh-CN.md)**
+**[Landing page](README.md) · [中文](README.zh-CN.md) · [Live runtime](status/live.md)**
 
 </div>
 

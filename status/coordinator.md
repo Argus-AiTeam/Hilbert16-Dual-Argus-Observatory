@@ -12,7 +12,7 @@ The coordinator is the sole writer of this observability repository and the sole
 - [x] Immutable byte-identical problem contracts installed.
 - [x] Argus A daemon launched (`s-54f17ee7`, PID `1932482`).
 - [x] Argus B daemon launched (`s-2fd8729b`, PID `1932685`).
-- [ ] Deterministic monitor enabled.
+- [x] Deterministic monitor implemented and isolation hashes verified.
 - [ ] First independent scope reviews received.
 
 ## Exchange state

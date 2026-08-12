@@ -1,5 +1,7 @@
 # Runtime-only monitor state
 monitor/runtime/
+__pycache__/
+*.pyc
 *.tmp
 *.lock
 

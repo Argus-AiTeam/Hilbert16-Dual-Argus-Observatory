@@ -10,7 +10,7 @@
 [![Coordination](https://img.shields.io/badge/coordination-isolated-2563eb)](status/coordinator.md)
 [![Scientific claim](https://img.shields.io/badge/full_solution-not_claimed-f59e0b)](#scientific-integrity)
 
-**[中文仪表板](README.zh-CN.md) · [English dashboard](README.en.md)**
+**[中文仪表板](README.zh-CN.md) · [English dashboard](README.en.md) · [Live runtime / 实时状态](status/live.md)**
 
 </div>
 
