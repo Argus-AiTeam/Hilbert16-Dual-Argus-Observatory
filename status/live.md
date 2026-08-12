@@ -3,12 +3,12 @@
 > Generated deterministically from Argus durable state. No model writes this page, and it carries no cross-process solution transfer.
 > 本页面由确定性监控器根据 Argus 持久状态生成，不由模型写入，也不承担跨进程解题内容传递。
 
-**Updated / 更新时间:** 2026-08-12 16:20:07 UTC
+**Updated / 更新时间:** 2026-08-12 16:55:10 UTC
 
 | Seat | State | Stage | Active role | Round | Current mission | Review | Since semantic progress |
 |---|---|---|---|---:|---|---|---:|
-| A | running | `scope` | engineer | 1/32 | Establish and sharpen a fixed-degree realizability envelope for nesting… | none | 2s |
-| B | running | `scope` | idle | 2/32 | Investigate infinite cyclicity mechanisms to test the uniform finitenes… | blocked | 25m |
+| A | running | `scope` | planner | 2/32 | Establish and sharpen a fixed-degree realizability envelope for nesting… | continue | 11s |
+| B | stale-warning | `scope` | idle | 2/32 | Investigate infinite cyclicity mechanisms to test the uniform finitenes… | blocked | 1.0h |
 
 **Isolation integrity / 隔离完整性:** ✅ immutable controls match
 
@@ -18,10 +18,10 @@
 - **Route:** theory / upper constraints
 - **Models:** Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro
 - **Mission:** Establish and sharpen a fixed-degree realizability envelope for nesting trees
-- **Reviewer state:** `none`; rejected attempts: 0
+- **Reviewer state:** `continue`; rejected attempts: 2
 - **Frontier signal:** not yet classified
-- **Research artifacts present:** `research/BOUNDED_RETURN_BLOCKS.md`, `research/CONFIGURATION_DEPTH.md`, `research/CONFIGURATION_WIDTH.md`, `research/LOCAL_TO_GLOBAL.md`, `research/PIPELINE_STATE.json`, `research/PROOF_GRAPH.json`, `research/ROUTE_LEDGER.json`, `research/SCOPE.md`, `research/UNIFORM_RETURN_VALENCY.md`
-- **Git:** `d19fd41` · 10 changed path(s) · policy: forbid additional Argus team processes
+- **Research artifacts present:** `research/BOUNDED_RETURN_BLOCKS.md`, `research/CONFIGURATION_DEPTH.md`, `research/CONFIGURATION_WIDTH.md`, `research/DEGREE_RAISING.md`, `research/FIXED_DEGREE_REALIZATION.md`, `research/LOCAL_TO_GLOBAL.md`, `research/PIPELINE_STATE.json`, `research/PROOF_GRAPH.json`, `research/ROUTE_LEDGER.json`, `research/SCOPE.md`, `research/UNIFORM_RETURN_VALENCY.md`
+- **Git:** `d19fd41` · 12 changed path(s) · policy: forbid additional Argus team processes
 - **Broker mailboxes:** inbox 0 · outbox 0
 
 ### Argus B
