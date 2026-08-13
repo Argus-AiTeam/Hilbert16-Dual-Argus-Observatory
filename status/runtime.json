@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-13 18:46:47 UTC",
+  "generated_at_utc": "2026-08-13 18:51:49 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -28,7 +28,7 @@
       "frontier_change": "",
       "frontier_summary": "",
       "git": {
-        "dirty_paths": 13,
+        "dirty_paths": 14,
         "head": "7c502e3",
         "last_commit": "research: checkpoint configuration constructions and residual audits"
       },
@@ -36,7 +36,7 @@
       "inbox_files": 2,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1786646805.6301827,
+      "last_progress_at": 1786647108.167724,
       "max_rounds": 32,
       "mission_id": "f41cec91f03f",
       "mission_status": "working",
@@ -44,7 +44,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 2,
       "pid": 530906,
-      "progress_age_seconds": 2.2346084117889404,
+      "progress_age_seconds": 1.5423474311828613,
       "rejected_attempts": 1,
       "review_reason": "Engineer backend failed before a trustworthy completed turn; reviewer skipped. backend_failure_streak=1/2; error=terminated",
       "review_status": "continue",
@@ -82,23 +82,23 @@
       "frontier_change": "uncertainty_reduced",
       "frontier_summary": "Review confirmed no accessible source/test repair and reproduced the original fatal-error/zero-exit verdict defect.",
       "git": {
-        "dirty_paths": 45,
-        "head": "02930dc",
-        "last_commit": "math: correct finite-Q H3_14 denominator-root sectors"
+        "dirty_paths": 40,
+        "head": "48e8d5e",
+        "last_commit": "Record H3_14 moving-endpoint ERFZ14 obstruction"
       },
       "health": "active",
       "inbox_files": 2,
       "label": "B",
       "last_event": "engineer.progress",
-      "last_progress_at": 1786646798.7364957,
+      "last_progress_at": 1786647093.185425,
       "max_rounds": 32,
-      "mission_id": "70fb6d5bf98f",
+      "mission_id": "0d8e47517921",
       "mission_status": "working",
-      "mission_title": "Create the due evidence-bearing local Git checkpoint commit",
+      "mission_title": "Derive or reject the missing central overlap variable for the H^3_14 exact raw-return product jet",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 2,
       "pid": 531948,
-      "progress_age_seconds": 9.128295421600342,
+      "progress_age_seconds": 16.524646282196045,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
