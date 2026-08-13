@@ -65,3 +65,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-13 10:24:35 UTC | A | `life.mission.completed` | Attack Zhu’s \(Ehp2b\) transition-nonlinearity proposition as a concrete DRR residual case |
 | 2026-08-13 10:31:04 UTC | B | `life.mission.completed` | Decide the residual first-Melnikov-flat quotient for the Darboux infinity bicycle |
 | 2026-08-13 10:35:11 UTC | A | `life.mission.completed` | Resolve Zhu Ehp2b Conjecture 6.8 in admissible normal coordinates |
+| 2026-08-13 10:44:06 UTC | A | `life.mission.completed` | Certify and advance the fixed-degree configuration realizability envelope |
+| 2026-08-13 10:41:03 UTC | B | `life.mission.completed` | Source-backed quadratic-system bottleneck map for Hilbert XVI-II |
