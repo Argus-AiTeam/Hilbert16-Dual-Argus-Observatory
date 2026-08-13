@@ -3,12 +3,12 @@
 > Generated deterministically from Argus durable state. No model writes this page, and it carries no cross-process solution transfer.
 > 本页面由确定性监控器根据 Argus 持久状态生成，不由模型写入，也不承担跨进程解题内容传递。
 
-**Updated / 更新时间:** 2026-08-13 17:01:24 UTC
+**Updated / 更新时间:** 2026-08-13 17:11:26 UTC
 
 | Seat | State | Stage | Active role | Round | Current mission | Review | Since semantic progress |
 |---|---|---|---|---:|---|---|---:|
-| A | running | `scope` | engineer | 1/32 | Sharpen the fixed-degree configuration realizability envelope beyond th… | none | 7s |
-| B | running | `scope` | engineer | 1/32 | Resolve or sharply delimit the `delta=0`, zero-bracket, zero-`C2_flat` … | none | 1m |
+| A | running | `scope` | engineer | 1/32 | Decide the next degree-six LRS sparse complete-star route outside retir… | none | 1m |
+| B | running | `scope` | engineer | 1/32 | Resolve or sharply delimit the `delta=0`, zero-bracket, zero-`C2_flat` … | none | 0s |
 
 **Isolation integrity / 隔离完整性:** ✅ immutable controls match
 
@@ -17,11 +17,11 @@
 - **Session / PID:** `s-54f17ee7` / `530906`
 - **Route:** theory / upper constraints
 - **Models:** Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro
-- **Mission:** Sharpen the fixed-degree configuration realizability envelope beyond the radial nesting lower bound
+- **Mission:** Decide the next degree-six LRS sparse complete-star route outside retired classes
 - **Reviewer state:** `none`; rejected attempts: 0
 - **Frontier signal:** not yet classified
 - **Research artifacts present:** `research/BOUNDED_RETURN_BLOCKS.md`, `research/CONFIGURATION_DEPTH.md`, `research/CONFIGURATION_WIDTH.md`, `research/DEGREE_RAISING.md`, `research/DULAC_POLYCYCLE_ROUTE_VERDICT.md`, `research/FIXED_DEGREE_REALIZATION.md`, `research/HILBERT_LOWER_BOUNDS.md`, `research/I6B_BOUNDED_COMPLEXITY_ZERO_COUNT.md`, `research/LOCAL_TO_GLOBAL.md`, `research/PIPELINE_STATE.json`, `research/PROOF_GRAPH.json`, `research/QUADRATIC_BASE_CASE.md`, `research/ROUTE_LEDGER.json`, `research/SCOPE.md`, `research/STATIONARY_EQUATOR_SLOW_FAST.md`, `research/UNIFORM_RETURN_VALENCY.md`, `research/UNIVERSAL_PAIR_BLOWUP.md`, `research/ZHU_EHP2B_VERDICT.md`
-- **Git:** `d5b83c3` · 28 changed path(s) · research: certify quadratic residual source gap
+- **Git:** `7c502e3` · 0 changed path(s) · research: checkpoint configuration constructions and residual audits
 - **Broker mailboxes:** inbox 2 · outbox 2
 
 ### Argus B
