@@ -23,3 +23,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-13 07:09:32 UTC | A | `life.mission.completed` | Certify the unreviewed degree-\(2k\) complete-configuration realization theorem |
 | 2026-08-13 07:17:13 UTC | A | `life.mission.completed` | Build or retire a weighted equator-blowup route for the single-pair cyclicity gap |
 | 2026-08-13 07:26:17 UTC | A | `life.mission.completed` | Decide the slow-fast/stationary-equator cyclicity route for the universal pair |
+| 2026-08-13 07:39:04 UTC | A | `life.mission.completed` | Decide the quasianalytic Dulac-map/polycycle route for the `C_STAR_N`/`R_n` gap |
+| 2026-08-13 07:38:25 UTC | B | `life.mission.completed` | Investigate infinite cyclicity mechanisms to test the uniform finiteness conjecture |
