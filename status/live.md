@@ -3,12 +3,12 @@
 > Generated deterministically from Argus durable state. No model writes this page, and it carries no cross-process solution transfer.
 > 本页面由确定性监控器根据 Argus 持久状态生成，不由模型写入，也不承担跨进程解题内容传递。
 
-**Updated / 更新时间:** 2026-08-13 19:37:02 UTC
+**Updated / 更新时间:** 2026-08-13 20:32:04 UTC
 
 | Seat | State | Stage | Active role | Round | Current mission | Review | Since semantic progress |
 |---|---|---|---|---:|---|---|---:|
-| A | running | `scope` | engineer | 1/32 | Decide the all-quartic one-coarse-Theta local-chart class for the remai… | none | 30s |
-| B | running | `scope` | engineer | 1/32 | Decide a nonzero-`B`/`mu2` sub-sector of the `delta=0` ERFZ14 endpoint-… | none | 6s |
+| A | running | `scope` | engineer | 1/32 | Decide the all-quartic one-coarse-Theta local-chart class for the remai… | none | 3s |
+| B | running | `scope` | engineer | 8/32 | Decide a nonzero-`B`/`mu2` sub-sector of the `delta=0` ERFZ14 endpoint-… | none | 8s |
 
 **Isolation integrity / 隔离完整性:** ✅ immutable controls match
 
@@ -21,7 +21,7 @@
 - **Reviewer state:** `none`; rejected attempts: 0
 - **Frontier signal:** not yet classified
 - **Research artifacts present:** `research/BOUNDED_RETURN_BLOCKS.md`, `research/CONFIGURATION_DEPTH.md`, `research/CONFIGURATION_WIDTH.md`, `research/DEGREE_RAISING.md`, `research/DULAC_POLYCYCLE_ROUTE_VERDICT.md`, `research/FIXED_DEGREE_REALIZATION.md`, `research/HILBERT_LOWER_BOUNDS.md`, `research/I6B_BOUNDED_COMPLEXITY_ZERO_COUNT.md`, `research/LOCAL_TO_GLOBAL.md`, `research/PIPELINE_STATE.json`, `research/PROOF_GRAPH.json`, `research/QUADRATIC_BASE_CASE.md`, `research/ROUTE_LEDGER.json`, `research/SCOPE.md`, `research/STATIONARY_EQUATOR_SLOW_FAST.md`, `research/UNIFORM_RETURN_VALENCY.md`, `research/UNIVERSAL_PAIR_BLOWUP.md`, `research/ZHU_EHP2B_VERDICT.md`
-- **Git:** `7c502e3` · 17 changed path(s) · research: checkpoint configuration constructions and residual audits
+- **Git:** `b0353ed` · 6 changed path(s) · research: localize n6 LRS sparse patchwork gap
 - **Broker mailboxes:** inbox 2 · outbox 2
 
 ### Argus B
