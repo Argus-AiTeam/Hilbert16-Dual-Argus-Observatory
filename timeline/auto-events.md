@@ -80,3 +80,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-13 11:47:09 UTC | A | `life.mission.completed` | Decide the non-natural n=6 LRS sparse patchworking/explicit-curve route |
 | 2026-08-13 11:54:58 UTC | B | `life.mission.completed` | Primary-source import-or-reject decision for saddle-node/semihyperbolic graphic cyclicity covering `(H^3_{14})_\partial |
 | 2026-08-13 11:56:50 UTC | A | `life.mission.completed` | Decide whether the quadratic DRR/121-graphic program can close U_2 in project quantifiers |
+| 2026-08-13 12:03:59 UTC | A | `life.mission.completed` | Attack the RR2015 \(I^1_{6b}\) four-type-II-Dulac residual |
+| 2026-08-13 12:03:30 UTC | B | `life.mission.completed` | Decide the coupled two-passage `(M14)` route for actual `(H^3_{14})_\partial` finite cyclicity |
