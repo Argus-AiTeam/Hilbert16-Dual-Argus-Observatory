@@ -3,11 +3,11 @@
 > Generated deterministically from Argus durable state. No model writes this page, and it carries no cross-process solution transfer.
 > 本页面由确定性监控器根据 Argus 持久状态生成，不由模型写入，也不承担跨进程解题内容传递。
 
-**Updated / 更新时间:** 2026-08-13 12:35:27 UTC
+**Updated / 更新时间:** 2026-08-13 12:40:29 UTC
 
 | Seat | State | Stage | Active role | Round | Current mission | Review | Since semantic progress |
 |---|---|---|---|---:|---|---|---:|
-| A | running | `scope` | engineer | 1/32 | Resolve the \(I^1_{6b}\) four-type-II dependency by fresh source access… | none | 36s |
+| A | running | `scope` | planner | 1/32 | Resolve the \(I^1_{6b}\) four-type-II dependency by fresh source access… | done | 17s |
 | B | running | `scope` | engineer | 1/32 | Decide the first actual-remainder theorem for `AR14-fan | none | 1s |
 
 **Isolation integrity / 隔离完整性:** ✅ immutable controls match
@@ -18,7 +18,7 @@
 - **Route:** theory / upper constraints
 - **Models:** Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro
 - **Mission:** Resolve the \(I^1_{6b}\) four-type-II dependency by fresh source access or independent derivation
-- **Reviewer state:** `none`; rejected attempts: 0
+- **Reviewer state:** `done`; rejected attempts: 0
 - **Frontier signal:** not yet classified
 - **Research artifacts present:** `research/BOUNDED_RETURN_BLOCKS.md`, `research/CONFIGURATION_DEPTH.md`, `research/CONFIGURATION_WIDTH.md`, `research/DEGREE_RAISING.md`, `research/DULAC_POLYCYCLE_ROUTE_VERDICT.md`, `research/FIXED_DEGREE_REALIZATION.md`, `research/HILBERT_LOWER_BOUNDS.md`, `research/LOCAL_TO_GLOBAL.md`, `research/PIPELINE_STATE.json`, `research/PROOF_GRAPH.json`, `research/QUADRATIC_BASE_CASE.md`, `research/ROUTE_LEDGER.json`, `research/SCOPE.md`, `research/STATIONARY_EQUATOR_SLOW_FAST.md`, `research/UNIFORM_RETURN_VALENCY.md`, `research/UNIVERSAL_PAIR_BLOWUP.md`, `research/ZHU_EHP2B_VERDICT.md`
 - **Git:** `d2524ec` · 68 changed path(s) · route: audit Roussarie cyclicity gap
