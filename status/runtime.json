@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-13 12:30:25 UTC",
+  "generated_at_utc": "2026-08-13 12:35:27 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -27,7 +27,7 @@
       "frontier_change": "",
       "frontier_summary": "",
       "git": {
-        "dirty_paths": 67,
+        "dirty_paths": 68,
         "head": "d2524ec",
         "last_commit": "route: audit Roussarie cyclicity gap"
       },
@@ -35,7 +35,7 @@
       "inbox_files": 2,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1786624153.374379,
+      "last_progress_at": 1786624491.0539207,
       "max_rounds": 32,
       "mission_id": "d4d013863e46",
       "mission_status": "working",
@@ -43,7 +43,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 1,
       "pid": 530906,
-      "progress_age_seconds": 72.2498869895935,
+      "progress_age_seconds": 36.279903173446655,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -89,15 +89,15 @@
       "inbox_files": 1,
       "label": "B",
       "last_event": "engineer.progress",
-      "last_progress_at": 1786624216.2653959,
+      "last_progress_at": 1786624526.3109732,
       "max_rounds": 32,
-      "mission_id": "1ed21fb62d0a",
+      "mission_id": "bb6f864f7df4",
       "mission_status": "working",
-      "mission_title": "Construct and decide the `NEI14-fan` denominator Newton fan for the actual H3_14 passages",
+      "mission_title": "Decide the first actual-remainder theorem for `AR14-fan",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 1,
       "pid": 531948,
-      "progress_age_seconds": 9.358870029449463,
+      "progress_age_seconds": 1.022850751876831,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
