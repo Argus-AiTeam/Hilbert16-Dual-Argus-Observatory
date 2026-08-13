@@ -140,3 +140,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-13 19:00:14 UTC | B | `life.mission.completed` | Derive or reject the missing central overlap variable for the H^3_14 exact raw-return product jet |
 | 2026-08-13 19:05:52 UTC | A | `life.mission.completed` | Decide the n=6 LRS sparse high-genus Newton-polygon loophole |
 | 2026-08-13 19:15:35 UTC | B | `life.mission.completed` | paused_provider_cooldown |
+| 2026-08-13 19:20:20 UTC | A | `life.mission.completed` | Decide a source-backed non-deterministic `Theta`-local generalized patchworking class for the remaining `n=6` LRS spars… |
+| 2026-08-13 19:16:58 UTC | B | `life.mission.completed` | ERFZ14 exact raw-return finite-zero-chain feasibility milestone |
