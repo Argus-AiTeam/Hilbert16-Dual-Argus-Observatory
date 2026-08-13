@@ -46,3 +46,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-13 08:58:57 UTC | A | `life.mission.completed` | Answer B’s nesting-gap evidence request with the radial depth family |
 | 2026-08-13 08:58:32 UTC | B | `life.mission.completed` | Formalize the degree-scalable radial nesting-depth lower bound |
 | 2026-08-13 09:08:51 UTC | B | `life.mission.completed` | Construct and formalize an explicit Ω(n²) antichain-width lower-bound family |
+| 2026-08-13 09:18:17 UTC | A | `life.mission.completed` | Decide the high-total-degree invariant-algebraic/Darboux loophole for degree-n complete-star/configuration realizability |
+| 2026-08-13 09:17:01 UTC | B | `life.mission.completed` | Formalize a multi-level grid-damping construction for simultaneous width and nesting depth |
