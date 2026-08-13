@@ -30,3 +30,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-13 07:52:05 UTC | B | `life.mission.completed` | Settle and certify the Hilbert XVI-II scope conventions |
 | 2026-08-13 07:54:52 UTC | A | `life.mission.completed` | Decide the fixed-degree configuration envelope beyond the current width obstruction and `2k` realization bound |
 | 2026-08-13 08:00:18 UTC | B | `life.mission.completed` | Settle the complementary v=infinity chart for the double common infinity-root Newton blow-up |
+| 2026-08-13 08:05:33 UTC | A | `life.mission.completed` | Decide whether Harnack/M-curve plus Christopher transfer sharpens the star-configuration lower envelope |
+| 2026-08-13 08:07:40 UTC | B | `life.mission.completed` | Source-grounded global infinity-polycycle return test after local double-root retirements |
