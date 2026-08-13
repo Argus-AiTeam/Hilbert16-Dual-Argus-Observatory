@@ -36,3 +36,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-13 08:14:49 UTC | B | `life.mission.completed` | Decide the mixed hyperbolic infinity-polycycle survivor by explicit model or evidence-backed retirement |
 | 2026-08-13 08:25:44 UTC | A | `life.mission.completed` | Decide sharpness of the positive-index star-width obstruction |
 | 2026-08-13 08:26:19 UTC | B | `life.mission.completed` | Decide the Abelian/Melnikov cyclicity signal for the mixed infinity Darboux hyperbola polycycle |
+| 2026-08-13 08:36:42 UTC | A | `life.mission.completed` | Decide dynamical realizability of the sharp positive-index star-width envelope |
+| 2026-08-13 08:36:46 UTC | B | `life.mission.completed` | Source-ground and formalize the Christopher–Lloyd recursive lower-bound construction |
