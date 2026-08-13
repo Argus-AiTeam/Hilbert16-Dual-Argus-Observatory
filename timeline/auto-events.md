@@ -34,3 +34,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-13 08:07:40 UTC | B | `life.mission.completed` | Source-grounded global infinity-polycycle return test after local double-root retirements |
 | 2026-08-13 08:16:31 UTC | A | `life.mission.completed` | Decide the positive-index refinement of the fixed-degree star/width obstruction |
 | 2026-08-13 08:14:49 UTC | B | `life.mission.completed` | Decide the mixed hyperbolic infinity-polycycle survivor by explicit model or evidence-backed retirement |
+| 2026-08-13 08:25:44 UTC | A | `life.mission.completed` | Decide sharpness of the positive-index star-width obstruction |
+| 2026-08-13 08:26:19 UTC | B | `life.mission.completed` | Decide the Abelian/Melnikov cyclicity signal for the mixed infinity Darboux hyperbola polycycle |
