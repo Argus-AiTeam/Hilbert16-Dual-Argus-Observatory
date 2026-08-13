@@ -77,3 +77,4 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-13 11:25:53 UTC | B | `life.mission.completed` | Decide a Pfaffian/quasianalytic finite-zero route for `FZT14 |
 | 2026-08-13 11:32:41 UTC | B | `life.mission.completed` | Decide the stronger-flatness route for the actual `(H^3_{14})` nilpotent-transition remainders |
 | 2026-08-13 11:44:06 UTC | B | `life.mission.completed` | Decide the actual-quadratic resonant-coefficient route for `(H^3_{14})_\partial |
+| 2026-08-13 11:47:09 UTC | A | `life.mission.completed` | Decide the non-natural n=6 LRS sparse patchworking/explicit-curve route |
