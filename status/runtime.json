@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-13 11:00:01 UTC",
+  "generated_at_utc": "2026-08-13 11:10:02 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -27,7 +27,7 @@
       "frontier_change": "",
       "frontier_summary": "",
       "git": {
-        "dirty_paths": 63,
+        "dirty_paths": 64,
         "head": "d2524ec",
         "last_commit": "route: audit Roussarie cyclicity gap"
       },
@@ -35,7 +35,7 @@
       "inbox_files": 2,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1786618796.313723,
+      "last_progress_at": 1786619399.960489,
       "max_rounds": 32,
       "mission_id": "7192f9f84af8",
       "mission_status": "working",
@@ -43,7 +43,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 1,
       "pid": 530906,
-      "progress_age_seconds": 4.8326194286346436,
+      "progress_age_seconds": 2.8914716243743896,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -81,7 +81,7 @@
       "frontier_change": "uncertainty_reduced",
       "frontier_summary": "Review confirmed no accessible source/test repair and reproduced the original fatal-error/zero-exit verdict defect.",
       "git": {
-        "dirty_paths": 77,
+        "dirty_paths": 79,
         "head": "450ef6e",
         "last_commit": "math: add grid damping antichain lower bound"
       },
@@ -89,15 +89,15 @@
       "inbox_files": 1,
       "label": "B",
       "last_event": "engineer.progress",
-      "last_progress_at": 1786618784.9499052,
+      "last_progress_at": 1786619400.2316663,
       "max_rounds": 32,
-      "mission_id": "6afc4d5d1f8f",
+      "mission_id": "2904ebacecd8",
       "mission_status": "complete",
-      "mission_title": "Attack the quadratic DRR boundary gap `(H^3_{14})` at theorem level",
+      "mission_title": "Prove or sharply reject the semi-hyperbolic Dulac transition lemma for `(H^3_{14})",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 1,
       "pid": 531948,
-      "progress_age_seconds": 16.1964373588562,
+      "progress_age_seconds": 2.6202943325042725,
       "rejected_attempts": 0,
       "review_reason": "Engineer reported the requested milestone complete; independent review was not required for this mission.",
       "review_status": "done",
