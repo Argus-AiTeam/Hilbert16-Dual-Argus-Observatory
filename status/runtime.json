@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-13 09:39:41 UTC",
+  "generated_at_utc": "2026-08-13 09:44:42 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -34,7 +34,7 @@
       "inbox_files": 2,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1786613972.8626,
+      "last_progress_at": 1786614280.1711774,
       "max_rounds": 32,
       "mission_id": "40c4b82475ae",
       "mission_status": "working",
@@ -42,7 +42,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 1,
       "pid": 530906,
-      "progress_age_seconds": 8.151906728744507,
+      "progress_age_seconds": 2.3502163887023926,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -78,7 +78,7 @@
         "research/solve/verify_h2_lower_bound.py"
       ],
       "frontier_change": "unchanged_failure",
-      "frontier_summary": "The fatal-error planner failure remains unchanged in the accessible artifact.",
+      "frontier_summary": "Accessible Argus still emits the generic zero-exit planner backend error instead of the fatal diagnostic.",
       "git": {
         "dirty_paths": 70,
         "head": "450ef6e",
@@ -88,7 +88,7 @@
       "inbox_files": 1,
       "label": "B",
       "last_event": "engineer.progress",
-      "last_progress_at": 1786613978.3300772,
+      "last_progress_at": 1786614275.6266155,
       "max_rounds": 32,
       "mission_id": "8b67d91c6525",
       "mission_status": "working",
@@ -96,11 +96,11 @@
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 1,
       "pid": 531948,
-      "progress_age_seconds": 2.68442964553833,
-      "rejected_attempts": 2,
-      "review_reason": "The implementation is not available for review and the original failure still reproduces in the accessible framework checkout: the verdict error is only `planner backend exit 0` instead of including the fatal diagnostic. The focused regression test is absent, and the project-local acceptance check cannot run because pytest is not installed.",
+      "progress_age_seconds": 6.894778251647949,
+      "rejected_attempts": 3,
+      "review_reason": "The requested repair is still not present in the accessible framework checkout: `Planner.plan_next()` still returns only `planner backend exit 0` for a fatal-error/zero-exit backend result, the focused regression test is absent, the claimed private worktree does not exist here, and the project-local acceptance check cannot run because pytest is missing.",
       "review_status": "continue",
-      "round": 3,
+      "round": 4,
       "route": "construction / lower bounds",
       "sid": "s-2fd8729b",
       "stage": "scope",
