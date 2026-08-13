@@ -3,12 +3,12 @@
 > Generated deterministically from Argus durable state. No model writes this page, and it carries no cross-process solution transfer.
 > 本页面由确定性监控器根据 Argus 持久状态生成，不由模型写入，也不承担跨进程解题内容传递。
 
-**Updated / 更新时间:** 2026-08-13 07:59:17 UTC
+**Updated / 更新时间:** 2026-08-13 08:04:19 UTC
 
 | Seat | State | Stage | Active role | Round | Current mission | Review | Since semantic progress |
 |---|---|---|---|---:|---|---|---:|
-| A | running | `scope` | engineer | 1/32 | Decide whether Harnack/M-curve plus Christopher transfer sharpens the s… | none | 7s |
-| B | running | `scope` | engineer | 1/32 | Settle the complementary v=infinity chart for the double common infinit… | none | 9s |
+| A | running | `scope` | engineer | 1/32 | Decide whether Harnack/M-curve plus Christopher transfer sharpens the s… | none | 0s |
+| B | running | `scope` | engineer | 1/32 | Source-grounded global infinity-polycycle return test after local doubl… | none | 15s |
 
 **Isolation integrity / 隔离完整性:** ✅ immutable controls match
 
@@ -21,7 +21,7 @@
 - **Reviewer state:** `none`; rejected attempts: 0
 - **Frontier signal:** not yet classified
 - **Research artifacts present:** `research/BOUNDED_RETURN_BLOCKS.md`, `research/CONFIGURATION_DEPTH.md`, `research/CONFIGURATION_WIDTH.md`, `research/DEGREE_RAISING.md`, `research/DULAC_POLYCYCLE_ROUTE_VERDICT.md`, `research/FIXED_DEGREE_REALIZATION.md`, `research/LOCAL_TO_GLOBAL.md`, `research/PIPELINE_STATE.json`, `research/PROOF_GRAPH.json`, `research/ROUTE_LEDGER.json`, `research/SCOPE.md`, `research/STATIONARY_EQUATOR_SLOW_FAST.md`, `research/UNIFORM_RETURN_VALENCY.md`, `research/UNIVERSAL_PAIR_BLOWUP.md`
-- **Git:** `d2524ec` · 7 changed path(s) · route: audit Roussarie cyclicity gap
+- **Git:** `d2524ec` · 11 changed path(s) · route: audit Roussarie cyclicity gap
 - **Broker mailboxes:** inbox 1 · outbox 0
 
 ### Argus B
@@ -29,7 +29,7 @@
 - **Session / PID:** `s-2fd8729b` / `531948`
 - **Route:** construction / lower bounds
 - **Models:** Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol
-- **Mission:** Settle the complementary v=infinity chart for the double common infinity-root Newton blow-up
+- **Mission:** Source-grounded global infinity-polycycle return test after local double-root retirements
 - **Reviewer state:** `none`; rejected attempts: 0
 - **Frontier signal:** not yet classified
 - **Research artifacts present:** `research/solve/christopher_lloyd_formalization.txt`, `research/solve/cl_mechanism_check.py`, `research/solve/cl_mechanism_details.md`, `research/solve/common_root_infinity_blowup.md`, `research/solve/configuration_investigation.md`, `research/solve/double_root_complementary_v_infinity.md`, `research/solve/double_root_second_face_blowup.md`, `research/solve/h2_bound_evidence.txt`, `research/solve/multiple_angular_root_newton_blowup.md`, `research/solve/nesting_depth_bounds.md`, `research/solve/next_target.json`, `research/solve/radial_infinity_blowup.md`, `research/solve/radial_zero_return_obstruction.md`, `research/solve/regular_annulus_localization.md`, `research/solve/repeated_phi_finite_v_decision.md`, `research/solve/structural_constraints_report.md`, `research/solve/structural_constraints_summary.md`, `research/solve/uniform_finiteness_brief.md`, `research/solve/verify_cl_perturbation.py`, `research/solve/verify_h2_lower_bound.py`
