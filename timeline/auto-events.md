@@ -38,3 +38,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-13 08:26:19 UTC | B | `life.mission.completed` | Decide the Abelian/Melnikov cyclicity signal for the mixed infinity Darboux hyperbola polycycle |
 | 2026-08-13 08:36:42 UTC | A | `life.mission.completed` | Decide dynamical realizability of the sharp positive-index star-width envelope |
 | 2026-08-13 08:36:46 UTC | B | `life.mission.completed` | Source-ground and formalize the Christopher–Lloyd recursive lower-bound construction |
+| 2026-08-13 08:45:48 UTC | A | `life.mission.completed` | Decide whether multi-curve/Darboux inverse-integrating-factor constructions improve the fixed-degree star lower envelope |
+| 2026-08-13 08:44:35 UTC | B | `life.mission.completed` | Source-ground the Christopher--Lloyd recursive lower-bound construction details |
