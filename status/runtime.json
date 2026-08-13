@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-13 16:31:14 UTC",
+  "generated_at_utc": "2026-08-13 16:36:17 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -27,7 +27,7 @@
       "frontier_change": "",
       "frontier_summary": "",
       "git": {
-        "dirty_paths": 21,
+        "dirty_paths": 22,
         "head": "d5b83c3",
         "last_commit": "research: certify quadratic residual source gap"
       },
@@ -35,15 +35,15 @@
       "inbox_files": 2,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1786638625.8109336,
+      "last_progress_at": 1786638976.8300295,
       "max_rounds": 32,
-      "mission_id": "cac4e51b05c8",
+      "mission_id": "2310a377e9ac",
       "mission_status": "working",
-      "mission_title": "Decide the source-authentic \\(I^1_{6b}\\) non-boundary four-type-II return system",
+      "mission_title": "Decide the bounded-complexity multivariate zero-count bypass for the \\(I^1_{6b}\\) four-type-II residual",
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 2,
       "pid": 530906,
-      "progress_age_seconds": 48.65112066268921,
+      "progress_age_seconds": 0.25800347328186035,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -89,7 +89,7 @@
       "inbox_files": 2,
       "label": "B",
       "last_event": "engineer.progress",
-      "last_progress_at": 1786638574.6283612,
+      "last_progress_at": 1786638969.1547565,
       "max_rounds": 32,
       "mission_id": "4587aa36316d",
       "mission_status": "working",
@@ -97,7 +97,7 @@
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 1,
       "pid": 531948,
-      "progress_age_seconds": 99.83369302749634,
+      "progress_age_seconds": 7.933276414871216,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
