@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-13 07:54:15 UTC",
+  "generated_at_utc": "2026-08-13 07:59:17 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -24,7 +24,7 @@
       "frontier_change": "",
       "frontier_summary": "",
       "git": {
-        "dirty_paths": 3,
+        "dirty_paths": 7,
         "head": "d2524ec",
         "last_commit": "route: audit Roussarie cyclicity gap"
       },
@@ -32,15 +32,15 @@
       "inbox_files": 1,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1786607620.0539372,
+      "last_progress_at": 1786607950.2350955,
       "max_rounds": 32,
-      "mission_id": "c74cc23becd4",
+      "mission_id": "a68c4d16b57b",
       "mission_status": "working",
-      "mission_title": "Decide the fixed-degree configuration envelope beyond the current width obstruction and `2k` realization bound",
+      "mission_title": "Decide whether Harnack/M-curve plus Christopher transfer sharpens the star-configuration lower envelope",
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 0,
       "pid": 530906,
-      "progress_age_seconds": 35.80463004112244,
+      "progress_age_seconds": 7.275411367416382,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -54,12 +54,12 @@
       "active_role": "engineer",
       "alive": true,
       "artifacts": [
-        "research/solve/christopher_lloyd.py",
         "research/solve/christopher_lloyd_formalization.txt",
         "research/solve/cl_mechanism_check.py",
         "research/solve/cl_mechanism_details.md",
         "research/solve/common_root_infinity_blowup.md",
         "research/solve/configuration_investigation.md",
+        "research/solve/double_root_complementary_v_infinity.md",
         "research/solve/double_root_second_face_blowup.md",
         "research/solve/h2_bound_evidence.txt",
         "research/solve/multiple_angular_root_newton_blowup.md",
@@ -78,7 +78,7 @@
       "frontier_change": "",
       "frontier_summary": "",
       "git": {
-        "dirty_paths": 56,
+        "dirty_paths": 63,
         "head": "9a45008",
         "last_commit": "math: retire repeated Phi finite-v point"
       },
@@ -86,7 +86,7 @@
       "inbox_files": 1,
       "label": "B",
       "last_event": "engineer.progress",
-      "last_progress_at": 1786607599.641541,
+      "last_progress_at": 1786607948.3097515,
       "max_rounds": 32,
       "mission_id": "654d230ffe8b",
       "mission_status": "working",
@@ -94,7 +94,7 @@
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 0,
       "pid": 531948,
-      "progress_age_seconds": 56.217026233673096,
+      "progress_age_seconds": 9.20075535774231,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
