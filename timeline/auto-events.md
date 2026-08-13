@@ -68,3 +68,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-13 10:44:06 UTC | A | `life.mission.completed` | Certify and advance the fixed-degree configuration realizability envelope |
 | 2026-08-13 10:41:03 UTC | B | `life.mission.completed` | Source-backed quadratic-system bottleneck map for Hilbert XVI-II |
 | 2026-08-13 10:52:31 UTC | B | `life.mission.completed` | Theorem-level DRR/Roussarie quadratic bottleneck dependency map |
+| 2026-08-13 10:57:24 UTC | A | `life.mission.completed` | Decide the LRS sparse-affine Harnack gap for fixed-degree star realizability |
+| 2026-08-13 10:58:59 UTC | B | `life.mission.completed` | Attack the quadratic DRR boundary gap `(H^3_{14})` at theorem level |
