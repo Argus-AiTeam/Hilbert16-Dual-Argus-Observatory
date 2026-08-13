@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-13 09:29:37 UTC",
+  "generated_at_utc": "2026-08-13 09:34:39 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -25,7 +25,7 @@
       "frontier_change": "",
       "frontier_summary": "",
       "git": {
-        "dirty_paths": 54,
+        "dirty_paths": 56,
         "head": "d2524ec",
         "last_commit": "route: audit Roussarie cyclicity gap"
       },
@@ -33,7 +33,7 @@
       "inbox_files": 2,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1786613372.9420304,
+      "last_progress_at": 1786613664.68234,
       "max_rounds": 32,
       "mission_id": "c826ef4edeae",
       "mission_status": "working",
@@ -41,7 +41,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 1,
       "pid": 530906,
-      "progress_age_seconds": 4.732544898986816,
+      "progress_age_seconds": 14.57290506362915,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -76,8 +76,8 @@
         "research/solve/verify_cl_perturbation.py",
         "research/solve/verify_h2_lower_bound.py"
       ],
-      "frontier_change": "",
-      "frontier_summary": "",
+      "frontier_change": "unchanged_failure",
+      "frontier_summary": "No persisted repair was found; the planner still reports the generic backend exit-0 error for a fatal-error result.",
       "git": {
         "dirty_paths": 70,
         "head": "450ef6e",
@@ -87,7 +87,7 @@
       "inbox_files": 1,
       "label": "B",
       "last_event": "engineer.progress",
-      "last_progress_at": 1786613376.1875827,
+      "last_progress_at": 1786613678.4107037,
       "max_rounds": 32,
       "mission_id": "8b67d91c6525",
       "mission_status": "working",
@@ -95,11 +95,11 @@
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 1,
       "pid": 531948,
-      "progress_age_seconds": 1.486992597579956,
-      "rejected_attempts": 0,
-      "review_reason": "",
-      "review_status": "none",
-      "round": 1,
+      "progress_age_seconds": 0.8445413112640381,
+      "rejected_attempts": 1,
+      "review_reason": "The accessible framework artifact does not contain the claimed source/test changes, and the focused fatal-error reproduction still returns only `planner backend exit 0` instead of including the fatal diagnostic. The requested regression test is absent, and pytest is not installed for the acceptance check.",
+      "review_status": "continue",
+      "round": 2,
       "route": "construction / lower bounds",
       "sid": "s-2fd8729b",
       "stage": "scope",
