@@ -147,3 +147,4 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-13 20:31:15 UTC | A | `life.mission.completed` | paused_provider_cooldown |
 | 2026-08-13 20:34:26 UTC | A | `life.mission.completed` | Decide the all-quartic one-coarse-Theta local-chart class for the remaining n=6 LRS sparse loophole |
 | 2026-08-13 20:47:25 UTC | A | `life.mission.completed` | Decide the coherent split-high-strip local-chart route for the remaining n=6 LRS sparse loophole |
+| 2026-08-13 21:06:57 UTC | A | `life.mission.completed` | Decide the combined split-high-strip plus richer-complement chart class for the `n=6` LRS sparse loophole |

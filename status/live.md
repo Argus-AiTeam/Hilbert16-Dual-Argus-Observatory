@@ -3,12 +3,12 @@
 > Generated deterministically from Argus durable state. No model writes this page, and it carries no cross-process solution transfer.
 > 本页面由确定性监控器根据 Argus 持久状态生成，不由模型写入，也不承担跨进程解题内容传递。
 
-**Updated / 更新时间:** 2026-08-13 20:52:08 UTC
+**Updated / 更新时间:** 2026-08-13 21:07:10 UTC
 
 | Seat | State | Stage | Active role | Round | Current mission | Review | Since semantic progress |
 |---|---|---|---|---:|---|---|---:|
-| A | running | `scope` | engineer | 1/32 | Decide the combined split-high-strip plus richer-complement chart class… | none | 59s |
-| B | running | `scope` | engineer | 10/32 | Decide a nonzero-`B`/`mu2` sub-sector of the `delta=0` ERFZ14 endpoint-… | none | 21s |
+| A | running | `scope` | planner | 1/32 | Decide the combined split-high-strip plus richer-complement chart class… | done | 12s |
+| B | running | `scope` | engineer | 11/32 | Decide a nonzero-`B`/`mu2` sub-sector of the `delta=0` ERFZ14 endpoint-… | none | 1m |
 
 **Isolation integrity / 隔离完整性:** ✅ immutable controls match
 
@@ -18,10 +18,10 @@
 - **Route:** theory / upper constraints
 - **Models:** Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro
 - **Mission:** Decide the combined split-high-strip plus richer-complement chart class for the `n=6` LRS sparse loophole
-- **Reviewer state:** `none`; rejected attempts: 0
+- **Reviewer state:** `done`; rejected attempts: 0
 - **Frontier signal:** not yet classified
 - **Research artifacts present:** `research/BOUNDED_RETURN_BLOCKS.md`, `research/CONFIGURATION_DEPTH.md`, `research/CONFIGURATION_WIDTH.md`, `research/DEGREE_RAISING.md`, `research/DULAC_POLYCYCLE_ROUTE_VERDICT.md`, `research/FIXED_DEGREE_REALIZATION.md`, `research/HILBERT_LOWER_BOUNDS.md`, `research/I6B_BOUNDED_COMPLEXITY_ZERO_COUNT.md`, `research/LOCAL_TO_GLOBAL.md`, `research/PIPELINE_STATE.json`, `research/PROOF_GRAPH.json`, `research/QUADRATIC_BASE_CASE.md`, `research/ROUTE_LEDGER.json`, `research/SCOPE.md`, `research/STATIONARY_EQUATOR_SLOW_FAST.md`, `research/UNIFORM_RETURN_VALENCY.md`, `research/UNIVERSAL_PAIR_BLOWUP.md`, `research/ZHU_EHP2B_VERDICT.md`
-- **Git:** `b0353ed` · 7 changed path(s) · research: localize n6 LRS sparse patchwork gap
+- **Git:** `b0353ed` · 8 changed path(s) · research: localize n6 LRS sparse patchwork gap
 - **Broker mailboxes:** inbox 2 · outbox 2
 
 ### Argus B
