@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-13 11:35:10 UTC",
+  "generated_at_utc": "2026-08-13 11:45:12 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -35,7 +35,7 @@
       "inbox_files": 2,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1786620799.4389637,
+      "last_progress_at": 1786621466.0084312,
       "max_rounds": 32,
       "mission_id": "be68623eae68",
       "mission_status": "working",
@@ -43,7 +43,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 1,
       "pid": 530906,
-      "progress_age_seconds": 111.39634728431702,
+      "progress_age_seconds": 46.64843773841858,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -54,7 +54,7 @@
       "state": "running"
     },
     "B": {
-      "active_role": "engineer",
+      "active_role": "planner",
       "alive": true,
       "artifacts": [
         "research/solve/hyperbolic_hemicycle_cyclicity_scope.md",
@@ -89,18 +89,18 @@
       "inbox_files": 1,
       "label": "B",
       "last_event": "engineer.progress",
-      "last_progress_at": 1786620907.568038,
+      "last_progress_at": 1786621486.3545446,
       "max_rounds": 32,
       "mission_id": "ca9fa225a785",
-      "mission_status": "working",
+      "mission_status": "complete",
       "mission_title": "Decide the actual-quadratic resonant-coefficient route for `(H^3_{14})_\\partial",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 1,
       "pid": 531948,
-      "progress_age_seconds": 3.26727294921875,
+      "progress_age_seconds": 26.302324295043945,
       "rejected_attempts": 0,
-      "review_reason": "",
-      "review_status": "none",
+      "review_reason": "Engineer reported the requested milestone complete; independent review was not required for this mission.",
+      "review_status": "done",
       "round": 1,
       "route": "construction / lower bounds",
       "sid": "s-2fd8729b",
