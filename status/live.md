@@ -3,12 +3,12 @@
 > Generated deterministically from Argus durable state. No model writes this page, and it carries no cross-process solution transfer.
 > 本页面由确定性监控器根据 Argus 持久状态生成，不由模型写入，也不承担跨进程解题内容传递。
 
-**Updated / 更新时间:** 2026-08-14 09:03:05 UTC
+**Updated / 更新时间:** 2026-08-14 09:08:07 UTC
 
 | Seat | State | Stage | Active role | Round | Current mission | Review | Since semantic progress |
 |---|---|---|---|---:|---|---|---:|
-| A | running | `scope` | engineer | 1/32 | Bound low-risk no-review continuation before max_rounds | none | 42s |
-| B | running | `scope` | engineer | 1/32 | Quarantine the delta-zero Hopf wedge from the H3_14 boundary-cyclicity … | none | 1s |
+| A | running | `scope` | engineer | 1/32 | Decide a source-grounded full-triangle Delta_(0,0) near-Harnack route b… | none | 35s |
+| B | running | `scope` | engineer | 2/32 | Quarantine the delta-zero Hopf wedge from the H3_14 boundary-cyclicity … | none | 1m |
 
 **Isolation integrity / 隔离完整性:** ✅ immutable controls match
 
@@ -17,7 +17,7 @@
 - **Session / PID:** `s-54f17ee7` / `530906`
 - **Route:** theory / upper constraints
 - **Models:** Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro
-- **Mission:** Bound low-risk no-review continuation before max_rounds
+- **Mission:** Decide a source-grounded full-triangle Delta_(0,0) near-Harnack route beyond deleted-Harnack coefficients
 - **Reviewer state:** `none`; rejected attempts: 0
 - **Frontier signal:** No reviewed artifact currently implements the requested escalation-boundary behavior.
 - **Research artifacts present:** `research/BOUNDED_RETURN_BLOCKS.md`, `research/CONFIGURATION_DEPTH.md`, `research/CONFIGURATION_WIDTH.md`, `research/DEGREE_RAISING.md`, `research/DULAC_POLYCYCLE_ROUTE_VERDICT.md`, `research/FIXED_DEGREE_REALIZATION.md`, `research/HILBERT_LOWER_BOUNDS.md`, `research/I6B_BOUNDED_COMPLEXITY_ZERO_COUNT.md`, `research/LOCAL_TO_GLOBAL.md`, `research/PIPELINE_STATE.json`, `research/PROOF_GRAPH.json`, `research/QUADRATIC_BASE_CASE.md`, `research/ROUTE_LEDGER.json`, `research/SCOPE.md`, `research/STATIONARY_EQUATOR_SLOW_FAST.md`, `research/UNIFORM_RETURN_VALENCY.md`, `research/UNIVERSAL_PAIR_BLOWUP.md`, `research/ZHU_EHP2B_VERDICT.md`
