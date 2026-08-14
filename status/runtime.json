@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-14 15:28:58 UTC",
+  "generated_at_utc": "2026-08-14 15:39:01 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -28,7 +28,7 @@
       "frontier_change": "unchanged_failure",
       "frontier_summary": "No reviewed artifact currently implements the requested escalation-boundary behavior.",
       "git": {
-        "dirty_paths": 18,
+        "dirty_paths": 20,
         "head": "a23cb52",
         "last_commit": "Checkpoint LRS n6 principal diagnostics"
       },
@@ -36,7 +36,7 @@
       "inbox_files": 2,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1786721338.7188408,
+      "last_progress_at": 1786721937.6344981,
       "max_rounds": 32,
       "mission_id": "7d45174b9dbc",
       "mission_status": "working",
@@ -44,11 +44,11 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 530906,
-      "progress_age_seconds": 0.276885986328125,
+      "progress_age_seconds": 3.3959763050079346,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
-      "round": 11,
+      "round": 12,
       "route": "theory / upper constraints",
       "sid": "s-54f17ee7",
       "stage": "scope",
@@ -83,22 +83,22 @@
       "frontier_summary": "Review confirmed no accessible source/test repair and reproduced the original fatal-error/zero-exit verdict defect.",
       "git": {
         "dirty_paths": 12,
-        "head": "557c570",
-        "last_commit": "Record ERFZ14 finite-Q central matching decisions"
+        "head": "77e2f3b",
+        "last_commit": "Classify local central saddle product-away word"
       },
       "health": "active",
       "inbox_files": 2,
       "label": "B",
       "last_event": "engineer.progress",
-      "last_progress_at": 1786721327.3586483,
+      "last_progress_at": 1786721930.577216,
       "max_rounds": 32,
-      "mission_id": "a62906c96054",
+      "mission_id": "13022c5dd11d",
       "mission_status": "working",
-      "mission_title": "Checkpoint, then decide one concrete ERFZ14 central-saddle directed branch",
+      "mission_title": "Decide one actual nonlocal ERFZ14 central-saddle word",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 2,
       "pid": 531948,
-      "progress_age_seconds": 11.637078523635864,
+      "progress_age_seconds": 10.453258514404297,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
