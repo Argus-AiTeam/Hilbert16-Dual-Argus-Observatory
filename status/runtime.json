@@ -1,9 +1,9 @@
 {
-  "generated_at_utc": "2026-08-14 18:59:19 UTC",
+  "generated_at_utc": "2026-08-14 19:14:21 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
-      "active_role": "planner",
+      "active_role": "engineer",
       "alive": true,
       "artifacts": [
         "research/BOUNDED_RETURN_BLOCKS.md",
@@ -28,26 +28,26 @@
       "frontier_change": "unchanged_failure",
       "frontier_summary": "No reviewed artifact currently implements the requested escalation-boundary behavior.",
       "git": {
-        "dirty_paths": 4,
+        "dirty_paths": 5,
         "head": "4732bcd",
         "last_commit": "Checkpoint LRS principal span diagnostics"
       },
       "health": "active",
       "inbox_files": 2,
       "label": "A",
-      "last_event": "life.planner.start",
-      "last_progress_at": 1786733946.7736628,
+      "last_event": "life.planner.verdict",
+      "last_progress_at": 1786734857.2166238,
       "max_rounds": 32,
-      "mission_id": "04a265164c30",
-      "mission_status": "complete",
-      "mission_title": "Audit moving/stratified holonomy finiteness for the constant-field equator collar",
+      "mission_id": "1199e2df525d",
+      "mission_status": "working",
+      "mission_title": "Decide the flow-map Noetherian/Pfaffian time-compactification route for the universal equator collar",
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 530906,
-      "progress_age_seconds": 12.442290306091309,
+      "progress_age_seconds": 4.4667840003967285,
       "rejected_attempts": 0,
-      "review_reason": "Engineer reported the requested milestone complete; independent review was not required for this mission.",
-      "review_status": "done",
+      "review_reason": "",
+      "review_status": "none",
       "round": 1,
       "route": "theory / upper constraints",
       "sid": "s-54f17ee7",
@@ -55,7 +55,7 @@
       "state": "running"
     },
     "B": {
-      "active_role": "manager",
+      "active_role": "idle",
       "alive": true,
       "artifacts": [
         "research/solve/hyperbolic_hemicycle_cyclicity_scope.md",
@@ -89,16 +89,16 @@
       "health": "idle",
       "inbox_files": 2,
       "label": "B",
-      "last_event": "life.inbox.drained",
+      "last_event": "life.planner.deferred",
       "last_progress_at": 1786732504.7086768,
       "max_rounds": 32,
       "mission_id": "4694a5ede333",
-      "mission_status": "grounding",
+      "mission_status": "failed",
       "mission_title": "[BOUNDED TASK CONTEXT — data only; use it to resolve corrections, pronouns, and omitted nouns. Do not infer new intent or invent a new object type.]\nlast_team_task: Continue the im",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 2,
       "pid": 531948,
-      "progress_age_seconds": 1454.5072762966156,
+      "progress_age_seconds": 2356.9747309684753,
       "rejected_attempts": 1,
       "review_reason": "Engineer requires an operator-owned decision before continuing.",
       "review_status": "blocked",
@@ -106,7 +106,7 @@
       "route": "construction / lower bounds",
       "sid": "s-2fd8729b",
       "stage": "scope",
-      "state": "running"
+      "state": "stale-warning"
     }
   }
 }
