@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-14 13:38:38 UTC",
+  "generated_at_utc": "2026-08-14 13:43:40 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -36,7 +36,7 @@
       "inbox_files": 2,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1786714696.336965,
+      "last_progress_at": 1786715008.3317873,
       "max_rounds": 32,
       "mission_id": "7d45174b9dbc",
       "mission_status": "working",
@@ -44,7 +44,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 530906,
-      "progress_age_seconds": 22.222100019454956,
+      "progress_age_seconds": 11.974932432174683,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -55,7 +55,7 @@
       "state": "running"
     },
     "B": {
-      "active_role": "engineer",
+      "active_role": "planner",
       "alive": true,
       "artifacts": [
         "research/solve/hyperbolic_hemicycle_cyclicity_scope.md",
@@ -82,7 +82,7 @@
       "frontier_change": "uncertainty_reduced",
       "frontier_summary": "Review confirmed no accessible source/test repair and reproduced the original fatal-error/zero-exit verdict defect.",
       "git": {
-        "dirty_paths": 20,
+        "dirty_paths": 21,
         "head": "fb0d85d",
         "last_commit": "math: checkpoint ERFZ14 composed trace-zero obstruction"
       },
@@ -90,18 +90,18 @@
       "inbox_files": 2,
       "label": "B",
       "last_event": "engineer.progress",
-      "last_progress_at": 1786714616.5881002,
+      "last_progress_at": 1786715018.8316503,
       "max_rounds": 32,
       "mission_id": "0a6f22f49e50",
-      "mission_status": "working",
+      "mission_status": "complete",
       "mission_title": "Promote the ERFZ14 no-root two-sided germ split to the actual `q_p/A_*/R_i/R_14` chain",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 2,
       "pid": 531948,
-      "progress_age_seconds": 101.97096490859985,
+      "progress_age_seconds": 1.475069522857666,
       "rejected_attempts": 0,
-      "review_reason": "",
-      "review_status": "none",
+      "review_reason": "Engineer reported the requested milestone complete; independent review was not required for this mission.",
+      "review_status": "done",
       "round": 1,
       "route": "construction / lower bounds",
       "sid": "s-2fd8729b",

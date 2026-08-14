@@ -196,3 +196,4 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-14 13:15:54 UTC | B | `life.mission.completed` | Prove-or-refute the trace-zero no-root all-order germ-subtracted finite-Q residual theorem |
 | 2026-08-14 13:32:06 UTC | B | `life.mission.completed` | Complete the trace-zero finite-Q flat-order split: right-dominant and balanced principal germs |
 | 2026-08-14 13:34:18 UTC | A | `life.mission.completed` | Decide the noncollinear three-plus principal-family critical-count route |
+| 2026-08-14 13:43:01 UTC | B | `life.mission.completed` | Promote the ERFZ14 no-root two-sided germ split to the actual `q_p/A_*/R_i/R_14` chain |
