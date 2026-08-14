@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-14 02:27:40 UTC",
+  "generated_at_utc": "2026-08-14 02:32:41 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -28,23 +28,23 @@
       "frontier_change": "",
       "frontier_summary": "",
       "git": {
-        "dirty_paths": 27,
-        "head": "1f9b6f5",
-        "last_commit": "Checkpoint LRS n=6 chamber boundary"
+        "dirty_paths": 0,
+        "head": "d347ecd",
+        "last_commit": "Record LRS n=6 BKK guard checkpoint"
       },
       "health": "active",
       "inbox_files": 2,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1786674446.5698276,
+      "last_progress_at": 1786674747.9141402,
       "max_rounds": 32,
-      "mission_id": "9fbc0ed47aed",
+      "mission_id": "431518437c17",
       "mission_status": "working",
-      "mission_title": "Create the due evidence-bearing local checkpoint commit",
+      "mission_title": "Decide the residual LRS n=6 proper-budget-12 near-Harnack chamber-gluing gap",
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 2,
       "pid": 530906,
-      "progress_age_seconds": 13.595715522766113,
+      "progress_age_seconds": 13.903216361999512,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -98,7 +98,7 @@
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 2,
       "pid": 531948,
-      "progress_age_seconds": 5292.7842881679535,
+      "progress_age_seconds": 5594.436101675034,
       "rejected_attempts": 1,
       "review_reason": "Engineer requires an operator-owned decision before continuing.",
       "review_status": "blocked",
