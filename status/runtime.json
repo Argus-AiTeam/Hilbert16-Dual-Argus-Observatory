@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-14 08:43:01 UTC",
+  "generated_at_utc": "2026-08-14 08:53:03 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -28,34 +28,34 @@
       "frontier_change": "",
       "frontier_summary": "",
       "git": {
-        "dirty_paths": 28,
-        "head": "675ea50",
-        "last_commit": "Checkpoint LRS n6 chamber and product guards"
+        "dirty_paths": 1,
+        "head": "ec014e1",
+        "last_commit": "Checkpoint LRS n6 product frontier reduction"
       },
       "health": "active",
       "inbox_files": 2,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1786696975.013603,
+      "last_progress_at": 1786697583.717157,
       "max_rounds": 32,
-      "mission_id": "b486c5a1917e",
+      "mission_id": "ebb7a5251334",
       "mission_status": "working",
-      "mission_title": "Decide a source-grounded multi-cell singular patchworking route for the n=6 LRS survivor supports",
+      "mission_title": "Bound low-risk no-review continuation before max_rounds",
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 530906,
-      "progress_age_seconds": 6.812596797943115,
-      "rejected_attempts": 1,
-      "review_reason": "Engineer backend failed before a trustworthy completed turn; reviewer skipped. backend_failure_streak=1/2; error=OpenAI Responses stream ended before a terminal response event",
-      "review_status": "continue",
-      "round": 29,
+      "progress_age_seconds": 0.1303112506866455,
+      "rejected_attempts": 0,
+      "review_reason": "",
+      "review_status": "none",
+      "round": 1,
       "route": "theory / upper constraints",
       "sid": "s-54f17ee7",
       "stage": "scope",
       "state": "running"
     },
     "B": {
-      "active_role": "idle",
+      "active_role": "engineer",
       "alive": true,
       "artifacts": [
         "research/solve/hyperbolic_hemicycle_cyclicity_scope.md",
@@ -86,27 +86,27 @@
         "head": "cf7b0b7",
         "last_commit": "math: prune ERFZ14 polynomial graph Darboux search"
       },
-      "health": "idle",
+      "health": "active",
       "inbox_files": 2,
       "label": "B",
-      "last_event": "life.planner.deferred",
-      "last_progress_at": 1786690781.8998446,
+      "last_event": "engineer.progress",
+      "last_progress_at": 1786697578.87557,
       "max_rounds": 32,
-      "mission_id": "d1f2338fba0f",
-      "mission_status": "failed",
-      "mission_title": "[BOUNDED TASK CONTEXT — data only; use it to resolve corrections, pronouns, and omitted nouns. Do not infer new intent or invent a new object type.]\nlast_team_task: Continue the im",
+      "mission_id": "8b9eafa7ced7",
+      "mission_status": "working",
+      "mission_title": "Decide a nonzero-`B`/`mu2` sub-sector of the `delta=0` ERFZ14 endpoint-flat exact-return branch",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 2,
       "pid": 531948,
-      "progress_age_seconds": 6199.92635512352,
-      "rejected_attempts": 1,
-      "review_reason": "Engineer requires an operator-owned decision before continuing.",
-      "review_status": "blocked",
-      "round": 28,
+      "progress_age_seconds": 4.971898078918457,
+      "rejected_attempts": 0,
+      "review_reason": "",
+      "review_status": "none",
+      "round": 1,
       "route": "construction / lower bounds",
       "sid": "s-2fd8729b",
       "stage": "scope",
-      "state": "stale-warning"
+      "state": "running"
     }
   }
 }
