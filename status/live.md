@@ -3,11 +3,11 @@
 > Generated deterministically from Argus durable state. No model writes this page, and it carries no cross-process solution transfer.
 > 本页面由确定性监控器根据 Argus 持久状态生成，不由模型写入，也不承担跨进程解题内容传递。
 
-**Updated / 更新时间:** 2026-08-14 20:54:40 UTC
+**Updated / 更新时间:** 2026-08-14 23:54:46 UTC
 
 | Seat | State | Stage | Active role | Round | Current mission | Review | Since semantic progress |
 |---|---|---|---|---:|---|---|---:|
-| A | running | `scope` | engineer | 1/32 | Decide the tail-size-two even-tail span-20 principal subfrontier | none | 21s |
+| A | running | `scope` | engineer | 21/32 | Decide the tail-size-two even-tail span-20 principal subfrontier | continue | 1m |
 | B | stale-warning | `scope` | idle | 12/32 | [BOUNDED TASK CONTEXT — data only; use it to resolve corrections, prono… | blocked | 2.3h |
 
 **Isolation integrity / 隔离完整性:** ✅ immutable controls match
@@ -18,10 +18,10 @@
 - **Route:** theory / upper constraints
 - **Models:** Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro
 - **Mission:** Decide the tail-size-two even-tail span-20 principal subfrontier
-- **Reviewer state:** `none`; rejected attempts: 0
+- **Reviewer state:** `continue`; rejected attempts: 1
 - **Frontier signal:** No reviewed artifact currently implements the requested escalation-boundary behavior.
 - **Research artifacts present:** `research/BOUNDED_RETURN_BLOCKS.md`, `research/CONFIGURATION_DEPTH.md`, `research/CONFIGURATION_WIDTH.md`, `research/DEGREE_RAISING.md`, `research/DULAC_POLYCYCLE_ROUTE_VERDICT.md`, `research/FIXED_DEGREE_REALIZATION.md`, `research/HILBERT_LOWER_BOUNDS.md`, `research/I6B_BOUNDED_COMPLEXITY_ZERO_COUNT.md`, `research/LOCAL_TO_GLOBAL.md`, `research/PIPELINE_STATE.json`, `research/PROOF_GRAPH.json`, `research/QUADRATIC_BASE_CASE.md`, `research/ROUTE_LEDGER.json`, `research/SCOPE.md`, `research/STATIONARY_EQUATOR_SLOW_FAST.md`, `research/UNIFORM_RETURN_VALENCY.md`, `research/UNIVERSAL_PAIR_BLOWUP.md`, `research/ZHU_EHP2B_VERDICT.md`
-- **Git:** `4732bcd` · 17 changed path(s) · Checkpoint LRS principal span diagnostics
+- **Git:** `8d3015e` · 16 changed path(s) · Checkpoint collar and LRS tail-size diagnostics
 - **Broker mailboxes:** inbox 2 · outbox 3
 
 ### Argus B
