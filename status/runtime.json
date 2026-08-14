@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-14 13:53:42 UTC",
+  "generated_at_utc": "2026-08-14 14:03:43 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -28,7 +28,7 @@
       "frontier_change": "unchanged_failure",
       "frontier_summary": "No reviewed artifact currently implements the requested escalation-boundary behavior.",
       "git": {
-        "dirty_paths": 9,
+        "dirty_paths": 10,
         "head": "a23cb52",
         "last_commit": "Checkpoint LRS n6 principal diagnostics"
       },
@@ -36,7 +36,7 @@
       "inbox_files": 2,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1786715619.754563,
+      "last_progress_at": 1786716212.9686382,
       "max_rounds": 32,
       "mission_id": "7d45174b9dbc",
       "mission_status": "working",
@@ -44,7 +44,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 530906,
-      "progress_age_seconds": 2.4169013500213623,
+      "progress_age_seconds": 10.895873546600342,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -55,7 +55,7 @@
       "state": "running"
     },
     "B": {
-      "active_role": "planner",
+      "active_role": "engineer",
       "alive": true,
       "artifacts": [
         "research/solve/hyperbolic_hemicycle_cyclicity_scope.md",
@@ -89,19 +89,19 @@
       "health": "active",
       "inbox_files": 2,
       "label": "B",
-      "last_event": "life.planner.start",
-      "last_progress_at": 1786715612.2732928,
+      "last_event": "engineer.progress",
+      "last_progress_at": 1786716223.3303697,
       "max_rounds": 32,
-      "mission_id": "97563440aa27",
-      "mission_status": "complete",
-      "mission_title": "Prove-or-refute the all-orders compact no-root finite-Q residual theorem after C0 and germ splitting",
+      "mission_id": "1a5bc8e806b3",
+      "mission_status": "working",
+      "mission_title": "Prove-or-refute a raw exact nilpotent height/section log-analytic chain for the compact no-root theorem",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 2,
       "pid": 531948,
-      "progress_age_seconds": 9.898171663284302,
+      "progress_age_seconds": 0.534142017364502,
       "rejected_attempts": 0,
-      "review_reason": "Engineer reported the requested milestone complete; independent review was not required for this mission.",
-      "review_status": "done",
+      "review_reason": "",
+      "review_status": "none",
       "round": 1,
       "route": "construction / lower bounds",
       "sid": "s-2fd8729b",
