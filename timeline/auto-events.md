@@ -192,3 +192,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-14 13:01:45 UTC | A | `life.mission.completed` | Decide the six residual min–max axis-parallel three-plus principal families after Section 14.131 |
 | 2026-08-14 12:59:54 UTC | B | `life.mission.completed` | Decide the full nonzero-`q_p/A_*` germ-subtracted ERFZ14 no-root composed chain |
 | 2026-08-14 13:07:11 UTC | B | `life.mission.completed` | Decide the nonzero-q_p C0=0 branch problem beyond the mu3=0 positive no-root cell |
+| 2026-08-14 13:18:07 UTC | A | `life.mission.completed` | Decide the critical-value ordering/CAD-Gale gate for the six residual axis-parallel \(R(t)=K\) families |
+| 2026-08-14 13:15:54 UTC | B | `life.mission.completed` | Prove-or-refute the trace-zero no-root all-order germ-subtracted finite-Q residual theorem |
