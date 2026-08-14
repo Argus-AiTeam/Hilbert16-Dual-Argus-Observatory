@@ -201,3 +201,4 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-14 14:01:54 UTC | B | `life.mission.completed` | Verify the exact RR nilpotent height/section chain for the compact no-root theorem |
 | 2026-08-14 14:13:33 UTC | B | `life.mission.completed` | Prove-or-refute a raw exact nilpotent height/section log-analytic chain for the compact no-root theorem |
 | 2026-08-14 14:31:34 UTC | B | `life.mission.completed` | Decide the raw central-denominator failure sector after the no-root height/section promotion |
+| 2026-08-14 14:40:46 UTC | B | `life.mission.completed` | Decide the ERFZ14 central regular-turning/fold sector |
