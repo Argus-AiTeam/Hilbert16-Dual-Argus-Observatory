@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-14 20:34:39 UTC",
+  "generated_at_utc": "2026-08-14 20:54:40 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -28,7 +28,7 @@
       "frontier_change": "unchanged_failure",
       "frontier_summary": "No reviewed artifact currently implements the requested escalation-boundary behavior.",
       "git": {
-        "dirty_paths": 16,
+        "dirty_paths": 17,
         "head": "4732bcd",
         "last_commit": "Checkpoint LRS principal span diagnostics"
       },
@@ -36,15 +36,15 @@
       "inbox_files": 2,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1786739669.0257115,
+      "last_progress_at": 1786740859.857936,
       "max_rounds": 32,
-      "mission_id": "f997a174cc1e",
+      "mission_id": "ea12e62a910f",
       "mission_status": "working",
-      "mission_title": "Decide the minimal even-tail span-20 principal subfrontier",
+      "mission_title": "Decide the tail-size-two even-tail span-20 principal subfrontier",
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 530906,
-      "progress_age_seconds": 9.99587607383728,
+      "progress_age_seconds": 21.068589210510254,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -98,7 +98,7 @@
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 2,
       "pid": 531948,
-      "progress_age_seconds": 7174.312910795212,
+      "progress_age_seconds": 8376.217848300934,
       "rejected_attempts": 1,
       "review_reason": "Engineer requires an operator-owned decision before continuing.",
       "review_status": "blocked",
