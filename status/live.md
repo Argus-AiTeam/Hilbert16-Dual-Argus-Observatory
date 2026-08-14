@@ -3,12 +3,12 @@
 > Generated deterministically from Argus durable state. No model writes this page, and it carries no cross-process solution transfer.
 > 本页面由确定性监控器根据 Argus 持久状态生成，不由模型写入，也不承担跨进程解题内容传递。
 
-**Updated / 更新时间:** 2026-08-14 12:18:23 UTC
+**Updated / 更新时间:** 2026-08-14 12:28:25 UTC
 
 | Seat | State | Stage | Active role | Round | Current mission | Review | Since semantic progress |
 |---|---|---|---|---:|---|---|---:|
-| A | running | `scope` | engineer | 31/32 | Decide the first concrete collar-normal-form attack on \(C^*_{n,a_*}\) | none | 1s |
-| B | running | `scope` | engineer | 1/32 | Checkpoint current ERFZ14 evidence, then decide the quartic composed fi… | none | 10s |
+| A | running | `scope` | engineer | 32/32 | Decide the first concrete collar-normal-form attack on \(C^*_{n,a_*}\) | none | 29s |
+| B | running | `scope` | engineer | 1/32 | Decide the all-order finite-Q boundary-layer principal germ behind the … | none | 31s |
 
 **Isolation integrity / 隔离完整性:** ✅ immutable controls match
 
@@ -21,7 +21,7 @@
 - **Reviewer state:** `none`; rejected attempts: 0
 - **Frontier signal:** No reviewed artifact currently implements the requested escalation-boundary behavior.
 - **Research artifacts present:** `research/BOUNDED_RETURN_BLOCKS.md`, `research/CONFIGURATION_DEPTH.md`, `research/CONFIGURATION_WIDTH.md`, `research/DEGREE_RAISING.md`, `research/DULAC_POLYCYCLE_ROUTE_VERDICT.md`, `research/FIXED_DEGREE_REALIZATION.md`, `research/HILBERT_LOWER_BOUNDS.md`, `research/I6B_BOUNDED_COMPLEXITY_ZERO_COUNT.md`, `research/LOCAL_TO_GLOBAL.md`, `research/PIPELINE_STATE.json`, `research/PROOF_GRAPH.json`, `research/QUADRATIC_BASE_CASE.md`, `research/ROUTE_LEDGER.json`, `research/SCOPE.md`, `research/STATIONARY_EQUATOR_SLOW_FAST.md`, `research/UNIFORM_RETURN_VALENCY.md`, `research/UNIVERSAL_PAIR_BLOWUP.md`, `research/ZHU_EHP2B_VERDICT.md`
-- **Git:** `3bdec14` · 27 changed path(s) · Retire full-triangle circuit chamber
+- **Git:** `a23cb52` · 1 changed path(s) · Checkpoint LRS n6 principal diagnostics
 - **Broker mailboxes:** inbox 2 · outbox 3
 
 ### Argus B
@@ -29,11 +29,11 @@
 - **Session / PID:** `s-2fd8729b` / `531948`
 - **Route:** construction / lower bounds
 - **Models:** Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol
-- **Mission:** Checkpoint current ERFZ14 evidence, then decide the quartic composed finite-Q remainder after promoting C2 and C3
+- **Mission:** Decide the all-order finite-Q boundary-layer principal germ behind the ERFZ14 composed coefficient obstructions
 - **Reviewer state:** `none`; rejected attempts: 0
 - **Frontier signal:** Review confirmed no accessible source/test repair and reproduced the original fatal-error/zero-exit verdict defect.
 - **Research artifacts present:** `research/solve/hyperbolic_hemicycle_cyclicity_scope.md`, `research/solve/mixed_infinity_darboux_abelian_span.md`, `research/solve/mixed_infinity_darboux_bicycle_scope_second_order.md`, `research/solve/mixed_infinity_darboux_residual_quotient.md`, `research/solve/mixed_infinity_hyperbola_polycycle.md`, `research/solve/multiple_angular_root_newton_blowup.md`, `research/solve/nesting_depth_bounds.md`, `research/solve/next_target.json`, `research/solve/product_level_chain_construction.md`, `research/solve/quadratic_bottleneck_dossier.md`, `research/solve/radial_infinity_blowup.md`, `research/solve/radial_nested_family.md`, `research/solve/radial_zero_return_obstruction.md`, `research/solve/regular_annulus_localization.md`, `research/solve/repeated_phi_finite_v_decision.md`, `research/solve/structural_constraints_report.md`, `research/solve/structural_constraints_summary.md`, `research/solve/uniform_finiteness_brief.md`, `research/solve/verify_cl_perturbation.py`, `research/solve/verify_h2_lower_bound.py`
-- **Git:** `6d1ac76` · 65 changed path(s) · math: record ERFZ14 trace Melnikov filter
+- **Git:** `fb0d85d` · 18 changed path(s) · math: checkpoint ERFZ14 composed trace-zero obstruction
 - **Broker mailboxes:** inbox 2 · outbox 2
 
 ## Interpretation / 判读
