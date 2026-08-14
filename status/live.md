@@ -3,12 +3,12 @@
 > Generated deterministically from Argus durable state. No model writes this page, and it carries no cross-process solution transfer.
 > 本页面由确定性监控器根据 Argus 持久状态生成，不由模型写入，也不承担跨进程解题内容传递。
 
-**Updated / 更新时间:** 2026-08-14 19:24:23 UTC
+**Updated / 更新时间:** 2026-08-14 19:34:25 UTC
 
 | Seat | State | Stage | Active role | Round | Current mission | Review | Since semantic progress |
 |---|---|---|---|---:|---|---|---:|
-| A | running | `scope` | engineer | 1/32 | Audit Roussarie compact-invariant cyclicity against the constant-field … | none | 24s |
-| B | stale-warning | `scope` | idle | 12/32 | [BOUNDED TASK CONTEXT — data only; use it to resolve corrections, prono… | blocked | 49m |
+| A | running | `scope` | engineer | 1/32 | Decide the polar/projective Abel-equation scalar-reduction route for th… | none | 11s |
+| B | stale-warning | `scope` | idle | 12/32 | [BOUNDED TASK CONTEXT — data only; use it to resolve corrections, prono… | blocked | 59m |
 
 **Isolation integrity / 隔离完整性:** ✅ immutable controls match
 
@@ -17,7 +17,7 @@
 - **Session / PID:** `s-54f17ee7` / `530906`
 - **Route:** theory / upper constraints
 - **Models:** Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro
-- **Mission:** Audit Roussarie compact-invariant cyclicity against the constant-field equator collar gap
+- **Mission:** Decide the polar/projective Abel-equation scalar-reduction route for the universal equator collar
 - **Reviewer state:** `none`; rejected attempts: 0
 - **Frontier signal:** No reviewed artifact currently implements the requested escalation-boundary behavior.
 - **Research artifacts present:** `research/BOUNDED_RETURN_BLOCKS.md`, `research/CONFIGURATION_DEPTH.md`, `research/CONFIGURATION_WIDTH.md`, `research/DEGREE_RAISING.md`, `research/DULAC_POLYCYCLE_ROUTE_VERDICT.md`, `research/FIXED_DEGREE_REALIZATION.md`, `research/HILBERT_LOWER_BOUNDS.md`, `research/I6B_BOUNDED_COMPLEXITY_ZERO_COUNT.md`, `research/LOCAL_TO_GLOBAL.md`, `research/PIPELINE_STATE.json`, `research/PROOF_GRAPH.json`, `research/QUADRATIC_BASE_CASE.md`, `research/ROUTE_LEDGER.json`, `research/SCOPE.md`, `research/STATIONARY_EQUATOR_SLOW_FAST.md`, `research/UNIFORM_RETURN_VALENCY.md`, `research/UNIVERSAL_PAIR_BLOWUP.md`, `research/ZHU_EHP2B_VERDICT.md`
