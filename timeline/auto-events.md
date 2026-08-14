@@ -189,3 +189,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-14 12:34:52 UTC | A | `life.mission.completed` | Decide the first concrete collar-normal-form attack on \(C^*_{n,a_*}\) |
 | 2026-08-14 12:34:42 UTC | B | `life.mission.completed` | Decide the all-order finite-Q boundary-layer principal germ behind the ERFZ14 composed coefficient obstructions |
 | 2026-08-14 12:47:06 UTC | B | `life.mission.completed` | Decide the germ-subtracted finite-Q no-root remainder for ERFZ14 |
+| 2026-08-14 13:01:45 UTC | A | `life.mission.completed` | Decide the six residual min–max axis-parallel three-plus principal families after Section 14.131 |
+| 2026-08-14 12:59:54 UTC | B | `life.mission.completed` | Decide the full nonzero-`q_p/A_*` germ-subtracted ERFZ14 no-root composed chain |
