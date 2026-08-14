@@ -203,3 +203,4 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-14 14:31:34 UTC | B | `life.mission.completed` | Decide the raw central-denominator failure sector after the no-root height/section promotion |
 | 2026-08-14 14:40:46 UTC | B | `life.mission.completed` | Decide the ERFZ14 central regular-turning/fold sector |
 | 2026-08-14 14:55:53 UTC | B | `life.mission.completed` | Decide the raw central tangency and first singular-root sectors for ERFZ14 |
+| 2026-08-14 15:03:42 UTC | B | `life.mission.completed` | Decide the central Δ_c=0 singular-root boundary for ERFZ14 |
