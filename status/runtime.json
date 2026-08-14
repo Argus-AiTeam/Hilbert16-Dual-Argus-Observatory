@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-14 09:13:08 UTC",
+  "generated_at_utc": "2026-08-14 09:23:10 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -28,7 +28,7 @@
       "frontier_change": "unchanged_failure",
       "frontier_summary": "No reviewed artifact currently implements the requested escalation-boundary behavior.",
       "git": {
-        "dirty_paths": 0,
+        "dirty_paths": 6,
         "head": "3bdec14",
         "last_commit": "Retire full-triangle circuit chamber"
       },
@@ -36,15 +36,15 @@
       "inbox_files": 2,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1786698770.8977957,
+      "last_progress_at": 1786699382.739448,
       "max_rounds": 32,
-      "mission_id": "e773e2fd1c09",
+      "mission_id": "3c71a6eb3cb7",
       "mission_status": "working",
-      "mission_title": "Decide a source-grounded multi-cell singular patchworking route for the n=6 LRS survivor supports",
+      "mission_title": "Decide a genuinely multi-negative/non-circuit full-triangle Delta_(0,0) LRS chamber or candidate milestone",
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 530906,
-      "progress_age_seconds": 17.991050004959106,
+      "progress_age_seconds": 8.080961465835571,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -82,7 +82,7 @@
       "frontier_change": "uncertainty_reduced",
       "frontier_summary": "Review confirmed no accessible source/test repair and reproduced the original fatal-error/zero-exit verdict defect.",
       "git": {
-        "dirty_paths": 43,
+        "dirty_paths": 46,
         "head": "6d1ac76",
         "last_commit": "math: record ERFZ14 trace Melnikov filter"
       },
@@ -90,7 +90,7 @@
       "inbox_files": 2,
       "label": "B",
       "last_event": "engineer.progress",
-      "last_progress_at": 1786698786.40447,
+      "last_progress_at": 1786699366.765834,
       "max_rounds": 32,
       "mission_id": "7d75c98f075d",
       "mission_status": "working",
@@ -98,11 +98,11 @@
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 2,
       "pid": 531948,
-      "progress_age_seconds": 2.4843757152557373,
+      "progress_age_seconds": 24.054575443267822,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
-      "round": 3,
+      "round": 5,
       "route": "construction / lower bounds",
       "sid": "s-2fd8729b",
       "stage": "scope",
