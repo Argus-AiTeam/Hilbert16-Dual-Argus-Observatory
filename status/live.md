@@ -3,12 +3,12 @@
 > Generated deterministically from Argus durable state. No model writes this page, and it carries no cross-process solution transfer.
 > 本页面由确定性监控器根据 Argus 持久状态生成，不由模型写入，也不承担跨进程解题内容传递。
 
-**Updated / 更新时间:** 2026-08-14 15:39:01 UTC
+**Updated / 更新时间:** 2026-08-14 15:49:03 UTC
 
 | Seat | State | Stage | Active role | Round | Current mission | Review | Since semantic progress |
 |---|---|---|---|---:|---|---|---:|
-| A | running | `scope` | engineer | 12/32 | Decide the span-11 noncollinear principal frontier by real critical-cou… | none | 3s |
-| B | running | `scope` | engineer | 1/32 | Decide one actual nonlocal ERFZ14 central-saddle word | none | 10s |
+| A | running | `scope` | engineer | 13/32 | Decide the span-11 noncollinear principal frontier by real critical-cou… | none | 21s |
+| B | running | `scope` | engineer | 1/32 | Decide an actual product-one ERFZ14 central-saddle word and its first n… | none | 14s |
 
 **Isolation integrity / 隔离完整性:** ✅ immutable controls match
 
@@ -21,7 +21,7 @@
 - **Reviewer state:** `none`; rejected attempts: 0
 - **Frontier signal:** No reviewed artifact currently implements the requested escalation-boundary behavior.
 - **Research artifacts present:** `research/BOUNDED_RETURN_BLOCKS.md`, `research/CONFIGURATION_DEPTH.md`, `research/CONFIGURATION_WIDTH.md`, `research/DEGREE_RAISING.md`, `research/DULAC_POLYCYCLE_ROUTE_VERDICT.md`, `research/FIXED_DEGREE_REALIZATION.md`, `research/HILBERT_LOWER_BOUNDS.md`, `research/I6B_BOUNDED_COMPLEXITY_ZERO_COUNT.md`, `research/LOCAL_TO_GLOBAL.md`, `research/PIPELINE_STATE.json`, `research/PROOF_GRAPH.json`, `research/QUADRATIC_BASE_CASE.md`, `research/ROUTE_LEDGER.json`, `research/SCOPE.md`, `research/STATIONARY_EQUATOR_SLOW_FAST.md`, `research/UNIFORM_RETURN_VALENCY.md`, `research/UNIVERSAL_PAIR_BLOWUP.md`, `research/ZHU_EHP2B_VERDICT.md`
-- **Git:** `a23cb52` · 20 changed path(s) · Checkpoint LRS n6 principal diagnostics
+- **Git:** `152794b` · 1 changed path(s) · Retire LRS n6 principal span frontiers
 - **Broker mailboxes:** inbox 2 · outbox 3
 
 ### Argus B
@@ -29,11 +29,11 @@
 - **Session / PID:** `s-2fd8729b` / `531948`
 - **Route:** construction / lower bounds
 - **Models:** Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol
-- **Mission:** Decide one actual nonlocal ERFZ14 central-saddle word
+- **Mission:** Decide an actual product-one ERFZ14 central-saddle word and its first nonflat return coefficient
 - **Reviewer state:** `none`; rejected attempts: 0
 - **Frontier signal:** Review confirmed no accessible source/test repair and reproduced the original fatal-error/zero-exit verdict defect.
 - **Research artifacts present:** `research/solve/hyperbolic_hemicycle_cyclicity_scope.md`, `research/solve/mixed_infinity_darboux_abelian_span.md`, `research/solve/mixed_infinity_darboux_bicycle_scope_second_order.md`, `research/solve/mixed_infinity_darboux_residual_quotient.md`, `research/solve/mixed_infinity_hyperbola_polycycle.md`, `research/solve/multiple_angular_root_newton_blowup.md`, `research/solve/nesting_depth_bounds.md`, `research/solve/next_target.json`, `research/solve/product_level_chain_construction.md`, `research/solve/quadratic_bottleneck_dossier.md`, `research/solve/radial_infinity_blowup.md`, `research/solve/radial_nested_family.md`, `research/solve/radial_zero_return_obstruction.md`, `research/solve/regular_annulus_localization.md`, `research/solve/repeated_phi_finite_v_decision.md`, `research/solve/structural_constraints_report.md`, `research/solve/structural_constraints_summary.md`, `research/solve/uniform_finiteness_brief.md`, `research/solve/verify_cl_perturbation.py`, `research/solve/verify_h2_lower_bound.py`
-- **Git:** `77e2f3b` · 12 changed path(s) · Classify local central saddle product-away word
+- **Git:** `77e2f3b` · 17 changed path(s) · Classify local central saddle product-away word
 - **Broker mailboxes:** inbox 2 · outbox 2
 
 ## Interpretation / 判读
