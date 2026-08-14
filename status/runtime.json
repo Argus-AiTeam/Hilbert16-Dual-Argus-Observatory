@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-14 12:03:20 UTC",
+  "generated_at_utc": "2026-08-14 12:13:22 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -28,7 +28,7 @@
       "frontier_change": "unchanged_failure",
       "frontier_summary": "No reviewed artifact currently implements the requested escalation-boundary behavior.",
       "git": {
-        "dirty_paths": 25,
+        "dirty_paths": 26,
         "head": "3bdec14",
         "last_commit": "Retire full-triangle circuit chamber"
       },
@@ -36,7 +36,7 @@
       "inbox_files": 2,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1786708986.9852946,
+      "last_progress_at": 1786709591.8235373,
       "max_rounds": 32,
       "mission_id": "49b4edf8adc0",
       "mission_status": "working",
@@ -44,11 +44,11 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 530906,
-      "progress_age_seconds": 13.396416425704956,
+      "progress_age_seconds": 10.458881855010986,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
-      "round": 28,
+      "round": 30,
       "route": "theory / upper constraints",
       "sid": "s-54f17ee7",
       "stage": "scope",
@@ -82,7 +82,7 @@
       "frontier_change": "uncertainty_reduced",
       "frontier_summary": "Review confirmed no accessible source/test repair and reproduced the original fatal-error/zero-exit verdict defect.",
       "git": {
-        "dirty_paths": 64,
+        "dirty_paths": 65,
         "head": "6d1ac76",
         "last_commit": "math: record ERFZ14 trace Melnikov filter"
       },
@@ -90,15 +90,15 @@
       "inbox_files": 2,
       "label": "B",
       "last_event": "engineer.progress",
-      "last_progress_at": 1786708980.5528555,
+      "last_progress_at": 1786709552.6320732,
       "max_rounds": 32,
-      "mission_id": "913ed35cec8d",
+      "mission_id": "9f26c31cb5e5",
       "mission_status": "working",
-      "mission_title": "Decide the actual finite-Q no-root composed-chain power-gain obstruction for ERFZ14",
+      "mission_title": "Promote the ERFZ14 composed quadratic principal term and decide the post-quadratic finite-Q remainder",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 2,
       "pid": 531948,
-      "progress_age_seconds": 19.828855514526367,
+      "progress_age_seconds": 49.65034604072571,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
