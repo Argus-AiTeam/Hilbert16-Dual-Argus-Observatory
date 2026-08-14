@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-14 02:47:45 UTC",
+  "generated_at_utc": "2026-08-14 02:57:46 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -28,7 +28,7 @@
       "frontier_change": "",
       "frontier_summary": "",
       "git": {
-        "dirty_paths": 6,
+        "dirty_paths": 7,
         "head": "d347ecd",
         "last_commit": "Record LRS n=6 BKK guard checkpoint"
       },
@@ -36,15 +36,15 @@
       "inbox_files": 2,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1786675662.8549547,
+      "last_progress_at": 1786676266.1493506,
       "max_rounds": 32,
-      "mission_id": "6cf2669bfc0b",
+      "mission_id": "f8a5c2df1f80",
       "mission_status": "working",
-      "mission_title": "Resolve the selected minimal proper-budget-12 full-axis-interval occurrence",
+      "mission_title": "Decide a non-origin global full-support chamber/candidate for the selected `T_min/Δ_(0,0)` LRS occurrence",
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 2,
       "pid": 530906,
-      "progress_age_seconds": 2.264627456665039,
+      "progress_age_seconds": 0.6671667098999023,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -98,7 +98,7 @@
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 2,
       "pid": 531948,
-      "progress_age_seconds": 6497.738327264786,
+      "progress_age_seconds": 7099.435262441635,
       "rejected_attempts": 1,
       "review_reason": "Engineer requires an operator-owned decision before continuing.",
       "review_status": "blocked",
