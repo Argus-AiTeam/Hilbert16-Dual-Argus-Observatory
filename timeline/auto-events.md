@@ -170,3 +170,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-14 03:01:57 UTC | A | `life.mission.completed` | Decide a non-origin global full-support chamber/candidate for the selected `T_min/Δ_(0,0)` LRS occurrence |
 | 2026-08-14 05:16:10 UTC | A | `life.mission.completed` | Source-ground and decide the next real sparse near-Harnack chamber mechanism for the residual LRS `n=6` supports |
 | 2026-08-14 05:24:59 UTC | A | `life.mission.completed` | Decide the endpoint-free product-template loophole left by the n=6 LRS endpoint-factor guard |
+| 2026-08-14 05:37:57 UTC | A | `life.mission.completed` | Decide the nearby-product singular-patchworking route for n=6 LRS sparse survivors |
+| 2026-08-14 05:41:04 UTC | A | `life.mission.completed` | Create the due evidence-bearing local Git checkpoint |

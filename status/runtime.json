@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-14 05:27:54 UTC",
+  "generated_at_utc": "2026-08-14 05:42:56 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -28,23 +28,23 @@
       "frontier_change": "",
       "frontier_summary": "",
       "git": {
-        "dirty_paths": 26,
-        "head": "d347ecd",
-        "last_commit": "Record LRS n=6 BKK guard checkpoint"
+        "dirty_paths": 0,
+        "head": "675ea50",
+        "last_commit": "Checkpoint LRS n6 chamber and product guards"
       },
       "health": "active",
       "inbox_files": 2,
       "label": "A",
-      "last_event": "engineer.progress",
-      "last_progress_at": 1786685257.221225,
+      "last_event": "life.planner.verdict",
+      "last_progress_at": 1786686169.759203,
       "max_rounds": 32,
-      "mission_id": "9dce9128d2c1",
+      "mission_id": "b486c5a1917e",
       "mission_status": "working",
-      "mission_title": "Decide the nearby-product singular-patchworking route for n=6 LRS sparse survivors",
+      "mission_title": "Decide a source-grounded multi-cell singular patchworking route for the n=6 LRS survivor supports",
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 530906,
-      "progress_age_seconds": 17.481871604919434,
+      "progress_age_seconds": 6.94164252281189,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -98,7 +98,7 @@
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 2,
       "pid": 531948,
-      "progress_age_seconds": 5303.849800825119,
+      "progress_age_seconds": 6205.847549676895,
       "rejected_attempts": 1,
       "review_reason": "Engineer requires an operator-owned decision before continuing.",
       "review_status": "blocked",
