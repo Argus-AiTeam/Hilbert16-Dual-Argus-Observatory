@@ -293,3 +293,4 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-15 21:36:42 UTC | B | `life.mission.completed` | Certify or reject a rigorous Sigma_1p10_5 residual-endpoint M2/M3 sector certificate |
 | 2026-08-15 21:42:11 UTC | B | `life.mission.completed` | Lift or reject the `Sigma_1p10_5` endpoint-density certificate inside the ERFZ14 exact-return cell |
 | 2026-08-15 21:44:21 UTC | B | `life.mission.completed` | Decide the actual ERFZ14 exact-return residual bounds for `Sigma_1p10_5 |
+| 2026-08-15 21:49:32 UTC | B | `life.mission.completed` | Construct or reject the same-convention exact-return residual comparison for `Sigma_1p10_5 |

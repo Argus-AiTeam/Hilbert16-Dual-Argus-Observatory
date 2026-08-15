@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-15 21:47:00 UTC",
+  "generated_at_utc": "2026-08-15 21:52:02 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -28,7 +28,7 @@
       "frontier_change": "unchanged_failure",
       "frontier_summary": "No reviewed artifact currently implements the requested escalation-boundary behavior.",
       "git": {
-        "dirty_paths": 6,
+        "dirty_paths": 7,
         "head": "549b33d",
         "last_commit": "Certify LRS row derivative-sharp witness"
       },
@@ -36,7 +36,7 @@
       "inbox_files": 2,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1786830420.047349,
+      "last_progress_at": 1786830722.1404576,
       "max_rounds": 32,
       "mission_id": "43eec410c44a",
       "mission_status": "working",
@@ -44,11 +44,11 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 530906,
-      "progress_age_seconds": 0.3726043701171875,
+      "progress_age_seconds": 0.11576414108276367,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
-      "round": 4,
+      "round": 5,
       "route": "theory / upper constraints",
       "sid": "s-54f17ee7",
       "stage": "scope",
@@ -82,7 +82,7 @@
       "frontier_change": "uncertainty_reduced",
       "frontier_summary": "Review confirmed no accessible source/test repair and reproduced the original fatal-error/zero-exit verdict defect.",
       "git": {
-        "dirty_paths": 19,
+        "dirty_paths": 20,
         "head": "6ddd4ce",
         "last_commit": "Record ERFZ14 residual endpoint compact-sector probe"
       },
@@ -90,15 +90,15 @@
       "inbox_files": 2,
       "label": "B",
       "last_event": "engineer.progress",
-      "last_progress_at": 1786830388.098162,
+      "last_progress_at": 1786830687.7934442,
       "max_rounds": 32,
-      "mission_id": "fad7ea1cac55",
+      "mission_id": "0a1302c1edff",
       "mission_status": "working",
-      "mission_title": "Construct or reject the same-convention exact-return residual comparison for `Sigma_1p10_5",
+      "mission_title": "Construct or reject the `Sigma_1p10_5` raw h-scaled exact-return chain",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 2,
       "pid": 531948,
-      "progress_age_seconds": 32.32179141044617,
+      "progress_age_seconds": 34.462777614593506,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
