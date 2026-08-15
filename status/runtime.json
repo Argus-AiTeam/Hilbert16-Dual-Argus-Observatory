@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-15 02:09:58 UTC",
+  "generated_at_utc": "2026-08-15 02:20:00 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -28,7 +28,7 @@
       "frontier_change": "unchanged_failure",
       "frontier_summary": "No reviewed artifact currently implements the requested escalation-boundary behavior.",
       "git": {
-        "dirty_paths": 8,
+        "dirty_paths": 9,
         "head": "4b2b254",
         "last_commit": "Record LRS span-20 large-B wall diagnostics"
       },
@@ -36,15 +36,15 @@
       "inbox_files": 2,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1786759796.7294078,
+      "last_progress_at": 1786760393.7693636,
       "max_rounds": 32,
-      "mission_id": "4a257fc94aba",
+      "mission_id": "ab2b68e5da52",
       "mission_status": "working",
-      "mission_title": "Decide the first all-tail Puiseux branch-tube inequality on the `lambda=-1` ray",
+      "mission_title": "Decide the first exact correlated/two-root algebraic all-tail certificate for the `lambda=-1` first adjacency",
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 530906,
-      "progress_age_seconds": 2.114952325820923,
+      "progress_age_seconds": 6.984049558639526,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -98,7 +98,7 @@
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 2,
       "pid": 531948,
-      "progress_age_seconds": 5681.589622735977,
+      "progress_age_seconds": 6283.498675823212,
       "rejected_attempts": 1,
       "review_reason": "Engineer requires an operator-owned decision before continuing.",
       "review_status": "blocked",
