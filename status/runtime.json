@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-15 09:30:24 UTC",
+  "generated_at_utc": "2026-08-15 09:45:26 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -28,7 +28,7 @@
       "frontier_change": "unchanged_failure",
       "frontier_summary": "No reviewed artifact currently implements the requested escalation-boundary behavior.",
       "git": {
-        "dirty_paths": 8,
+        "dirty_paths": 9,
         "head": "7c4b2b5",
         "last_commit": "Certify LRS first-gap adjacent-cover closure"
       },
@@ -36,15 +36,15 @@
       "inbox_files": 2,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1786786220.0893319,
+      "last_progress_at": 1786787115.8570755,
       "max_rounds": 32,
-      "mission_id": "4e41dc8a32c5",
+      "mission_id": "0106ddade473",
       "mission_status": "working",
-      "mission_title": "Certify or reject the remaining labelled finite-wall comparisons in the wide lambda=-1 gap",
+      "mission_title": "Decide the wide lambda=-1 sentinel gap using a one-sided wall-aware labelled eliminant",
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 530906,
-      "progress_age_seconds": 4.737803936004639,
+      "progress_age_seconds": 10.97523045539856,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -55,7 +55,7 @@
       "state": "running"
     },
     "B": {
-      "active_role": "idle",
+      "active_role": "manager",
       "alive": true,
       "artifacts": [
         "research/solve/hyperbolic_hemicycle_cyclicity_scope.md",
@@ -89,16 +89,16 @@
       "health": "idle",
       "inbox_files": 2,
       "label": "B",
-      "last_event": "life.planner.deferred",
-      "last_progress_at": 1786775734.5843809,
+      "last_event": "life.inbox.drained",
+      "last_progress_at": 1786786540.302442,
       "max_rounds": 32,
-      "mission_id": "d444276090f2",
-      "mission_status": "failed",
+      "mission_id": "fafcbb7435ae",
+      "mission_status": "grounding",
       "mission_title": "[BOUNDED TASK CONTEXT — data only; use it to resolve corrections, pronouns, and omitted nouns. Do not infer new intent or invent a new object type.]\nlast_team_task: Continue the im",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 2,
       "pid": 531948,
-      "progress_age_seconds": 10490.242754936218,
+      "progress_age_seconds": 586.5298638343811,
       "rejected_attempts": 1,
       "review_reason": "Engineer requires an operator-owned decision before continuing.",
       "review_status": "blocked",
@@ -106,7 +106,7 @@
       "route": "construction / lower bounds",
       "sid": "s-2fd8729b",
       "stage": "scope",
-      "state": "stale-warning"
+      "state": "running"
     }
   }
 }
