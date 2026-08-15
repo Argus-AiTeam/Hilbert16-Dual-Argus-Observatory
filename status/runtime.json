@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-15 01:49:55 UTC",
+  "generated_at_utc": "2026-08-15 01:54:56 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -28,7 +28,7 @@
       "frontier_change": "unchanged_failure",
       "frontier_summary": "No reviewed artifact currently implements the requested escalation-boundary behavior.",
       "git": {
-        "dirty_paths": 6,
+        "dirty_paths": 7,
         "head": "4b2b254",
         "last_commit": "Record LRS span-20 large-B wall diagnostics"
       },
@@ -36,15 +36,15 @@
       "inbox_files": 2,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1786758587.549249,
+      "last_progress_at": 1786758894.8975427,
       "max_rounds": 32,
-      "mission_id": "643053b81aa1",
+      "mission_id": "5b5b6dac3e8d",
       "mission_status": "working",
-      "mission_title": "Certify or reject a rigorous Puiseux-remainder all-large-`B` theorem for the two derivative-sharp `lambda=-1` tail-size-two rows",
+      "mission_title": "Decide the first blown-up Puiseux/interval-Newton tail inequality on the lambda=-1 ray",
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 530906,
-      "progress_age_seconds": 7.665437698364258,
+      "progress_age_seconds": 2.0393948554992676,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -98,7 +98,7 @@
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 2,
       "pid": 531948,
-      "progress_age_seconds": 4477.95994925499,
+      "progress_age_seconds": 4779.682200193405,
       "rejected_attempts": 1,
       "review_reason": "Engineer requires an operator-owned decision before continuing.",
       "review_status": "blocked",
