@@ -280,3 +280,4 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-15 18:52:20 UTC | A | `life.mission.completed` | Certify or refute the next pre-leading second-row strip up to the leading-threshold bracket |
 | 2026-08-15 19:05:32 UTC | A | `life.mission.completed` | Certify or refute the fixed second-row true-leading threshold window |
 | 2026-08-15 19:15:32 UTC | A | `life.mission.completed` | Certify or refute the fixed second-row continuation strip from `-71/100` to `-7/10 |
+| 2026-08-15 19:30:33 UTC | A | `life.mission.completed` | Certify or refute the second-row threshold-connection strip `[-9/10,-13/15] |
