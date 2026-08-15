@@ -236,3 +236,4 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-15 02:17:23 UTC | A | `life.mission.completed` | Decide the first all-tail Puiseux branch-tube inequality on the `lambda=-1` ray |
 | 2026-08-15 02:31:52 UTC | A | `life.mission.completed` | Decide the first exact correlated/two-root algebraic all-tail certificate for the `lambda=-1` first adjacency |
 | 2026-08-15 07:00:34 UTC | A | `life.mission.completed` | Certify or decisively reject the remaining first-row Section 14.177 all-tail adjacent inequalities |
+| 2026-08-15 07:20:24 UTC | A | `life.mission.completed` | Decide the first-gap wall-adjacent comparison `(0,1)<(8,0) |
