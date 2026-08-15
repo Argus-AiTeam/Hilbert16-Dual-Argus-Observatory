@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-15 18:11:24 UTC",
+  "generated_at_utc": "2026-08-15 18:16:26 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -36,7 +36,7 @@
       "inbox_files": 2,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1786817462.017708,
+      "last_progress_at": 1786817722.3117306,
       "max_rounds": 32,
       "mission_id": "a7831f54f17b",
       "mission_status": "working",
@@ -44,7 +44,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 530906,
-      "progress_age_seconds": 22.476336002349854,
+      "progress_age_seconds": 64.09957098960876,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -82,7 +82,7 @@
       "frontier_change": "uncertainty_reduced",
       "frontier_summary": "Review confirmed no accessible source/test repair and reproduced the original fatal-error/zero-exit verdict defect.",
       "git": {
-        "dirty_paths": 12,
+        "dirty_paths": 13,
         "head": "9f84eca",
         "last_commit": "Record ERFZ14 nonregular flat/product routing"
       },
@@ -90,15 +90,15 @@
       "inbox_files": 2,
       "label": "B",
       "last_event": "engineer.progress",
-      "last_progress_at": 1786817481.2023582,
+      "last_progress_at": 1786817783.2105203,
       "max_rounds": 32,
-      "mission_id": "b2c85f9346f1",
+      "mission_id": "85bba2a9ef29",
       "mission_status": "working",
-      "mission_title": "Create the due evidence-bearing local Git checkpoint commit",
+      "mission_title": "Decide a real ERFZ14 trace-zero central-saddle connection/product branch",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 2,
       "pid": 531948,
-      "progress_age_seconds": 3.2916858196258545,
+      "progress_age_seconds": 3.2007813453674316,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
