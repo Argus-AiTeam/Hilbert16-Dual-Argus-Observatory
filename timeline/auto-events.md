@@ -291,3 +291,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-15 21:16:48 UTC | B | `life.mission.completed` | Decide a validated compact-sector certificate for residual-endpoint finite-c M2=0/M3 sign |
 | 2026-08-15 21:19:24 UTC | B | `life.mission.completed` | Create the due local evidence-bearing Git checkpoint |
 | 2026-08-15 21:36:42 UTC | B | `life.mission.completed` | Certify or reject a rigorous Sigma_1p10_5 residual-endpoint M2/M3 sector certificate |
+| 2026-08-15 21:42:11 UTC | B | `life.mission.completed` | Lift or reject the `Sigma_1p10_5` endpoint-density certificate inside the ERFZ14 exact-return cell |
+| 2026-08-15 21:44:21 UTC | B | `life.mission.completed` | Decide the actual ERFZ14 exact-return residual bounds for `Sigma_1p10_5 |
