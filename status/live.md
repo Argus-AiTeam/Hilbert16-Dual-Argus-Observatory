@@ -3,12 +3,12 @@
 > Generated deterministically from Argus durable state. No model writes this page, and it carries no cross-process solution transfer.
 > 本页面由确定性监控器根据 Argus 持久状态生成，不由模型写入，也不承担跨进程解题内容传递。
 
-**Updated / 更新时间:** 2026-08-15 22:47:15 UTC
+**Updated / 更新时间:** 2026-08-15 22:52:17 UTC
 
 | Seat | State | Stage | Active role | Round | Current mission | Review | Since semantic progress |
 |---|---|---|---|---:|---|---|---:|
-| A | running | `scope` | engineer | 13/32 | Decide the exact-threshold row `T={(1,3),(3,1)}` by parameter-aware der… | none | 11s |
-| B | running | `scope` | engineer | 1/32 | Decide the residual endpoint resummed h-scaled product-balance route af… | none | 11s |
+| A | running | `scope` | engineer | 14/32 | Decide the exact-threshold row `T={(1,3),(3,1)}` by parameter-aware der… | none | 1m |
+| B | running | `scope` | planner | 1/32 | Decide the residual endpoint resummed h-scaled product-balance route af… | done | 1m |
 
 **Isolation integrity / 隔离完整性:** ✅ immutable controls match
 
@@ -30,7 +30,7 @@
 - **Route:** construction / lower bounds
 - **Models:** Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol
 - **Mission:** Decide the residual endpoint resummed h-scaled product-balance route after FQ1564
-- **Reviewer state:** `none`; rejected attempts: 0
+- **Reviewer state:** `done`; rejected attempts: 0
 - **Frontier signal:** Review confirmed no accessible source/test repair and reproduced the original fatal-error/zero-exit verdict defect.
 - **Research artifacts present:** `research/solve/hyperbolic_hemicycle_cyclicity_scope.md`, `research/solve/mixed_infinity_darboux_abelian_span.md`, `research/solve/mixed_infinity_darboux_bicycle_scope_second_order.md`, `research/solve/mixed_infinity_darboux_residual_quotient.md`, `research/solve/mixed_infinity_hyperbola_polycycle.md`, `research/solve/multiple_angular_root_newton_blowup.md`, `research/solve/nesting_depth_bounds.md`, `research/solve/next_target.json`, `research/solve/product_level_chain_construction.md`, `research/solve/quadratic_bottleneck_dossier.md`, `research/solve/radial_infinity_blowup.md`, `research/solve/radial_nested_family.md`, `research/solve/radial_zero_return_obstruction.md`, `research/solve/regular_annulus_localization.md`, `research/solve/repeated_phi_finite_v_decision.md`, `research/solve/structural_constraints_report.md`, `research/solve/structural_constraints_summary.md`, `research/solve/uniform_finiteness_brief.md`, `research/solve/verify_cl_perturbation.py`, `research/solve/verify_h2_lower_bound.py`
 - **Git:** `6ddd4ce` · 27 changed path(s) · Record ERFZ14 residual endpoint compact-sector probe
