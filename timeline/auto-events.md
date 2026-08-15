@@ -302,3 +302,4 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-15 22:37:06 UTC | B | `life.mission.completed` | Decide the FQ1574 finite-saddle global-connection branch |
 | 2026-08-15 22:43:35 UTC | B | `life.mission.completed` | Decide finite-cyclicity status of the residual m=0 exact reversible identity branch |
 | 2026-08-15 22:49:40 UTC | B | `life.mission.completed` | Decide the residual endpoint resummed h-scaled product-balance route after FQ1564 |
+| 2026-08-15 23:07:16 UTC | B | `life.mission.completed` | Decide the general asymmetric/off-product residual endpoint K0/J0 branch |
