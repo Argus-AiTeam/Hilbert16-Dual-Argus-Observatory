@@ -262,3 +262,4 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-15 15:29:04 UTC | B | `life.mission.completed` | Decide the exact-remainder and two-side-cancellation theorem for the `κ_*=0, η1>0` endpoint Newton fan |
 | 2026-08-15 15:36:09 UTC | B | `life.mission.completed` | Decide the coupled \(\kappa_*=0\) endpoint-height cancellation branch after the side-hit split |
 | 2026-08-15 15:44:21 UTC | B | `life.mission.completed` | Settle the \(\eta_1=0\) secondary chart for the ERFZ14 \(\kappa_*=0\) endpoint |
+| 2026-08-15 16:01:47 UTC | B | `life.mission.completed` | Decide the eta1=0 secondary double/nonseparated endpoint residual chart |
