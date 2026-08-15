@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-15 07:25:13 UTC",
+  "generated_at_utc": "2026-08-15 08:25:16 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -28,23 +28,23 @@
       "frontier_change": "unchanged_failure",
       "frontier_summary": "No reviewed artifact currently implements the requested escalation-boundary behavior.",
       "git": {
-        "dirty_paths": 24,
-        "head": "c248658",
-        "last_commit": "Refute B500 LRS tail word continuation"
+        "dirty_paths": 0,
+        "head": "7c4b2b5",
+        "last_commit": "Certify LRS first-gap adjacent-cover closure"
       },
       "health": "active",
       "inbox_files": 2,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1786778627.1435647,
+      "last_progress_at": 1786782311.9576945,
       "max_rounds": 32,
-      "mission_id": "982f072cf691",
+      "mission_id": "483ae84ff0c2",
       "mission_status": "working",
-      "mission_title": "Decide the final first-sentinel-gap adjacent comparison `(8,0)<(1,1)",
+      "mission_title": "Decide the second lambda=-1 finite-cascade sentinel gap adjacent-order closure",
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 530906,
-      "progress_age_seconds": 86.47458410263062,
+      "progress_age_seconds": 4.569408655166626,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -98,7 +98,7 @@
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 2,
       "pid": 531948,
-      "progress_age_seconds": 2979.033767938614,
+      "progress_age_seconds": 6581.942722320557,
       "rejected_attempts": 1,
       "review_reason": "Engineer requires an operator-owned decision before continuing.",
       "review_status": "blocked",
