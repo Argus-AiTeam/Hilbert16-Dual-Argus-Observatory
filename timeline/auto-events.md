@@ -272,3 +272,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-15 17:46:21 UTC | B | `life.mission.completed` | Prove or reject the compact no-root exact-return all-orders finite-zero theorem |
 | 2026-08-15 17:53:45 UTC | B | `life.mission.completed` | Decide the ERFZ14 no-root exterior-fan finite-zero/Rolle closure |
 | 2026-08-15 18:02:35 UTC | B | `life.mission.completed` | Decide the exterior-fan endpoint/matching transversality-failure faces |
+| 2026-08-15 18:08:01 UTC | A | `life.mission.completed` | Certify or refute the full second-row fixed-`lambda=-1` transition-window regular-level bound |
+| 2026-08-15 18:09:14 UTC | B | `life.mission.completed` | Decide the nonregular global connection/product residue after FQ1323 |
