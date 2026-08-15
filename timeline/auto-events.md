@@ -269,3 +269,4 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-15 17:17:58 UTC | B | `life.mission.completed` | Decide the ERFZ14 eta1=0 \(\Psi_0=0\) residual structurally, with \(w^8\) fallback only if necessary |
 | 2026-08-15 17:30:15 UTC | B | `life.mission.completed` | Decide the global insertion data for the eta1=0 shifted saddle-node endpoint-root branch |
 | 2026-08-15 17:38:20 UTC | B | `life.mission.completed` | Decide the one-sided connection functions for the shifted endpoint saddle-node branch |
+| 2026-08-15 17:46:21 UTC | B | `life.mission.completed` | Prove or reject the compact no-root exact-return all-orders finite-zero theorem |
