@@ -251,3 +251,4 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-15 11:33:31 UTC | A | `life.mission.completed` | Create the due evidence-bearing local Git checkpoint |
 | 2026-08-15 12:05:32 UTC | A | `life.mission.completed` | Certify or reject the next `lambda=-1` sentinel gap after `11_crosses_91 |
 | 2026-08-15 12:31:25 UTC | A | `life.mission.completed` | Certify or reject the next `lambda=-1` sentinel gap after `01_crosses_81 |
+| 2026-08-15 12:50:25 UTC | A | `life.mission.completed` | Certify or reject the final post-`11_crosses_81` lambda=-1 connector to the near-zero tail |
