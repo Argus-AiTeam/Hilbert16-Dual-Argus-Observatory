@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-15 09:45:26 UTC",
+  "generated_at_utc": "2026-08-15 10:05:28 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -28,7 +28,7 @@
       "frontier_change": "unchanged_failure",
       "frontier_summary": "No reviewed artifact currently implements the requested escalation-boundary behavior.",
       "git": {
-        "dirty_paths": 9,
+        "dirty_paths": 10,
         "head": "7c4b2b5",
         "last_commit": "Certify LRS first-gap adjacent-cover closure"
       },
@@ -36,15 +36,15 @@
       "inbox_files": 2,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1786787115.8570755,
+      "last_progress_at": 1786788321.2069557,
       "max_rounds": 32,
-      "mission_id": "0106ddade473",
+      "mission_id": "fb67ddc14be1",
       "mission_status": "working",
-      "mission_title": "Decide the wide lambda=-1 sentinel gap using a one-sided wall-aware labelled eliminant",
+      "mission_title": "Decide the near-wall `(9,1)<(0,1)` positivity certificate in the wide lambda=-1 gap",
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 530906,
-      "progress_age_seconds": 10.97523045539856,
+      "progress_age_seconds": 7.641855478286743,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -98,7 +98,7 @@
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 2,
       "pid": 531948,
-      "progress_age_seconds": 586.5298638343811,
+      "progress_age_seconds": 1788.5463690757751,
       "rejected_attempts": 1,
       "review_reason": "Engineer requires an operator-owned decision before continuing.",
       "review_status": "blocked",

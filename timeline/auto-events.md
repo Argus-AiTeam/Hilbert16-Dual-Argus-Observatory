@@ -244,3 +244,4 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-15 09:20:48 UTC | A | `life.mission.completed` | Certify or reject the remaining lambda=-1 finite-cascade sentinel-gap adjacent-order covers |
 | 2026-08-15 09:28:56 UTC | A | `life.mission.completed` | Decide the labelled wall/eliminant replacement for the next lambda=-1 remaining sentinel gap |
 | 2026-08-15 09:41:14 UTC | A | `life.mission.completed` | Certify or reject the remaining labelled finite-wall comparisons in the wide lambda=-1 gap |
+| 2026-08-15 10:02:50 UTC | A | `life.mission.completed` | Decide the wide lambda=-1 sentinel gap using a one-sided wall-aware labelled eliminant |
