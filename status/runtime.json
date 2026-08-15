@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-15 21:06:50 UTC",
+  "generated_at_utc": "2026-08-15 21:11:52 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -36,15 +36,15 @@
       "inbox_files": 2,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1786828003.4077857,
+      "last_progress_at": 1786828310.305096,
       "max_rounds": 32,
-      "mission_id": "8580b92dc8d7",
+      "mission_id": "43eec410c44a",
       "mission_status": "working",
-      "mission_title": "Decide the fixed first-row continuation from `lambda=-13/15` toward `-7/10",
+      "mission_title": "Decide the exact-threshold row `T={(1,3),(3,1)}` by parameter-aware derivative-sharpness analysis",
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 530906,
-      "progress_age_seconds": 7.508324861526489,
+      "progress_age_seconds": 2.414979934692383,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -82,7 +82,7 @@
       "frontier_change": "uncertainty_reduced",
       "frontier_summary": "Review confirmed no accessible source/test repair and reproduced the original fatal-error/zero-exit verdict defect.",
       "git": {
-        "dirty_paths": 43,
+        "dirty_paths": 44,
         "head": "9f84eca",
         "last_commit": "Record ERFZ14 nonregular flat/product routing"
       },
@@ -90,7 +90,7 @@
       "inbox_files": 2,
       "label": "B",
       "last_event": "engineer.progress",
-      "last_progress_at": 1786828003.1297312,
+      "last_progress_at": 1786828309.9175537,
       "max_rounds": 32,
       "mission_id": "a87c6bd1deec",
       "mission_status": "working",
@@ -98,7 +98,7 @@
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 2,
       "pid": 531948,
-      "progress_age_seconds": 7.786379337310791,
+      "progress_age_seconds": 2.8025221824645996,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
