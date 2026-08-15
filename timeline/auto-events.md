@@ -259,3 +259,4 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-15 15:03:48 UTC | B | `life.mission.completed` | Preserve and validate the dirty ERFZ14 endpoint-root worktree, restore canonical handoff provenance, then resume the ne… |
 | 2026-08-15 15:11:48 UTC | B | `life.mission.completed` | Derive and decide the `κ_*=0` lower endpoint saddle-node/higher-root chart for the ERFZ14 endpoint-root atlas |
 | 2026-08-15 15:19:39 UTC | B | `life.mission.completed` | Derive and decide the `η1>0` kappa-zero saddle-node endpoint block for ERFZ14 |
+| 2026-08-15 15:29:04 UTC | B | `life.mission.completed` | Decide the exact-remainder and two-side-cancellation theorem for the `κ_*=0, η1>0` endpoint Newton fan |

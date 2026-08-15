@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-15 15:20:57 UTC",
+  "generated_at_utc": "2026-08-15 15:30:59 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -28,7 +28,7 @@
       "frontier_change": "unchanged_failure",
       "frontier_summary": "No reviewed artifact currently implements the requested escalation-boundary behavior.",
       "git": {
-        "dirty_paths": 6,
+        "dirty_paths": 7,
         "head": "13b4769",
         "last_commit": "Certify LRS second-row lambda prefight"
       },
@@ -36,7 +36,7 @@
       "inbox_files": 2,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1786807245.5867877,
+      "last_progress_at": 1786807815.296513,
       "max_rounds": 32,
       "mission_id": "083e6dad5d4d",
       "mission_status": "working",
@@ -44,11 +44,11 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 530906,
-      "progress_age_seconds": 11.627477407455444,
+      "progress_age_seconds": 43.7215530872345,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
-      "round": 10,
+      "round": 11,
       "route": "theory / upper constraints",
       "sid": "s-54f17ee7",
       "stage": "scope",
@@ -82,7 +82,7 @@
       "frontier_change": "uncertainty_reduced",
       "frontier_summary": "Review confirmed no accessible source/test repair and reproduced the original fatal-error/zero-exit verdict defect.",
       "git": {
-        "dirty_paths": 19,
+        "dirty_paths": 20,
         "head": "bec9e62",
         "last_commit": "Record ERFZ14 endpoint-root all-orders evidence"
       },
@@ -90,15 +90,15 @@
       "inbox_files": 2,
       "label": "B",
       "last_event": "engineer.progress",
-      "last_progress_at": 1786807254.7999597,
+      "last_progress_at": 1786807856.1073604,
       "max_rounds": 32,
-      "mission_id": "1a60aa797f73",
+      "mission_id": "928cbba5b118",
       "mission_status": "working",
-      "mission_title": "Decide the exact-remainder and two-side-cancellation theorem for the `κ_*=0, η1>0` endpoint Newton fan",
+      "mission_title": "Decide the coupled \\(\\kappa_*=0\\) endpoint-height cancellation branch after the side-hit split",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 2,
       "pid": 531948,
-      "progress_age_seconds": 2.4143054485321045,
+      "progress_age_seconds": 2.910705804824829,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
