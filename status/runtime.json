@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-15 15:30:59 UTC",
+  "generated_at_utc": "2026-08-15 15:41:00 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -28,7 +28,7 @@
       "frontier_change": "unchanged_failure",
       "frontier_summary": "No reviewed artifact currently implements the requested escalation-boundary behavior.",
       "git": {
-        "dirty_paths": 7,
+        "dirty_paths": 8,
         "head": "13b4769",
         "last_commit": "Certify LRS second-row lambda prefight"
       },
@@ -36,7 +36,7 @@
       "inbox_files": 2,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1786807815.296513,
+      "last_progress_at": 1786808453.5047889,
       "max_rounds": 32,
       "mission_id": "083e6dad5d4d",
       "mission_status": "working",
@@ -44,11 +44,11 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 530906,
-      "progress_age_seconds": 43.7215530872345,
+      "progress_age_seconds": 7.395074367523193,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
-      "round": 11,
+      "round": 12,
       "route": "theory / upper constraints",
       "sid": "s-54f17ee7",
       "stage": "scope",
@@ -82,7 +82,7 @@
       "frontier_change": "uncertainty_reduced",
       "frontier_summary": "Review confirmed no accessible source/test repair and reproduced the original fatal-error/zero-exit verdict defect.",
       "git": {
-        "dirty_paths": 20,
+        "dirty_paths": 22,
         "head": "bec9e62",
         "last_commit": "Record ERFZ14 endpoint-root all-orders evidence"
       },
@@ -90,15 +90,15 @@
       "inbox_files": 2,
       "label": "B",
       "last_event": "engineer.progress",
-      "last_progress_at": 1786807856.1073604,
+      "last_progress_at": 1786808447.4322248,
       "max_rounds": 32,
-      "mission_id": "928cbba5b118",
+      "mission_id": "0d3baeffc815",
       "mission_status": "working",
-      "mission_title": "Decide the coupled \\(\\kappa_*=0\\) endpoint-height cancellation branch after the side-hit split",
+      "mission_title": "Settle the \\(\\eta_1=0\\) secondary chart for the ERFZ14 \\(\\kappa_*=0\\) endpoint",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 2,
       "pid": 531948,
-      "progress_age_seconds": 2.910705804824829,
+      "progress_age_seconds": 13.467638492584229,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
