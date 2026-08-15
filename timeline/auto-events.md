@@ -267,3 +267,4 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-15 16:20:04 UTC | B | `life.mission.completed` | Compute and route the \(\Theta_3=0\) adapted \(w^6\) residual in the ERFZ14 \(\eta_1=0\) secondary endpoint chart |
 | 2026-08-15 16:59:09 UTC | B | `life.mission.completed` | Decide the double/nonseparated nonnegative root of the ERFZ14 `eta1=0` secondary `L_tau` residual, with structural recu… |
 | 2026-08-15 17:17:58 UTC | B | `life.mission.completed` | Decide the ERFZ14 eta1=0 \(\Psi_0=0\) residual structurally, with \(w^8\) fallback only if necessary |
+| 2026-08-15 17:30:15 UTC | B | `life.mission.completed` | Decide the global insertion data for the eta1=0 shifted saddle-node endpoint-root branch |
