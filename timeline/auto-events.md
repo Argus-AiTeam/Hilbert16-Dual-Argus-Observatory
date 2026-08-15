@@ -288,3 +288,4 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-15 21:00:54 UTC | A | `life.mission.completed` | Decide the first-row adjacent strip `[-9/10,-13/15]` for the fixed LRS tail-size-two row |
 | 2026-08-15 21:03:42 UTC | B | `life.mission.completed` | Decide the finite-c interior M3 stratification on the residual-endpoint M2=0 surface |
 | 2026-08-15 21:08:31 UTC | A | `life.mission.completed` | Decide the fixed first-row continuation from `lambda=-13/15` toward `-7/10 |
+| 2026-08-15 21:16:48 UTC | B | `life.mission.completed` | Decide a validated compact-sector certificate for residual-endpoint finite-c M2=0/M3 sign |
