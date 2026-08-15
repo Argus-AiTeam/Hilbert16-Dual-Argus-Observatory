@@ -246,3 +246,4 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-15 09:41:14 UTC | A | `life.mission.completed` | Certify or reject the remaining labelled finite-wall comparisons in the wide lambda=-1 gap |
 | 2026-08-15 10:02:50 UTC | A | `life.mission.completed` | Decide the wide lambda=-1 sentinel gap using a one-sided wall-aware labelled eliminant |
 | 2026-08-15 10:29:04 UTC | A | `life.mission.completed` | Decide the near-wall `(9,1)<(0,1)` positivity certificate in the wide lambda=-1 gap |
+| 2026-08-15 10:44:47 UTC | A | `life.mission.completed` | Decide the remaining adjacent comparisons in the active wide lambda=-1 sentinel gap |
