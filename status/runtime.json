@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-15 15:05:53 UTC",
+  "generated_at_utc": "2026-08-15 15:15:55 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -28,7 +28,7 @@
       "frontier_change": "unchanged_failure",
       "frontier_summary": "No reviewed artifact currently implements the requested escalation-boundary behavior.",
       "git": {
-        "dirty_paths": 2,
+        "dirty_paths": 6,
         "head": "13b4769",
         "last_commit": "Certify LRS second-row lambda prefight"
       },
@@ -36,7 +36,7 @@
       "inbox_files": 2,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1786806351.0211735,
+      "last_progress_at": 1786806952.259475,
       "max_rounds": 32,
       "mission_id": "083e6dad5d4d",
       "mission_status": "working",
@@ -44,11 +44,11 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 530906,
-      "progress_age_seconds": 2.614363431930542,
+      "progress_age_seconds": 3.154778003692627,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
-      "round": 8,
+      "round": 10,
       "route": "theory / upper constraints",
       "sid": "s-54f17ee7",
       "stage": "scope",
@@ -82,7 +82,7 @@
       "frontier_change": "uncertainty_reduced",
       "frontier_summary": "Review confirmed no accessible source/test repair and reproduced the original fatal-error/zero-exit verdict defect.",
       "git": {
-        "dirty_paths": 13,
+        "dirty_paths": 19,
         "head": "bec9e62",
         "last_commit": "Record ERFZ14 endpoint-root all-orders evidence"
       },
@@ -90,15 +90,15 @@
       "inbox_files": 2,
       "label": "B",
       "last_event": "engineer.progress",
-      "last_progress_at": 1786806323.6567395,
+      "last_progress_at": 1786806954.1129444,
       "max_rounds": 32,
-      "mission_id": "dcf174e53906",
+      "mission_id": "e0a399241360",
       "mission_status": "working",
-      "mission_title": "Derive and decide the `κ_*=0` lower endpoint saddle-node/higher-root chart for the ERFZ14 endpoint-root atlas",
+      "mission_title": "Derive and decide the `η1>0` kappa-zero saddle-node endpoint block for ERFZ14",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 2,
       "pid": 531948,
-      "progress_age_seconds": 29.978797435760498,
+      "progress_age_seconds": 1.3013086318969727,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
