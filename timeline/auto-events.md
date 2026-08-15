@@ -255,3 +255,4 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-15 13:01:56 UTC | A | `life.mission.completed` | Certify or reject the fixed `lambda=-1` first-row active-cut/regular-level chamber bound after the completed cascade |
 | 2026-08-15 13:08:48 UTC | A | `life.mission.completed` | Certify or refute the fixed `lambda=-1` first-row excluded-region regular-level bound |
 | 2026-08-15 13:31:46 UTC | A | `life.mission.completed` | Certify or reject the fixed `lambda=-1` second derivative-sharp row large-`B` regular-level ray |
+| 2026-08-15 14:53:13 UTC | B | `life.mission.completed` | Decide an actual ERFZ14 global embedding of a product-one central-saddle word |
