@@ -381,3 +381,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-16 13:28:29 UTC | B | `life.mission.completed` | Extend or reject the ERFZ14 product-one branch-split upper collar chi_L in [2.86,2.88] |
 | 2026-08-16 13:36:31 UTC | B | `life.mission.completed` | Checkpoint current certified collar, then extend or reject the ERFZ14 product-one upper collar `[2.88,2.90] |
 | 2026-08-16 13:43:20 UTC | B | `life.mission.completed` | Extend or reject the ERFZ14 product-one branch-split upper collar `chi_L ∈ [2.90,2.92] |
+| 2026-08-16 13:51:36 UTC | A | `life.mission.completed` | Checkpoint the current certified boundary, then decide the `[2,3]` all-alpha chamber for row `(2,2),(3,1) |
+| 2026-08-16 13:50:20 UTC | B | `life.mission.completed` | Extend or reject the ERFZ14 product-one branch-split upper collar `chi_L ∈ [2.92,2.94] |
