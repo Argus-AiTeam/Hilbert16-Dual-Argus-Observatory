@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-16 10:13:53 UTC",
+  "generated_at_utc": "2026-08-16 10:23:55 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -28,7 +28,7 @@
       "frontier_change": "unchanged_failure",
       "frontier_summary": "No reviewed artifact currently implements the requested escalation-boundary behavior.",
       "git": {
-        "dirty_paths": 1,
+        "dirty_paths": 3,
         "head": "6481919",
         "last_commit": "Certify row 13_31 small-B branch repairs"
       },
@@ -36,7 +36,7 @@
       "inbox_files": 2,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1786875230.303079,
+      "last_progress_at": 1786875830.8575883,
       "max_rounds": 32,
       "mission_id": "51bab9924ead",
       "mission_status": "working",
@@ -44,7 +44,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 530906,
-      "progress_age_seconds": 3.0222480297088623,
+      "progress_age_seconds": 4.335204124450684,
       "rejected_attempts": 1,
       "review_reason": "Engineer backend failed before a trustworthy completed turn; reviewer skipped. backend_failure_streak=1/2; error=terminated",
       "review_status": "continue",
@@ -82,7 +82,7 @@
       "frontier_change": "uncertainty_reduced",
       "frontier_summary": "Review confirmed no accessible source/test repair and reproduced the original fatal-error/zero-exit verdict defect.",
       "git": {
-        "dirty_paths": 292,
+        "dirty_paths": 301,
         "head": "6ca7c88",
         "last_commit": "Extend ERFZ14 branch split through chi 2.12"
       },
@@ -90,15 +90,15 @@
       "inbox_files": 2,
       "label": "B",
       "last_event": "engineer.progress",
-      "last_progress_at": 1786875162.6755905,
+      "last_progress_at": 1786875827.8172405,
       "max_rounds": 32,
-      "mission_id": "f49a4ab7cebe",
+      "mission_id": "07beffe7a3e9",
       "mission_status": "working",
-      "mission_title": "Extend or decisively obstruct the ERFZ14 product-one branch-split certificate on chi_L in [2.48,2.50]",
+      "mission_title": "Create due evidence-bearing local checkpoint commit for the certified ERFZ14 `[1.40,2.50]` state",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 2,
       "pid": 531948,
-      "progress_age_seconds": 70.64973640441895,
+      "progress_age_seconds": 7.37555193901062,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
