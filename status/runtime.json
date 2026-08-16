@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-16 15:50:05 UTC",
+  "generated_at_utc": "2026-08-16 16:00:07 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -28,7 +28,7 @@
       "frontier_change": "unchanged_failure",
       "frontier_summary": "No reviewed artifact currently implements the requested escalation-boundary behavior.",
       "git": {
-        "dirty_paths": 12,
+        "dirty_paths": 13,
         "head": "cc64a0c",
         "last_commit": "Capture current certified evidence state"
       },
@@ -36,15 +36,15 @@
       "inbox_files": 2,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1786895398.0328252,
+      "last_progress_at": 1786896002.8827033,
       "max_rounds": 32,
-      "mission_id": "43f60466b578",
+      "mission_id": "41f8fe84f89a",
       "mission_status": "working",
-      "mission_title": "Decide the right-low corridor from `lambda=509/200` toward `lambda=3` for row 22/31",
+      "mission_title": "Stratify and cross the `event425` right-low wall for row 22/31 selected tail",
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 530906,
-      "progress_age_seconds": 7.582135200500488,
+      "progress_age_seconds": 4.600420951843262,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -98,7 +98,7 @@
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 2,
       "pid": 531948,
-      "progress_age_seconds": 243.89513397216797,
+      "progress_age_seconds": 845.7632977962494,
       "rejected_attempts": 1,
       "review_reason": "Engineer requires an operator-owned decision before continuing.",
       "review_status": "blocked",
