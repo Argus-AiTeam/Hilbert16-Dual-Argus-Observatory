@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-16 14:39:52 UTC",
+  "generated_at_utc": "2026-08-16 14:44:53 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -28,7 +28,7 @@
       "frontier_change": "unchanged_failure",
       "frontier_summary": "No reviewed artifact currently implements the requested escalation-boundary behavior.",
       "git": {
-        "dirty_paths": 7,
+        "dirty_paths": 8,
         "head": "cc64a0c",
         "last_commit": "Capture current certified evidence state"
       },
@@ -36,7 +36,7 @@
       "inbox_files": 2,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1786891178.8078654,
+      "last_progress_at": 1786891411.6555948,
       "max_rounds": 32,
       "mission_id": "bb947575351e",
       "mission_status": "working",
@@ -44,7 +44,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 530906,
-      "progress_age_seconds": 13.229803562164307,
+      "progress_age_seconds": 82.29236912727356,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -90,15 +90,15 @@
       "inbox_files": 2,
       "label": "B",
       "last_event": "engineer.progress",
-      "last_progress_at": 1786891189.0447454,
+      "last_progress_at": 1786891451.4718554,
       "max_rounds": 32,
-      "mission_id": "b72f5a303dc8",
+      "mission_id": "77f4c6014cc5",
       "mission_status": "working",
-      "mission_title": "Decide existence of a parameter-coherent raw H3_14 affine-line product-one cell",
+      "mission_title": "Decide global separatrix attachment for the FQ2159 common-tuple product-one cell",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 2,
       "pid": 531948,
-      "progress_age_seconds": 2.9929234981536865,
+      "progress_age_seconds": 42.47610855102539,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
