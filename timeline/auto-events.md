@@ -377,3 +377,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-16 13:12:39 UTC | A | `life.mission.completed` | Decide the row `13_31` all-small-`B` obstruction `rank_15_key_3_minus |
 | 2026-08-16 13:14:22 UTC | B | `life.mission.completed` | Extend or reject the ERFZ14 product-one branch-split collar \(\chi_L\in[2.82,2.84]\) |
 | 2026-08-16 13:21:54 UTC | B | `life.mission.completed` | Extend or reject the ERFZ14 product-one branch-split collar `chi_L ∈ [2.84,2.86] |
+| 2026-08-16 13:28:47 UTC | A | `life.mission.completed` | Prove or decisively reject the first two-parameter nonzero-`B` chamber guard for row `(2,2),(3,1) |
+| 2026-08-16 13:28:29 UTC | B | `life.mission.completed` | Extend or reject the ERFZ14 product-one branch-split upper collar chi_L in [2.86,2.88] |
