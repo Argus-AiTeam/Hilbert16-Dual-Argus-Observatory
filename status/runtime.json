@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-16 13:59:41 UTC",
+  "generated_at_utc": "2026-08-16 14:09:43 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -36,7 +36,7 @@
       "inbox_files": 2,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1786888700.894245,
+      "last_progress_at": 1786889276.0933585,
       "max_rounds": 32,
       "mission_id": "b79741c264b0",
       "mission_status": "working",
@@ -44,7 +44,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 530906,
-      "progress_age_seconds": 80.23158168792725,
+      "progress_age_seconds": 106.94917869567871,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -82,7 +82,7 @@
       "frontier_change": "uncertainty_reduced",
       "frontier_summary": "Review confirmed no accessible source/test repair and reproduced the original fatal-error/zero-exit verdict defect.",
       "git": {
-        "dirty_paths": 76,
+        "dirty_paths": 105,
         "head": "89fec78",
         "last_commit": "Certify ERFZ14 branch split through chi 2.88"
       },
@@ -90,15 +90,15 @@
       "inbox_files": 2,
       "label": "B",
       "last_event": "engineer.progress",
-      "last_progress_at": 1786888779.4586987,
+      "last_progress_at": 1786889378.4850385,
       "max_rounds": 32,
-      "mission_id": "2afef7c15b26",
+      "mission_id": "e4d2dbc2afce",
       "mission_status": "working",
-      "mission_title": "Extend or reject the ERFZ14 product-one branch-split upper collar `chi_L ∈ [2.96,2.98]",
+      "mission_title": "Certify or reject the ERFZ14 product-one branch-split upper collar \\(\\chi_L\\in[2.98,3.00]\\)",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 2,
       "pid": 531948,
-      "progress_age_seconds": 1.6671278476715088,
+      "progress_age_seconds": 4.5574986934661865,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
