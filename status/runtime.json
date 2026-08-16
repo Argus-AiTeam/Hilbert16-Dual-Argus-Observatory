@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-16 07:48:20 UTC",
+  "generated_at_utc": "2026-08-16 08:03:22 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -28,7 +28,7 @@
       "frontier_change": "unchanged_failure",
       "frontier_summary": "No reviewed artifact currently implements the requested escalation-boundary behavior.",
       "git": {
-        "dirty_paths": 7,
+        "dirty_paths": 8,
         "head": "442d20c",
         "last_commit": "Record row 13_31 small-B finite and rejection evidence"
       },
@@ -36,15 +36,15 @@
       "inbox_files": 2,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1786866489.2741096,
+      "last_progress_at": 1786867400.9276705,
       "max_rounds": 32,
-      "mission_id": "6c3f4ba946e9",
+      "mission_id": "0b5cf5fbd2b4",
       "mission_status": "working",
-      "mission_title": "Decide the row 13_31 `rank_4_key_8_plus` all-small-B branch and continue the exact certificate route",
+      "mission_title": "Decide the row 13_31 `rank_5_key_4_plus` escaping all-small-B branch",
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 530906,
-      "progress_age_seconds": 11.392650127410889,
+      "progress_age_seconds": 1.8997995853424072,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -82,7 +82,7 @@
       "frontier_change": "uncertainty_reduced",
       "frontier_summary": "Review confirmed no accessible source/test repair and reproduced the original fatal-error/zero-exit verdict defect.",
       "git": {
-        "dirty_paths": 69,
+        "dirty_paths": 95,
         "head": "6ca7c88",
         "last_commit": "Extend ERFZ14 branch split through chi 2.12"
       },
@@ -90,7 +90,7 @@
       "inbox_files": 2,
       "label": "B",
       "last_event": "engineer.progress",
-      "last_progress_at": 1786866468.171662,
+      "last_progress_at": 1786867376.0652552,
       "max_rounds": 32,
       "mission_id": "69b2d21ed12c",
       "mission_status": "working",
@@ -98,11 +98,11 @@
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 2,
       "pid": 531948,
-      "progress_age_seconds": 32.495097637176514,
+      "progress_age_seconds": 26.76221489906311,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
-      "round": 30,
+      "round": 32,
       "route": "construction / lower bounds",
       "sid": "s-2fd8729b",
       "stage": "scope",
