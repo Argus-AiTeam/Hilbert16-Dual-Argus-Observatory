@@ -388,3 +388,4 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-16 14:13:44 UTC | B | `life.mission.completed` | Certify or reject the ERFZ14 product-one branch-split upper collar \(\chi_L\in[2.98,3.00]\) |
 | 2026-08-16 14:20:15 UTC | B | `life.mission.completed` | Promote or reject theorem-level compact continuation for the ERFZ14 product-one branch on chi_L in [1.40,3.00] |
 | 2026-08-16 14:27:23 UTC | B | `life.mission.completed` | Promote or reject the ERFZ14 regular product-one finite-cover branch as an exact-return finite-zero cell |
+| 2026-08-16 14:33:09 UTC | B | `life.mission.completed` | Decide global `H^3_14` routing for the certified regular product-one cell |
