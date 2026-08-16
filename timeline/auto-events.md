@@ -330,3 +330,4 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-16 06:51:59 UTC | A | `life.mission.completed` | Decide the genuine parameter-uniform small-B root-isolation theorem for row 13_31 |
 | 2026-08-16 07:06:14 UTC | A | `life.mission.completed` | Decide a non-affine parameter-uniform small-B certificate for row 13_31 below 1/100000 |
 | 2026-08-16 07:10:23 UTC | A | `life.mission.completed` | Create due local evidence-bearing checkpoint commit |
+| 2026-08-16 07:22:48 UTC | A | `life.mission.completed` | Decide the rank-1/all-small-B route with source-grounded parametric root isolation |
