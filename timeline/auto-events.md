@@ -385,3 +385,4 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-16 13:50:20 UTC | B | `life.mission.completed` | Extend or reject the ERFZ14 product-one branch-split upper collar `chi_L ∈ [2.92,2.94] |
 | 2026-08-16 13:58:24 UTC | B | `life.mission.completed` | Extend or reject the ERFZ14 product-one branch-split upper collar chi_L in [2.94,2.96] |
 | 2026-08-16 14:06:18 UTC | B | `life.mission.completed` | Extend or reject the ERFZ14 product-one branch-split upper collar `chi_L ∈ [2.96,2.98] |
+| 2026-08-16 14:13:44 UTC | B | `life.mission.completed` | Certify or reject the ERFZ14 product-one branch-split upper collar \(\chi_L\in[2.98,3.00]\) |
