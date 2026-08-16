@@ -374,3 +374,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-16 12:52:09 UTC | B | `life.mission.completed` | Extend or reject the ERFZ14 product-one branch-split collar `chi_L ∈ [2.76,2.78] |
 | 2026-08-16 12:59:29 UTC | B | `life.mission.completed` | Extend or reject the ERFZ14 product-one branch-split collar `chi_L ∈ [2.78,2.80] |
 | 2026-08-16 13:08:20 UTC | B | `life.mission.completed` | Extend or reject the ERFZ14 product-one branch-split collar `chi_L ∈ [2.80,2.82] |
+| 2026-08-16 13:12:39 UTC | A | `life.mission.completed` | Decide the row `13_31` all-small-`B` obstruction `rank_15_key_3_minus |
+| 2026-08-16 13:14:22 UTC | B | `life.mission.completed` | Extend or reject the ERFZ14 product-one branch-split collar \(\chi_L\in[2.82,2.84]\) |
