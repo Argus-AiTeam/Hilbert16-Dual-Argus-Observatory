@@ -343,3 +343,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-16 08:31:01 UTC | B | `life.mission.completed` | Extend or decisively obstruct the ERFZ14 product-one branch-split certificate on `chi_L in [2.28,2.30] |
 | 2026-08-16 08:42:34 UTC | A | `life.mission.completed` | Decide the row `13_31` all-small-`B` escaping branch `rank_8_key_0_minus |
 | 2026-08-16 08:42:24 UTC | B | `life.mission.completed` | Extend the ERFZ14 product-one branch-split certificate over `chi_L in [2.30,2.32] |
+| 2026-08-16 08:52:06 UTC | A | `life.mission.completed` | Decide the row `13_31` all-small-`B` escaping branch `rank_9_key_9_plus |
+| 2026-08-16 08:52:12 UTC | B | `life.mission.completed` | Extend or decisively obstruct the ERFZ14 product-one branch-split certificate on chi_L in [2.32,2.34] |
