@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-16 08:13:26 UTC",
+  "generated_at_utc": "2026-08-16 08:18:28 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -36,7 +36,7 @@
       "inbox_files": 2,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1786867985.5108929,
+      "last_progress_at": 1786868283.9440281,
       "max_rounds": 32,
       "mission_id": "cebdc1d848d0",
       "mission_status": "working",
@@ -44,7 +44,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 530906,
-      "progress_age_seconds": 21.019505262374878,
+      "progress_age_seconds": 24.48965048789978,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -82,7 +82,7 @@
       "frontier_change": "uncertainty_reduced",
       "frontier_summary": "Review confirmed no accessible source/test repair and reproduced the original fatal-error/zero-exit verdict defect.",
       "git": {
-        "dirty_paths": 121,
+        "dirty_paths": 136,
         "head": "6ca7c88",
         "last_commit": "Extend ERFZ14 branch split through chi 2.12"
       },
@@ -90,15 +90,15 @@
       "inbox_files": 2,
       "label": "B",
       "last_event": "engineer.progress",
-      "last_progress_at": 1786867999.0183706,
+      "last_progress_at": 1786868282.5063345,
       "max_rounds": 32,
-      "mission_id": "878b8255ea9c",
+      "mission_id": "a1a23c83eb5a",
       "mission_status": "working",
-      "mission_title": "Extend or decisively obstruct the ERFZ14 product-one branch-split certificate on `chi_L in [2.24,2.26]",
+      "mission_title": "Extend or decisively obstruct the ERFZ14 product-one branch-split certificate on `chi_L in [2.26,2.28]",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 2,
       "pid": 531948,
-      "progress_age_seconds": 7.5120275020599365,
+      "progress_age_seconds": 25.92734408378601,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
