@@ -335,3 +335,4 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-16 07:45:45 UTC | A | `life.mission.completed` | Resolve the row 13_31 `rank_3_key_0_plus` all-small-B branch and continue the exact branch-certificate decision |
 | 2026-08-16 07:58:22 UTC | A | `life.mission.completed` | Decide the row 13_31 `rank_4_key_8_plus` all-small-B branch and continue the exact certificate route |
 | 2026-08-16 08:07:56 UTC | B | `life.mission.completed` | Build or reject a proof-grade q-passage residual certificate for the regular product-one C3 branch |
+| 2026-08-16 08:11:11 UTC | A | `life.mission.completed` | Decide the row 13_31 `rank_5_key_4_plus` escaping all-small-B branch |
