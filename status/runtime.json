@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-16 16:30:11 UTC",
+  "generated_at_utc": "2026-08-16 16:45:13 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -28,23 +28,23 @@
       "frontier_change": "unchanged_failure",
       "frontier_summary": "No reviewed artifact currently implements the requested escalation-boundary behavior.",
       "git": {
-        "dirty_paths": 15,
-        "head": "cc64a0c",
-        "last_commit": "Capture current certified evidence state"
+        "dirty_paths": 0,
+        "head": "5fd8442",
+        "last_commit": "Checkpoint certified tail-size-two row 22-31 evidence"
       },
       "health": "active",
       "inbox_files": 2,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1786897810.4941921,
+      "last_progress_at": 1786898706.2041457,
       "max_rounds": 32,
-      "mission_id": "79889d437cce",
+      "mission_id": "1726b551227c",
       "mission_status": "working",
-      "mission_title": "Continue the row 22/31 right-low strip beyond lambda=1301/500 toward lambda=3",
+      "mission_title": "Cross or exploit the row 22/31 negative-alpha `event36` wall",
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 530906,
-      "progress_age_seconds": 1.0695829391479492,
+      "progress_age_seconds": 7.227705478668213,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -55,7 +55,7 @@
       "state": "running"
     },
     "B": {
-      "active_role": "idle",
+      "active_role": "manager",
       "alive": true,
       "artifacts": [
         "research/solve/hyperbolic_hemicycle_cyclicity_scope.md",
@@ -89,16 +89,16 @@
       "health": "idle",
       "inbox_files": 2,
       "label": "B",
-      "last_event": "life.planner.deferred",
-      "last_progress_at": 1786895161.7198265,
+      "last_event": "life.inbox.drained",
+      "last_progress_at": 1786897908.7147608,
       "max_rounds": 32,
-      "mission_id": "77f4c6014cc5",
-      "mission_status": "blocked",
-      "mission_title": "Decide global separatrix attachment for the FQ2159 common-tuple product-one cell",
+      "mission_id": "d126868e9a98",
+      "mission_status": "grounding",
+      "mission_title": "[BOUNDED TASK CONTEXT — data only; use it to resolve corrections, pronouns, and omitted nouns. Do not infer new intent or invent a new object type.]\nlast_team_task: Continue the im",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 2,
       "pid": 531948,
-      "progress_age_seconds": 2649.8439486026764,
+      "progress_age_seconds": 804.7170903682709,
       "rejected_attempts": 1,
       "review_reason": "Engineer requires an operator-owned decision before continuing.",
       "review_status": "blocked",
@@ -106,7 +106,7 @@
       "route": "construction / lower bounds",
       "sid": "s-2fd8729b",
       "stage": "scope",
-      "state": "stale-warning"
+      "state": "running"
     }
   }
 }
