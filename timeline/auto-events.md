@@ -312,3 +312,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-16 01:29:51 UTC | B | `life.mission.completed` | Decide theorem-level continuum sign for the regular product-one `C3_prod` atlas |
 | 2026-08-16 01:37:18 UTC | B | `life.mission.completed` | Build or decisively reject a validated interval/Taylor-model C3 branch certificate |
 | 2026-08-16 01:42:20 UTC | A | `life.mission.completed` | Decide the exact-threshold row `T={(1,3),(3,1)}` by parameter-aware derivative-sharpness analysis |
+| 2026-08-16 01:53:34 UTC | A | `life.mission.completed` | Build or refute the corrected one-sided multiscale chamber for the derivative-sharp row `T={(1,3),(3,1)} |
+| 2026-08-16 01:57:40 UTC | B | `life.mission.completed` | Build or reject a proof-grade inverse saddle-node block certificate for the regular product-one `C3` interval branch |
