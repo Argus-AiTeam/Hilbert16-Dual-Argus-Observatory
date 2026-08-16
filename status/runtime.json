@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-16 12:24:18 UTC",
+  "generated_at_utc": "2026-08-16 12:34:20 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -28,7 +28,7 @@
       "frontier_change": "unchanged_failure",
       "frontier_summary": "No reviewed artifact currently implements the requested escalation-boundary behavior.",
       "git": {
-        "dirty_paths": 23,
+        "dirty_paths": 24,
         "head": "04ecfc0",
         "last_commit": "Certify row 13_31 rank18 small-u branch"
       },
@@ -36,7 +36,7 @@
       "inbox_files": 2,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1786883046.4398959,
+      "last_progress_at": 1786883652.7134404,
       "max_rounds": 32,
       "mission_id": "51bab9924ead",
       "mission_status": "working",
@@ -44,11 +44,11 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 530906,
-      "progress_age_seconds": 12.103614330291748,
+      "progress_age_seconds": 7.567117929458618,
       "rejected_attempts": 1,
       "review_reason": "Engineer backend failed before a trustworthy completed turn; reviewer skipped. backend_failure_streak=1/2; error=terminated",
       "review_status": "continue",
-      "round": 26,
+      "round": 28,
       "route": "theory / upper constraints",
       "sid": "s-54f17ee7",
       "stage": "scope",
@@ -82,7 +82,7 @@
       "frontier_change": "uncertainty_reduced",
       "frontier_summary": "Review confirmed no accessible source/test repair and reproduced the original fatal-error/zero-exit verdict defect.",
       "git": {
-        "dirty_paths": 187,
+        "dirty_paths": 196,
         "head": "2c56435",
         "last_commit": "Certify ERFZ14 product-one coverage through chi [1.40,2.50]"
       },
@@ -90,15 +90,15 @@
       "inbox_files": 2,
       "label": "B",
       "last_event": "engineer.progress",
-      "last_progress_at": 1786882984.8617277,
+      "last_progress_at": 1786883660.072316,
       "max_rounds": 32,
-      "mission_id": "822671e3dc4e",
+      "mission_id": "228e0276316c",
       "mission_status": "working",
-      "mission_title": "Extend or reject the ERFZ14 product-one branch-split collar `chi_L∈[2.72,2.74]",
+      "mission_title": "Extend or reject the ERFZ14 product-one branch-split collar `chi_L∈[2.74,2.76]",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 2,
       "pid": 531948,
-      "progress_age_seconds": 73.68178248405457,
+      "progress_age_seconds": 0.20824241638183594,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
