@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-16 17:15:15 UTC",
+  "generated_at_utc": "2026-08-16 17:30:17 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -28,7 +28,7 @@
       "frontier_change": "unchanged_failure",
       "frontier_summary": "No reviewed artifact currently implements the requested escalation-boundary behavior.",
       "git": {
-        "dirty_paths": 0,
+        "dirty_paths": 5,
         "head": "d7966cb",
         "last_commit": "Cross row 22-31 event36 cluster"
       },
@@ -36,15 +36,15 @@
       "inbox_files": 2,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1786900514.308481,
+      "last_progress_at": 1786901417.3453562,
       "max_rounds": 32,
-      "mission_id": "1fb37dfe5e30",
+      "mission_id": "61208f9ca946",
       "mission_status": "working",
-      "mission_title": "Continue the row 22/31 right-low strip beyond lambda=26073/10000 toward lambda=3",
+      "mission_title": "Resolve and cross or reject the row 22/31 event227 wall",
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 530906,
-      "progress_age_seconds": 1.5244457721710205,
+      "progress_age_seconds": 0.49546146392822266,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -98,7 +98,7 @@
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 2,
       "pid": 531948,
-      "progress_age_seconds": 2607.1181659698486,
+      "progress_age_seconds": 3509.126056909561,
       "rejected_attempts": 1,
       "review_reason": "Engineer requires an operator-owned decision before continuing.",
       "review_status": "blocked",
