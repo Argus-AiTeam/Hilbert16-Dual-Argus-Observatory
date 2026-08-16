@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-16 23:26:10 UTC",
+  "generated_at_utc": "2026-08-16 23:41:12 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -28,7 +28,7 @@
       "frontier_change": "unchanged_failure",
       "frontier_summary": "No reviewed artifact currently implements the requested escalation-boundary behavior.",
       "git": {
-        "dirty_paths": 17,
+        "dirty_paths": 18,
         "head": "8794fdd",
         "last_commit": "certify row 22/31 event256 successor to event66 blocker"
       },
@@ -36,15 +36,15 @@
       "inbox_files": 2,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1786922767.1936724,
+      "last_progress_at": 1786923670.624379,
       "max_rounds": 32,
-      "mission_id": "d89d642a019d",
+      "mission_id": "1bb780e83ec6",
       "mission_status": "working",
-      "mission_title": "Certify the row 22/31 post-lambda=3 event526 cap/successor wall",
+      "mission_title": "Decide the row 22/31 post-event526 event638 successor boundary",
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 530906,
-      "progress_age_seconds": 3.0496928691864014,
+      "progress_age_seconds": 1.5747032165527344,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -98,7 +98,7 @@
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 2,
       "pid": 531948,
-      "progress_age_seconds": 3248.909721851349,
+      "progress_age_seconds": 4150.865438699722,
       "rejected_attempts": 1,
       "review_reason": "Engineer requires an operator-owned decision before continuing.",
       "review_status": "blocked",
