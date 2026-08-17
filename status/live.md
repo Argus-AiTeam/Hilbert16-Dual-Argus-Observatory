@@ -3,12 +3,12 @@
 > Generated deterministically from Argus durable state. No model writes this page, and it carries no cross-process solution transfer.
 > 本页面由确定性监控器根据 Argus 持久状态生成，不由模型写入，也不承担跨进程解题内容传递。
 
-**Updated / 更新时间:** 2026-08-17 10:12:28 UTC
+**Updated / 更新时间:** 2026-08-17 10:22:30 UTC
 
 | Seat | State | Stage | Active role | Round | Current mission | Review | Since semantic progress |
 |---|---|---|---|---:|---|---|---:|
-| A | running | `scope` | engineer | 1/32 | Decide the row 22/31 post-event493 event496 negative/zero-I2 successor … | none | 7s |
-| B | running | `scope` | idle | 6/32 | Decide joint \(w\to0\) cyclicity of the collapsed product-one hemicycle | blocked | 12m |
+| A | running | `scope` | engineer | 1/32 | Decide the row 22/31 post-event496/event627 event498 negative/zero-I2 s… | none | 1s |
+| B | running | `scope` | idle | 6/32 | Decide joint \(w\to0\) cyclicity of the collapsed product-one hemicycle | blocked | 22m |
 
 **Isolation integrity / 隔离完整性:** ✅ immutable controls match
 
@@ -17,11 +17,11 @@
 - **Session / PID:** `s-54f17ee7` / `530906`
 - **Route:** theory / upper constraints
 - **Models:** Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro
-- **Mission:** Decide the row 22/31 post-event493 event496 negative/zero-I2 successor boundary
+- **Mission:** Decide the row 22/31 post-event496/event627 event498 negative/zero-I2 successor boundary
 - **Reviewer state:** `none`; rejected attempts: 0
 - **Frontier signal:** No reviewed artifact currently implements the requested escalation-boundary behavior.
 - **Research artifacts present:** `research/BOUNDED_RETURN_BLOCKS.md`, `research/CONFIGURATION_DEPTH.md`, `research/CONFIGURATION_WIDTH.md`, `research/DEGREE_RAISING.md`, `research/DULAC_POLYCYCLE_ROUTE_VERDICT.md`, `research/FIXED_DEGREE_REALIZATION.md`, `research/HILBERT_LOWER_BOUNDS.md`, `research/I6B_BOUNDED_COMPLEXITY_ZERO_COUNT.md`, `research/LOCAL_TO_GLOBAL.md`, `research/PIPELINE_STATE.json`, `research/PROOF_GRAPH.json`, `research/QUADRATIC_BASE_CASE.md`, `research/ROUTE_LEDGER.json`, `research/SCOPE.md`, `research/STATIONARY_EQUATOR_SLOW_FAST.md`, `research/UNIFORM_RETURN_VALENCY.md`, `research/UNIVERSAL_PAIR_BLOWUP.md`, `research/ZHU_EHP2B_VERDICT.md`
-- **Git:** `2146bbd` · 14 changed path(s) · Advance LRS row to event489 blocker
+- **Git:** `2146bbd` · 15 changed path(s) · Advance LRS row to event489 blocker
 - **Broker mailboxes:** inbox 4 · outbox 3
 
 ### Argus B
