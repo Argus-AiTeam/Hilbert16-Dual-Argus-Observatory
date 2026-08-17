@@ -434,3 +434,4 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-16 23:39:19 UTC | A | `life.mission.completed` | Certify the row 22/31 post-lambda=3 event526 cap/successor wall |
 | 2026-08-16 23:56:33 UTC | A | `life.mission.completed` | Decide the row 22/31 post-event526 event638 successor boundary |
 | 2026-08-17 00:08:12 UTC | A | `life.mission.completed` | Decide the row 22/31 post-event638 event606 successor boundary |
+| 2026-08-17 00:21:10 UTC | A | `life.mission.completed` | Checkpoint the certified event606 state, then decide the row 22/31 event50 successor boundary |
