@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-17 08:07:01 UTC",
+  "generated_at_utc": "2026-08-17 08:12:03 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -36,7 +36,7 @@
       "inbox_files": 4,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1786954019.5194216,
+      "last_progress_at": 1786954294.3937833,
       "max_rounds": 32,
       "mission_id": "cf0d95556103",
       "mission_status": "working",
@@ -44,7 +44,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 530906,
-      "progress_age_seconds": 2.255971908569336,
+      "progress_age_seconds": 29.443885564804077,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -82,7 +82,7 @@
       "frontier_change": "uncertainty_reduced",
       "frontier_summary": "Compact D=0, N-separated turning passages have moved from local/two-jet compatibility to a conditional all-orders exact-return and finite-zero insertion theorem.",
       "git": {
-        "dirty_paths": 161,
+        "dirty_paths": 162,
         "head": "dd9e1c0",
         "last_commit": "Prove collapsed no-real product-one return"
       },
@@ -90,15 +90,15 @@
       "inbox_files": 2,
       "label": "B",
       "last_event": "engineer.progress",
-      "last_progress_at": 1786954017.2462242,
+      "last_progress_at": 1786954314.2962728,
       "max_rounds": 32,
-      "mission_id": "5d784227d10b",
+      "mission_id": "024326f2dd29",
       "mission_status": "working",
-      "mission_title": "Close the collapsed no-real product-one hemicycle under all quadratic perturbations",
+      "mission_title": "Independently certify the Hilbert number and configuration conventions",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 1084554,
-      "progress_age_seconds": 4.529169321060181,
+      "progress_age_seconds": 9.541396141052246,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
