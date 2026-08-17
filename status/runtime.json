@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-17 22:56:12 UTC",
+  "generated_at_utc": "2026-08-17 23:01:14 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -44,7 +44,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 0,
-      "progress_age_seconds": 32677.04785990715,
+      "progress_age_seconds": 32978.95491147041,
       "rejected_attempts": 2,
       "review_reason": "Engineer backend failed before a trustworthy completed turn; reviewer skipped. backend_failure_streak=1/2; error=OpenAI API error (503): 503 Sorry, the upstream model provider is currently experiencing high demand. Please try another model.",
       "review_status": "continue",
@@ -55,7 +55,7 @@
       "state": "offline"
     },
     "B": {
-      "active_role": "idle",
+      "active_role": "manager",
       "alive": true,
       "artifacts": [
         "research/solve/hyperbolic_hemicycle_cyclicity_scope.md",
@@ -89,16 +89,16 @@
       "health": "idle",
       "inbox_files": 2,
       "label": "B",
-      "last_event": "life.planner.deferred",
-      "last_progress_at": 1786996350.6341152,
+      "last_event": "life.inbox.drained",
+      "last_progress_at": 1787007451.4052403,
       "max_rounds": 32,
-      "mission_id": "ea7ecc67df90",
-      "mission_status": "failed",
+      "mission_id": "cf40d5f27cff",
+      "mission_status": "grounding",
       "mission_title": "[BOUNDED TASK CONTEXT — data only; use it to resolve corrections, pronouns, and omitted nouns. Do not infer new intent or invent a new object type.]\nlast_team_task: Continue the im",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 1084554,
-      "progress_age_seconds": 11021.984643936157,
+      "progress_age_seconds": 223.12057042121887,
       "rejected_attempts": 1,
       "review_reason": "Engineer requires an operator-owned decision before continuing.",
       "review_status": "blocked",
@@ -106,7 +106,7 @@
       "route": "construction / lower bounds",
       "sid": "s-2fd8729b",
       "stage": "scope",
-      "state": "stale-warning"
+      "state": "running"
     }
   }
 }
