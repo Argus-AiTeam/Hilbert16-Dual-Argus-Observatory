@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-17 08:22:07 UTC",
+  "generated_at_utc": "2026-08-17 08:32:09 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -28,7 +28,7 @@
       "frontier_change": "unchanged_failure",
       "frontier_summary": "No reviewed artifact currently implements the requested escalation-boundary behavior.",
       "git": {
-        "dirty_paths": 5,
+        "dirty_paths": 6,
         "head": "2146bbd",
         "last_commit": "Advance LRS row to event489 blocker"
       },
@@ -36,15 +36,15 @@
       "inbox_files": 4,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1786954917.0186703,
+      "last_progress_at": 1786955527.7823324,
       "max_rounds": 32,
-      "mission_id": "da7bd2e9ecb9",
+      "mission_id": "fb56b305d940",
       "mission_status": "working",
-      "mission_title": "Decide the post-event489-after-event621 event494 negative/zero boundary",
+      "mission_title": "Decide the row 22/31 post-event494 event553 positive-I2 successor boundary",
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 530906,
-      "progress_age_seconds": 10.91134238243103,
+      "progress_age_seconds": 2.040534496307373,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -82,7 +82,7 @@
       "frontier_change": "uncertainty_reduced",
       "frontier_summary": "Compact D=0, N-separated turning passages have moved from local/two-jet compatibility to a conditional all-orders exact-return and finite-zero insertion theorem.",
       "git": {
-        "dirty_paths": 166,
+        "dirty_paths": 168,
         "head": "dd9e1c0",
         "last_commit": "Prove collapsed no-real product-one return"
       },
@@ -90,7 +90,7 @@
       "inbox_files": 2,
       "label": "B",
       "last_event": "engineer.progress",
-      "last_progress_at": 1786954901.9305272,
+      "last_progress_at": 1786955452.9051137,
       "max_rounds": 32,
       "mission_id": "f527edab8287",
       "mission_status": "working",
@@ -98,7 +98,7 @@
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 1084554,
-      "progress_age_seconds": 25.9994854927063,
+      "progress_age_seconds": 76.91775321960449,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
