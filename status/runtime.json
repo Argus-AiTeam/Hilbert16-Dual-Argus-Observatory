@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-17 19:55:02 UTC",
+  "generated_at_utc": "2026-08-17 20:00:04 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -44,7 +44,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 0,
-      "progress_age_seconds": 21807.225848197937,
+      "progress_age_seconds": 22109.334478139877,
       "rejected_attempts": 2,
       "review_reason": "Engineer backend failed before a trustworthy completed turn; reviewer skipped. backend_failure_streak=1/2; error=OpenAI API error (503): 503 Sorry, the upstream model provider is currently experiencing high demand. Please try another model.",
       "review_status": "continue",
@@ -55,7 +55,7 @@
       "state": "offline"
     },
     "B": {
-      "active_role": "idle",
+      "active_role": "manager",
       "alive": true,
       "artifacts": [
         "research/solve/hyperbolic_hemicycle_cyclicity_scope.md",
@@ -82,9 +82,9 @@
       "frontier_change": "uncertainty_reduced",
       "frontier_summary": "Compact D=0, N-separated turning passages have moved from local/two-jet compatibility to a conditional all-orders exact-return and finite-zero insertion theorem.",
       "git": {
-        "dirty_paths": 176,
-        "head": "dd9e1c0",
-        "last_commit": "Prove collapsed no-real product-one return"
+        "dirty_paths": 12,
+        "head": "d210470",
+        "last_commit": "Checkpoint joint-limit cyclicity investigation"
       },
       "health": "idle",
       "inbox_files": 2,
@@ -92,13 +92,13 @@
       "last_event": "life.inbox.drained",
       "last_progress_at": 1786996350.6341152,
       "max_rounds": 32,
-      "mission_id": "4b3c6881a45e",
-      "mission_status": "failed",
+      "mission_id": "ea7ecc67df90",
+      "mission_status": "grounding",
       "mission_title": "[BOUNDED TASK CONTEXT — data only; use it to resolve corrections, pronouns, and omitted nouns. Do not infer new intent or invent a new object type.]\nlast_team_task: Continue the im",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 1084554,
-      "progress_age_seconds": 152.16263222694397,
+      "progress_age_seconds": 454.2712621688843,
       "rejected_attempts": 1,
       "review_reason": "Engineer requires an operator-owned decision before continuing.",
       "review_status": "blocked",
