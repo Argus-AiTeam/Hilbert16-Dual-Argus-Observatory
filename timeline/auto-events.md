@@ -451,3 +451,4 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-17 06:46:26 UTC | B | `life.mission.completed` | Decide the ERFZ14 central-discriminant collision and adjacent real-root endpoint-saddle-node sector |
 | 2026-08-17 06:56:22 UTC | B | `life.mission.completed` | Decide the boundary-pinned one-sided ERFZ14 endpoint saddle-node stratum |
 | 2026-08-17 07:13:09 UTC | B | `life.mission.completed` | Decide the ERFZ14 \(\delta\ne0\) endpoint-saddle-node exact-side-hit stratum |
+| 2026-08-17 07:41:45 UTC | B | `life.mission.completed` | Decide the ERFZ14 no-real-margin-collapse product-one endpoint cell |
