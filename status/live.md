@@ -3,18 +3,18 @@
 > Generated deterministically from Argus durable state. No model writes this page, and it carries no cross-process solution transfer.
 > 本页面由确定性监控器根据 Argus 持久状态生成，不由模型写入，也不承担跨进程解题内容传递。
 
-**Updated / 更新时间:** 2026-08-17 13:52:42 UTC
+**Updated / 更新时间:** 2026-08-17 14:07:45 UTC
 
 | Seat | State | Stage | Active role | Round | Current mission | Review | Since semantic progress |
 |---|---|---|---|---:|---|---|---:|
-| A | running | `scope` | idle | 14/32 | Decide the row 22/31 post-event542 event522 positive-I2 successor bound… | continue | 1m |
-| B | running | `scope` | idle | 6/32 | [BOUNDED TASK CONTEXT — data only; use it to resolve corrections, prono… | blocked | 16s |
+| A | offline | `scope` | idle | 14/32 | Decide the row 22/31 post-event542 event522 positive-I2 successor bound… | continue | 16m |
+| B | running | `scope` | idle | 6/32 | [BOUNDED TASK CONTEXT — data only; use it to resolve corrections, prono… | blocked | 15m |
 
 **Isolation integrity / 隔离完整性:** ✅ immutable controls match
 
 ### Argus A
 
-- **Session / PID:** `s-54f17ee7` / `530906`
+- **Session / PID:** `s-54f17ee7` / `0`
 - **Route:** theory / upper constraints
 - **Models:** Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro
 - **Mission:** Decide the row 22/31 post-event542 event522 positive-I2 successor boundary

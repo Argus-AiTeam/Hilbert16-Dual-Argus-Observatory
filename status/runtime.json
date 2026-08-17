@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": "2026-08-17 13:52:42 UTC",
+  "generated_at_utc": "2026-08-17 14:07:45 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
       "active_role": "idle",
-      "alive": true,
+      "alive": false,
       "artifacts": [
         "research/BOUNDED_RETURN_BLOCKS.md",
         "research/CONFIGURATION_DEPTH.md",
@@ -43,8 +43,8 @@
       "mission_title": "Decide the row 22/31 post-event542 event522 positive-I2 successor boundary",
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
-      "pid": 530906,
-      "progress_age_seconds": 67.15860509872437,
+      "pid": 0,
+      "progress_age_seconds": 969.4353013038635,
       "rejected_attempts": 2,
       "review_reason": "Engineer backend failed before a trustworthy completed turn; reviewer skipped. backend_failure_streak=1/2; error=OpenAI API error (503): 503 Sorry, the upstream model provider is currently experiencing high demand. Please try another model.",
       "review_status": "continue",
@@ -52,7 +52,7 @@
       "route": "theory / upper constraints",
       "sid": "s-54f17ee7",
       "stage": "scope",
-      "state": "running"
+      "state": "offline"
     },
     "B": {
       "active_role": "idle",
@@ -89,7 +89,7 @@
       "health": "idle",
       "inbox_files": 2,
       "label": "B",
-      "last_event": "life.inbox.drained",
+      "last_event": "life.planner.deferred",
       "last_progress_at": 1786974745.7519286,
       "max_rounds": 32,
       "mission_id": "4b3c6881a45e",
@@ -98,7 +98,7 @@
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 1084554,
-      "progress_age_seconds": 16.97757577896118,
+      "progress_age_seconds": 919.2542719841003,
       "rejected_attempts": 1,
       "review_reason": "Engineer requires an operator-owned decision before continuing.",
       "review_status": "blocked",
