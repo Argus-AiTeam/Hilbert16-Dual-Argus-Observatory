@@ -1,9 +1,9 @@
 {
-  "generated_at_utc": "2026-08-17 00:21:18 UTC",
+  "generated_at_utc": "2026-08-17 00:31:20 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
-      "active_role": "planner",
+      "active_role": "engineer",
       "alive": true,
       "artifacts": [
         "research/BOUNDED_RETURN_BLOCKS.md",
@@ -35,19 +35,19 @@
       "health": "active",
       "inbox_files": 2,
       "label": "A",
-      "last_event": "life.planner.start",
-      "last_progress_at": 1786926071.013745,
+      "last_event": "engineer.progress",
+      "last_progress_at": 1786926604.0938299,
       "max_rounds": 32,
-      "mission_id": "3fcde35e08ef",
-      "mission_status": "complete",
-      "mission_title": "Checkpoint the certified event606 state, then decide the row 22/31 event50 successor boundary",
+      "mission_id": "7af989835e20",
+      "mission_status": "working",
+      "mission_title": "Decide the row 22/31 post-event50 event208 successor boundary",
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 530906,
-      "progress_age_seconds": 7.5978758335113525,
+      "progress_age_seconds": 76.40129280090332,
       "rejected_attempts": 0,
-      "review_reason": "Engineer reported the requested milestone complete; independent review was not required for this mission.",
-      "review_status": "done",
+      "review_reason": "",
+      "review_status": "none",
       "round": 1,
       "route": "theory / upper constraints",
       "sid": "s-54f17ee7",
@@ -56,7 +56,7 @@
     },
     "B": {
       "active_role": "idle",
-      "alive": true,
+      "alive": false,
       "artifacts": [
         "research/solve/hyperbolic_hemicycle_cyclicity_scope.md",
         "research/solve/mixed_infinity_darboux_abelian_span.md",
@@ -97,8 +97,8 @@
       "mission_title": "[BOUNDED TASK CONTEXT — data only; use it to resolve corrections, pronouns, and omitted nouns. Do not infer new intent or invent a new object type.]\nlast_team_task: Continue the im",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 2,
-      "pid": 531948,
-      "progress_age_seconds": 6557.277977466583,
+      "pid": 0,
+      "progress_age_seconds": 7159.161479234695,
       "rejected_attempts": 1,
       "review_reason": "Engineer requires an operator-owned decision before continuing.",
       "review_status": "blocked",
@@ -106,7 +106,7 @@
       "route": "construction / lower bounds",
       "sid": "s-2fd8729b",
       "stage": "scope",
-      "state": "stale-warning"
+      "state": "offline"
     }
   }
 }
