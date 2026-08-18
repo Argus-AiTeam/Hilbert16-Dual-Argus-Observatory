@@ -3,12 +3,12 @@
 > Generated deterministically from Argus durable state. No model writes this page, and it carries no cross-process solution transfer.
 > 本页面由确定性监控器根据 Argus 持久状态生成，不由模型写入，也不承担跨进程解题内容传递。
 
-**Updated / 更新时间:** 2026-08-18 02:02:22 UTC
+**Updated / 更新时间:** 2026-08-18 02:07:24 UTC
 
 | Seat | State | Stage | Active role | Round | Current mission | Review | Since semantic progress |
 |---|---|---|---|---:|---|---|---:|
-| A | offline | `scope` | idle | 14/32 | Decide the row 22/31 post-event542 event522 positive-I2 successor bound… | continue | 12.2h |
-| B | running | `scope` | manager | 6/32 | [BOUNDED TASK CONTEXT — data only; use it to resolve corrections, prono… | blocked | 4m |
+| A | offline | `scope` | idle | 14/32 | Decide the row 22/31 post-event542 event522 positive-I2 successor bound… | continue | 12.3h |
+| B | running | `scope` | manager | 6/32 | [BOUNDED TASK CONTEXT — data only; use it to resolve corrections, prono… | blocked | 9m |
 
 **Isolation integrity / 隔离完整性:** ✅ immutable controls match
 
