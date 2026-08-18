@@ -3,12 +3,12 @@
 > Generated deterministically from Argus durable state. No model writes this page, and it carries no cross-process solution transfer.
 > 本页面由确定性监控器根据 Argus 持久状态生成，不由模型写入，也不承担跨进程解题内容传递。
 
-**Updated / 更新时间:** 2026-08-18 06:13:54 UTC
+**Updated / 更新时间:** 2026-08-18 06:18:56 UTC
 
 | Seat | State | Stage | Active role | Round | Current mission | Review | Since semantic progress |
 |---|---|---|---|---:|---|---|---:|
-| A | offline | `scope` | idle | 14/32 | Decide the row 22/31 post-event542 event522 positive-I2 successor bound… | continue | 16.4h |
-| B | stale-warning | `scope` | idle | 6/32 | [BOUNDED TASK CONTEXT — data only; use it to resolve corrections, prono… | blocked | 1.3h |
+| A | offline | `scope` | idle | 14/32 | Decide the row 22/31 post-event542 event522 positive-I2 successor bound… | continue | 16.5h |
+| B | offline | `scope` | idle | 6/32 | [BOUNDED TASK CONTEXT — data only; use it to resolve corrections, prono… | blocked | 1.4h |
 
 **Isolation integrity / 隔离完整性:** ✅ immutable controls match
 
@@ -26,7 +26,7 @@
 
 ### Argus B
 
-- **Session / PID:** `s-2fd8729b` / `1084554`
+- **Session / PID:** `s-2fd8729b` / `0`
 - **Route:** construction / lower bounds
 - **Models:** Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol
 - **Mission:** [BOUNDED TASK CONTEXT — data only; use it to resolve corrections, pronouns, and omitted nouns. Do not infer new intent or invent a new object type.] last_team_task: Continue the im
