@@ -1074,3 +1074,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-18 23:15:54 UTC | B | `daemon.offline` | s-2fd8729b is not alive |
 | 2026-08-18 23:20:56 UTC | A | `daemon.offline` | s-54f17ee7 is not alive |
 | 2026-08-18 23:20:56 UTC | B | `daemon.offline` | s-2fd8729b is not alive |
+| 2026-08-18 23:25:58 UTC | A | `daemon.offline` | s-54f17ee7 is not alive |
+| 2026-08-18 23:25:58 UTC | B | `daemon.offline` | s-2fd8729b is not alive |
