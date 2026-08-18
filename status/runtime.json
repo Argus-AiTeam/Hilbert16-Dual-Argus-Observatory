@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-18 05:38:41 UTC",
+  "generated_at_utc": "2026-08-18 05:43:43 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -44,7 +44,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 0,
-      "progress_age_seconds": 56825.96203970909,
+      "progress_age_seconds": 57127.87477493286,
       "rejected_attempts": 2,
       "review_reason": "Engineer backend failed before a trustworthy completed turn; reviewer skipped. backend_failure_streak=1/2; error=OpenAI API error (503): 503 Sorry, the upstream model provider is currently experiencing high demand. Please try another model.",
       "review_status": "continue",
@@ -98,7 +98,7 @@
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 1084554,
-      "progress_age_seconds": 2461.4939243793488,
+      "progress_age_seconds": 2763.406659603119,
       "rejected_attempts": 1,
       "review_reason": "Engineer requires an operator-owned decision before continuing.",
       "review_status": "blocked",
