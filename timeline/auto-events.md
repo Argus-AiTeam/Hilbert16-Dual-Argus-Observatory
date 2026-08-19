@@ -1376,3 +1376,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-19 11:57:34 UTC | B | `life.manager.stage_decision` | Scope checklist is supported: targeted full Hilbert XVI-II goal is recorded, conventions and configuration objects are … |
 | 2026-08-19 12:14:45 UTC | B | `life.mission.completed` | Prove effective outer overlap for collapsed-center Binet curvature |
 | 2026-08-19 12:15:50 UTC | B | `life.manager.stage_decision` | FQ2461 is reviewed proof-grade progress, but it is explicitly partial: the effective outer overlap beyond h=9.65, the g… |
+| 2026-08-19 12:17:42 UTC | A | `life.mission.completed` | Decide event567 positive-I2 successor |
+| 2026-08-19 12:18:57 UTC | A | `life.manager.stage_decision` | The event567 solve checkpoint is accepted, but the global objective remains unresolved and the next load-bearing work i… |
