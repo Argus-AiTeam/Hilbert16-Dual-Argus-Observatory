@@ -3,12 +3,12 @@
 > Generated deterministically from Argus durable state. No model writes this page, and it carries no cross-process solution transfer.
 > 本页面由确定性监控器根据 Argus 持久状态生成，不由模型写入，也不承担跨进程解题内容传递。
 
-**Updated / 更新时间:** 2026-08-19 21:42:45 UTC
+**Updated / 更新时间:** 2026-08-19 21:47:47 UTC
 
 | Seat | State | Stage | Active role | Round | Current mission | Review | Since semantic progress |
 |---|---|---|---|---:|---|---|---:|
-| A | running | `solve` | engineer | 1/32 | Certify event233 bottom-entry successor | none | 2s |
-| B | running | `solve` | planner | 1/32 | Solve parameter-coherent exterior attachment equations | done | 15s |
+| A | running | `solve` | reviewer | 1/32 | Certify event233 bottom-entry successor | none | 2m |
+| B | running | `solve` | planner | 1/32 | Solve parameter-coherent exterior attachment equations | done | 1m |
 
 **Isolation integrity / 隔离完整性:** ✅ immutable controls match
 
