@@ -1421,3 +1421,6 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-19 14:42:03 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
 | 2026-08-19 14:51:13 UTC | A | `life.mission.completed` | Certify event519 top-exit successor after event539 |
 | 2026-08-19 14:52:22 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-19 14:58:50 UTC | A | `life.mission.completed` | Review event519 top-exit certificate |
+| 2026-08-19 14:57:19 UTC | B | `life.mission.completed` | Certify or refute the ERFZ14 derivative Binet scalar on the compact middle annulus |
+| 2026-08-19 14:57:57 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
