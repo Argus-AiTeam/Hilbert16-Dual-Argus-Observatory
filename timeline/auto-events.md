@@ -1442,3 +1442,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-19 19:55:43 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
 | 2026-08-19 20:02:53 UTC | B | `life.mission.completed` | Prove tail smallness after sign-definite Kfin principalization |
 | 2026-08-19 20:03:59 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-19 20:09:06 UTC | A | `life.mission.completed` | Certify event578 top-entry successor after event522/event229 |
+| 2026-08-19 20:09:39 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
