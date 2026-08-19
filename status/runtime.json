@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-19 18:06:59 UTC",
+  "generated_at_utc": "2026-08-19 19:27:03 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -28,34 +28,34 @@
       "frontier_change": "",
       "frontier_summary": "",
       "git": {
-        "dirty_paths": 39,
+        "dirty_paths": 42,
         "head": "59e60f7",
         "last_commit": "Record event522 after event542 decision"
       },
       "health": "active",
       "inbox_files": 4,
       "label": "A",
-      "last_event": "round.review.completed",
-      "last_progress_at": 1787152177.7877994,
+      "last_event": "engineer.progress",
+      "last_progress_at": 1787167621.7259352,
       "max_rounds": 32,
-      "mission_id": "b01443a8ceb6",
+      "mission_id": "8ce60ee0d72b",
       "mission_status": "working",
-      "mission_title": "Certify event640 top-exit successor",
+      "mission_title": "Certify event229 bottom-entry successor",
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
-      "pid": 1669699,
-      "progress_age_seconds": 10641.848494052887,
-      "rejected_attempts": 1,
-      "review_reason": "plan layer: the verifier and local mathematical claim pass, but PROOF_GRAPH.json is not consistently updated because its top-level remaining_gap still says the route only reaches the event539/event519-top boundary and that event640 top exit is not reached, contradicting the new event640-top-exit node, CHECKPOINT.md, and ROUTE_LEDGER.json.",
-      "review_status": "continue",
-      "round": 2,
+      "pid": 3067328,
+      "progress_age_seconds": 1.772711992263794,
+      "rejected_attempts": 0,
+      "review_reason": "",
+      "review_status": "none",
+      "round": 1,
       "route": "theory / upper constraints",
       "sid": "s-54f17ee7",
       "stage": "solve",
-      "state": "stale-warning"
+      "state": "running"
     },
     "B": {
-      "active_role": "engineer",
+      "active_role": "planner",
       "alive": true,
       "artifacts": [
         "research/solve/hyperbolic_hemicycle_cyclicity_scope.md",
@@ -89,24 +89,24 @@
       "health": "active",
       "inbox_files": 2,
       "label": "B",
-      "last_event": "engineer.progress",
-      "last_progress_at": 1787152069.112395,
+      "last_event": "life.planner.start",
+      "last_progress_at": 1787167562.626802,
       "max_rounds": 32,
       "mission_id": "6c0311d632a7",
-      "mission_status": "working",
+      "mission_status": "continued",
       "mission_title": "Derive ERFZ14 actual remainder composition",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
-      "pid": 1670672,
-      "progress_age_seconds": 10750.523898363113,
+      "pid": 3067257,
+      "progress_age_seconds": 60.87184524536133,
       "rejected_attempts": 0,
-      "review_reason": "",
-      "review_status": "none",
+      "review_reason": "bounded mission is materially complete: FQ2524 derives the physical principalized composition and correctly scopes the finite-transition obstruction without overclaiming cyclicity",
+      "review_status": "done",
       "round": 1,
       "route": "construction / lower bounds",
       "sid": "s-2fd8729b",
       "stage": "solve",
-      "state": "stale-warning"
+      "state": "running"
     }
   }
 }
