@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-19 19:27:03 UTC",
+  "generated_at_utc": "2026-08-19 19:32:05 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -28,7 +28,7 @@
       "frontier_change": "",
       "frontier_summary": "",
       "git": {
-        "dirty_paths": 42,
+        "dirty_paths": 46,
         "head": "59e60f7",
         "last_commit": "Record event522 after event542 decision"
       },
@@ -36,7 +36,7 @@
       "inbox_files": 4,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787167621.7259352,
+      "last_progress_at": 1787167885.6886077,
       "max_rounds": 32,
       "mission_id": "8ce60ee0d72b",
       "mission_status": "working",
@@ -44,7 +44,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 3067328,
-      "progress_age_seconds": 1.772711992263794,
+      "progress_age_seconds": 39.90337944030762,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -55,7 +55,7 @@
       "state": "running"
     },
     "B": {
-      "active_role": "planner",
+      "active_role": "engineer",
       "alive": true,
       "artifacts": [
         "research/solve/hyperbolic_hemicycle_cyclicity_scope.md",
@@ -89,19 +89,19 @@
       "health": "active",
       "inbox_files": 2,
       "label": "B",
-      "last_event": "life.planner.start",
-      "last_progress_at": 1787167562.626802,
+      "last_event": "engineer.progress",
+      "last_progress_at": 1787167922.361574,
       "max_rounds": 32,
-      "mission_id": "6c0311d632a7",
-      "mission_status": "continued",
-      "mission_title": "Derive ERFZ14 actual remainder composition",
+      "mission_id": "1ead98a3789b",
+      "mission_status": "working",
+      "mission_title": "Decide the first enlarged finite-transition comparable-rate face",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 3067257,
-      "progress_age_seconds": 60.87184524536133,
+      "progress_age_seconds": 3.2304131984710693,
       "rejected_attempts": 0,
-      "review_reason": "bounded mission is materially complete: FQ2524 derives the physical principalized composition and correctly scopes the finite-transition obstruction without overclaiming cyclicity",
-      "review_status": "done",
+      "review_reason": "",
+      "review_status": "none",
       "round": 1,
       "route": "construction / lower bounds",
       "sid": "s-2fd8729b",
