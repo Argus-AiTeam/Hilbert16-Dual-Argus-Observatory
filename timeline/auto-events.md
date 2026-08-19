@@ -1492,3 +1492,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-19 22:42:23 UTC | B | `life.manager.stage_decision` | Reviewer-certified FQ2637 is bounded solve progress: the b=0 equator-root face is routed-not-closed with epsilon0/A att… |
 | 2026-08-19 22:52:47 UTC | A | `life.mission.completed` | Certify event235 bottom-entry successor |
 | 2026-08-19 22:53:49 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-19 22:59:17 UTC | B | `life.mission.completed` | Derive the leading attachment equation for the b=0 equator-root branch |
+| 2026-08-19 22:59:55 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
