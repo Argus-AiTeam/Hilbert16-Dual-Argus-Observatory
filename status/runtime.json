@@ -1,9 +1,9 @@
 {
-  "generated_at_utc": "2026-08-19 22:02:52 UTC",
+  "generated_at_utc": "2026-08-19 22:12:54 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
-      "active_role": "engineer",
+      "active_role": "reviewer",
       "alive": true,
       "artifacts": [
         "research/BOUNDED_RETURN_BLOCKS.md",
@@ -36,7 +36,7 @@
       "inbox_files": 4,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787176640.9281766,
+      "last_progress_at": 1787177151.4925852,
       "max_rounds": 32,
       "mission_id": "664122bf591e",
       "mission_status": "working",
@@ -44,7 +44,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 3067328,
-      "progress_age_seconds": 331.977365732193,
+      "progress_age_seconds": 423.3264195919037,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -82,7 +82,7 @@
       "frontier_change": "uncertainty_reduced",
       "frontier_summary": "Compact D=0, N-separated turning passages have moved from local/two-jet compatibility to a conditional all-orders exact-return and finite-zero insertion theorem.",
       "git": {
-        "dirty_paths": 52,
+        "dirty_paths": 53,
         "head": "4063285",
         "last_commit": "Checkpoint joint-limit frontier context"
       },
@@ -90,15 +90,15 @@
       "inbox_files": 2,
       "label": "B",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787176967.1572075,
+      "last_progress_at": 1787177526.2092183,
       "max_rounds": 32,
-      "mission_id": "37f8bd3d0fa3",
+      "mission_id": "ab01b493ab03",
       "mission_status": "working",
-      "mission_title": "Decide the first topology-changing fan for the collapsed fixed-w return",
+      "mission_title": "Decide the a=0 finite-line topology-root face",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 3067257,
-      "progress_age_seconds": 5.748334884643555,
+      "progress_age_seconds": 48.60978651046753,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
