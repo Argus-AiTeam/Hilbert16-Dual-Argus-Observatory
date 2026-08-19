@@ -1404,3 +1404,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-19 13:45:55 UTC | B | `life.manager.stage_decision` | FQ2480 is a reviewed, correctly scoped partial gap reduction, but it expressly leaves the mixed-overlap derivative-stab… |
 | 2026-08-19 13:48:27 UTC | A | `life.mission.completed` | Certify the event530 top-exit successor after event519 |
 | 2026-08-19 13:49:27 UTC | A | `life.manager.stage_decision` | Reviewer verified a real local solve-step: event530 top exit is crossed and retired harmlessly, preserving the stated l… |
+| 2026-08-19 13:53:59 UTC | B | `life.mission.completed` | Resolve the first ERFZ14 center-endpoint mixed overlap |
+| 2026-08-19 13:54:48 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |

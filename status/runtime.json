@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-19 13:51:28 UTC",
+  "generated_at_utc": "2026-08-19 13:56:30 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -28,7 +28,7 @@
       "frontier_change": "",
       "frontier_summary": "",
       "git": {
-        "dirty_paths": 33,
+        "dirty_paths": 34,
         "head": "59e60f7",
         "last_commit": "Record event522 after event542 decision"
       },
@@ -36,7 +36,7 @@
       "inbox_files": 4,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787147484.2738822,
+      "last_progress_at": 1787147788.9236856,
       "max_rounds": 32,
       "mission_id": "660ae2daca0f",
       "mission_status": "working",
@@ -44,7 +44,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 1669699,
-      "progress_age_seconds": 3.9306602478027344,
+      "progress_age_seconds": 1.2289221286773682,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -90,15 +90,15 @@
       "inbox_files": 2,
       "label": "B",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787147481.629129,
+      "last_progress_at": 1787147784.8291163,
       "max_rounds": 32,
-      "mission_id": "bf8cd0e1e069",
+      "mission_id": "bdd35dcbfcb7",
       "mission_status": "working",
-      "mission_title": "Resolve the first ERFZ14 center-endpoint mixed overlap",
+      "mission_title": "Resolve the ERFZ14 projective connection blow-up sector",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 1670672,
-      "progress_age_seconds": 6.575413465499878,
+      "progress_age_seconds": 5.323491334915161,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
