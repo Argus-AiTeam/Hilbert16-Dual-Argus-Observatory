@@ -1402,3 +1402,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-19 13:38:19 UTC | B | `life.manager.stage_decision` | FQ2479 is reviewed and records real solve-stage gap reduction by rejecting the collapsed-variable-only exact-return lif… |
 | 2026-08-19 13:44:50 UTC | B | `life.mission.completed` | Formulate the ERFZ14 collapsed joint-center cofinal collar atlas |
 | 2026-08-19 13:45:55 UTC | B | `life.manager.stage_decision` | FQ2480 is a reviewed, correctly scoped partial gap reduction, but it expressly leaves the mixed-overlap derivative-stab… |
+| 2026-08-19 13:48:27 UTC | A | `life.mission.completed` | Certify the event530 top-exit successor after event519 |
+| 2026-08-19 13:49:27 UTC | A | `life.manager.stage_decision` | Reviewer verified a real local solve-step: event530 top exit is crossed and retired harmlessly, preserving the stated l… |
