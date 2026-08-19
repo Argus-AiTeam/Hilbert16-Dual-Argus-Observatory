@@ -1498,3 +1498,7 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-19 23:13:29 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
 | 2026-08-19 23:34:06 UTC | B | `life.mission.completed` | Decide the a=0 positive finite-root composed-return side |
 | 2026-08-19 23:34:43 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-19 23:41:53 UTC | A | `life.mission.completed` | Certify event236 bottom-entry successor |
+| 2026-08-19 23:42:42 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-19 23:42:10 UTC | B | `life.mission.completed` | Promote the a=0 height-comparable obstruction to the physical equation |
+| 2026-08-19 23:43:14 UTC | B | `life.manager.stage_decision` | FQ2641 is a reviewed substantive obstruction and narrows the route by the root-layer split M_->2, but it explicitly lea… |
