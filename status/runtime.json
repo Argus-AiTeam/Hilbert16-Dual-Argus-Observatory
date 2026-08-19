@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-19 22:17:57 UTC",
+  "generated_at_utc": "2026-08-19 22:27:59 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -28,7 +28,7 @@
       "frontier_change": "",
       "frontier_summary": "",
       "git": {
-        "dirty_paths": 92,
+        "dirty_paths": 96,
         "head": "59e60f7",
         "last_commit": "Record event522 after event542 decision"
       },
@@ -36,7 +36,7 @@
       "inbox_files": 4,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787177875.1801205,
+      "last_progress_at": 1787178232.8787856,
       "max_rounds": 32,
       "mission_id": "de6cc4a28589",
       "mission_status": "working",
@@ -44,7 +44,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 3067328,
-      "progress_age_seconds": 2.609863519668579,
+      "progress_age_seconds": 246.72419476509094,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -55,7 +55,7 @@
       "state": "running"
     },
     "B": {
-      "active_role": "engineer",
+      "active_role": "planner",
       "alive": true,
       "artifacts": [
         "research/solve/hyperbolic_hemicycle_cyclicity_scope.md",
@@ -90,18 +90,18 @@
       "inbox_files": 2,
       "label": "B",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787177785.6485834,
+      "last_progress_at": 1787178478.0323286,
       "max_rounds": 32,
       "mission_id": "ab01b493ab03",
-      "mission_status": "working",
+      "mission_status": "continued",
       "mission_title": "Decide the a=0 finite-line topology-root face",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 3067257,
-      "progress_age_seconds": 92.14140057563782,
+      "progress_age_seconds": 1.5706517696380615,
       "rejected_attempts": 0,
-      "review_reason": "",
-      "review_status": "none",
+      "review_reason": "FQ2636 materially satisfies the bounded mission: the a=0, Gamma2>0 face is routed by an adapted joint w->0 finite-root chart, not closed or overclaimed",
+      "review_status": "done",
       "round": 1,
       "route": "construction / lower bounds",
       "sid": "s-2fd8729b",
