@@ -1378,3 +1378,7 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-19 12:15:50 UTC | B | `life.manager.stage_decision` | FQ2461 is reviewed proof-grade progress, but it is explicitly partial: the effective outer overlap beyond h=9.65, the g… |
 | 2026-08-19 12:17:42 UTC | A | `life.mission.completed` | Decide event567 positive-I2 successor |
 | 2026-08-19 12:18:57 UTC | A | `life.manager.stage_decision` | The event567 solve checkpoint is accepted, but the global objective remains unresolved and the next load-bearing work i… |
+| 2026-08-19 12:36:28 UTC | A | `life.mission.completed` | Decide event636 positive-I2 successor |
+| 2026-08-19 12:38:04 UTC | A | `life.manager.stage_decision` | The reviewed event636 successor is a real local gap reduction, but the operator objective remains unresolved and the ne… |
+| 2026-08-19 12:37:14 UTC | B | `life.mission.completed` | Prove effective outer overlap for Binet curvature |
+| 2026-08-19 12:37:43 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
