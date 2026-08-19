@@ -1,9 +1,9 @@
 {
-  "generated_at_utc": "2026-08-19 14:01:32 UTC",
+  "generated_at_utc": "2026-08-19 14:06:34 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
-      "active_role": "planner",
+      "active_role": "engineer",
       "alive": true,
       "artifacts": [
         "research/BOUNDED_RETURN_BLOCKS.md",
@@ -28,7 +28,7 @@
       "frontier_change": "",
       "frontier_summary": "",
       "git": {
-        "dirty_paths": 34,
+        "dirty_paths": 35,
         "head": "59e60f7",
         "last_commit": "Record event522 after event542 decision"
       },
@@ -36,18 +36,18 @@
       "inbox_files": 4,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787148091.0139105,
+      "last_progress_at": 1787148392.6769688,
       "max_rounds": 32,
-      "mission_id": "660ae2daca0f",
-      "mission_status": "continued",
-      "mission_title": "Certify event636 top-exit successor",
+      "mission_id": "cea76df11b27",
+      "mission_status": "working",
+      "mission_title": "Certify event567 bottom-exit successor",
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 1669699,
-      "progress_age_seconds": 1.2258131504058838,
+      "progress_age_seconds": 1.9756598472595215,
       "rejected_attempts": 0,
-      "review_reason": "The event636 top-exit successor is implemented and correctly scoped: the fresh py_compile and execution exited 0 with a decisive RESULT crossing and retiring event636 harmlessly, preserving the <=9 projected-root and <=18 curve-point bounds, and identifying event567 bottom exit as the next boundary without claiming row, support, H(6), CONFIG_6, or uniform-Hilbert completion.",
-      "review_status": "done",
+      "review_reason": "",
+      "review_status": "none",
       "round": 1,
       "route": "theory / upper constraints",
       "sid": "s-54f17ee7",
@@ -55,7 +55,7 @@
       "state": "running"
     },
     "B": {
-      "active_role": "reviewer",
+      "active_role": "engineer",
       "alive": true,
       "artifacts": [
         "research/solve/hyperbolic_hemicycle_cyclicity_scope.md",
@@ -82,7 +82,7 @@
       "frontier_change": "uncertainty_reduced",
       "frontier_summary": "Compact D=0, N-separated turning passages have moved from local/two-jet compatibility to a conditional all-orders exact-return and finite-zero insertion theorem.",
       "git": {
-        "dirty_paths": 29,
+        "dirty_paths": 30,
         "head": "4063285",
         "last_commit": "Checkpoint joint-limit frontier context"
       },
@@ -90,15 +90,15 @@
       "inbox_files": 2,
       "label": "B",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787148088.9303722,
+      "last_progress_at": 1787148382.4008589,
       "max_rounds": 32,
-      "mission_id": "bdd35dcbfcb7",
+      "mission_id": "997a98d63268",
       "mission_status": "working",
-      "mission_title": "Resolve the ERFZ14 projective connection blow-up sector",
+      "mission_title": "Decide the first-order-flat derivative ECT gap",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 1670672,
-      "progress_age_seconds": 3.3093514442443848,
+      "progress_age_seconds": 12.251769781112671,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
