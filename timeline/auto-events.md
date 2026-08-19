@@ -1434,3 +1434,7 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-19 19:36:56 UTC | B | `life.mission.completed` | Decide the first enlarged finite-transition comparable-rate face |
 | 2026-08-19 19:37:30 UTC | A | `life.manager.stage_decision` | event229 is reviewer-certified as a harmless local crossing with preserved bounds, but the result is still row-local an… |
 | 2026-08-19 19:37:46 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-19 19:51:18 UTC | A | `life.mission.completed` | Certify event522 bottom-entry successor after event229 |
+| 2026-08-19 19:52:09 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-19 19:47:22 UTC | B | `life.mission.completed` | Decide endpoint K_delta on first-order comparable faces |
+| 2026-08-19 19:48:31 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
