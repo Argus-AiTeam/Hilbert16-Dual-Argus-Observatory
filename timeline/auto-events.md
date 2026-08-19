@@ -1397,3 +1397,6 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-19 13:26:14 UTC | B | `life.mission.completed` | Promote collapsed-center ECT to endpoint-uniform exact-return control |
 | 2026-08-19 13:26:57 UTC | B | `life.manager.stage_decision` | Reviewed bounded fixed-oval ECT progress is substantive and correctly scoped, but it explicitly leaves endpoint-uniform… |
 | 2026-08-19 13:35:50 UTC | A | `life.mission.completed` | Decide event519 successor after event640 |
+| 2026-08-19 13:36:44 UTC | A | `life.manager.stage_decision` | The reviewed delta is valid but scoped: it retires only the local event519-after-event640 successor and identifies the … |
+| 2026-08-19 13:37:33 UTC | B | `life.mission.completed` | Prove collapsed endpoint-uniform exact-return collar lift |
+| 2026-08-19 13:38:19 UTC | B | `life.manager.stage_decision` | FQ2479 is reviewed and records real solve-stage gap reduction by rejecting the collapsed-variable-only exact-return lif… |
