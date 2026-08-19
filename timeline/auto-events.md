@@ -1410,3 +1410,7 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-19 14:00:56 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
 | 2026-08-19 14:03:23 UTC | B | `life.mission.completed` | Resolve the ERFZ14 projective connection blow-up sector |
 | 2026-08-19 14:04:20 UTC | B | `life.manager.stage_decision` | The reviewed FQ2499 result is substantive and correctly scoped, but the original Hilbert contract remains unresolved an… |
+| 2026-08-19 14:15:06 UTC | A | `life.mission.completed` | Certify event567 bottom-exit successor |
+| 2026-08-19 14:15:56 UTC | A | `life.manager.stage_decision` | The reviewed event567 bottom-exit milestone is a valid local solve result with bounded verification and a retired block… |
+| 2026-08-19 14:14:00 UTC | B | `life.mission.completed` | Decide the first-order-flat derivative ECT gap |
+| 2026-08-19 14:15:30 UTC | B | `life.manager.stage_decision` | FQ2506 is reviewed as a substantive bounded solve result and gap reduction, but the original Hilbert XVI objective rema… |
