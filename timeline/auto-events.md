@@ -1418,3 +1418,4 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-19 14:29:25 UTC | A | `life.manager.stage_decision` | The reviewed event84 certificate is a substantive bounded solve increment, but it remains strictly local selected-row/t… |
 | 2026-08-19 14:41:20 UTC | A | `life.mission.completed` | Certify event539 successor after event84 |
 | 2026-08-19 14:37:19 UTC | B | `round.reviewer_backend_failure` |  |
+| 2026-08-19 14:42:03 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
