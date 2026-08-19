@@ -1374,3 +1374,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-19 11:57:24 UTC | A | `life.manager.stage_decision` | Scope evidence is sufficient: PROBLEM.md and research/SCOPE.md fix the objects, conventions, and quantifiers; research/… |
 | 2026-08-19 11:56:52 UTC | B | `life.mission.completed` | Decide joint \(w\to0\) cyclicity of the collapsed product-one hemicycle |
 | 2026-08-19 11:57:34 UTC | B | `life.manager.stage_decision` | Scope checklist is supported: targeted full Hilbert XVI-II goal is recorded, conventions and configuration objects are … |
+| 2026-08-19 12:14:45 UTC | B | `life.mission.completed` | Prove effective outer overlap for collapsed-center Binet curvature |
+| 2026-08-19 12:15:50 UTC | B | `life.manager.stage_decision` | FQ2461 is reviewed proof-grade progress, but it is explicitly partial: the effective outer overlap beyond h=9.65, the g… |
