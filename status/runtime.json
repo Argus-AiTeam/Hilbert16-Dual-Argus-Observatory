@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-19 21:52:50 UTC",
+  "generated_at_utc": "2026-08-19 22:02:52 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -28,7 +28,7 @@
       "frontier_change": "",
       "frontier_summary": "",
       "git": {
-        "dirty_paths": 89,
+        "dirty_paths": 92,
         "head": "59e60f7",
         "last_commit": "Record event522 after event542 decision"
       },
@@ -36,7 +36,7 @@
       "inbox_files": 4,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787176343.4964812,
+      "last_progress_at": 1787176640.9281766,
       "max_rounds": 32,
       "mission_id": "664122bf591e",
       "mission_status": "working",
@@ -44,7 +44,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 3067328,
-      "progress_age_seconds": 27.302788972854614,
+      "progress_age_seconds": 331.977365732193,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -82,7 +82,7 @@
       "frontier_change": "uncertainty_reduced",
       "frontier_summary": "Compact D=0, N-separated turning passages have moved from local/two-jet compatibility to a conditional all-orders exact-return and finite-zero insertion theorem.",
       "git": {
-        "dirty_paths": 51,
+        "dirty_paths": 52,
         "head": "4063285",
         "last_commit": "Checkpoint joint-limit frontier context"
       },
@@ -90,15 +90,15 @@
       "inbox_files": 2,
       "label": "B",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787176366.0714517,
+      "last_progress_at": 1787176967.1572075,
       "max_rounds": 32,
-      "mission_id": "580fa093c26d",
+      "mission_id": "37f8bd3d0fa3",
       "mission_status": "working",
-      "mission_title": "Decide the physical side return for the collapsed nonzero-mu5 common-tuple family",
+      "mission_title": "Decide the first topology-changing fan for the collapsed fixed-w return",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 3067257,
-      "progress_age_seconds": 4.727818489074707,
+      "progress_age_seconds": 5.748334884643555,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
