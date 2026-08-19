@@ -1438,3 +1438,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-19 19:52:09 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
 | 2026-08-19 19:47:22 UTC | B | `life.mission.completed` | Decide endpoint K_delta on first-order comparable faces |
 | 2026-08-19 19:48:31 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-19 19:55:03 UTC | B | `life.mission.completed` | Decide sign-definite versus arbitrary Kfin comparable faces |
+| 2026-08-19 19:55:43 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
