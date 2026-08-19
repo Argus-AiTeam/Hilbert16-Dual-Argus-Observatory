@@ -1446,3 +1446,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-19 20:09:39 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
 | 2026-08-19 20:12:44 UTC | B | `life.mission.completed` | Decide simple-zero Kfin cancellation cells |
 | 2026-08-19 20:13:37 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-19 20:20:45 UTC | B | `life.mission.completed` | Decide the inner Xi_U tail-scale split |
+| 2026-08-19 20:21:50 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
