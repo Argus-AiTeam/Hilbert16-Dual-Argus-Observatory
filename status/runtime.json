@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-19 15:06:53 UTC",
+  "generated_at_utc": "2026-08-19 18:06:59 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -35,8 +35,8 @@
       "health": "active",
       "inbox_files": 4,
       "label": "A",
-      "last_event": "engineer.progress",
-      "last_progress_at": 1787152003.4522233,
+      "last_event": "round.review.completed",
+      "last_progress_at": 1787152177.7877994,
       "max_rounds": 32,
       "mission_id": "b01443a8ceb6",
       "mission_status": "working",
@@ -44,15 +44,15 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 1669699,
-      "progress_age_seconds": 10.312097787857056,
-      "rejected_attempts": 0,
-      "review_reason": "",
-      "review_status": "none",
-      "round": 1,
+      "progress_age_seconds": 10641.848494052887,
+      "rejected_attempts": 1,
+      "review_reason": "plan layer: the verifier and local mathematical claim pass, but PROOF_GRAPH.json is not consistently updated because its top-level remaining_gap still says the route only reaches the event539/event519-top boundary and that event640 top exit is not reached, contradicting the new event640-top-exit node, CHECKPOINT.md, and ROUTE_LEDGER.json.",
+      "review_status": "continue",
+      "round": 2,
       "route": "theory / upper constraints",
       "sid": "s-54f17ee7",
       "stage": "solve",
-      "state": "running"
+      "state": "stale-warning"
     },
     "B": {
       "active_role": "engineer",
@@ -82,7 +82,7 @@
       "frontier_change": "uncertainty_reduced",
       "frontier_summary": "Compact D=0, N-separated turning passages have moved from local/two-jet compatibility to a conditional all-orders exact-return and finite-zero insertion theorem.",
       "git": {
-        "dirty_paths": 38,
+        "dirty_paths": 40,
         "head": "4063285",
         "last_commit": "Checkpoint joint-limit frontier context"
       },
@@ -90,7 +90,7 @@
       "inbox_files": 2,
       "label": "B",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787151992.1507976,
+      "last_progress_at": 1787152069.112395,
       "max_rounds": 32,
       "mission_id": "6c0311d632a7",
       "mission_status": "working",
@@ -98,7 +98,7 @@
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 1670672,
-      "progress_age_seconds": 21.613523483276367,
+      "progress_age_seconds": 10750.523898363113,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -106,7 +106,7 @@
       "route": "construction / lower bounds",
       "sid": "s-2fd8729b",
       "stage": "solve",
-      "state": "running"
+      "state": "stale-warning"
     }
   }
 }
