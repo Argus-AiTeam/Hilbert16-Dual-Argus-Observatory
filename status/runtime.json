@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-20 03:04:11 UTC",
+  "generated_at_utc": "2026-08-20 03:14:13 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -28,7 +28,7 @@
       "frontier_change": "",
       "frontier_summary": "",
       "git": {
-        "dirty_paths": 278,
+        "dirty_paths": 283,
         "head": "59e60f7",
         "last_commit": "Record event522 after event542 decision"
       },
@@ -36,7 +36,7 @@
       "inbox_files": 4,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787194906.380259,
+      "last_progress_at": 1787195301.2192287,
       "max_rounds": 32,
       "mission_id": "6cd1eccf84a7",
       "mission_status": "working",
@@ -44,7 +44,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 3067328,
-      "progress_age_seconds": 145.45078539848328,
+      "progress_age_seconds": 352.77549600601196,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -90,15 +90,15 @@
       "inbox_files": 2,
       "label": "B",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787195032.494344,
+      "last_progress_at": 1787195648.9976661,
       "max_rounds": 32,
-      "mission_id": "c54a3de0e029",
+      "mission_id": "c598b0058520",
       "mission_status": "working",
-      "mission_title": "Derive the post-FQ2663 global connection constraint",
+      "mission_title": "Decide the independent physical relation for M_att",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 3067257,
-      "progress_age_seconds": 19.336700439453125,
+      "progress_age_seconds": 4.997058629989624,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
