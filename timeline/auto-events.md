@@ -1564,3 +1564,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-20 03:26:52 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
 | 2026-08-20 03:33:44 UTC | B | `life.mission.completed` | Principalize the exact V_att/tail comparable residue |
 | 2026-08-20 03:34:58 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-20 03:45:22 UTC | B | `life.mission.completed` | Split the residual after exact Z_VW/root cancellation |
+| 2026-08-20 03:46:08 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
