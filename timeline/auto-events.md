@@ -1529,3 +1529,7 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-20 01:12:32 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
 | 2026-08-20 01:13:28 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
 | 2026-08-20 01:14:57 UTC | B | `life.manager.stage_decision` | FQ2651 is a reviewed bounded solve result, but the original Hilbert XVI Part II objective remains unresolved and the ne… |
+| 2026-08-20 01:28:02 UTC | A | `life.mission.completed` | Certify event238 bottom-entry successor |
+| 2026-08-20 01:28:34 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-20 01:27:33 UTC | B | `life.mission.completed` | Decide higher-center residual after FQ2651 |
+| 2026-08-20 01:28:16 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
