@@ -1697,3 +1697,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-20 11:11:47 UTC | B | `life.mission.completed` | Decide boundary-layer C^L estimate after FQ2708 |
 | 2026-08-20 11:12:21 UTC | A | `life.manager.stage_decision` | Reviewer evidence supports the durable-state repair: event48 is retired and event524 bottom is now the next boundary, b… |
 | 2026-08-20 11:12:50 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-20 11:23:56 UTC | B | `life.mission.completed` | Decide two-scale raw-collar return estimate after FQ2709 |
+| 2026-08-20 11:25:04 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
