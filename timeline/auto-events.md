@@ -1769,3 +1769,7 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-20 15:37:01 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
 | 2026-08-20 15:43:37 UTC | B | `life.mission.completed` | Proving source regularity or vanishing for actual E_Delta |
 | 2026-08-20 15:44:53 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-20 15:54:10 UTC | A | `life.mission.completed` | Decide the row 22/31 event555 top boundary |
+| 2026-08-20 15:55:00 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-20 15:56:37 UTC | B | `life.mission.completed` | Deciding the actual E_Delta source bracket |
+| 2026-08-20 15:57:45 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
