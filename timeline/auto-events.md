@@ -1664,3 +1664,7 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-20 09:06:24 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
 | 2026-08-20 09:16:37 UTC | B | `life.mission.completed` | Derive physical A-law or disjointness |
 | 2026-08-20 09:17:40 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-20 09:28:35 UTC | A | `life.mission.completed` | Decide left-frontier event524 top blocker |
+| 2026-08-20 09:30:44 UTC | A | `life.manager.stage_decision` | Event524 is reviewed as harmless, but the accepted result is still row-local selected-tail evidence and leaves the main… |
+| 2026-08-20 09:29:59 UTC | B | `life.mission.completed` | Test non-homogeneous section matching |
+| 2026-08-20 09:30:58 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
