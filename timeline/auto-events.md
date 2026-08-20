@@ -1582,3 +1582,4 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-20 04:25:37 UTC | B | `life.manager.stage_decision` | FQ2673 is reviewed as a correctly scoped partial obstruction, but it does not prove the raw unavailable-margin transiti… |
 | 2026-08-20 04:33:15 UTC | B | `life.mission.completed` | Establish the raw unavailable-margin section atlas |
 | 2026-08-20 04:34:19 UTC | B | `life.manager.stage_decision` | FQ2674 is a bounded obstruction, not a completed solve-stage route: it records that no raw atlas/disjointness/transitio… |
+| 2026-08-20 04:43:36 UTC | B | `life.mission.completed` | Audit primary sources for the raw unavailable-margin section atlas |
