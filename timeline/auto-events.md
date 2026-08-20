@@ -1706,3 +1706,6 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-20 11:50:16 UTC | B | `life.mission.completed` | Determine FQ2711 side-height composition tuple |
 | 2026-08-20 11:51:01 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
 | 2026-08-20 12:01:27 UTC | A | `life.mission.completed` | Decide the left-frontier event477 bottom boundary |
+| 2026-08-20 12:02:56 UTC | A | `life.manager.stage_decision` | The event477 successor is reviewer-certified as local progress, but the campaign remains unresolved and the next solve-… |
+| 2026-08-20 12:03:13 UTC | B | `life.mission.completed` | Decide FQ42 section-gauge invariance |
+| 2026-08-20 12:04:07 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
