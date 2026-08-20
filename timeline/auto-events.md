@@ -1691,3 +1691,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-20 10:42:00 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
 | 2026-08-20 10:46:37 UTC | B | `life.mission.completed` | Decide source-level section pinning beyond FQ2706 |
 | 2026-08-20 10:47:47 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-20 10:58:09 UTC | B | `life.mission.completed` | Decide kappa-uniform exact-return route after FQ2707 |
+| 2026-08-20 10:59:10 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
