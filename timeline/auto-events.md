@@ -1604,3 +1604,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-20 05:45:34 UTC | B | `life.manager.stage_decision` | FQ2683 is reviewer-validated bounded solve progress, but it explicitly leaves exact Q_amp=0, clustered/nonderivative-st… |
 | 2026-08-20 05:55:12 UTC | B | `life.mission.completed` | Decide post-zeta Q_amp zero branch |
 | 2026-08-20 05:56:00 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-20 06:03:26 UTC | B | `life.mission.completed` | Decide exact R_amp zero raw relation |
+| 2026-08-20 06:04:21 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
