@@ -1806,3 +1806,7 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-20 17:48:53 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
 | 2026-08-20 17:59:51 UTC | B | `life.mission.completed` | Decide the non-pure delta-m quadratic source slice |
 | 2026-08-20 18:01:22 UTC | B | `life.manager.stage_decision` | FQ2747 is reviewed substantive partial progress, but it leaves q_delta2 and q_delta_m blocked by the named non-pure pas… |
+| 2026-08-20 18:10:33 UTC | A | `life.mission.completed` | Decide the row 22/31 event491 top boundary |
+| 2026-08-20 18:11:19 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-20 18:12:44 UTC | B | `life.mission.completed` | Evaluate the FQ2747 non-pure delta-m passage-K42 defect |
+| 2026-08-20 18:13:50 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
