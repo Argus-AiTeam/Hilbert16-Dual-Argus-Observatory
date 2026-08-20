@@ -1,9 +1,9 @@
 {
-  "generated_at_utc": "2026-08-20 13:17:35 UTC",
+  "generated_at_utc": "2026-08-20 13:27:38 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
-      "active_role": "engineer",
+      "active_role": "reviewer",
       "alive": true,
       "artifacts": [
         "research/BOUNDED_RETURN_BLOCKS.md",
@@ -36,7 +36,7 @@
       "inbox_files": 4,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787231850.2417386,
+      "last_progress_at": 1787232316.1493447,
       "max_rounds": 32,
       "mission_id": "0901fa8c844f",
       "mission_status": "working",
@@ -44,7 +44,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 3067328,
-      "progress_age_seconds": 5.617704629898071,
+      "progress_age_seconds": 142.5317304134369,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -55,7 +55,7 @@
       "state": "running"
     },
     "B": {
-      "active_role": "engineer",
+      "active_role": "planner",
       "alive": true,
       "artifacts": [
         "research/solve/hyperbolic_hemicycle_cyclicity_scope.md",
@@ -90,18 +90,18 @@
       "inbox_files": 2,
       "label": "B",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787231834.9897194,
+      "last_progress_at": 1787232457.4677367,
       "max_rounds": 32,
       "mission_id": "a50470afa3dd",
-      "mission_status": "working",
+      "mission_status": "continued",
       "mission_title": "Compute actual w4 post-forced density jet",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 3067257,
-      "progress_age_seconds": 20.869723796844482,
+      "progress_age_seconds": 1.2133383750915527,
       "rejected_attempts": 0,
-      "review_reason": "",
-      "review_status": "none",
+      "review_reason": "FQ2720 satisfies the bounded develop mission: Q4_i was derived from the compactified ODE, shown side-common, and the exact remaining source-level obstruction is the absent FQ41 post-forced U_L^(4)-U_R^(4) coefficient plus no-intermediate-scale theorem.",
+      "review_status": "done",
       "round": 1,
       "route": "construction / lower bounds",
       "sid": "s-2fd8729b",

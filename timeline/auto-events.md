@@ -1727,3 +1727,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-20 13:03:42 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
 | 2026-08-20 13:12:55 UTC | B | `life.mission.completed` | Derive post-forced VoC density jet |
 | 2026-08-20 13:13:58 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-20 13:26:02 UTC | B | `life.mission.completed` | Compute actual w4 post-forced density jet |
+| 2026-08-20 13:27:23 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
