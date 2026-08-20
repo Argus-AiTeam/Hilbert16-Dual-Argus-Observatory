@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-20 13:57:51 UTC",
+  "generated_at_utc": "2026-08-20 14:02:54 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -28,7 +28,7 @@
       "frontier_change": "",
       "frontier_summary": "",
       "git": {
-        "dirty_paths": 441,
+        "dirty_paths": 443,
         "head": "59e60f7",
         "last_commit": "Record event522 after event542 decision"
       },
@@ -36,7 +36,7 @@
       "inbox_files": 4,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787234264.1596909,
+      "last_progress_at": 1787234477.2767878,
       "max_rounds": 32,
       "mission_id": "50350d09f700",
       "mission_status": "working",
@@ -44,7 +44,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 3067328,
-      "progress_age_seconds": 7.313797950744629,
+      "progress_age_seconds": 97.1230309009552,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -55,7 +55,7 @@
       "state": "running"
     },
     "B": {
-      "active_role": "idle",
+      "active_role": "engineer",
       "alive": true,
       "artifacts": [
         "research/solve/hyperbolic_hemicycle_cyclicity_scope.md",
@@ -86,22 +86,22 @@
         "head": "4063285",
         "last_commit": "Checkpoint joint-limit frontier context"
       },
-      "health": "idle",
+      "health": "active",
       "inbox_files": 2,
       "label": "B",
-      "last_event": "loop.done",
-      "last_progress_at": 1787234265.024756,
+      "last_event": "engineer.progress",
+      "last_progress_at": 1787234522.4419668,
       "max_rounds": 32,
-      "mission_id": "155e089525b1",
+      "mission_id": "281ad568304c",
       "mission_status": "working",
-      "mission_title": "Derive the actual FQ41 post-forced density split",
+      "mission_title": "Derive the post-tail analytic FQ41 U4 residual",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 3067257,
-      "progress_age_seconds": 6.448732852935791,
+      "progress_age_seconds": 51.95785188674927,
       "rejected_attempts": 0,
-      "review_reason": "FQ2723 correctly settles the FQ41 split as S_2-only, verifies the denominator-tail/full finite-layer expansion through w4, records denominator side-commonness, and keeps total Delta_U4 and global consequences explicitly unclaimed.",
-      "review_status": "done",
+      "review_reason": "",
+      "review_status": "none",
       "round": 1,
       "route": "construction / lower bounds",
       "sid": "s-2fd8729b",
