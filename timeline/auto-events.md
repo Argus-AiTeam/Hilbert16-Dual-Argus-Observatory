@@ -1849,3 +1849,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-20 21:14:07 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
 | 2026-08-20 21:11:15 UTC | B | `life.mission.completed` | Decide FQ2761 leading-vector-zero endpoint cells |
 | 2026-08-20 21:12:36 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-20 21:36:44 UTC | A | `life.mission.completed` | Decide the row 22/31 event432 bottom successor boundary |
+| 2026-08-20 21:38:01 UTC | A | `life.manager.stage_decision` | Reviewer evidence accepts the event432-bottom successor as a correctly scoped local selected-row/selected-tail solve re… |
