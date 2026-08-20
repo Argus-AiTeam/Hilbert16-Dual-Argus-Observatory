@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-20 22:30:18 UTC",
+  "generated_at_utc": "2026-08-20 22:50:21 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -28,7 +28,7 @@
       "frontier_change": "",
       "frontier_summary": "",
       "git": {
-        "dirty_paths": 515,
+        "dirty_paths": 521,
         "head": "59e60f7",
         "last_commit": "Record event522 after event542 decision"
       },
@@ -36,15 +36,15 @@
       "inbox_files": 4,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787264961.5604637,
+      "last_progress_at": 1787266219.9633844,
       "max_rounds": 32,
-      "mission_id": "014acf150e45",
+      "mission_id": "4b0f2be4e814",
       "mission_status": "working",
-      "mission_title": "Decide the row 22/31 event462 negative-zero successor boundary",
+      "mission_title": "Decide the row 22/31 event495 positive-I2 successor boundary",
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 3067328,
-      "progress_age_seconds": 57.25867533683777,
+      "progress_age_seconds": 1.2558131217956543,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -90,7 +90,7 @@
       "inbox_files": 2,
       "label": "B",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787265017.5499988,
+      "last_progress_at": 1787266220.5859227,
       "max_rounds": 32,
       "mission_id": "4bbd428e5b1b",
       "mission_status": "working",
@@ -98,7 +98,7 @@
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 3067257,
-      "progress_age_seconds": 1.2691402435302734,
+      "progress_age_seconds": 0.6332747936248779,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
