@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-20 19:39:49 UTC",
+  "generated_at_utc": "2026-08-20 19:54:51 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -28,7 +28,7 @@
       "frontier_change": "",
       "frontier_summary": "",
       "git": {
-        "dirty_paths": 471,
+        "dirty_paths": 473,
         "head": "59e60f7",
         "last_commit": "Record event522 after event542 decision"
       },
@@ -36,7 +36,7 @@
       "inbox_files": 4,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787254780.3105059,
+      "last_progress_at": 1787255567.4733212,
       "max_rounds": 32,
       "mission_id": "a263a8b69803",
       "mission_status": "working",
@@ -44,7 +44,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 3067328,
-      "progress_age_seconds": 8.76962399482727,
+      "progress_age_seconds": 124.01782822608948,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -55,7 +55,7 @@
       "state": "running"
     },
     "B": {
-      "active_role": "engineer",
+      "active_role": "planner",
       "alive": true,
       "artifacts": [
         "research/solve/hyperbolic_hemicycle_cyclicity_scope.md",
@@ -90,19 +90,19 @@
       "inbox_files": 2,
       "label": "B",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787254787.5003622,
+      "last_progress_at": 1787255691.5096712,
       "max_rounds": 32,
       "mission_id": "e9eb159ccf8d",
-      "mission_status": "working",
+      "mission_status": "continued",
       "mission_title": "Decide the FQ2752 Volterra cubic functional",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 3067257,
-      "progress_age_seconds": 1.5797677040100098,
-      "rejected_attempts": 3,
-      "review_reason": "FQ2755 is verified as a partial boundary diagnostic, but K=0 is explicitly a section-collision boundary and not the required compact positive physical leaf. Layer failed: plan for the K=0 candidate; it cannot complete the requested theta0/identity branch.",
-      "review_status": "continue",
-      "round": 4,
+      "progress_age_seconds": 0.0,
+      "rejected_attempts": 4,
+      "review_reason": "FQ2757 satisfies the bounded delta: it solves a named compact positive FQ673 full-endpoint leaf and proves separated nonzero D_endpoint_delta2 there, so no theta0 or identity Z_end branch exists on that leaf.",
+      "review_status": "done",
+      "round": 5,
       "route": "construction / lower bounds",
       "sid": "s-2fd8729b",
       "stage": "solve",
