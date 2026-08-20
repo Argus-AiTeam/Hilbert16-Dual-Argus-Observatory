@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-20 05:14:52 UTC",
+  "generated_at_utc": "2026-08-20 05:19:53 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -36,7 +36,7 @@
       "inbox_files": 4,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787202784.8030763,
+      "last_progress_at": 1787203193.0907476,
       "max_rounds": 32,
       "mission_id": "e721859eb01a",
       "mission_status": "working",
@@ -44,7 +44,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 3067328,
-      "progress_age_seconds": 107.22489070892334,
+      "progress_age_seconds": 0.6899614334106445,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -55,7 +55,7 @@
       "state": "running"
     },
     "B": {
-      "active_role": "reviewer",
+      "active_role": "engineer",
       "alive": true,
       "artifacts": [
         "research/solve/hyperbolic_hemicycle_cyclicity_scope.md",
@@ -90,15 +90,15 @@
       "inbox_files": 2,
       "label": "B",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787202891.3219357,
+      "last_progress_at": 1787203193.1629303,
       "max_rounds": 32,
-      "mission_id": "6de4872d80a5",
+      "mission_id": "8377c6145908",
       "mission_status": "working",
-      "mission_title": "Derive promoted-amplitude cancellation successor",
+      "mission_title": "Principalize centered successor cancellation",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 3067257,
-      "progress_age_seconds": 0.706031322479248,
+      "progress_age_seconds": 0.6177787780761719,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",

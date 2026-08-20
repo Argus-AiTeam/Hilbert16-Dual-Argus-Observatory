@@ -1590,3 +1590,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-20 05:03:19 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
 | 2026-08-20 05:09:36 UTC | B | `life.mission.completed` | Classify promoted unavailable-amplitude faces |
 | 2026-08-20 05:10:24 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-20 05:16:08 UTC | B | `life.mission.completed` | Derive promoted-amplitude cancellation successor |
+| 2026-08-20 05:17:09 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
