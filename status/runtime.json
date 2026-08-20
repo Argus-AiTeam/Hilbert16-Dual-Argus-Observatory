@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-20 05:45:01 UTC",
+  "generated_at_utc": "2026-08-20 05:50:04 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -44,7 +44,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 3067328,
-      "progress_age_seconds": 200.02930164337158,
+      "progress_age_seconds": 502.3548204898834,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -55,7 +55,7 @@
       "state": "running"
     },
     "B": {
-      "active_role": "planner",
+      "active_role": "engineer",
       "alive": true,
       "artifacts": [
         "research/solve/hyperbolic_hemicycle_cyclicity_scope.md",
@@ -89,19 +89,19 @@
       "health": "active",
       "inbox_files": 2,
       "label": "B",
-      "last_event": "life.planner.start",
-      "last_progress_at": 1787204660.0841944,
+      "last_event": "engineer.progress",
+      "last_progress_at": 1787204995.8170567,
       "max_rounds": 32,
-      "mission_id": "a18a9f87032a",
-      "mission_status": "continued",
-      "mission_title": "Principalize post-FQ2682 residual below zeta_amp",
+      "mission_id": "39e58581be51",
+      "mission_status": "working",
+      "mission_title": "Decide post-zeta Q_amp zero branch",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 3067257,
-      "progress_age_seconds": 41.759942054748535,
+      "progress_age_seconds": 8.352598667144775,
       "rejected_attempts": 0,
-      "review_reason": "FQ2683 satisfies the bounded develop mission: it principalizes the residual below zeta_amp with physical post-zeta rate/phase/cluster variables, keeps exact open branches explicit, and does not introduce a third FQ2681 second-tuple coefficient.",
-      "review_status": "done",
+      "review_reason": "",
+      "review_status": "none",
       "round": 1,
       "route": "construction / lower bounds",
       "sid": "s-2fd8729b",

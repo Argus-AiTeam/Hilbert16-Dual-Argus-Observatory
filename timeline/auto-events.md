@@ -1601,3 +1601,4 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-20 05:41:46 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
 | 2026-08-20 05:43:06 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
 | 2026-08-20 05:44:08 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-20 05:45:34 UTC | B | `life.manager.stage_decision` | FQ2683 is reviewer-validated bounded solve progress, but it explicitly leaves exact Q_amp=0, clustered/nonderivative-st… |
