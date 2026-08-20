@@ -1522,3 +1522,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-20 00:48:18 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
 | 2026-08-20 00:58:04 UTC | B | `life.mission.completed` | Compute the subleading coefficient on the a=0 adjusted-I2 cancellation stratum |
 | 2026-08-20 00:58:56 UTC | B | `life.manager.stage_decision` | FQ2650 satisfies the solve checklist for the bounded cancellation-stratum node, but the Hilbert contract remains open a… |
+| 2026-08-20 01:07:02 UTC | B | `life.mission.completed` | Decide the remaining product/transition residual after promoted a=0 principal scale |
+| 2026-08-20 01:08:11 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
