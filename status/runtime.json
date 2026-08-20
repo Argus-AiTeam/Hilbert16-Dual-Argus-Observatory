@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-20 04:29:38 UTC",
+  "generated_at_utc": "2026-08-20 04:34:40 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -28,7 +28,7 @@
       "frontier_change": "",
       "frontier_summary": "",
       "git": {
-        "dirty_paths": 326,
+        "dirty_paths": 329,
         "head": "59e60f7",
         "last_commit": "Record event522 after event542 decision"
       },
@@ -36,7 +36,7 @@
       "inbox_files": 4,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787200161.8652864,
+      "last_progress_at": 1787200455.1513638,
       "max_rounds": 32,
       "mission_id": "f3857a21cdb4",
       "mission_status": "working",
@@ -44,7 +44,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 3067328,
-      "progress_age_seconds": 16.663163661956787,
+      "progress_age_seconds": 25.16603183746338,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -55,7 +55,7 @@
       "state": "running"
     },
     "B": {
-      "active_role": "engineer",
+      "active_role": "planner",
       "alive": true,
       "artifacts": [
         "research/solve/hyperbolic_hemicycle_cyclicity_scope.md",
@@ -90,18 +90,18 @@
       "inbox_files": 2,
       "label": "B",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787200133.4412136,
+      "last_progress_at": 1787200475.5558078,
       "max_rounds": 32,
       "mission_id": "1352b762958b",
-      "mission_status": "working",
+      "mission_status": "continued",
       "mission_title": "Establish the raw unavailable-margin section atlas",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 3067257,
-      "progress_age_seconds": 45.087236404418945,
+      "progress_age_seconds": 4.761587858200073,
       "rejected_attempts": 0,
-      "review_reason": "",
-      "review_status": "none",
+      "review_reason": "FQ2674 correctly records a bounded obstruction: no raw atlas/disjointness/transition/classification is proved, and collapsed normalized data alone are shown non-injective for the physical chart classification.",
+      "review_status": "done",
       "round": 1,
       "route": "construction / lower bounds",
       "sid": "s-2fd8729b",
