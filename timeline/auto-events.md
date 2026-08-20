@@ -1845,3 +1845,7 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-20 20:46:11 UTC | B | `life.mission.completed` | Decide larger-asymmetry B=0 nonsymmetric endpoint cuts |
 | 2026-08-20 20:47:33 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
 | 2026-08-20 20:50:26 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-20 21:13:06 UTC | A | `life.mission.completed` | Decide the row 22/31 event494 bottom successor boundary |
+| 2026-08-20 21:14:07 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-20 21:11:15 UTC | B | `life.mission.completed` | Decide FQ2761 leading-vector-zero endpoint cells |
+| 2026-08-20 21:12:36 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
