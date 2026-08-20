@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-20 00:23:27 UTC",
+  "generated_at_utc": "2026-08-20 00:28:29 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -28,7 +28,7 @@
       "frontier_change": "",
       "frontier_summary": "",
       "git": {
-        "dirty_paths": 124,
+        "dirty_paths": 139,
         "head": "59e60f7",
         "last_commit": "Record event522 after event542 decision"
       },
@@ -36,7 +36,7 @@
       "inbox_files": 4,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787185399.964395,
+      "last_progress_at": 1787185659.1595395,
       "max_rounds": 32,
       "mission_id": "72edcb28c877",
       "mission_status": "working",
@@ -44,7 +44,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 3067328,
-      "progress_age_seconds": 7.565727472305298,
+      "progress_age_seconds": 50.385581970214844,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -55,7 +55,7 @@
       "state": "running"
     },
     "B": {
-      "active_role": "planner",
+      "active_role": "reviewer",
       "alive": true,
       "artifacts": [
         "research/solve/hyperbolic_hemicycle_cyclicity_scope.md",
@@ -89,19 +89,19 @@
       "health": "active",
       "inbox_files": 2,
       "label": "B",
-      "last_event": "life.planner.start",
-      "last_progress_at": 1787185341.762186,
+      "last_event": "engineer.progress",
+      "last_progress_at": 1787185705.8812726,
       "max_rounds": 32,
-      "mission_id": "7d781e847db5",
-      "mission_status": "continued",
-      "mission_title": "Decide the finite-root product/transition component on the a=0 M_->2 band",
+      "mission_id": "6302252d5760",
+      "mission_status": "working",
+      "mission_title": "Promote the a=0 finite-root multiplier into the principal scale",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 3067257,
-      "progress_age_seconds": 65.76793646812439,
+      "progress_age_seconds": 3.663848876953125,
       "rejected_attempts": 0,
-      "review_reason": "bounded mission is satisfied: FQ2646 gives a checked non-small root-transition multiplier obstruction, scoped to the M_->2 a=0 band without claiming physical closure or Hilbert/global conclusions",
-      "review_status": "done",
+      "review_reason": "",
+      "review_status": "none",
       "round": 1,
       "route": "construction / lower bounds",
       "sid": "s-2fd8729b",
