@@ -3,12 +3,12 @@
 > Generated deterministically from Argus durable state. No model writes this page, and it carries no cross-process solution transfer.
 > 本页面由确定性监控器根据 Argus 持久状态生成，不由模型写入，也不承担跨进程解题内容传递。
 
-**Updated / 更新时间:** 2026-08-20 05:29:57 UTC
+**Updated / 更新时间:** 2026-08-20 05:34:59 UTC
 
 | Seat | State | Stage | Active role | Round | Current mission | Review | Since semantic progress |
 |---|---|---|---|---:|---|---|---:|
-| A | running | `solve` | engineer | 1/32 | Certify event522 top-exit successor | none | 2m |
-| B | running | `solve` | engineer | 1/32 | Decide second centered coefficient data sufficiency | none | 2s |
+| A | running | `solve` | engineer | 1/32 | Certify event522 top-exit successor | none | 8m |
+| B | running | `solve` | engineer | 1/32 | Principalize post-FQ2682 residual below zeta_amp | none | 19s |
 
 **Isolation integrity / 隔离完整性:** ✅ immutable controls match
 
@@ -29,7 +29,7 @@
 - **Session / PID:** `s-2fd8729b` / `3067257`
 - **Route:** construction / lower bounds
 - **Models:** Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol
-- **Mission:** Decide second centered coefficient data sufficiency
+- **Mission:** Principalize post-FQ2682 residual below zeta_amp
 - **Reviewer state:** `none`; rejected attempts: 0
 - **Frontier signal:** Compact D=0, N-separated turning passages have moved from local/two-jet compatibility to a conditional all-orders exact-return and finite-zero insertion theorem.
 - **Research artifacts present:** `research/solve/hyperbolic_hemicycle_cyclicity_scope.md`, `research/solve/mixed_infinity_darboux_abelian_span.md`, `research/solve/mixed_infinity_darboux_bicycle_scope_second_order.md`, `research/solve/mixed_infinity_darboux_residual_quotient.md`, `research/solve/mixed_infinity_hyperbola_polycycle.md`, `research/solve/multiple_angular_root_newton_blowup.md`, `research/solve/nesting_depth_bounds.md`, `research/solve/next_target.json`, `research/solve/product_level_chain_construction.md`, `research/solve/quadratic_bottleneck_dossier.md`, `research/solve/radial_infinity_blowup.md`, `research/solve/radial_nested_family.md`, `research/solve/radial_zero_return_obstruction.md`, `research/solve/regular_annulus_localization.md`, `research/solve/repeated_phi_finite_v_decision.md`, `research/solve/structural_constraints_report.md`, `research/solve/structural_constraints_summary.md`, `research/solve/uniform_finiteness_brief.md`, `research/solve/verify_cl_perturbation.py`, `research/solve/verify_h2_lower_bound.py`
