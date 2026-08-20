@@ -1506,3 +1506,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-19 23:51:00 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
 | 2026-08-19 23:57:40 UTC | B | `life.mission.completed` | Build the corrected weighted/principalized a=0 root-passage remainder theorem |
 | 2026-08-19 23:58:50 UTC | B | `life.manager.stage_decision` | FQ2643 is a substantive reviewed solve result, but it narrows rather than closes the current Hilbert-route gap: the loc… |
+| 2026-08-20 00:06:49 UTC | B | `life.mission.completed` | Derive the center-boundary/global relative remainder after the corrected a=0 root substitution |
+| 2026-08-20 00:07:30 UTC | B | `life.manager.stage_decision` | FQ2644 is a reviewed substantive partial solve checkpoint, but the original objective remains unresolved: no full-displ… |
