@@ -1678,3 +1678,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-20 09:51:33 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
 | 2026-08-20 10:00:54 UTC | B | `life.mission.completed` | Decide raw kappa law or route branch away |
 | 2026-08-20 10:01:53 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-20 10:11:47 UTC | B | `life.mission.completed` | Decide shifted-normal dynamical section image |
+| 2026-08-20 10:13:11 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
