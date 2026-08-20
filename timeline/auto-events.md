@@ -1537,3 +1537,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-20 01:37:32 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
 | 2026-08-20 01:44:24 UTC | B | `life.mission.completed` | Decide global attachment residual against FQ2653 root-germ scale |
 | 2026-08-20 01:45:29 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-20 01:52:44 UTC | B | `life.mission.completed` | Compute the actual global attachment coefficient C_att_sigma |
+| 2026-08-20 01:53:29 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
