@@ -1804,3 +1804,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-20 17:48:56 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
 | 2026-08-20 17:47:32 UTC | B | `life.mission.completed` | Extract the physical Phi-jet table and compare with passage |
 | 2026-08-20 17:48:53 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-20 17:59:51 UTC | B | `life.mission.completed` | Decide the non-pure delta-m quadratic source slice |
+| 2026-08-20 18:01:22 UTC | B | `life.manager.stage_decision` | FQ2747 is reviewed substantive partial progress, but it leaves q_delta2 and q_delta_m blocked by the named non-pure pas… |
