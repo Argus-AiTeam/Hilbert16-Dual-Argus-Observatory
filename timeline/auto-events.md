@@ -1654,3 +1654,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-20 08:16:42 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
 | 2026-08-20 08:31:11 UTC | A | `life.mission.completed` | Consolidate row 22/31 right-low strip certificate |
 | 2026-08-20 08:31:41 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-20 08:42:18 UTC | A | `life.mission.completed` | Decide the left-adjacent full-B strip boundary |
+| 2026-08-20 08:43:08 UTC | A | `life.manager.stage_decision` | Reviewer accepted a substantive targeted gap reduction for the selected B-strip slab, but the global objective remains … |
