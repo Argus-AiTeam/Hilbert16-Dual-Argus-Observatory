@@ -1636,3 +1636,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-20 07:24:23 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
 | 2026-08-20 07:27:40 UTC | A | `life.mission.completed` | Certify event35 top-boundary successor |
 | 2026-08-20 07:28:56 UTC | A | `life.manager.stage_decision` | event35 top is accepted as a scoped local solve result, but the original Hilbert XVI objective remains open and the nex… |
+| 2026-08-20 07:33:28 UTC | B | `life.mission.completed` | Derive the FQ37--FQ42 lower VoC section-integral certificate |
+| 2026-08-20 07:34:37 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
