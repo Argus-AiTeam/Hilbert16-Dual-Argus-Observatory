@@ -1508,3 +1508,7 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-19 23:58:50 UTC | B | `life.manager.stage_decision` | FQ2643 is a substantive reviewed solve result, but it narrows rather than closes the current Hilbert-route gap: the loc… |
 | 2026-08-20 00:06:49 UTC | B | `life.mission.completed` | Derive the center-boundary/global relative remainder after the corrected a=0 root substitution |
 | 2026-08-20 00:07:30 UTC | B | `life.manager.stage_decision` | FQ2644 is a reviewed substantive partial solve checkpoint, but the original objective remains unresolved: no full-displ… |
+| 2026-08-20 00:16:08 UTC | A | `life.mission.completed` | Certify event237 bottom-entry successor |
+| 2026-08-20 00:17:13 UTC | A | `life.manager.stage_decision` | The reviewed event237 result is a valid bounded gap reduction, but the original theorem remains open and the next produ… |
+| 2026-08-20 00:14:18 UTC | B | `life.mission.completed` | Decide the full-displacement remainder on the a=0 M_->2 band |
+| 2026-08-20 00:15:08 UTC | B | `life.manager.stage_decision` | FQ2645 is reviewer-accepted as a correctly scoped full-displacement source-hypothesis failure, but it closes no M_->2 p… |
