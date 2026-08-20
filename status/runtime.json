@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-20 08:56:11 UTC",
+  "generated_at_utc": "2026-08-20 09:01:13 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -28,7 +28,7 @@
       "frontier_change": "",
       "frontier_summary": "",
       "git": {
-        "dirty_paths": 415,
+        "dirty_paths": 417,
         "head": "59e60f7",
         "last_commit": "Record event522 after event542 decision"
       },
@@ -36,7 +36,7 @@
       "inbox_files": 4,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787216016.7798245,
+      "last_progress_at": 1787216470.5286067,
       "max_rounds": 32,
       "mission_id": "606649fc3cba",
       "mission_status": "working",
@@ -44,7 +44,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 3067328,
-      "progress_age_seconds": 155.17448258399963,
+      "progress_age_seconds": 3.2507307529449463,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -55,7 +55,7 @@
       "state": "running"
     },
     "B": {
-      "active_role": "planner",
+      "active_role": "engineer",
       "alive": true,
       "artifacts": [
         "research/solve/hyperbolic_hemicycle_cyclicity_scope.md",
@@ -89,20 +89,20 @@
       "health": "active",
       "inbox_files": 2,
       "label": "B",
-      "last_event": "life.planner.start",
-      "last_progress_at": 1787216088.1447535,
+      "last_event": "engineer.progress",
+      "last_progress_at": 1787216472.2460418,
       "max_rounds": 32,
-      "mission_id": "822aeb535d01",
-      "mission_status": "continued",
-      "mission_title": "Derive a non-homogeneous section anchor or domain boundary",
+      "mission_id": "8b7a31495c1c",
+      "mission_status": "working",
+      "mission_title": "Principalize near-zero shifted-normal wall",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 3067257,
-      "progress_age_seconds": 83.80955362319946,
-      "rejected_attempts": 6,
-      "review_reason": "FQ2699-rm correctly proves the compact positive shifted-normal root-margin wall is too large relative to T_sigma and scopes the remaining near-zero-root/matching alternatives without overclaiming physical pinning or jets.",
-      "review_status": "done",
-      "round": 7,
+      "progress_age_seconds": 1.5332956314086914,
+      "rejected_attempts": 0,
+      "review_reason": "",
+      "review_status": "none",
+      "round": 1,
       "route": "construction / lower bounds",
       "sid": "s-2fd8729b",
       "stage": "solve",
