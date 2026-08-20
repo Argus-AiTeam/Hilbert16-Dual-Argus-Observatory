@@ -1818,3 +1818,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-20 18:37:53 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
 | 2026-08-20 18:47:29 UTC | B | `life.mission.completed` | Evaluate the FQ2750 rank jet or cubic endpoint source coefficient |
 | 2026-08-20 18:48:43 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-20 18:50:44 UTC | A | `life.mission.completed` | Decide the row 22/31 event566 bottom boundary |
+| 2026-08-20 18:51:57 UTC | A | `life.manager.stage_decision` | The event566-bottom boundary is now a reviewed bounded solve result, but the global objective remains unresolved and th… |
