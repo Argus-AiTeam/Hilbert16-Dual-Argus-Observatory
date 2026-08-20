@@ -1755,3 +1755,4 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-20 14:48:38 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
 | 2026-08-20 14:58:20 UTC | B | `life.mission.completed` | Constructing or refuting the FQ39--FQ42 physical branch-family theorem |
 | 2026-08-20 15:00:01 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-20 15:07:56 UTC | B | `life.mission.completed` | Deciding the actual FQ42 diagonal residual |
