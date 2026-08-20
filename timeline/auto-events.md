@@ -1745,3 +1745,4 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-20 14:19:21 UTC | A | `life.manager.stage_decision` | event492-bottom is locally certified with correct scope, but the original open-ended theorem remains unresolved and the… |
 | 2026-08-20 14:18:53 UTC | B | `life.mission.completed` | Derive the controlled off-diagonal alpha-kappa successor |
 | 2026-08-20 14:20:15 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-20 14:27:39 UTC | B | `life.mission.completed` | Principalize the sub-w2 kappa separation branch |
