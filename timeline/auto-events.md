@@ -1659,3 +1659,6 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-20 08:54:46 UTC | B | `life.mission.completed` | Derive a non-homogeneous section anchor or domain boundary |
 | 2026-08-20 08:56:25 UTC | B | `life.manager.stage_decision` | FQ2699-rm is valid, reviewed, gap-reducing solve progress, but it explicitly leaves the near-zero-root or transverse ma… |
 | 2026-08-20 09:05:39 UTC | B | `life.mission.completed` | Principalize near-zero shifted-normal wall |
+| 2026-08-20 09:08:26 UTC | A | `life.mission.completed` | Decide the left frontier below lambda 2489/1000 |
+| 2026-08-20 09:10:05 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-20 09:06:24 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
