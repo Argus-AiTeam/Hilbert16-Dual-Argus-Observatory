@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-19 23:58:20 UTC",
+  "generated_at_utc": "2026-08-20 00:03:21 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -44,7 +44,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 3067328,
-      "progress_age_seconds": 49.84964680671692,
+      "progress_age_seconds": 351.54832339286804,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -55,7 +55,7 @@
       "state": "running"
     },
     "B": {
-      "active_role": "planner",
+      "active_role": "engineer",
       "alive": true,
       "artifacts": [
         "research/solve/hyperbolic_hemicycle_cyclicity_scope.md",
@@ -89,19 +89,19 @@
       "health": "active",
       "inbox_files": 2,
       "label": "B",
-      "last_event": "life.planner.start",
-      "last_progress_at": 1787183861.384737,
+      "last_event": "engineer.progress",
+      "last_progress_at": 1787184158.987175,
       "max_rounds": 32,
-      "mission_id": "7ec3d9c2bf58",
-      "mission_status": "continued",
-      "mission_title": "Build the corrected weighted/principalized a=0 root-passage remainder theorem",
+      "mission_id": "9f26d9bb2173",
+      "mission_status": "working",
+      "mission_title": "Derive the center-boundary/global relative remainder after the corrected a=0 root substitution",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 3067257,
-      "progress_age_seconds": 38.81672191619873,
+      "progress_age_seconds": 42.91296052932739,
       "rejected_attempts": 0,
-      "review_reason": "FQ2643 satisfies the bounded develop objective: the corrected weighted/principalized root-passage estimates are supported and correctly leave all M_->2 physical subcells open at the center-boundary/global remainder theorem gap",
-      "review_status": "done",
+      "review_reason": "",
+      "review_status": "none",
       "round": 1,
       "route": "construction / lower bounds",
       "sid": "s-2fd8729b",
