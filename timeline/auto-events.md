@@ -1626,3 +1626,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-20 06:58:35 UTC | A | `life.mission.completed` | Certify event578 bottom-boundary successor |
 | 2026-08-20 06:59:14 UTC | A | `life.manager.stage_decision` | event578 bottom-boundary successor is reviewed and accepted as bounded solve progress, but the open-ended Hilbert XVI o… |
 | 2026-08-20 06:56:38 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-20 07:04:12 UTC | B | `life.mission.completed` | Principalize residual lower-oD phase/rate clusters |
+| 2026-08-20 07:04:49 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
