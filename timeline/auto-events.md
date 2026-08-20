@@ -1731,3 +1731,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-20 13:27:23 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
 | 2026-08-20 13:30:18 UTC | A | `life.mission.completed` | Decide the row 22/31 event157 top boundary |
 | 2026-08-20 13:31:08 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-20 13:35:26 UTC | B | `life.mission.completed` | Derive actual U4 post-forced FQ41 density |
+| 2026-08-20 13:36:08 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |

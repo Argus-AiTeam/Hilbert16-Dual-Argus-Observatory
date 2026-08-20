@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-20 13:32:40 UTC",
+  "generated_at_utc": "2026-08-20 13:37:43 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -28,7 +28,7 @@
       "frontier_change": "",
       "frontier_summary": "",
       "git": {
-        "dirty_paths": 439,
+        "dirty_paths": 441,
         "head": "59e60f7",
         "last_commit": "Record event522 after event542 decision"
       },
@@ -36,7 +36,7 @@
       "inbox_files": 4,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787232751.3220909,
+      "last_progress_at": 1787232933.3334901,
       "max_rounds": 32,
       "mission_id": "f96994cec254",
       "mission_status": "working",
@@ -44,7 +44,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 3067328,
-      "progress_age_seconds": 9.581018686294556,
+      "progress_age_seconds": 130.56749725341797,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -90,15 +90,15 @@
       "inbox_files": 2,
       "label": "B",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787232753.8808138,
+      "last_progress_at": 1787233063.5778582,
       "max_rounds": 32,
-      "mission_id": "c51970b05f14",
+      "mission_id": "eca3fe5e71cc",
       "mission_status": "working",
-      "mission_title": "Derive actual U4 post-forced FQ41 density",
+      "mission_title": "Derive displayed FQ41 post-forced source density",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 3067257,
-      "progress_age_seconds": 7.022295713424683,
+      "progress_age_seconds": 0.32312917709350586,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
