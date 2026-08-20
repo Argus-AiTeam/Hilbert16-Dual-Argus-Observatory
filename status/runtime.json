@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-20 08:46:09 UTC",
+  "generated_at_utc": "2026-08-20 08:56:11 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -28,7 +28,7 @@
       "frontier_change": "",
       "frontier_summary": "",
       "git": {
-        "dirty_paths": 410,
+        "dirty_paths": 415,
         "head": "59e60f7",
         "last_commit": "Record event522 after event542 decision"
       },
@@ -36,7 +36,7 @@
       "inbox_files": 4,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787215552.4434905,
+      "last_progress_at": 1787216016.7798245,
       "max_rounds": 32,
       "mission_id": "606649fc3cba",
       "mission_status": "working",
@@ -44,7 +44,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 3067328,
-      "progress_age_seconds": 17.4069561958313,
+      "progress_age_seconds": 155.17448258399963,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -55,7 +55,7 @@
       "state": "running"
     },
     "B": {
-      "active_role": "reviewer",
+      "active_role": "planner",
       "alive": true,
       "artifacts": [
         "research/solve/hyperbolic_hemicycle_cyclicity_scope.md",
@@ -89,20 +89,20 @@
       "health": "active",
       "inbox_files": 2,
       "label": "B",
-      "last_event": "engineer.progress",
-      "last_progress_at": 1787215565.5030274,
+      "last_event": "life.planner.start",
+      "last_progress_at": 1787216088.1447535,
       "max_rounds": 32,
       "mission_id": "822aeb535d01",
-      "mission_status": "working",
+      "mission_status": "continued",
       "mission_title": "Derive a non-homogeneous section anchor or domain boundary",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 3067257,
-      "progress_age_seconds": 4.347419261932373,
-      "rejected_attempts": 5,
-      "review_reason": "strategy-layer subroute failure: FQ2699-trans verifies that coordinate definitions alone do not match rho_in to the longitudinal cut, but no actual transverse moving wall, shrink, or boundary-pinning theorem is proved",
-      "review_status": "continue",
-      "round": 6,
+      "progress_age_seconds": 83.80955362319946,
+      "rejected_attempts": 6,
+      "review_reason": "FQ2699-rm correctly proves the compact positive shifted-normal root-margin wall is too large relative to T_sigma and scopes the remaining near-zero-root/matching alternatives without overclaiming physical pinning or jets.",
+      "review_status": "done",
+      "round": 7,
       "route": "construction / lower bounds",
       "sid": "s-2fd8729b",
       "stage": "solve",
