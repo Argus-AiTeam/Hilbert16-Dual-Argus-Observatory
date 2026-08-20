@@ -1516,3 +1516,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-20 00:23:31 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
 | 2026-08-20 00:29:56 UTC | B | `life.mission.completed` | Promote the a=0 finite-root multiplier into the principal scale |
 | 2026-08-20 00:30:46 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-20 00:38:41 UTC | B | `life.mission.completed` | Decide the higher-Melnikov residual after promoted a=0 root scale |
+| 2026-08-20 00:39:46 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
