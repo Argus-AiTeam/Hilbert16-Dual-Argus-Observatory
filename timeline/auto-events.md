@@ -1668,3 +1668,7 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-20 09:30:44 UTC | A | `life.manager.stage_decision` | Event524 is reviewed as harmless, but the accepted result is still row-local selected-tail evidence and leaves the main… |
 | 2026-08-20 09:29:59 UTC | B | `life.mission.completed` | Test non-homogeneous section matching |
 | 2026-08-20 09:30:58 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-20 09:31:48 UTC | A | `life.planner.error` |  |
+| 2026-08-20 09:32:27 UTC | A | `life.planner.error` |  |
+| 2026-08-20 09:32:02 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-20 09:33:26 UTC | B | `life.manager.stage_decision` | FQ2701 is a reviewed bounded solve result, but the global Hilbert contract remains unresolved; the proof-graph gap meas… |
