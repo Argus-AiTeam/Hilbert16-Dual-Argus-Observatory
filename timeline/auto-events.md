@@ -1756,3 +1756,6 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-20 14:58:20 UTC | B | `life.mission.completed` | Constructing or refuting the FQ39--FQ42 physical branch-family theorem |
 | 2026-08-20 15:00:01 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
 | 2026-08-20 15:07:56 UTC | B | `life.mission.completed` | Deciding the actual FQ42 diagonal residual |
+| 2026-08-20 15:09:54 UTC | A | `life.mission.completed` | Decide the row 22/31 event485 top boundary |
+| 2026-08-20 15:10:57 UTC | A | `life.manager.stage_decision` | Reviewer accepted the event485-top successor certificate, but the operator objective remains unresolved and the next lo… |
+| 2026-08-20 15:09:00 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
