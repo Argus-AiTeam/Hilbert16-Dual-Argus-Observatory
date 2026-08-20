@@ -1648,3 +1648,6 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-20 07:56:20 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
 | 2026-08-20 08:01:34 UTC | A | `life.manager.stage_decision` | Reviewer accepted the bounded event52-top successor as a real local gap reduction, but the global Hilbert/configuration… |
 | 2026-08-20 08:05:54 UTC | B | `life.mission.completed` | Derive the absolute incoming-scale calibration |
+| 2026-08-20 08:14:48 UTC | A | `life.mission.completed` | Decide event520 bottom-boundary successor |
+| 2026-08-20 08:15:45 UTC | A | `life.manager.stage_decision` | event520 bottom successor is accepted as a scoped solve result, but the global objective remains unresolved and the nex… |
+| 2026-08-20 08:15:28 UTC | B | `life.mission.completed` | Test exact-branch compatibility for section anchor or disjointness |
