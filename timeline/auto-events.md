@@ -1618,3 +1618,7 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-20 06:31:18 UTC | B | `life.manager.stage_decision` | FQ2688 is reviewed and gap-reducing for the bounded exact-cancellation transfer, but the Hilbert objective and recorded… |
 | 2026-08-20 06:38:45 UTC | B | `life.mission.completed` | Decide unselected incoming-amplitude cluster principalization |
 | 2026-08-20 06:39:53 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-20 06:45:57 UTC | A | `life.mission.completed` | Certify event434 bottom-exit successor |
+| 2026-08-20 06:47:02 UTC | A | `life.manager.stage_decision` | Reviewer accepted the bounded event434 bottom-exit result, but no global theorem is claimed, the proof-graph gap check … |
+| 2026-08-20 06:49:16 UTC | B | `life.mission.completed` | Decide independent lower-o_D derivative budget |
+| 2026-08-20 06:50:11 UTC | B | `life.manager.stage_decision` | FQ2690 is a reviewed substantive solve increment, but it routes the lower-oD branch to a missing actual VoC phase/rate … |
