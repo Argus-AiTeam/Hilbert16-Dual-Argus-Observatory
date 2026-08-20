@@ -1,9 +1,9 @@
 {
-  "generated_at_utc": "2026-08-20 16:33:54 UTC",
+  "generated_at_utc": "2026-08-20 16:43:57 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
-      "active_role": "engineer",
+      "active_role": "reviewer",
       "alive": true,
       "artifacts": [
         "research/BOUNDED_RETURN_BLOCKS.md",
@@ -28,7 +28,7 @@
       "frontier_change": "",
       "frontier_summary": "",
       "git": {
-        "dirty_paths": 454,
+        "dirty_paths": 455,
         "head": "59e60f7",
         "last_commit": "Record event522 after event542 decision"
       },
@@ -36,7 +36,7 @@
       "inbox_files": 4,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787243564.981126,
+      "last_progress_at": 1787244108.3073099,
       "max_rounds": 32,
       "mission_id": "d705b3fba396",
       "mission_status": "working",
@@ -44,7 +44,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 3067328,
-      "progress_age_seconds": 69.4408712387085,
+      "progress_age_seconds": 128.94462251663208,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -90,15 +90,15 @@
       "inbox_files": 2,
       "label": "B",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787243627.7634678,
+      "last_progress_at": 1787244232.9998968,
       "max_rounds": 32,
-      "mission_id": "1607f0c60dd5",
+      "mission_id": "8249a402fcb1",
       "mission_status": "working",
-      "mission_title": "Computing the pure mu5 second-variation source tuple",
+      "mission_title": "Deriving the pure-m FQ42 section/matching two-jet",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 3067257,
-      "progress_age_seconds": 6.65852952003479,
+      "progress_age_seconds": 4.252035617828369,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
