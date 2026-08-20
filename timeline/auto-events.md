@@ -1688,3 +1688,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-20 10:33:13 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
 | 2026-08-20 10:35:23 UTC | B | `life.manager.stage_decision` | The reviewed FQ2706 result is substantive, but the proof-graph gap checker reports the gap is unavailable because the g… |
 | 2026-08-20 10:40:48 UTC | A | `life.mission.completed` | Decide the left-frontier event209 bottom exit |
+| 2026-08-20 10:42:00 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-20 10:46:37 UTC | B | `life.mission.completed` | Decide source-level section pinning beyond FQ2706 |
