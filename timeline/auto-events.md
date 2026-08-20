@@ -1514,3 +1514,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-20 00:15:08 UTC | B | `life.manager.stage_decision` | FQ2645 is reviewer-accepted as a correctly scoped full-displacement source-hypothesis failure, but it closes no M_->2 p… |
 | 2026-08-20 00:22:20 UTC | B | `life.mission.completed` | Decide the finite-root product/transition component on the a=0 M_->2 band |
 | 2026-08-20 00:23:31 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-20 00:29:56 UTC | B | `life.mission.completed` | Promote the a=0 finite-root multiplier into the principal scale |
+| 2026-08-20 00:30:46 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |

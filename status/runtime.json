@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-20 00:28:29 UTC",
+  "generated_at_utc": "2026-08-20 00:33:31 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -28,7 +28,7 @@
       "frontier_change": "",
       "frontier_summary": "",
       "git": {
-        "dirty_paths": 139,
+        "dirty_paths": 141,
         "head": "59e60f7",
         "last_commit": "Record event522 after event542 decision"
       },
@@ -36,7 +36,7 @@
       "inbox_files": 4,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787185659.1595395,
+      "last_progress_at": 1787185909.7307243,
       "max_rounds": 32,
       "mission_id": "72edcb28c877",
       "mission_status": "working",
@@ -44,7 +44,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 3067328,
-      "progress_age_seconds": 50.385581970214844,
+      "progress_age_seconds": 101.8203935623169,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -55,7 +55,7 @@
       "state": "running"
     },
     "B": {
-      "active_role": "reviewer",
+      "active_role": "engineer",
       "alive": true,
       "artifacts": [
         "research/solve/hyperbolic_hemicycle_cyclicity_scope.md",
@@ -90,15 +90,15 @@
       "inbox_files": 2,
       "label": "B",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787185705.8812726,
+      "last_progress_at": 1787185964.9531796,
       "max_rounds": 32,
-      "mission_id": "6302252d5760",
+      "mission_id": "24e635af8cfb",
       "mission_status": "working",
-      "mission_title": "Promote the a=0 finite-root multiplier into the principal scale",
+      "mission_title": "Decide the higher-Melnikov residual after promoted a=0 root scale",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 3067257,
-      "progress_age_seconds": 3.663848876953125,
+      "progress_age_seconds": 46.59793829917908,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
