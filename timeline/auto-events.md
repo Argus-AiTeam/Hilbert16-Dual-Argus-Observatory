@@ -1871,3 +1871,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-20 23:32:18 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
 | 2026-08-20 23:41:14 UTC | A | `life.mission.completed` | Decide the row 22/31 event496 positive-I2 successor boundary |
 | 2026-08-20 23:42:09 UTC | A | `life.manager.stage_decision` | Reviewer accepted the event496 bottom successor result, but the open-ended solve campaign is not complete: H6/CONFIG/un… |
+| 2026-08-20 23:47:43 UTC | B | `life.mission.completed` | Decide FQ2772 beta6-alpha7 B2 survivor |
+| 2026-08-20 23:48:49 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
