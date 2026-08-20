@@ -1632,3 +1632,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-20 07:13:47 UTC | B | `life.mission.completed` | Derive physical lower VoC phase-rate map |
 | 2026-08-20 07:14:39 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
 | 2026-08-20 07:15:55 UTC | A | `life.manager.stage_decision` | The event35 bottom crossing is accepted as a local selected-row gap reduction, but it does not close the solve stage or… |
+| 2026-08-20 07:23:28 UTC | B | `life.mission.completed` | Prove FQ37--FQ42 lower VoC asymptotic |
+| 2026-08-20 07:24:23 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
