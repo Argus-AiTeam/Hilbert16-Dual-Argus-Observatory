@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-20 02:39:04 UTC",
+  "generated_at_utc": "2026-08-20 02:49:06 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -28,7 +28,7 @@
       "frontier_change": "",
       "frontier_summary": "",
       "git": {
-        "dirty_paths": 257,
+        "dirty_paths": 267,
         "head": "59e60f7",
         "last_commit": "Record event522 after event542 decision"
       },
@@ -36,7 +36,7 @@
       "inbox_files": 4,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787193539.4075763,
+      "last_progress_at": 1787194094.198084,
       "max_rounds": 32,
       "mission_id": "6cd1eccf84a7",
       "mission_status": "working",
@@ -44,7 +44,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 3067328,
-      "progress_age_seconds": 4.6189703941345215,
+      "progress_age_seconds": 52.03499627113342,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -90,15 +90,15 @@
       "inbox_files": 2,
       "label": "B",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787193543.3967507,
+      "last_progress_at": 1787194144.559105,
       "max_rounds": 32,
-      "mission_id": "5845ee63ab06",
+      "mission_id": "5f1c0f91cc84",
       "mission_status": "working",
-      "mission_title": "Principalize the FQ2660 residual successor mechanisms",
+      "mission_title": "Decide the FQ2661 third-scale N_att successor variables",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 3067257,
-      "progress_age_seconds": 0.629796028137207,
+      "progress_age_seconds": 1.6739754676818848,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
