@@ -1547,3 +1547,7 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-20 02:20:11 UTC | B | `life.manager.stage_decision` | FQ2658 is accepted bounded solve progress, but it routes rather than closes the exact Y_att=32/theta ordinary successor… |
 | 2026-08-20 02:27:42 UTC | B | `life.mission.completed` | Decide the exact Y_att ordinary successor face |
 | 2026-08-20 02:28:48 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-20 02:34:34 UTC | A | `life.mission.completed` | Certify event241 bottom-entry successor |
+| 2026-08-20 02:35:19 UTC | A | `life.manager.stage_decision` | event241 is reviewed as a correctly scoped bounded solve increment, but the original Hilbert-number/configuration objec… |
+| 2026-08-20 02:36:52 UTC | B | `life.mission.completed` | Decide the N_att exact ordinary-cancellation successor and tail-principal faces |
+| 2026-08-20 02:37:43 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
