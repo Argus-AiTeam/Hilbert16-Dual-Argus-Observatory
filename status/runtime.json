@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-20 06:15:13 UTC",
+  "generated_at_utc": "2026-08-20 06:25:16 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -28,7 +28,7 @@
       "frontier_change": "",
       "frontier_summary": "",
       "git": {
-        "dirty_paths": 360,
+        "dirty_paths": 364,
         "head": "59e60f7",
         "last_commit": "Record event522 after event542 decision"
       },
@@ -36,7 +36,7 @@
       "inbox_files": 4,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787206438.7574403,
+      "last_progress_at": 1787207114.9826715,
       "max_rounds": 32,
       "mission_id": "da9924f6754e",
       "mission_status": "working",
@@ -44,7 +44,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 3067328,
-      "progress_age_seconds": 74.51578831672668,
+      "progress_age_seconds": 1.0596206188201904,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -90,15 +90,15 @@
       "inbox_files": 2,
       "label": "B",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787206508.2347956,
+      "last_progress_at": 1787207116.0426607,
       "max_rounds": 32,
-      "mission_id": "787515e33004",
+      "mission_id": "11c3a720a5da",
       "mission_status": "working",
-      "mission_title": "Principalize clustered incoming amplitudes",
+      "mission_title": "Decide cluster-selected exact cancellation transfer",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 3067257,
-      "progress_age_seconds": 5.038433074951172,
+      "progress_age_seconds": 0.0,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",

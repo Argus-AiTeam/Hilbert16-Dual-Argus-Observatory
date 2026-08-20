@@ -1610,3 +1610,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-20 06:10:19 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
 | 2026-08-20 06:13:11 UTC | B | `life.mission.completed` | Decide lower o_D derivative-budget modulus |
 | 2026-08-20 06:14:11 UTC | B | `life.manager.stage_decision` | Reviewer accepted FQ2686 as a substantive, correctly scoped solve result: current records obstruct omega_D^(3) certific… |
+| 2026-08-20 06:22:50 UTC | B | `life.mission.completed` | Principalize clustered incoming amplitudes |
+| 2026-08-20 06:23:50 UTC | B | `life.manager.stage_decision` | FQ2687 is a reviewed, substantive solve result, but it explicitly leaves finite selected exact cancellation and unselec… |
