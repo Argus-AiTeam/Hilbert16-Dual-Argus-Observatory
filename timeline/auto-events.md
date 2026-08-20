@@ -1787,3 +1787,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-20 16:47:36 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
 | 2026-08-20 16:50:35 UTC | B | `life.mission.completed` | Deriving the pure-m FQ42 section/matching two-jet |
 | 2026-08-20 16:51:33 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-20 16:59:55 UTC | B | `life.mission.completed` | Derive the pure-m2 FQ42 moving-origin defect coefficient |
+| 2026-08-20 17:01:26 UTC | B | `life.manager.stage_decision` | FQ2741 is reviewed, substantive solve progress: it computes the FQ42 transition L1 and reduces q_m2 to the physical B42… |
