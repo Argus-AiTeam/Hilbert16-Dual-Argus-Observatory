@@ -1574,3 +1574,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-20 04:08:57 UTC | A | `life.manager.stage_decision` | The reviewed event148 decision is verified and gap-reducing locally, but it remains selected-row/tail evidence only; th… |
 | 2026-08-20 04:08:39 UTC | B | `life.mission.completed` | Principalize the unavailable-margin quotient |
 | 2026-08-20 04:09:33 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-20 04:15:34 UTC | B | `life.mission.completed` | Derive the physical unavailable-margin atlas asymptotics |
+| 2026-08-20 04:17:01 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
