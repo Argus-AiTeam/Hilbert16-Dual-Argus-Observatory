@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-20 10:46:43 UTC",
+  "generated_at_utc": "2026-08-20 10:51:45 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -28,7 +28,7 @@
       "frontier_change": "",
       "frontier_summary": "",
       "git": {
-        "dirty_paths": 425,
+        "dirty_paths": 427,
         "head": "59e60f7",
         "last_commit": "Record event522 after event542 decision"
       },
@@ -36,7 +36,7 @@
       "inbox_files": 4,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787222751.2372577,
+      "last_progress_at": 1787223023.5254455,
       "max_rounds": 32,
       "mission_id": "80bf48ee00ab",
       "mission_status": "working",
@@ -44,7 +44,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 3067328,
-      "progress_age_seconds": 52.134050130844116,
+      "progress_age_seconds": 81.79994988441467,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -55,7 +55,7 @@
       "state": "running"
     },
     "B": {
-      "active_role": "planner",
+      "active_role": "engineer",
       "alive": true,
       "artifacts": [
         "research/solve/hyperbolic_hemicycle_cyclicity_scope.md",
@@ -89,19 +89,19 @@
       "health": "active",
       "inbox_files": 2,
       "label": "B",
-      "last_event": "life.planner.start",
-      "last_progress_at": 1787222798.5433395,
+      "last_event": "engineer.progress",
+      "last_progress_at": 1787223003.2669241,
       "max_rounds": 32,
-      "mission_id": "e40a7848eef1",
-      "mission_status": "continued",
-      "mission_title": "Decide source-level section pinning beyond FQ2706",
+      "mission_id": "2e65dc9036fe",
+      "mission_status": "working",
+      "mission_title": "Decide kappa-uniform exact-return route after FQ2707",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 3067257,
-      "progress_age_seconds": 4.82796835899353,
+      "progress_age_seconds": 102.05847120285034,
       "rejected_attempts": 0,
-      "review_reason": "FQ2707 is a correctly scoped negative result: the checked source/section material and FQ2706 collar do not pin kappa, force normalized shrink, prove actual residual-branch disjointness, or trigger FQ41--FQ42 jets",
-      "review_status": "done",
+      "review_reason": "",
+      "review_status": "none",
       "round": 1,
       "route": "construction / lower bounds",
       "sid": "s-2fd8729b",
