@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-20 11:31:59 UTC",
+  "generated_at_utc": "2026-08-20 11:42:03 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -28,7 +28,7 @@
       "frontier_change": "",
       "frontier_summary": "",
       "git": {
-        "dirty_paths": 430,
+        "dirty_paths": 431,
         "head": "59e60f7",
         "last_commit": "Record event522 after event542 decision"
       },
@@ -36,7 +36,7 @@
       "inbox_files": 4,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787225508.4221113,
+      "last_progress_at": 1787226101.24285,
       "max_rounds": 32,
       "mission_id": "413de033de1f",
       "mission_status": "working",
@@ -44,7 +44,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 3067328,
-      "progress_age_seconds": 10.784641742706299,
+      "progress_age_seconds": 22.394006967544556,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -90,15 +90,15 @@
       "inbox_files": 2,
       "label": "B",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787225514.1699986,
+      "last_progress_at": 1787226120.6540627,
       "max_rounds": 32,
-      "mission_id": "99564a113690",
+      "mission_id": "8e3604df3c02",
       "mission_status": "working",
-      "mission_title": "Compute actual FQ41--FQ42 finite-layer composition",
+      "mission_title": "Determine FQ2711 side-height composition tuple",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 3067257,
-      "progress_age_seconds": 5.036754369735718,
+      "progress_age_seconds": 2.9827942848205566,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
