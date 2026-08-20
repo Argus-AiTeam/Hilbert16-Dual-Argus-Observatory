@@ -1828,3 +1828,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-20 19:38:20 UTC | A | `life.manager.stage_decision` | The event470-bottom bounded checkpoint is accepted, but the original theorem remains unresolved and the next discrimina… |
 | 2026-08-20 19:53:03 UTC | B | `life.mission.completed` | Decide the FQ2752 Volterra cubic functional |
 | 2026-08-20 19:54:28 UTC | B | `life.manager.stage_decision` | FQ2757 is a reviewed substantive leaf-level gap reduction, but the artifacts explicitly withhold the global FQ2752 sign… |
+| 2026-08-20 20:03:12 UTC | B | `life.mission.completed` | Decide the positive B=0 FQ673 endpoint family after FQ2757 |
+| 2026-08-20 20:04:38 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
