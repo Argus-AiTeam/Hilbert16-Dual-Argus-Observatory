@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-21 17:38:50 UTC",
+  "generated_at_utc": "2026-08-21 20:38:57 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -44,7 +44,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 3067328,
-      "progress_age_seconds": 295.58194041252136,
+      "progress_age_seconds": 11102.866438627243,
       "rejected_attempts": 1,
       "review_reason": "Engineer requires an operator-owned decision before continuing.",
       "review_status": "blocked",
@@ -52,7 +52,7 @@
       "route": "theory / upper constraints",
       "sid": "s-54f17ee7",
       "stage": "solve",
-      "state": "running"
+      "state": "stale-warning"
     },
     "B": {
       "active_role": "idle",
@@ -98,7 +98,7 @@
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 3067257,
-      "progress_age_seconds": 43153.05707573891,
+      "progress_age_seconds": 53960.34157395363,
       "rejected_attempts": 2,
       "review_reason": "Engineer requires an operator-owned decision before continuing.",
       "review_status": "blocked",
