@@ -3,12 +3,12 @@
 > Generated deterministically from Argus durable state. No model writes this page, and it carries no cross-process solution transfer.
 > 本页面由确定性监控器根据 Argus 持久状态生成，不由模型写入，也不承担跨进程解题内容传递。
 
-**Updated / 更新时间:** 2026-08-21 13:08:16 UTC
+**Updated / 更新时间:** 2026-08-21 13:38:20 UTC
 
 | Seat | State | Stage | Active role | Round | Current mission | Review | Since semantic progress |
 |---|---|---|---|---:|---|---|---:|
-| A | running | `solve` | engineer | 1/32 | Decide the post-event399 event493 bottom successor | none | 1m |
-| B | stale-warning | `solve` | idle | 2/32 | Compute the beta-directional flat source-map derivative | blocked | 7.5h |
+| A | running | `solve` | engineer | 1/32 | Decide the post-event399 event497 bottom successor | none | 3s |
+| B | stale-warning | `solve` | idle | 2/32 | Compute the beta-directional flat source-map derivative | blocked | 8.0h |
 
 **Isolation integrity / 隔离完整性:** ✅ immutable controls match
 
@@ -17,11 +17,11 @@
 - **Session / PID:** `s-54f17ee7` / `3067328`
 - **Route:** theory / upper constraints
 - **Models:** Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro
-- **Mission:** Decide the post-event399 event493 bottom successor
+- **Mission:** Decide the post-event399 event497 bottom successor
 - **Reviewer state:** `none`; rejected attempts: 0
 - **Frontier signal:** not yet classified
 - **Research artifacts present:** `research/BOUNDED_RETURN_BLOCKS.md`, `research/CONFIGURATION_DEPTH.md`, `research/CONFIGURATION_WIDTH.md`, `research/DEGREE_RAISING.md`, `research/DULAC_POLYCYCLE_ROUTE_VERDICT.md`, `research/FIXED_DEGREE_REALIZATION.md`, `research/HILBERT_LOWER_BOUNDS.md`, `research/I6B_BOUNDED_COMPLEXITY_ZERO_COUNT.md`, `research/LOCAL_TO_GLOBAL.md`, `research/PIPELINE_STATE.json`, `research/PROOF_GRAPH.json`, `research/QUADRATIC_BASE_CASE.md`, `research/ROUTE_LEDGER.json`, `research/SCOPE.md`, `research/STATIONARY_EQUATOR_SLOW_FAST.md`, `research/UNIFORM_RETURN_VALENCY.md`, `research/UNIVERSAL_PAIR_BLOWUP.md`, `research/ZHU_EHP2B_VERDICT.md`
-- **Git:** `59e60f7` · 671 changed path(s) · Record event522 after event542 decision
+- **Git:** `59e60f7` · 676 changed path(s) · Record event522 after event542 decision
 - **Broker mailboxes:** inbox 4 · outbox 3
 
 ### Argus B

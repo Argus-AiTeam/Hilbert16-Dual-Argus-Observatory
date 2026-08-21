@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-21 13:08:16 UTC",
+  "generated_at_utc": "2026-08-21 13:38:20 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -28,7 +28,7 @@
       "frontier_change": "",
       "frontier_summary": "",
       "git": {
-        "dirty_paths": 671,
+        "dirty_paths": 676,
         "head": "59e60f7",
         "last_commit": "Record event522 after event542 decision"
       },
@@ -36,15 +36,15 @@
       "inbox_files": 4,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787317593.735692,
+      "last_progress_at": 1787319496.457588,
       "max_rounds": 32,
-      "mission_id": "5e0bf87afb9b",
+      "mission_id": "47f9400df2fa",
       "mission_status": "working",
-      "mission_title": "Decide the post-event399 event493 bottom successor",
+      "mission_title": "Decide the post-event399 event497 bottom successor",
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 3067328,
-      "progress_age_seconds": 102.92523050308228,
+      "progress_age_seconds": 3.706913948059082,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -98,7 +98,7 @@
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 3067257,
-      "progress_age_seconds": 26919.04738354683,
+      "progress_age_seconds": 28722.550962924957,
       "rejected_attempts": 2,
       "review_reason": "Engineer requires an operator-owned decision before continuing.",
       "review_status": "blocked",
