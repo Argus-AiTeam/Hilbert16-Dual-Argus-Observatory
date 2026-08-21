@@ -1950,3 +1950,4 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-21 05:16:19 UTC | B | `life.mission.completed` | Construct the Lambda_flat residual cone |
 | 2026-08-21 05:25:16 UTC | B | `life.mission.completed` | Derive the beta5_flat exact-return coupling |
 | 2026-08-21 05:26:23 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-21 05:39:37 UTC | B | `life.mission.completed` | Compute the beta-directional flat source-map derivative |
