@@ -1,9 +1,9 @@
 {
-  "generated_at_utc": "2026-08-21 04:51:42 UTC",
+  "generated_at_utc": "2026-08-21 05:01:44 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
-      "active_role": "engineer",
+      "active_role": "reviewer",
       "alive": true,
       "artifacts": [
         "research/BOUNDED_RETURN_BLOCKS.md",
@@ -28,7 +28,7 @@
       "frontier_change": "",
       "frontier_summary": "",
       "git": {
-        "dirty_paths": 617,
+        "dirty_paths": 619,
         "head": "59e60f7",
         "last_commit": "Record event522 after event542 decision"
       },
@@ -36,7 +36,7 @@
       "inbox_files": 4,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787287346.8248613,
+      "last_progress_at": 1787288399.0133889,
       "max_rounds": 32,
       "mission_id": "a46765aaf32f",
       "mission_status": "working",
@@ -44,7 +44,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 3067328,
-      "progress_age_seconds": 556.0257759094238,
+      "progress_age_seconds": 105.93700385093689,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -90,15 +90,15 @@
       "inbox_files": 2,
       "label": "B",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787287883.884065,
+      "last_progress_at": 1787288460.488614,
       "max_rounds": 32,
-      "mission_id": "3499a50829d5",
+      "mission_id": "68b60bc20cf4",
       "mission_status": "working",
-      "mission_title": "Derive the flat Q_ret tangent cone",
+      "mission_title": "Decide the physical E_flat chart or exact-zero successor",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 3067257,
-      "progress_age_seconds": 18.966572284698486,
+      "progress_age_seconds": 44.46177864074707,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
