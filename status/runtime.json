@@ -1,9 +1,9 @@
 {
-  "generated_at_utc": "2026-08-21 01:30:55 UTC",
+  "generated_at_utc": "2026-08-21 01:50:57 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
-      "active_role": "engineer",
+      "active_role": "reviewer",
       "alive": true,
       "artifacts": [
         "research/BOUNDED_RETURN_BLOCKS.md",
@@ -28,7 +28,7 @@
       "frontier_change": "",
       "frontier_summary": "",
       "git": {
-        "dirty_paths": 559,
+        "dirty_paths": 560,
         "head": "59e60f7",
         "last_commit": "Record event522 after event542 decision"
       },
@@ -36,7 +36,7 @@
       "inbox_files": 4,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787275855.0469482,
+      "last_progress_at": 1787277050.430705,
       "max_rounds": 32,
       "mission_id": "4a1581bd60f0",
       "mission_status": "working",
@@ -44,7 +44,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 3067328,
-      "progress_age_seconds": 0.30139946937561035,
+      "progress_age_seconds": 7.357028484344482,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -55,7 +55,7 @@
       "state": "running"
     },
     "B": {
-      "active_role": "engineer",
+      "active_role": "planner",
       "alive": true,
       "artifacts": [
         "research/solve/hyperbolic_hemicycle_cyclicity_scope.md",
@@ -89,19 +89,19 @@
       "health": "active",
       "inbox_files": 2,
       "label": "B",
-      "last_event": "engineer.progress",
-      "last_progress_at": 1787275817.0219793,
+      "last_event": "life.planner.start",
+      "last_progress_at": 1787277038.6087952,
       "max_rounds": 32,
       "mission_id": "719793285bfa",
-      "mission_status": "working",
+      "mission_status": "continued",
       "mission_title": "Resolve the beta7-zero retained-B recurrence as a formal branch or obstruction",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 3067257,
-      "progress_age_seconds": 38.32636833190918,
+      "progress_age_seconds": 19.178938388824463,
       "rejected_attempts": 0,
-      "review_reason": "",
-      "review_status": "none",
+      "review_reason": "bounded FQ2779 retained-B recurrence result is materially complete and correctly scoped",
+      "review_status": "done",
       "round": 1,
       "route": "construction / lower bounds",
       "sid": "s-2fd8729b",
