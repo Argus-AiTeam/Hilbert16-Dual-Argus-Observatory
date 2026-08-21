@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-21 02:36:09 UTC",
+  "generated_at_utc": "2026-08-21 02:41:11 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -28,7 +28,7 @@
       "frontier_change": "",
       "frontier_summary": "",
       "git": {
-        "dirty_paths": 573,
+        "dirty_paths": 576,
         "head": "59e60f7",
         "last_commit": "Record event522 after event542 decision"
       },
@@ -36,7 +36,7 @@
       "inbox_files": 4,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787279740.7683773,
+      "last_progress_at": 1787280030.5809028,
       "max_rounds": 32,
       "mission_id": "2a5e4b10e898",
       "mission_status": "working",
@@ -44,7 +44,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 3067328,
-      "progress_age_seconds": 28.691636562347412,
+      "progress_age_seconds": 40.64876890182495,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -55,7 +55,7 @@
       "state": "running"
     },
     "B": {
-      "active_role": "reviewer",
+      "active_role": "planner",
       "alive": true,
       "artifacts": [
         "research/solve/hyperbolic_hemicycle_cyclicity_scope.md",
@@ -90,18 +90,18 @@
       "inbox_files": 2,
       "label": "B",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787279753.283446,
+      "last_progress_at": 1787280070.153352,
       "max_rounds": 32,
       "mission_id": "093199b62cc6",
-      "mission_status": "working",
+      "mission_status": "continued",
       "mission_title": "Classify the FQ2781 B=2 source-integral zero-locus",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 3067257,
-      "progress_age_seconds": 16.176567792892456,
+      "progress_age_seconds": 1.076319694519043,
       "rejected_attempts": 0,
-      "review_reason": "",
-      "review_status": "none",
+      "review_reason": "FQ2782 materially satisfies the bounded mission: the B=2 positive-component source integral is classified enough to construct a transverse source-integral drifting branch, with non-closure scopes preserved.",
+      "review_status": "done",
       "round": 1,
       "route": "construction / lower bounds",
       "sid": "s-2fd8729b",
