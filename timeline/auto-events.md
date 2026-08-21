@@ -1925,3 +1925,7 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-21 03:39:03 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
 | 2026-08-21 03:46:53 UTC | B | `life.mission.completed` | Compute the FQ2787 secondary source/tail coefficient |
 | 2026-08-21 03:47:22 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-21 03:58:42 UTC | A | `life.mission.completed` | Decide the row 22/31 event504 bottom positive-I2 successor after event503 |
+| 2026-08-21 03:59:34 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-21 03:56:34 UTC | B | `life.mission.completed` | Derive the FQ2788 physical secondary source-tail map |
+| 2026-08-21 03:57:33 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
