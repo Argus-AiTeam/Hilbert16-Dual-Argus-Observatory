@@ -1939,3 +1939,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-21 04:28:51 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
 | 2026-08-21 04:36:42 UTC | B | `life.mission.completed` | Decide the FQ2792 flat-tail normalizer route |
 | 2026-08-21 04:38:13 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-21 04:47:44 UTC | B | `life.mission.completed` | Derive the flat-tail source-domain normalizer theorem |
+| 2026-08-21 04:49:20 UTC | B | `life.manager.stage_decision` | FQ2794 is a reviewed, locally validated obstruction/narrowing result, but it does not prove the flat-tail theorem, disj… |
