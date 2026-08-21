@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-21 06:06:55 UTC",
+  "generated_at_utc": "2026-08-21 06:36:58 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -28,7 +28,7 @@
       "frontier_change": "",
       "frontier_summary": "",
       "git": {
-        "dirty_paths": 624,
+        "dirty_paths": 628,
         "head": "59e60f7",
         "last_commit": "Record event522 after event542 decision"
       },
@@ -36,15 +36,15 @@
       "inbox_files": 4,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787292413.8296115,
+      "last_progress_at": 1787294177.7048016,
       "max_rounds": 32,
-      "mission_id": "c873d2a22ee4",
+      "mission_id": "90be84514f09",
       "mission_status": "working",
-      "mission_title": "Resolve the row 22/31 event507 bottom successor after post-event507 event506",
+      "mission_title": "Decide the row 22/31 event399 linear-infinity successor after event507/event506 shuttle",
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 3067328,
-      "progress_age_seconds": 2.0448315143585205,
+      "progress_age_seconds": 40.88940453529358,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -98,7 +98,7 @@
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 3067257,
-      "progress_age_seconds": 1638.2609040737152,
+      "progress_age_seconds": 3440.980667114258,
       "rejected_attempts": 2,
       "review_reason": "Engineer requires an operator-owned decision before continuing.",
       "review_status": "blocked",
@@ -106,7 +106,7 @@
       "route": "construction / lower bounds",
       "sid": "s-2fd8729b",
       "stage": "solve",
-      "state": "running"
+      "state": "stale-warning"
     }
   }
 }
