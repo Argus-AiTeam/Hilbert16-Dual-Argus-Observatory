@@ -1891,3 +1891,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-21 00:53:06 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
 | 2026-08-21 00:59:41 UTC | B | `life.mission.completed` | Derive the FQ2776 alpha11/K15 survivor and rho=5 tail split |
 | 2026-08-21 01:00:53 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-21 01:11:18 UTC | B | `life.mission.completed` | Decide the FQ2776 alpha12 survivor through the K16 structural check |
+| 2026-08-21 01:12:17 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
