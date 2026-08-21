@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-21 03:16:20 UTC",
+  "generated_at_utc": "2026-08-21 03:21:22 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -44,7 +44,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 3067328,
-      "progress_age_seconds": 216.99658370018005,
+      "progress_age_seconds": 518.8222744464874,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -55,7 +55,7 @@
       "state": "running"
     },
     "B": {
-      "active_role": "planner",
+      "active_role": "engineer",
       "alive": true,
       "artifacts": [
         "research/solve/hyperbolic_hemicycle_cyclicity_scope.md",
@@ -89,19 +89,19 @@
       "health": "active",
       "inbox_files": 2,
       "label": "B",
-      "last_event": "life.planner.start",
-      "last_progress_at": 1787282111.9858851,
+      "last_event": "engineer.progress",
+      "last_progress_at": 1787282438.8936608,
       "max_rounds": 32,
-      "mission_id": "4a2fb7054ac9",
-      "mission_status": "continued",
-      "mission_title": "Evaluate the FQ2784 cubic endpoint/source/tail datum",
+      "mission_id": "901aa4331e05",
+      "mission_status": "working",
+      "mission_title": "Solve third IVPs and principalize T_tail on the FQ2783 branch",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 3067257,
-      "progress_age_seconds": 68.90807700157166,
+      "progress_age_seconds": 43.82599210739136,
       "rejected_attempts": 0,
-      "review_reason": "FQ2785 materially satisfies the bounded develop objective: the actual FQ2783 S=0, Z_src=0 branch was substituted into the FQ2750-FQ2751 cubic datum, producing an explicit branch-restricted cubic/tail obstruction rather than a sign theorem or identity closure.",
-      "review_status": "done",
+      "review_reason": "",
+      "review_status": "none",
       "round": 1,
       "route": "construction / lower bounds",
       "sid": "s-2fd8729b",
