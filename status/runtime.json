@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-21 00:55:45 UTC",
+  "generated_at_utc": "2026-08-21 01:00:47 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -28,7 +28,7 @@
       "frontier_change": "",
       "frontier_summary": "",
       "git": {
-        "dirty_paths": 552,
+        "dirty_paths": 555,
         "head": "59e60f7",
         "last_commit": "Record event522 after event542 decision"
       },
@@ -36,7 +36,7 @@
       "inbox_files": 4,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787273695.3501494,
+      "last_progress_at": 1787273936.4528983,
       "max_rounds": 32,
       "mission_id": "f0f6d762fde4",
       "mission_status": "working",
@@ -44,7 +44,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 3067328,
-      "progress_age_seconds": 49.86658835411072,
+      "progress_age_seconds": 110.78939318656921,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -55,7 +55,7 @@
       "state": "running"
     },
     "B": {
-      "active_role": "reviewer",
+      "active_role": "planner",
       "alive": true,
       "artifacts": [
         "research/solve/hyperbolic_hemicycle_cyclicity_scope.md",
@@ -89,20 +89,20 @@
       "health": "active",
       "inbox_files": 2,
       "label": "B",
-      "last_event": "engineer.progress",
-      "last_progress_at": 1787273696.9552388,
+      "last_event": "life.planner.start",
+      "last_progress_at": 1787273983.2313526,
       "max_rounds": 32,
       "mission_id": "9388fc88ad5a",
-      "mission_status": "working",
+      "mission_status": "continued",
       "mission_title": "Derive the FQ2776 alpha11/K15 survivor and rho=5 tail split",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 3067257,
-      "progress_age_seconds": 48.26149892807007,
-      "rejected_attempts": 0,
-      "review_reason": "",
-      "review_status": "none",
-      "round": 1,
+      "progress_age_seconds": 64.01093888282776,
+      "rejected_attempts": 1,
+      "review_reason": "requested FQ2776 repair is complete: the computation JSON and generator now record the correct alpha11 survivor term -2*A_L_m*beta9/5, the generator asserts that recorded clause against the computed survivor, and the focused checker exits 0.",
+      "review_status": "done",
+      "round": 2,
       "route": "construction / lower bounds",
       "sid": "s-2fd8729b",
       "stage": "solve",
