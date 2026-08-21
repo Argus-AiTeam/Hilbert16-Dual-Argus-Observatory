@@ -3,12 +3,12 @@
 > Generated deterministically from Argus durable state. No model writes this page, and it carries no cross-process solution transfer.
 > 本页面由确定性监控器根据 Argus 持久状态生成，不由模型写入，也不承担跨进程解题内容传递。
 
-**Updated / 更新时间:** 2026-08-21 17:33:48 UTC
+**Updated / 更新时间:** 2026-08-21 17:38:50 UTC
 
 | Seat | State | Stage | Active role | Round | Current mission | Review | Since semantic progress |
 |---|---|---|---|---:|---|---|---:|
-| A | running | `solve` | idle | 1/32 | Decide the post-event634 event494 top successor | blocked | 4s |
-| B | stale-warning | `solve` | idle | 2/32 | Compute the beta-directional flat source-map derivative | blocked | 11.9h |
+| A | running | `solve` | idle | 1/32 | Decide the post-event634 event494 top successor | blocked | 4m |
+| B | stale-warning | `solve` | idle | 2/32 | Compute the beta-directional flat source-map derivative | blocked | 12.0h |
 
 **Isolation integrity / 隔离完整性:** ✅ immutable controls match
 
