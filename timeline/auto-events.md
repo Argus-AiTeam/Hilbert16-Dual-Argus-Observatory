@@ -2201,3 +2201,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-22 10:50:07 UTC | B | `life.manager.stage_decision` | FQ2835c is reviewed and the focused checker passes in the project venv, retiring the external-theorem shortcut without … |
 | 2026-08-22 10:59:36 UTC | B | `life.mission.completed` | Construct or obstruct a physical S_star graph-section datum |
 | 2026-08-22 11:00:31 UTC | B | `life.manager.stage_decision` | Reviewer confirms the requested FQ2835d repair and receipt rerun, but this is bounded repair evidence, not a completed … |
+| 2026-08-22 11:05:48 UTC | A | `life.mission.completed` | Decide post-event399 event493 top boundary |
+| 2026-08-22 11:06:38 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: proof graph goal does not match the Manager-owned math_goal |
