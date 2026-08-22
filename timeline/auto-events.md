@@ -2304,3 +2304,6 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-22 17:15:39 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
 | 2026-08-22 17:25:47 UTC | B | `life.mission.completed` | Evaluate actual B_gc source jets |
 | 2026-08-22 17:26:44 UTC | B | `life.manager.stage_decision` | Hold in solve: FQ2872 is a useful obstruction, but Reviewer confirms the live FQ41/FQ42 records still do not evaluate t… |
+| 2026-08-22 17:38:12 UTC | A | `life.mission.completed` | Certify post-event399 event424 top boundary after event443 top |
+| 2026-08-22 17:36:26 UTC | B | `life.mission.completed` | Derive same-section FQ41/FQ42 two-jet theorem |
+| 2026-08-22 17:37:47 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
