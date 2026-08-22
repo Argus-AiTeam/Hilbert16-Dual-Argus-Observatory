@@ -2216,3 +2216,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-22 11:48:19 UTC | B | `life.mission.completed` | Derive or obstruct a primary covariant exact-return displacement equation |
 | 2026-08-22 11:49:44 UTC | B | `life.manager.stage_decision` | FQ2835h is a reviewed bounded solve result retiring the primary RR/FQ37-FQ42 d-equation route, but it explicitly does n… |
 | 2026-08-22 11:51:00 UTC | B | `life.planner.error` |  |
+| 2026-08-22 11:58:37 UTC | B | `life.mission.completed` | Derive or obstruct a non-primary S_star displacement equation |
+| 2026-08-22 11:59:37 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
