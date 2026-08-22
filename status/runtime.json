@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-22 11:12:09 UTC",
+  "generated_at_utc": "2026-08-22 11:22:11 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -28,7 +28,7 @@
       "frontier_change": "",
       "frontier_summary": "",
       "git": {
-        "dirty_paths": 966,
+        "dirty_paths": 970,
         "head": "59e60f7",
         "last_commit": "Record event522 after event542 decision"
       },
@@ -36,7 +36,7 @@
       "inbox_files": 4,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787397128.9167976,
+      "last_progress_at": 1787397653.2762427,
       "max_rounds": 32,
       "mission_id": "0a59d5a2dee5",
       "mission_status": "working",
@@ -44,7 +44,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 3067328,
-      "progress_age_seconds": 0.9020745754241943,
+      "progress_age_seconds": 78.68224954605103,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -82,23 +82,23 @@
       "frontier_change": "uncertainty_reduced",
       "frontier_summary": "Compact D=0, N-separated turning passages have moved from local/two-jet compatibility to a conditional all-orders exact-return and finite-zero insertion theorem.",
       "git": {
-        "dirty_paths": 52,
-        "head": "9be5530",
-        "last_commit": "Record FQ2806 composition bridge obstruction"
+        "dirty_paths": 44,
+        "head": "9456eac",
+        "last_commit": "Record ERFZ14 source-domain jet obstructions"
       },
       "health": "active",
       "inbox_files": 2,
       "label": "B",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787397126.8873606,
+      "last_progress_at": 1787397725.2678185,
       "max_rounds": 32,
-      "mission_id": "f895ea91da20",
+      "mission_id": "caf67ec259ef",
       "mission_status": "working",
-      "mission_title": "Compute or obstruct a source-domain S_star target jet",
+      "mission_title": "Test an S_star boundary-pinning or non-open image theorem",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 3067257,
-      "progress_age_seconds": 2.931511640548706,
+      "progress_age_seconds": 6.690673828125,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",

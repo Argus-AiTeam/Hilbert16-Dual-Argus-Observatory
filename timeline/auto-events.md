@@ -2205,3 +2205,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-22 11:06:38 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: proof graph goal does not match the Manager-owned math_goal |
 | 2026-08-22 11:08:00 UTC | B | `life.mission.completed` | Test invariant-manifold target for the post-FQ2835 S_star quotient |
 | 2026-08-22 11:09:02 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-22 11:17:49 UTC | B | `life.mission.completed` | Compute or obstruct a source-domain S_star target jet |
+| 2026-08-22 11:19:46 UTC | B | `life.manager.stage_decision` | FQ2835f is reviewed and gap-reducing, but it only retires the current source-domain T_star jet candidate class; H3_14, … |
