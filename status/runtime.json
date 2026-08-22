@@ -1,9 +1,9 @@
 {
-  "generated_at_utc": "2026-08-21 23:39:05 UTC",
+  "generated_at_utc": "2026-08-22 00:59:09 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
-      "active_role": "idle",
+      "active_role": "engineer",
       "alive": true,
       "artifacts": [
         "research/BOUNDED_RETURN_BLOCKS.md",
@@ -28,34 +28,34 @@
       "frontier_change": "",
       "frontier_summary": "",
       "git": {
-        "dirty_paths": 731,
+        "dirty_paths": 738,
         "head": "59e60f7",
         "last_commit": "Record event522 after event542 decision"
       },
-      "health": "idle",
+      "health": "active",
       "inbox_files": 4,
       "label": "A",
-      "last_event": "life.status",
-      "last_progress_at": 1787333635.0886743,
+      "last_event": "engineer.progress",
+      "last_progress_at": 1787360348.757292,
       "max_rounds": 32,
-      "mission_id": "fdfca706a558",
-      "mission_status": "blocked",
+      "mission_id": "3f5476a85491",
+      "mission_status": "working",
       "mission_title": "Decide the post-event634 event494 top successor",
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 3067328,
-      "progress_age_seconds": 21910.145431041718,
-      "rejected_attempts": 1,
-      "review_reason": "Engineer requires an operator-owned decision before continuing.",
-      "review_status": "blocked",
+      "progress_age_seconds": 0.3553354740142822,
+      "rejected_attempts": 0,
+      "review_reason": "",
+      "review_status": "none",
       "round": 1,
       "route": "theory / upper constraints",
       "sid": "s-54f17ee7",
       "stage": "solve",
-      "state": "stale-warning"
+      "state": "running"
     },
     "B": {
-      "active_role": "idle",
+      "active_role": "engineer",
       "alive": true,
       "artifacts": [
         "research/solve/hyperbolic_hemicycle_cyclicity_scope.md",
@@ -82,31 +82,31 @@
       "frontier_change": "uncertainty_reduced",
       "frontier_summary": "Compact D=0, N-separated turning passages have moved from local/two-jet compatibility to a conditional all-orders exact-return and finite-zero insertion theorem.",
       "git": {
-        "dirty_paths": 53,
+        "dirty_paths": 54,
         "head": "4063285",
         "last_commit": "Checkpoint joint-limit frontier context"
       },
-      "health": "idle",
+      "health": "active",
       "inbox_files": 2,
       "label": "B",
-      "last_event": "life.status",
-      "last_progress_at": 1787290777.613539,
+      "last_event": "engineer.progress",
+      "last_progress_at": 1787360317.370642,
       "max_rounds": 32,
-      "mission_id": "3e205961c01c",
-      "mission_status": "blocked",
-      "mission_title": "Compute the beta-directional flat source-map derivative",
+      "mission_id": "cf646eab78c5",
+      "mission_status": "working",
+      "mission_title": "Derive or refute the physical flat-tail source chart after FQ2801",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 3067257,
-      "progress_age_seconds": 64767.6205663681,
-      "rejected_attempts": 2,
-      "review_reason": "Engineer requires an operator-owned decision before continuing.",
-      "review_status": "blocked",
-      "round": 2,
+      "progress_age_seconds": 31.7419855594635,
+      "rejected_attempts": 0,
+      "review_reason": "",
+      "review_status": "none",
+      "round": 1,
       "route": "construction / lower bounds",
       "sid": "s-2fd8729b",
       "stage": "solve",
-      "state": "stale-warning"
+      "state": "running"
     }
   }
 }
