@@ -1,9 +1,9 @@
 {
-  "generated_at_utc": "2026-08-22 17:48:50 UTC",
+  "generated_at_utc": "2026-08-22 18:23:53 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
-      "active_role": "engineer",
+      "active_role": "reviewer",
       "alive": true,
       "artifacts": [
         "research/BOUNDED_RETURN_BLOCKS.md",
@@ -28,7 +28,7 @@
       "frontier_change": "",
       "frontier_summary": "",
       "git": {
-        "dirty_paths": 1113,
+        "dirty_paths": 1124,
         "head": "59e60f7",
         "last_commit": "Record event522 after event542 decision"
       },
@@ -36,7 +36,7 @@
       "inbox_files": 4,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787420761.2923698,
+      "last_progress_at": 1787422642.8664038,
       "max_rounds": 32,
       "mission_id": "ad0ed95a035b",
       "mission_status": "working",
@@ -44,7 +44,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 3067328,
-      "progress_age_seconds": 169.44793462753296,
+      "progress_age_seconds": 390.4485366344452,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -82,7 +82,7 @@
       "frontier_change": "uncertainty_reduced",
       "frontier_summary": "Compact D=0, N-separated turning passages have moved from local/two-jet compatibility to a conditional all-orders exact-return and finite-zero insertion theorem.",
       "git": {
-        "dirty_paths": 52,
+        "dirty_paths": 53,
         "head": "240b88c",
         "last_commit": "Record FQ2850 lower generator schema"
       },
@@ -90,15 +90,15 @@
       "inbox_files": 2,
       "label": "B",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787420929.0792968,
+      "last_progress_at": 1787423017.1113992,
       "max_rounds": 32,
-      "mission_id": "17b789636cb3",
+      "mission_id": "498a3e2b4495",
       "mission_status": "working",
-      "mission_title": "Evaluate the FQ2873 kernel/origin functional",
+      "mission_title": "Decide the physical K-tau_in graph route",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 3067257,
-      "progress_age_seconds": 1.6610076427459717,
+      "progress_age_seconds": 16.20354127883911,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
