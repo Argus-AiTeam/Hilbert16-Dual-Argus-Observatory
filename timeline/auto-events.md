@@ -2190,3 +2190,7 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-22 10:07:23 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
 | 2026-08-22 10:13:42 UTC | B | `life.mission.completed` | Close retained-B K3 residual cascade |
 | 2026-08-22 10:15:06 UTC | B | `life.manager.stage_decision` | FQ2842m is a reviewed bounded gap reduction closing the retained-B K3 residual parent route, but the original Hilbert X… |
+| 2026-08-22 10:23:06 UTC | A | `life.mission.completed` | Decide post-event399 event492 top boundary |
+| 2026-08-22 10:24:05 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: proof graph goal does not match the Manager-owned math_goal |
+| 2026-08-22 10:23:18 UTC | B | `life.mission.completed` | Close retained-B larger-asymmetry endpoint split |
+| 2026-08-22 10:24:39 UTC | B | `life.manager.stage_decision` | FQ2842n closes the retained-B larger-asymmetry endpoint parent route at the bounded endpoint-cell level, but the origin… |
