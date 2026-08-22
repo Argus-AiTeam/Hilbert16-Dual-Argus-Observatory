@@ -2256,3 +2256,6 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-22 14:06:57 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
 | 2026-08-22 14:15:48 UTC | B | `life.mission.completed` | Rule out nonlinear finite-jet endpoint-torsor d extraction or find one |
 | 2026-08-22 14:17:04 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-22 14:25:00 UTC | A | `life.mission.completed` | Certify post-event399 event432 bottom boundary after event415 |
+| 2026-08-22 14:24:09 UTC | B | `life.mission.completed` | Derive or rule out a physical second endpoint target |
+| 2026-08-22 14:25:52 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
