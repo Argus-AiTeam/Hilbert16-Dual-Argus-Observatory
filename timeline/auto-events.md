@@ -2352,3 +2352,6 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-22 20:36:13 UTC | B | `life.mission.completed` | Derive the FQ37 branch-entry selector theorem |
 | 2026-08-22 20:37:26 UTC | B | `life.manager.stage_decision` | FQ2891 is a reviewed, substantive bounded solve increment that sharpens the active FQ37 dependency to the missing physi… |
 | 2026-08-22 20:43:52 UTC | A | `life.mission.completed` | Certify post-event47-top event47 bottom boundary |
+| 2026-08-22 20:45:27 UTC | A | `life.manager.stage_decision` | Reviewed evidence retires the active event47 bottom branch for the selected row and preserves the stated local bounds, … |
+| 2026-08-22 20:46:04 UTC | B | `life.mission.completed` | Construct the physical source-to-incoming-section map |
+| 2026-08-22 20:46:47 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
