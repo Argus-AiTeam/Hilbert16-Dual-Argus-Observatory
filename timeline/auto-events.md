@@ -2242,3 +2242,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-22 13:16:30 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: proof graph goal does not match the Manager-owned math_goal |
 | 2026-08-22 13:15:18 UTC | B | `life.mission.completed` | Derive the physical clustered beta5 branch law |
 | 2026-08-22 13:17:01 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-22 13:26:13 UTC | B | `life.mission.completed` | Compute the post-beta5 source-section coefficient |
+| 2026-08-22 13:27:33 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
