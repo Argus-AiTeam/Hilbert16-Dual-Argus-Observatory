@@ -2138,3 +2138,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-22 07:24:37 UTC | A | `life.manager.stage_decision` | Reviewed evidence closes the event507 (3,20) top successor checkpoint, but the overall theorem remains unresolved and t… |
 | 2026-08-22 07:25:13 UTC | B | `life.mission.completed` | Decide FQ2840 K5-surviving retained-B residuals |
 | 2026-08-22 07:27:36 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-22 07:36:18 UTC | B | `life.mission.completed` | Derive actual source or endpoint datum for FQ2841 c_B N6-zero branch |
+| 2026-08-22 07:37:42 UTC | B | `life.manager.stage_decision` | FQ2842 is a reviewed, gap-reducing source-filter narrowing, but it explicitly proves neither source emptiness nor reali… |
