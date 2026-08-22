@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-22 17:13:40 UTC",
+  "generated_at_utc": "2026-08-22 17:18:42 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -28,7 +28,7 @@
       "frontier_change": "",
       "frontier_summary": "",
       "git": {
-        "dirty_paths": 1102,
+        "dirty_paths": 1105,
         "head": "59e60f7",
         "last_commit": "Record event522 after event542 decision"
       },
@@ -36,7 +36,7 @@
       "inbox_files": 4,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787418791.386402,
+      "last_progress_at": 1787418943.1501412,
       "max_rounds": 32,
       "mission_id": "818257c726a6",
       "mission_status": "working",
@@ -44,7 +44,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 3067328,
-      "progress_age_seconds": 29.59779453277588,
+      "progress_age_seconds": 179.67080545425415,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -55,7 +55,7 @@
       "state": "running"
     },
     "B": {
-      "active_role": "idle",
+      "active_role": "engineer",
       "alive": true,
       "artifacts": [
         "research/solve/hyperbolic_hemicycle_cyclicity_scope.md",
@@ -86,22 +86,22 @@
         "head": "240b88c",
         "last_commit": "Record FQ2850 lower generator schema"
       },
-      "health": "idle",
+      "health": "active",
       "inbox_files": 2,
       "label": "B",
-      "last_event": "life.mission.completed",
-      "last_progress_at": 1787418820.928222,
+      "last_event": "engineer.progress",
+      "last_progress_at": 1787419112.845548,
       "max_rounds": 32,
-      "mission_id": "6538b1506909",
-      "mission_status": "continued",
-      "mission_title": "Prove raw tau-quadratic kernel/remainder package",
+      "mission_id": "32a676289688",
+      "mission_status": "working",
+      "mission_title": "Evaluate actual B_gc source jets",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 3067257,
-      "progress_age_seconds": 0.055974483489990234,
+      "progress_age_seconds": 9.975398778915405,
       "rejected_attempts": 0,
-      "review_reason": "FQ2871 materially satisfies the bounded develop objective: the tau-quadratic package algebra is correct in the stated section convention, B_gc is correctly classified as a new source-level scalar, and the current branch rows provably do not decide nonzero/cancellation/disjointness/subordination.",
-      "review_status": "done",
+      "review_reason": "",
+      "review_status": "none",
       "round": 1,
       "route": "construction / lower bounds",
       "sid": "s-2fd8729b",
