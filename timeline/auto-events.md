@@ -2337,3 +2337,6 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-22 19:41:12 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
 | 2026-08-22 19:49:49 UTC | B | `life.mission.completed` | Derive the physical FQ41/FQ42 direct map theorem |
 | 2026-08-22 19:50:55 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-22 19:55:15 UTC | A | `life.mission.completed` | Certify post-event7 event424 bottom boundary |
+| 2026-08-22 19:56:24 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: proof graph goal does not match the Manager-owned math_goal |
+| 2026-08-22 19:58:55 UTC | B | `life.mission.completed` | Derive the physical branch-section jets and Phi_L origin equation |
