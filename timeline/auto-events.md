@@ -2218,3 +2218,4 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-22 11:51:00 UTC | B | `life.planner.error` |  |
 | 2026-08-22 11:58:37 UTC | B | `life.mission.completed` | Derive or obstruct a non-primary S_star displacement equation |
 | 2026-08-22 11:59:37 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-22 12:06:46 UTC | B | `life.mission.completed` | Test an endpoint-normal holonomy d-equation candidate |
