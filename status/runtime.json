@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-22 18:33:56 UTC",
+  "generated_at_utc": "2026-08-22 18:38:58 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -28,7 +28,7 @@
       "frontier_change": "",
       "frontier_summary": "",
       "git": {
-        "dirty_paths": 1129,
+        "dirty_paths": 1132,
         "head": "59e60f7",
         "last_commit": "Record event522 after event542 decision"
       },
@@ -36,7 +36,7 @@
       "inbox_files": 4,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787423573.2921462,
+      "last_progress_at": 1787423898.6103141,
       "max_rounds": 32,
       "mission_id": "dc2bb753603d",
       "mission_status": "working",
@@ -44,7 +44,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 3067328,
-      "progress_age_seconds": 63.614028453826904,
+      "progress_age_seconds": 40.267245054244995,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -55,7 +55,7 @@
       "state": "running"
     },
     "B": {
-      "active_role": "engineer",
+      "active_role": "planner",
       "alive": true,
       "artifacts": [
         "research/solve/hyperbolic_hemicycle_cyclicity_scope.md",
@@ -89,19 +89,19 @@
       "health": "active",
       "inbox_files": 2,
       "label": "B",
-      "last_event": "engineer.progress",
-      "last_progress_at": 1787423635.6381955,
+      "last_event": "life.planner.start",
+      "last_progress_at": 1787423883.2845488,
       "max_rounds": 32,
       "mission_id": "263448fd946a",
-      "mission_status": "working",
+      "mission_status": "continued",
       "mission_title": "Decide direct physical disjointness/subordination for K_gc",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 3067257,
-      "progress_age_seconds": 1.2679791450500488,
+      "progress_age_seconds": 55.59301042556763,
       "rejected_attempts": 0,
-      "review_reason": "",
-      "review_status": "none",
+      "review_reason": "FQ2879 materially satisfies the bounded develop mission: it records explicit condition-compatible witnesses showing current direct K_gc^2872 constraints do not prove disjointness or lower/root/turning subordination, distinguishes this from FQ2877/FQ2878, and identifies the next non-clock mechanism without overclaiming B_gc separation, H3_14, H(2), H(n), or configurations.",
+      "review_status": "done",
       "round": 1,
       "route": "construction / lower bounds",
       "sid": "s-2fd8729b",
