@@ -2197,3 +2197,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-22 10:33:03 UTC | B | `life.mission.completed` | Decide post-FQ2835 canonical section/invariant route |
 | 2026-08-22 10:43:05 UTC | A | `life.mission.completed` | Decide post-event399 event443 top boundary |
 | 2026-08-22 10:43:57 UTC | A | `life.manager.stage_decision` | Accepted event443 top checkpoint gives a scoped gap reduction, but the global objective remains open and event493 top i… |
+| 2026-08-22 10:48:46 UTC | B | `life.mission.completed` | Audit external finite-phase theorem for post-FQ2835b flat gauge |
+| 2026-08-22 10:50:07 UTC | B | `life.manager.stage_decision` | FQ2835c is reviewed and the focused checker passes in the project venv, retiring the external-theorem shortcut without … |
