@@ -2285,3 +2285,6 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-22 16:00:22 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
 | 2026-08-22 16:09:05 UTC | B | `life.mission.completed` | Decide independent q2 source/Volterra value |
 | 2026-08-22 16:10:01 UTC | B | `life.manager.stage_decision` | FQ2865 is a reviewed, validated local obstruction and it reduces the current route gap by retiring source-only q2 extra… |
+| 2026-08-22 16:18:44 UTC | A | `life.mission.completed` | Certify post-event399 event443 bottom boundary after event432 top |
+| 2026-08-22 16:20:09 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: proof graph goal does not match the Manager-owned math_goal |
+| 2026-08-22 16:22:47 UTC | B | `life.mission.completed` | Decide covariant ordinary target for the G_ord branch |
