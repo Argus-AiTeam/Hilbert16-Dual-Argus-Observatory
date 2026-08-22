@@ -2346,3 +2346,6 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-22 20:15:42 UTC | B | `life.mission.completed` | Derive the unit-normalized physical Phi_L source functional |
 | 2026-08-22 20:16:47 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
 | 2026-08-22 20:23:26 UTC | A | `life.mission.completed` | Certify post-event424 event47 top boundary |
+| 2026-08-22 20:25:00 UTC | A | `life.manager.stage_decision` | The reviewed event47-top checkpoint is accepted as a local gap reduction, but its scope is explicitly limited to the se… |
+| 2026-08-22 20:24:45 UTC | B | `life.mission.completed` | Prove the raw-to-FQ42 output gluing and scalar unit theorem |
+| 2026-08-22 20:25:43 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
