@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-22 05:15:26 UTC",
+  "generated_at_utc": "2026-08-22 05:20:28 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -28,7 +28,7 @@
       "frontier_change": "",
       "frontier_summary": "",
       "git": {
-        "dirty_paths": 817,
+        "dirty_paths": 823,
         "head": "59e60f7",
         "last_commit": "Record event522 after event542 decision"
       },
@@ -36,7 +36,7 @@
       "inbox_files": 4,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787375603.6588185,
+      "last_progress_at": 1787375908.4692729,
       "max_rounds": 32,
       "mission_id": "92c1f31d8dc7",
       "mission_status": "working",
@@ -44,7 +44,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 3067328,
-      "progress_age_seconds": 123.06518483161926,
+      "progress_age_seconds": 120.30029892921448,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -55,7 +55,7 @@
       "state": "running"
     },
     "B": {
-      "active_role": "planner",
+      "active_role": "engineer",
       "alive": true,
       "artifacts": [
         "research/solve/hyperbolic_hemicycle_cyclicity_scope.md",
@@ -89,19 +89,19 @@
       "health": "active",
       "inbox_files": 2,
       "label": "B",
-      "last_event": "life.planner.start",
-      "last_progress_at": 1787375646.4606366,
+      "last_event": "engineer.progress",
+      "last_progress_at": 1787376023.7586627,
       "max_rounds": 32,
-      "mission_id": "e1037c143aa3",
-      "mission_status": "continued",
-      "mission_title": "Test physical admissibility of S2 total-return resectioning",
+      "mission_id": "b46b95fbcd81",
+      "mission_status": "working",
+      "mission_title": "Find canonical S2 normalization or invariant exact-return theorem",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 3067257,
-      "progress_age_seconds": 80.26336669921875,
+      "progress_age_seconds": 5.010909080505371,
       "rejected_attempts": 0,
-      "review_reason": "FQ2827 supplies the requested actual FQ39-FQ42 S2*h transformation law and a physical endpoint-only resectioning witness; the claim scope matches the support and leaves H3_14, H(2), H(n), and configuration claims open.",
-      "review_status": "done",
+      "review_reason": "",
+      "review_status": "none",
       "round": 1,
       "route": "construction / lower bounds",
       "sid": "s-2fd8729b",
