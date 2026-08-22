@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-22 09:21:41 UTC",
+  "generated_at_utc": "2026-08-22 09:26:42 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -28,7 +28,7 @@
       "frontier_change": "",
       "frontier_summary": "",
       "git": {
-        "dirty_paths": 925,
+        "dirty_paths": 930,
         "head": "59e60f7",
         "last_commit": "Record event522 after event542 decision"
       },
@@ -36,7 +36,7 @@
       "inbox_files": 4,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787390467.4382272,
+      "last_progress_at": 1787390578.7131085,
       "max_rounds": 32,
       "mission_id": "160bd4528bf5",
       "mission_status": "working",
@@ -44,7 +44,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 3067328,
-      "progress_age_seconds": 33.77723670005798,
+      "progress_age_seconds": 224.23426389694214,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -55,7 +55,7 @@
       "state": "running"
     },
     "B": {
-      "active_role": "planner",
+      "active_role": "engineer",
       "alive": true,
       "artifacts": [
         "research/solve/hyperbolic_hemicycle_cyclicity_scope.md",
@@ -89,19 +89,19 @@
       "health": "active",
       "inbox_files": 2,
       "label": "B",
-      "last_event": "life.planner.start",
-      "last_progress_at": 1787390457.7663033,
+      "last_event": "engineer.progress",
+      "last_progress_at": 1787390796.5649858,
       "max_rounds": 32,
-      "mission_id": "9d2ef2ab396b",
-      "mission_status": "continued",
-      "mission_title": "Decide the Bell-ratio equality boundary",
+      "mission_id": "1a3be06a728f",
+      "mission_status": "working",
+      "mission_title": "Decide FQ2842j Bell-equality targets",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 3067257,
-      "progress_age_seconds": 43.4491605758667,
+      "progress_age_seconds": 6.382386684417725,
       "rejected_attempts": 0,
-      "review_reason": "FQ2842j materially satisfies the bounded develop objective: the artifact records the exact Bell-ratio numerator, required exclusions/nonzero conditions, exact resultant/Sturm data, and five scoped formal real targets without overclaiming source, third-cubic, H3_14, Hilbert, or configuration closure.",
-      "review_status": "done",
+      "review_reason": "",
+      "review_status": "none",
       "round": 1,
       "route": "construction / lower bounds",
       "sid": "s-2fd8729b",
