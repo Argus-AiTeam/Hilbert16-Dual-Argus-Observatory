@@ -2109,3 +2109,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-22 06:00:34 UTC | A | `life.manager.stage_decision` | event503 top is reviewed as harmless with projected <=9 and curve-point <=18 preserved, but the open campaign remains i… |
 | 2026-08-22 05:57:37 UTC | B | `life.mission.completed` | Test nonlocal first-hit section fixing |
 | 2026-08-22 05:59:14 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-22 06:06:25 UTC | B | `life.mission.completed` | Test boundary pinning versus raw return graph |
+| 2026-08-22 06:07:25 UTC | B | `life.manager.stage_decision` | FQ2833 is reviewed substantive bounded progress, but it explicitly leaves H3_14, H(2), H(n), and configuration claims o… |
