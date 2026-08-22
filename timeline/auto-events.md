@@ -2277,3 +2277,6 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-22 15:29:49 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: proof graph goal does not match the Manager-owned math_goal |
 | 2026-08-22 15:34:51 UTC | B | `life.mission.completed` | Decide non-open first-hit/boundary alpha_rho anchor |
 | 2026-08-22 15:36:33 UTC | B | `life.manager.stage_decision` | FQ2862 gives reviewed, proposition-level gap reduction for the non-open first-hit/boundary alpha_rho route, but it is a… |
+| 2026-08-22 15:53:12 UTC | A | `life.mission.completed` | Certify post-event399 event432 top boundary after event415 top |
+| 2026-08-22 15:48:20 UTC | B | `life.mission.completed` | Decide direct physical disjointness or subordination for the G_ord-ambiguous branch |
+| 2026-08-22 15:49:13 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
