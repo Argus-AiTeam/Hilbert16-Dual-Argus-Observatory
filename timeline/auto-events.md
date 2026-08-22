@@ -2121,3 +2121,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-22 06:35:14 UTC | A | `life.manager.stage_decision` | Reviewed event505 top exact successor evidence is accepted, but the original Hilbert-route objective remains open and t… |
 | 2026-08-22 06:34:52 UTC | B | `life.mission.completed` | Derive retained-B larger-asymmetry endpoint split |
 | 2026-08-22 06:35:55 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-22 06:43:43 UTC | B | `life.mission.completed` | Compute retained-B K2 leading-zero next Taylor coefficient |
+| 2026-08-22 06:44:41 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
