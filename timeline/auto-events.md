@@ -2232,3 +2232,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-22 12:31:28 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
 | 2026-08-22 12:39:45 UTC | B | `life.mission.completed` | Decide the B2 rho>=7 flat-tail physical normalizer |
 | 2026-08-22 12:42:01 UTC | B | `life.manager.stage_decision` | FQ2845 is accepted as a reviewed bounded obstruction, but the Hilbert/configuration objective remains unresolved; the p… |
+| 2026-08-22 12:51:05 UTC | B | `life.mission.completed` | Audit the current vector source-domain chart rank |
+| 2026-08-22 12:52:21 UTC | B | `life.manager.stage_decision` | FQ2846 is accepted as a local solve-stage gap reduction and retires the current-vector-chart route, but it explicitly d… |
