@@ -2186,3 +2186,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-22 09:57:58 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
 | 2026-08-22 10:06:36 UTC | A | `life.mission.completed` | Decide post-event399 event498 top boundary |
 | 2026-08-22 10:06:33 UTC | B | `life.mission.completed` | Synthesize FQ2842 source-filter closure |
+| 2026-08-22 10:07:45 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: proof graph goal does not match the Manager-owned math_goal |
+| 2026-08-22 10:07:23 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
