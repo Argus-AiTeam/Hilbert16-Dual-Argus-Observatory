@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-22 21:39:43 UTC",
+  "generated_at_utc": "2026-08-22 21:44:45 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -28,7 +28,7 @@
       "frontier_change": "",
       "frontier_summary": "",
       "git": {
-        "dirty_paths": 1177,
+        "dirty_paths": 1181,
         "head": "59e60f7",
         "last_commit": "Record event522 after event542 decision"
       },
@@ -36,7 +36,7 @@
       "inbox_files": 4,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787434700.451631,
+      "last_progress_at": 1787434986.7867105,
       "max_rounds": 32,
       "mission_id": "ca0f83246a5f",
       "mission_status": "working",
@@ -44,7 +44,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 3067328,
-      "progress_age_seconds": 82.70433688163757,
+      "progress_age_seconds": 98.31725597381592,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -55,7 +55,7 @@
       "state": "running"
     },
     "B": {
-      "active_role": "engineer",
+      "active_role": "planner",
       "alive": true,
       "artifacts": [
         "research/solve/hyperbolic_hemicycle_cyclicity_scope.md",
@@ -82,26 +82,26 @@
       "frontier_change": "uncertainty_reduced",
       "frontier_summary": "Compact D=0, N-separated turning passages have moved from local/two-jet compatibility to a conditional all-orders exact-return and finite-zero insertion theorem.",
       "git": {
-        "dirty_paths": 47,
+        "dirty_paths": 53,
         "head": "c8b3494",
         "last_commit": "Record FQ2896 branch-selection obstruction"
       },
       "health": "active",
       "inbox_files": 2,
       "label": "B",
-      "last_event": "engineer.progress",
-      "last_progress_at": 1787434781.962759,
+      "last_event": "life.planner.start",
+      "last_progress_at": 1787435076.9641747,
       "max_rounds": 32,
       "mission_id": "91b0a26ec4bc",
-      "mission_status": "working",
+      "mission_status": "continued",
       "mission_title": "Derive the source-cut branch-selection equation",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 3067257,
-      "progress_age_seconds": 1.193208932876587,
+      "progress_age_seconds": 8.13979172706604,
       "rejected_attempts": 0,
-      "review_reason": "",
-      "review_status": "none",
+      "review_reason": "FQ2897 satisfies the bounded mission: it derives the strongest visible same-section normalization row from FQ2896/FQ2678/FQ37/FQ41, proves that row is rank-deficient rather than physical branch-selecting, and sharply classifies the missing ingredients without promoting arbitrary T or lambda_1 to physical data.",
+      "review_status": "done",
       "round": 1,
       "route": "construction / lower bounds",
       "sid": "s-2fd8729b",
