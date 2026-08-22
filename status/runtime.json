@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-22 04:00:00 UTC",
+  "generated_at_utc": "2026-08-22 04:05:02 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -28,7 +28,7 @@
       "frontier_change": "",
       "frontier_summary": "",
       "git": {
-        "dirty_paths": 789,
+        "dirty_paths": 796,
         "head": "59e60f7",
         "last_commit": "Record event522 after event542 decision"
       },
@@ -36,7 +36,7 @@
       "inbox_files": 4,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787371183.845392,
+      "last_progress_at": 1787371500.665316,
       "max_rounds": 32,
       "mission_id": "e3c6bc0993f9",
       "mission_status": "working",
@@ -44,7 +44,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 3067328,
-      "progress_age_seconds": 16.446348190307617,
+      "progress_age_seconds": 1.7571899890899658,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -55,7 +55,7 @@
       "state": "running"
     },
     "B": {
-      "active_role": "reviewer",
+      "active_role": "engineer",
       "alive": true,
       "artifacts": [
         "research/solve/hyperbolic_hemicycle_cyclicity_scope.md",
@@ -89,16 +89,16 @@
       "health": "active",
       "inbox_files": 2,
       "label": "B",
-      "last_event": "round.main.completed",
-      "last_progress_at": 1787371199.4828403,
+      "last_event": "life.planner.verdict",
+      "last_progress_at": 1787371489.3211699,
       "max_rounds": 32,
-      "mission_id": "e300d1d66fc7",
+      "mission_id": "824b8b63af7b",
       "mission_status": "working",
-      "mission_title": "Test physical realizability of lower flat-tail oscillatory witnesses",
+      "mission_title": "Find or rule out a source-level lower-discriminating functional",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 3067257,
-      "progress_age_seconds": 0.8088998794555664,
+      "progress_age_seconds": 13.101336240768433,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",

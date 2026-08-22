@@ -2070,3 +2070,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-22 03:55:30 UTC | A | `life.mission.completed` | Decide event497 I2 pair-resultant (3,10) top |
 | 2026-08-22 03:56:39 UTC | A | `life.manager.stage_decision` | manager held (default) |
 | 2026-08-22 03:55:15 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-22 04:02:57 UTC | B | `life.mission.completed` | Test physical realizability of lower flat-tail oscillatory witnesses |
+| 2026-08-22 04:04:16 UTC | B | `life.manager.stage_decision` | FQ2819 is reviewed and substantive, but it only certifies current-record indistinguishability; it does not close H3_14,… |
