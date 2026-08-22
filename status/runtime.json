@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-22 16:23:24 UTC",
+  "generated_at_utc": "2026-08-22 16:28:26 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -28,7 +28,7 @@
       "frontier_change": "",
       "frontier_summary": "",
       "git": {
-        "dirty_paths": 1083,
+        "dirty_paths": 1088,
         "head": "59e60f7",
         "last_commit": "Record event522 after event542 decision"
       },
@@ -36,7 +36,7 @@
       "inbox_files": 4,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787415747.125182,
+      "last_progress_at": 1787415883.5180385,
       "max_rounds": 32,
       "mission_id": "fc2adb8d22a4",
       "mission_status": "working",
@@ -44,7 +44,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 3067328,
-      "progress_age_seconds": 56.93927049636841,
+      "progress_age_seconds": 222.51006817817688,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -55,7 +55,7 @@
       "state": "running"
     },
     "B": {
-      "active_role": "planner",
+      "active_role": "engineer",
       "alive": true,
       "artifacts": [
         "research/solve/hyperbolic_hemicycle_cyclicity_scope.md",
@@ -89,19 +89,19 @@
       "health": "active",
       "inbox_files": 2,
       "label": "B",
-      "last_event": "life.planner.start",
-      "last_progress_at": 1787415769.545747,
+      "last_event": "engineer.progress",
+      "last_progress_at": 1787416097.5838509,
       "max_rounds": 32,
-      "mission_id": "99b8a2df79a9",
-      "mission_status": "continued",
-      "mission_title": "Decide covariant ordinary target for the G_ord branch",
+      "mission_id": "eaa548c1d206",
+      "mission_status": "working",
+      "mission_title": "Decide explicit second/third ordinary normal-coordinate normalization",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 3067257,
-      "progress_age_seconds": 34.51870536804199,
+      "progress_age_seconds": 8.444255828857422,
       "rejected_attempts": 0,
-      "review_reason": "FQ2866 correctly proves the requested current-record obstruction and routes the failed covariant-target alternative without overclaiming.",
-      "review_status": "done",
+      "review_reason": "",
+      "review_status": "none",
       "round": 1,
       "route": "construction / lower bounds",
       "sid": "s-2fd8729b",
