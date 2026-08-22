@@ -1,9 +1,9 @@
 {
-  "generated_at_utc": "2026-08-22 22:45:01 UTC",
+  "generated_at_utc": "2026-08-22 22:55:03 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
-      "active_role": "engineer",
+      "active_role": "reviewer",
       "alive": true,
       "artifacts": [
         "research/BOUNDED_RETURN_BLOCKS.md",
@@ -28,7 +28,7 @@
       "frontier_change": "",
       "frontier_summary": "",
       "git": {
-        "dirty_paths": 1198,
+        "dirty_paths": 1204,
         "head": "59e60f7",
         "last_commit": "Record event522 after event542 decision"
       },
@@ -36,7 +36,7 @@
       "inbox_files": 4,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787438700.4468043,
+      "last_progress_at": 1787439222.2450116,
       "max_rounds": 32,
       "mission_id": "93e9a70e39d3",
       "mission_status": "working",
@@ -44,7 +44,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 3067328,
-      "progress_age_seconds": 0.7652742862701416,
+      "progress_age_seconds": 80.98628401756287,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -55,7 +55,7 @@
       "state": "running"
     },
     "B": {
-      "active_role": "engineer",
+      "active_role": "planner",
       "alive": true,
       "artifacts": [
         "research/solve/hyperbolic_hemicycle_cyclicity_scope.md",
@@ -89,19 +89,19 @@
       "health": "active",
       "inbox_files": 2,
       "label": "B",
-      "last_event": "engineer.progress",
-      "last_progress_at": 1787438661.9407737,
+      "last_event": "life.planner.start",
+      "last_progress_at": 1787439285.4174738,
       "max_rounds": 32,
       "mission_id": "c53b607fa5be",
-      "mission_status": "working",
+      "mission_status": "continued",
       "mission_title": "Decide parameter-coupled flat horizontal-endpoint branches after FQ2902",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 3067257,
-      "progress_age_seconds": 39.27130484580994,
+      "progress_age_seconds": 17.81382179260254,
       "rejected_attempts": 0,
-      "review_reason": "",
-      "review_status": "none",
+      "review_reason": "FQ2903 satisfies the bounded mission: the actual right/left endpoint chart equations are stated and checked, flat parameter forcing enters additively only through d=mu3-mu4, the split/subordination conclusion follows under the stated no-root/no-turning hypotheses, and no FQ2885, B_gc, H3_14, H(2), or H(n) conclusion is claimed.",
+      "review_status": "done",
       "round": 1,
       "route": "construction / lower bounds",
       "sid": "s-2fd8729b",
