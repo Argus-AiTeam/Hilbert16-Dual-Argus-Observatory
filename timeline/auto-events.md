@@ -2236,3 +2236,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-22 12:52:21 UTC | B | `life.manager.stage_decision` | FQ2846 is accepted as a local solve-stage gap reduction and retires the current-vector-chart route, but it explicitly d… |
 | 2026-08-22 12:53:24 UTC | A | `life.mission.completed` | Certify post-event399 event495 top boundary after event496 |
 | 2026-08-22 12:54:07 UTC | A | `life.manager.stage_decision` | The latest reviewed result is a supported row-local bounded certificate, but it explicitly does not close the global Hi… |
+| 2026-08-22 13:02:44 UTC | B | `life.mission.completed` | Build a condition-complete clustered beta5 domain witness |
+| 2026-08-22 13:04:24 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |

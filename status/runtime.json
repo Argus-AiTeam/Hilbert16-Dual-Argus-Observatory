@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-22 12:57:32 UTC",
+  "generated_at_utc": "2026-08-22 13:07:34 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -28,7 +28,7 @@
       "frontier_change": "",
       "frontier_summary": "",
       "git": {
-        "dirty_paths": 1007,
+        "dirty_paths": 1012,
         "head": "59e60f7",
         "last_commit": "Record event522 after event542 decision"
       },
@@ -36,7 +36,7 @@
       "inbox_files": 4,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787403416.8019304,
+      "last_progress_at": 1787404052.8800795,
       "max_rounds": 32,
       "mission_id": "d4ca51a8aee9",
       "mission_status": "working",
@@ -44,7 +44,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 3067328,
-      "progress_age_seconds": 35.81688857078552,
+      "progress_age_seconds": 1.64559006690979,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -90,15 +90,15 @@
       "inbox_files": 2,
       "label": "B",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787403452.6039848,
+      "last_progress_at": 1787404012.5176995,
       "max_rounds": 32,
-      "mission_id": "f29c08048b08",
+      "mission_id": "636a30a22d9b",
       "mission_status": "working",
-      "mission_title": "Build a condition-complete clustered beta5 domain witness",
+      "mission_title": "Derive the physical clustered beta5 branch law",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 3067257,
-      "progress_age_seconds": 0.014834165573120117,
+      "progress_age_seconds": 42.007970094680786,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
