@@ -3,12 +3,12 @@
 > Generated deterministically from Argus durable state. No model writes this page, and it carries no cross-process solution transfer.
 > 本页面由确定性监控器根据 Argus 持久状态生成，不由模型写入，也不承担跨进程解题内容传递。
 
-**Updated / 更新时间:** 2026-08-22 09:26:42 UTC
+**Updated / 更新时间:** 2026-08-22 09:31:44 UTC
 
 | Seat | State | Stage | Active role | Round | Current mission | Review | Since semantic progress |
 |---|---|---|---|---:|---|---|---:|
-| A | running | `solve` | engineer | 1/32 | Decide post-event399 event500 top boundary | none | 3m |
-| B | running | `solve` | engineer | 1/32 | Decide FQ2842j Bell-equality targets | none | 6s |
+| A | running | `solve` | planner | 1/32 | Decide post-event399 event500 top boundary | done | 35s |
+| B | running | `solve` | engineer | 1/32 | Decide FQ2842j Bell-equality targets | none | 14s |
 
 **Isolation integrity / 隔离完整性:** ✅ immutable controls match
 
@@ -18,10 +18,10 @@
 - **Route:** theory / upper constraints
 - **Models:** Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro
 - **Mission:** Decide post-event399 event500 top boundary
-- **Reviewer state:** `none`; rejected attempts: 0
+- **Reviewer state:** `done`; rejected attempts: 0
 - **Frontier signal:** not yet classified
 - **Research artifacts present:** `research/BOUNDED_RETURN_BLOCKS.md`, `research/CONFIGURATION_DEPTH.md`, `research/CONFIGURATION_WIDTH.md`, `research/DEGREE_RAISING.md`, `research/DULAC_POLYCYCLE_ROUTE_VERDICT.md`, `research/FIXED_DEGREE_REALIZATION.md`, `research/HILBERT_LOWER_BOUNDS.md`, `research/I6B_BOUNDED_COMPLEXITY_ZERO_COUNT.md`, `research/LOCAL_TO_GLOBAL.md`, `research/PIPELINE_STATE.json`, `research/PROOF_GRAPH.json`, `research/QUADRATIC_BASE_CASE.md`, `research/ROUTE_LEDGER.json`, `research/SCOPE.md`, `research/STATIONARY_EQUATOR_SLOW_FAST.md`, `research/UNIFORM_RETURN_VALENCY.md`, `research/UNIVERSAL_PAIR_BLOWUP.md`, `research/ZHU_EHP2B_VERDICT.md`
-- **Git:** `59e60f7` · 930 changed path(s) · Record event522 after event542 decision
+- **Git:** `59e60f7` · 931 changed path(s) · Record event522 after event542 decision
 - **Broker mailboxes:** inbox 4 · outbox 3
 
 ### Argus B
