@@ -2209,3 +2209,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-22 11:19:46 UTC | B | `life.manager.stage_decision` | FQ2835f is reviewed and gap-reducing, but it only retires the current source-domain T_star jet candidate class; H3_14, … |
 | 2026-08-22 11:28:09 UTC | B | `life.mission.completed` | Test an S_star boundary-pinning or non-open image theorem |
 | 2026-08-22 11:29:23 UTC | B | `life.manager.stage_decision` | FQ2835g is accepted as a reviewed, substantive current-record obstruction and it retires the S_star boundary-pinning/no… |
+| 2026-08-22 11:35:01 UTC | A | `life.mission.completed` | Certify post-event399 event497 top boundary |
+| 2026-08-22 11:35:39 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: proof graph goal does not match the Manager-owned math_goal |
