@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-22 01:14:15 UTC",
+  "generated_at_utc": "2026-08-22 01:24:17 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -28,7 +28,7 @@
       "frontier_change": "",
       "frontier_summary": "",
       "git": {
-        "dirty_paths": 740,
+        "dirty_paths": 747,
         "head": "59e60f7",
         "last_commit": "Record event522 after event542 decision"
       },
@@ -36,7 +36,7 @@
       "inbox_files": 4,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787361238.1268415,
+      "last_progress_at": 1787361850.0305815,
       "max_rounds": 32,
       "mission_id": "23ce9b2e6ed0",
       "mission_status": "working",
@@ -44,7 +44,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 3067328,
-      "progress_age_seconds": 17.192452430725098,
+      "progress_age_seconds": 7.39963436126709,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -90,15 +90,15 @@
       "inbox_files": 2,
       "label": "B",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787361253.0150678,
+      "last_progress_at": 1787361855.500555,
       "max_rounds": 32,
-      "mission_id": "afbb47aca3af",
+      "mission_id": "41cf2a37465c",
       "mission_status": "working",
-      "mission_title": "Establish a new flat-tail equation or external exclusion theorem after FQ2803",
+      "mission_title": "Test a source-specific saddle-node theorem or derive a new compactified-ODE row",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 3067257,
-      "progress_age_seconds": 2.3042261600494385,
+      "progress_age_seconds": 1.9296607971191406,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
