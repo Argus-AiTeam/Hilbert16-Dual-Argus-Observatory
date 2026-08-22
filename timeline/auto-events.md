@@ -2355,3 +2355,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-22 20:45:27 UTC | A | `life.manager.stage_decision` | Reviewed evidence retires the active event47 bottom branch for the selected row and preserves the stated local bounds, … |
 | 2026-08-22 20:46:04 UTC | B | `life.mission.completed` | Construct the physical source-to-incoming-section map |
 | 2026-08-22 20:46:47 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-22 20:55:07 UTC | B | `life.mission.completed` | Prove the oriented first-hit lift into Sigma_i^in |
+| 2026-08-22 20:56:24 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
