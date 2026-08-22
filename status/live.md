@@ -3,12 +3,12 @@
 > Generated deterministically from Argus durable state. No model writes this page, and it carries no cross-process solution transfer.
 > 本页面由确定性监控器根据 Argus 持久状态生成，不由模型写入，也不承担跨进程解题内容传递。
 
-**Updated / 更新时间:** 2026-08-22 04:35:10 UTC
+**Updated / 更新时间:** 2026-08-22 04:40:12 UTC
 
 | Seat | State | Stage | Active role | Round | Current mission | Review | Since semantic progress |
 |---|---|---|---|---:|---|---|---:|
-| A | running | `solve` | engineer | 1/32 | Decide event500 I2 pair-resultant (3,13) top | none | 7s |
-| B | running | `solve` | engineer | 1/32 | Find matching finite-phase input below the FQ2821 cancellation | none | 0s |
+| A | running | `solve` | engineer | 1/32 | Decide event500 I2 pair-resultant (3,13) top | none | 22s |
+| B | running | `solve` | planner | 1/32 | Find matching finite-phase input below the FQ2821 cancellation | done | 1m |
 
 **Isolation integrity / 隔离完整性:** ✅ immutable controls match
 
@@ -21,7 +21,7 @@
 - **Reviewer state:** `none`; rejected attempts: 0
 - **Frontier signal:** not yet classified
 - **Research artifacts present:** `research/BOUNDED_RETURN_BLOCKS.md`, `research/CONFIGURATION_DEPTH.md`, `research/CONFIGURATION_WIDTH.md`, `research/DEGREE_RAISING.md`, `research/DULAC_POLYCYCLE_ROUTE_VERDICT.md`, `research/FIXED_DEGREE_REALIZATION.md`, `research/HILBERT_LOWER_BOUNDS.md`, `research/I6B_BOUNDED_COMPLEXITY_ZERO_COUNT.md`, `research/LOCAL_TO_GLOBAL.md`, `research/PIPELINE_STATE.json`, `research/PROOF_GRAPH.json`, `research/QUADRATIC_BASE_CASE.md`, `research/ROUTE_LEDGER.json`, `research/SCOPE.md`, `research/STATIONARY_EQUATOR_SLOW_FAST.md`, `research/UNIFORM_RETURN_VALENCY.md`, `research/UNIVERSAL_PAIR_BLOWUP.md`, `research/ZHU_EHP2B_VERDICT.md`
-- **Git:** `59e60f7` · 804 changed path(s) · Record event522 after event542 decision
+- **Git:** `59e60f7` · 808 changed path(s) · Record event522 after event542 decision
 - **Broker mailboxes:** inbox 4 · outbox 3
 
 ### Argus B
@@ -30,7 +30,7 @@
 - **Route:** construction / lower bounds
 - **Models:** Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol
 - **Mission:** Find matching finite-phase input below the FQ2821 cancellation
-- **Reviewer state:** `none`; rejected attempts: 0
+- **Reviewer state:** `done`; rejected attempts: 0
 - **Frontier signal:** Compact D=0, N-separated turning passages have moved from local/two-jet compatibility to a conditional all-orders exact-return and finite-zero insertion theorem.
 - **Research artifacts present:** `research/solve/hyperbolic_hemicycle_cyclicity_scope.md`, `research/solve/mixed_infinity_darboux_abelian_span.md`, `research/solve/mixed_infinity_darboux_bicycle_scope_second_order.md`, `research/solve/mixed_infinity_darboux_residual_quotient.md`, `research/solve/mixed_infinity_hyperbola_polycycle.md`, `research/solve/multiple_angular_root_newton_blowup.md`, `research/solve/nesting_depth_bounds.md`, `research/solve/next_target.json`, `research/solve/product_level_chain_construction.md`, `research/solve/quadratic_bottleneck_dossier.md`, `research/solve/radial_infinity_blowup.md`, `research/solve/radial_nested_family.md`, `research/solve/radial_zero_return_obstruction.md`, `research/solve/regular_annulus_localization.md`, `research/solve/repeated_phi_finite_v_decision.md`, `research/solve/structural_constraints_report.md`, `research/solve/structural_constraints_summary.md`, `research/solve/uniform_finiteness_brief.md`, `research/solve/verify_cl_perturbation.py`, `research/solve/verify_h2_lower_bound.py`
 - **Git:** `9be5530` · 52 changed path(s) · Record FQ2806 composition bridge obstruction
