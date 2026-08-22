@@ -2311,3 +2311,4 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-22 17:39:44 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
 | 2026-08-22 17:41:34 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
 | 2026-08-22 17:43:03 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-22 17:45:13 UTC | B | `life.manager.stage_decision` | FQ2873 is reviewed, validated, and gap-reducing, but it explicitly leaves B_gc undecided: K_L, K_R, and chi_L are reduc… |
