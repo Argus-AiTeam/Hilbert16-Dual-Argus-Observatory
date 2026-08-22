@@ -2211,3 +2211,8 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-22 11:29:23 UTC | B | `life.manager.stage_decision` | FQ2835g is accepted as a reviewed, substantive current-record obstruction and it retires the S_star boundary-pinning/no… |
 | 2026-08-22 11:35:01 UTC | A | `life.mission.completed` | Certify post-event399 event497 top boundary |
 | 2026-08-22 11:35:39 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: proof graph goal does not match the Manager-owned math_goal |
+| 2026-08-22 11:51:12 UTC | A | `life.mission.completed` | Certify post-event399 event494 top boundary after event497 |
+| 2026-08-22 11:52:11 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: proof graph goal does not match the Manager-owned math_goal |
+| 2026-08-22 11:48:19 UTC | B | `life.mission.completed` | Derive or obstruct a primary covariant exact-return displacement equation |
+| 2026-08-22 11:49:44 UTC | B | `life.manager.stage_decision` | FQ2835h is a reviewed bounded solve result retiring the primary RR/FQ37-FQ42 d-equation route, but it explicitly does n… |
+| 2026-08-22 11:51:00 UTC | B | `life.planner.error` |  |
