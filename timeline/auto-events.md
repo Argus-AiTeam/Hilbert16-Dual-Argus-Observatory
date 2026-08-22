@@ -2275,3 +2275,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-22 15:22:39 UTC | B | `life.manager.stage_decision` | FQ2861 is reviewed and satisfies the bounded solve objective, but the original Hilbert-contract objective remains unres… |
 | 2026-08-22 15:28:34 UTC | A | `life.mission.completed` | Certify post-event399 event415 top boundary after event432 |
 | 2026-08-22 15:29:49 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: proof graph goal does not match the Manager-owned math_goal |
+| 2026-08-22 15:34:51 UTC | B | `life.mission.completed` | Decide non-open first-hit/boundary alpha_rho anchor |
+| 2026-08-22 15:36:33 UTC | B | `life.manager.stage_decision` | FQ2862 gives reviewed, proposition-level gap reduction for the non-open first-hit/boundary alpha_rho route, but it is a… |
