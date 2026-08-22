@@ -2188,3 +2188,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-22 10:06:33 UTC | B | `life.mission.completed` | Synthesize FQ2842 source-filter closure |
 | 2026-08-22 10:07:45 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: proof graph goal does not match the Manager-owned math_goal |
 | 2026-08-22 10:07:23 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-22 10:13:42 UTC | B | `life.mission.completed` | Close retained-B K3 residual cascade |
+| 2026-08-22 10:15:06 UTC | B | `life.manager.stage_decision` | FQ2842m is a reviewed bounded gap reduction closing the retained-B K3 residual parent route, but the original Hilbert X… |
