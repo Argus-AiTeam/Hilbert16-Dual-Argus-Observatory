@@ -2349,3 +2349,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-22 20:25:00 UTC | A | `life.manager.stage_decision` | The reviewed event47-top checkpoint is accepted as a local gap reduction, but its scope is explicitly limited to the se… |
 | 2026-08-22 20:24:45 UTC | B | `life.mission.completed` | Prove the raw-to-FQ42 output gluing and scalar unit theorem |
 | 2026-08-22 20:25:43 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-22 20:36:13 UTC | B | `life.mission.completed` | Derive the FQ37 branch-entry selector theorem |
+| 2026-08-22 20:37:26 UTC | B | `life.manager.stage_decision` | FQ2891 is a reviewed, substantive bounded solve increment that sharpens the active FQ37 dependency to the missing physi… |
