@@ -2296,3 +2296,4 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-22 16:44:36 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
 | 2026-08-22 16:53:00 UTC | B | `life.mission.completed` | Derive unit-invariant source-domain/global-connection equation |
 | 2026-08-22 16:54:11 UTC | B | `life.manager.stage_decision` | FQ2869 is a reviewed, validated obstruction and a real route narrowing, but it explicitly proves only current-record in… |
+| 2026-08-22 17:03:33 UTC | B | `life.mission.completed` | Compute first non-tautological theta displacement |
