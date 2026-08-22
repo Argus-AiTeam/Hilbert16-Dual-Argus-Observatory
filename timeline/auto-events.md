@@ -2148,3 +2148,6 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-22 08:00:53 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: proof graph goal does not match the Manager-owned math_goal |
 | 2026-08-22 07:58:22 UTC | B | `life.mission.completed` | Decide A_L_delta=+/-1 cubic-root source data |
 | 2026-08-22 07:58:57 UTC | B | `life.manager.stage_decision` | FQ2842c is a reviewed, correctly scoped partial solve result that reduces the local source-filter branch, but the Hilbe… |
+| 2026-08-22 08:07:13 UTC | B | `life.mission.completed` | Decide generic R(A,c_B) source-filter branch |
+| 2026-08-22 08:08:35 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-22 08:10:08 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
