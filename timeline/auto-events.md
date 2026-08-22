@@ -2238,3 +2238,7 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-22 12:54:07 UTC | A | `life.manager.stage_decision` | The latest reviewed result is a supported row-local bounded certificate, but it explicitly does not close the global Hi… |
 | 2026-08-22 13:02:44 UTC | B | `life.mission.completed` | Build a condition-complete clustered beta5 domain witness |
 | 2026-08-22 13:04:24 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-22 13:15:20 UTC | A | `life.mission.completed` | Certify post-event399 event510 top boundary after event495 |
+| 2026-08-22 13:16:30 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: proof graph goal does not match the Manager-owned math_goal |
+| 2026-08-22 13:15:18 UTC | B | `life.mission.completed` | Derive the physical clustered beta5 branch law |
+| 2026-08-22 13:17:01 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
