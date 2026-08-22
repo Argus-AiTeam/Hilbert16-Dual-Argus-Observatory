@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-22 18:54:04 UTC",
+  "generated_at_utc": "2026-08-22 19:04:06 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -28,7 +28,7 @@
       "frontier_change": "",
       "frontier_summary": "",
       "git": {
-        "dirty_paths": 1133,
+        "dirty_paths": 1140,
         "head": "59e60f7",
         "last_commit": "Record event522 after event542 decision"
       },
@@ -36,7 +36,7 @@
       "inbox_files": 4,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787424837.900776,
+      "last_progress_at": 1787425439.155407,
       "max_rounds": 32,
       "mission_id": "d3e23da5bc4d",
       "mission_status": "working",
@@ -44,7 +44,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 3067328,
-      "progress_age_seconds": 6.310185670852661,
+      "progress_age_seconds": 7.094983339309692,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -90,15 +90,15 @@
       "inbox_files": 2,
       "label": "B",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787424794.884284,
+      "last_progress_at": 1787425421.7509737,
       "max_rounds": 32,
-      "mission_id": "68fa4e3fa7b6",
+      "mission_id": "d8207ff1a7a0",
       "mission_status": "working",
-      "mission_title": "Prove the two-variable G_dir quotient or isolate its first missing component",
+      "mission_title": "Prove the second-order global connection quotient",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 3067257,
-      "progress_age_seconds": 49.326677560806274,
+      "progress_age_seconds": 24.49941658973694,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
