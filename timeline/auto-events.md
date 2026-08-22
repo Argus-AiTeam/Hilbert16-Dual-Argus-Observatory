@@ -2156,3 +2156,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-22 08:21:18 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: proof graph goal does not match the Manager-owned math_goal |
 | 2026-08-22 08:19:33 UTC | B | `life.mission.completed` | Decide the generic-R sign-compatible source datum |
 | 2026-08-22 08:20:36 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-22 08:29:46 UTC | B | `life.mission.completed` | Test the c_B=-2 generic-R source datum |
+| 2026-08-22 08:30:42 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
