@@ -2267,3 +2267,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-22 14:53:31 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
 | 2026-08-22 15:00:24 UTC | B | `life.mission.completed` | Exhaust second ordinary gauge-invariant G_ord data |
 | 2026-08-22 15:01:47 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-22 15:03:07 UTC | A | `life.mission.completed` | Discriminate the post-event415 event432 obstruction candidate |
+| 2026-08-22 15:04:18 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: proof graph goal does not match the Manager-owned math_goal |
