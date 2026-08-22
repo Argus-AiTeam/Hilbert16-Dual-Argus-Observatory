@@ -2234,3 +2234,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-22 12:42:01 UTC | B | `life.manager.stage_decision` | FQ2845 is accepted as a reviewed bounded obstruction, but the Hilbert/configuration objective remains unresolved; the p… |
 | 2026-08-22 12:51:05 UTC | B | `life.mission.completed` | Audit the current vector source-domain chart rank |
 | 2026-08-22 12:52:21 UTC | B | `life.manager.stage_decision` | FQ2846 is accepted as a local solve-stage gap reduction and retires the current-vector-chart route, but it explicitly d… |
+| 2026-08-22 12:53:24 UTC | A | `life.mission.completed` | Certify post-event399 event495 top boundary after event496 |
+| 2026-08-22 12:54:07 UTC | A | `life.manager.stage_decision` | The latest reviewed result is a supported row-local bounded certificate, but it explicitly does not close the global Hi… |
