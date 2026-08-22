@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-22 19:59:17 UTC",
+  "generated_at_utc": "2026-08-22 20:04:19 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -28,7 +28,7 @@
       "frontier_change": "",
       "frontier_summary": "",
       "git": {
-        "dirty_paths": 1159,
+        "dirty_paths": 1163,
         "head": "59e60f7",
         "last_commit": "Record event522 after event542 decision"
       },
@@ -36,7 +36,7 @@
       "inbox_files": 4,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787428718.118131,
+      "last_progress_at": 1787428893.5901282,
       "max_rounds": 32,
       "mission_id": "e9b1ee0eb19b",
       "mission_status": "working",
@@ -44,7 +44,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 3067328,
-      "progress_age_seconds": 39.44168472290039,
+      "progress_age_seconds": 165.73640775680542,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -55,7 +55,7 @@
       "state": "running"
     },
     "B": {
-      "active_role": "planner",
+      "active_role": "engineer",
       "alive": true,
       "artifacts": [
         "research/solve/hyperbolic_hemicycle_cyclicity_scope.md",
@@ -89,19 +89,19 @@
       "health": "active",
       "inbox_files": 2,
       "label": "B",
-      "last_event": "life.planner.start",
-      "last_progress_at": 1787428738.4778025,
+      "last_event": "engineer.progress",
+      "last_progress_at": 1787429057.407336,
       "max_rounds": 32,
-      "mission_id": "9fda0ab9f0df",
-      "mission_status": "continued",
-      "mission_title": "Derive the physical branch-section jets and Phi_L origin equation",
+      "mission_id": "396f57db141f",
+      "mission_status": "working",
+      "mission_title": "Derive the fixed-output FQ42 Phi_L origin-normalization row",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 3067257,
-      "progress_age_seconds": 19.08201313018799,
+      "progress_age_seconds": 1.9191999435424805,
       "rejected_attempts": 0,
-      "review_reason": "FQ2887 materially satisfies the bounded develop mission: it derives the conditional FQ37 first-jet equation and records a strictly sharper obstruction, identifying the missing physical source/section selector for (d_i,1,p_i,0), the same-section L1_D/o_D(tau_in^2) budget, and the fixed-output Phi_L normalization row; the focused validation passes under the project interpreter.",
-      "review_status": "done",
+      "review_reason": "",
+      "review_status": "none",
       "round": 1,
       "route": "construction / lower bounds",
       "sid": "s-2fd8729b",
