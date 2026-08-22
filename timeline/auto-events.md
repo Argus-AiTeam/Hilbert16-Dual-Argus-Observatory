@@ -2064,3 +2064,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-22 03:38:35 UTC | A | `life.manager.stage_decision` | Reviewed event496 top exact verification is accepted as a bounded local gap reduction, but the original theorem remains… |
 | 2026-08-22 03:36:54 UTC | B | `life.mission.completed` | Control exact-zero and clustered lower flat-tail branches by a phase-rate lift |
 | 2026-08-22 03:37:55 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-22 03:45:17 UTC | B | `life.mission.completed` | Derive or obstruct the next-scale lower Volterra/source-boundary equation |
+| 2026-08-22 03:46:15 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
