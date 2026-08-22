@@ -2226,3 +2226,7 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-22 12:18:31 UTC | B | `life.manager.stage_decision` | FQ2843 is reviewed solve progress retiring the local endpoint clock/Dulac-time/isochron T_star candidate class, but it … |
 | 2026-08-22 12:19:34 UTC | B | `life.planner.error` |  |
 | 2026-08-22 12:20:41 UTC | B | `life.planner.error` |  |
+| 2026-08-22 12:29:26 UTC | A | `life.mission.completed` | Certify post-event399 event496 top boundary after event491 |
+| 2026-08-22 12:30:21 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: proof graph goal does not match the Manager-owned math_goal |
+| 2026-08-22 12:30:37 UTC | B | `life.mission.completed` | Test a nonclock endpoint-normal target or direct d-equation |
+| 2026-08-22 12:31:28 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
