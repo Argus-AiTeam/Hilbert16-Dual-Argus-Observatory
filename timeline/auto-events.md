@@ -2313,3 +2313,6 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-22 17:43:03 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
 | 2026-08-22 17:45:13 UTC | B | `life.manager.stage_decision` | FQ2873 is reviewed, validated, and gap-reducing, but it explicitly leaves B_gc undecided: K_L, K_R, and chi_L are reduc… |
 | 2026-08-22 18:20:44 UTC | B | `life.mission.completed` | Evaluate the FQ2873 kernel/origin functional |
+| 2026-08-22 18:26:30 UTC | A | `life.mission.completed` | Certify post-event399 event453 bottom boundary after event424 top |
+| 2026-08-22 18:27:22 UTC | A | `life.manager.stage_decision` | The reviewed event453 bottom certificate is valid solve-stage partial progress, but the original objective remains unre… |
+| 2026-08-22 18:28:18 UTC | B | `life.mission.completed` | Decide the physical K-tau_in graph route |
