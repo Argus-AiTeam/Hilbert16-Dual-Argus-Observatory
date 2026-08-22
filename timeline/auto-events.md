@@ -2009,3 +2009,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-22 01:33:31 UTC | A | `life.manager.stage_decision` | The reviewed exact verifier is substantive, valid, correctly scoped, and gap-reducing for event443 bottom; the global t… |
 | 2026-08-22 01:32:01 UTC | B | `life.mission.completed` | Test a source-specific saddle-node theorem or derive a new compactified-ODE row |
 | 2026-08-22 01:33:01 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-22 01:40:03 UTC | B | `life.mission.completed` | Derive or obstruct the two-passage flat-tail source-domain composition bridge |
+| 2026-08-22 01:41:38 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
