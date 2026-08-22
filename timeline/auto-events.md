@@ -2302,3 +2302,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-22 17:11:33 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: proof graph goal does not match the Manager-owned math_goal |
 | 2026-08-22 17:13:40 UTC | B | `life.mission.completed` | Prove raw tau-quadratic kernel/remainder package |
 | 2026-08-22 17:15:39 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-22 17:25:47 UTC | B | `life.mission.completed` | Evaluate actual B_gc source jets |
+| 2026-08-22 17:26:44 UTC | B | `life.manager.stage_decision` | Hold in solve: FQ2872 is a useful obstruction, but Reviewer confirms the live FQ41/FQ42 records still do not evaluate t… |
