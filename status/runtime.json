@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-22 07:46:19 UTC",
+  "generated_at_utc": "2026-08-22 07:51:21 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -28,7 +28,7 @@
       "frontier_change": "",
       "frontier_summary": "",
       "git": {
-        "dirty_paths": 886,
+        "dirty_paths": 892,
         "head": "59e60f7",
         "last_commit": "Record event522 after event542 decision"
       },
@@ -36,7 +36,7 @@
       "inbox_files": 4,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787384776.4220078,
+      "last_progress_at": 1787384985.622558,
       "max_rounds": 32,
       "mission_id": "42ac82776cd6",
       "mission_status": "working",
@@ -44,7 +44,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 3067328,
-      "progress_age_seconds": 2.9639487266540527,
+      "progress_age_seconds": 95.48822808265686,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -55,7 +55,7 @@
       "state": "running"
     },
     "B": {
-      "active_role": "planner",
+      "active_role": "engineer",
       "alive": true,
       "artifacts": [
         "research/solve/hyperbolic_hemicycle_cyclicity_scope.md",
@@ -89,19 +89,19 @@
       "health": "active",
       "inbox_files": 2,
       "label": "B",
-      "last_event": "life.planner.start",
-      "last_progress_at": 1787384765.9756804,
+      "last_event": "engineer.progress",
+      "last_progress_at": 1787385074.8179746,
       "max_rounds": 32,
-      "mission_id": "4b0bc8d915b2",
-      "mission_status": "continued",
-      "mission_title": "Resolve FQ2842 source-filter alternatives with third cubic datum",
+      "mission_id": "93b8e741a913",
+      "mission_status": "working",
+      "mission_title": "Decide A_L_delta=+/-1 cubic-root source data",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 3067257,
-      "progress_age_seconds": 13.410276174545288,
+      "progress_age_seconds": 6.292811632156372,
       "rejected_attempts": 0,
-      "review_reason": "requested outcome is materially complete",
-      "review_status": "done",
+      "review_reason": "",
+      "review_status": "none",
       "round": 1,
       "route": "construction / lower bounds",
       "sid": "s-2fd8729b",
