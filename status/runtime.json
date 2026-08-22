@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-22 22:39:59 UTC",
+  "generated_at_utc": "2026-08-22 22:45:01 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -28,7 +28,7 @@
       "frontier_change": "",
       "frontier_summary": "",
       "git": {
-        "dirty_paths": 1194,
+        "dirty_paths": 1198,
         "head": "59e60f7",
         "last_commit": "Record event522 after event542 decision"
       },
@@ -36,7 +36,7 @@
       "inbox_files": 4,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787438301.976088,
+      "last_progress_at": 1787438700.4468043,
       "max_rounds": 32,
       "mission_id": "93e9a70e39d3",
       "mission_status": "working",
@@ -44,7 +44,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 3067328,
-      "progress_age_seconds": 97.51915264129639,
+      "progress_age_seconds": 0.7652742862701416,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -55,7 +55,7 @@
       "state": "running"
     },
     "B": {
-      "active_role": "reviewer",
+      "active_role": "engineer",
       "alive": true,
       "artifacts": [
         "research/solve/hyperbolic_hemicycle_cyclicity_scope.md",
@@ -90,15 +90,15 @@
       "inbox_files": 2,
       "label": "B",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787438399.2223444,
+      "last_progress_at": 1787438661.9407737,
       "max_rounds": 32,
-      "mission_id": "94640458224a",
+      "mission_id": "c53b607fa5be",
       "mission_status": "working",
-      "mission_title": "Derive the physical flat source-domain endpoint law after FQ2901",
+      "mission_title": "Decide parameter-coupled flat horizontal-endpoint branches after FQ2902",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 3067257,
-      "progress_age_seconds": 0.27289628982543945,
+      "progress_age_seconds": 39.27130484580994,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
