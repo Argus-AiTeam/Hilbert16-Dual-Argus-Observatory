@@ -2320,3 +2320,6 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-22 18:38:00 UTC | B | `life.mission.completed` | Decide direct physical disjointness/subordination for K_gc |
 | 2026-08-22 18:39:12 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
 | 2026-08-22 18:47:54 UTC | B | `life.mission.completed` | Derive the non-clock G_dir image theorem |
+| 2026-08-22 18:50:51 UTC | A | `life.mission.completed` | Certify post-event399 event453 top boundary after event453 bottom |
+| 2026-08-22 18:52:30 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: proof graph goal does not match the Manager-owned math_goal |
+| 2026-08-22 18:49:22 UTC | B | `life.manager.stage_decision` | FQ2880 records checked solve-stage progress, but it leaves the needed two-variable C^L source-section/global-image theo… |
