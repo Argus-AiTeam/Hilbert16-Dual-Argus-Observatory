@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-22 06:51:00 UTC",
+  "generated_at_utc": "2026-08-22 06:56:02 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -28,7 +28,7 @@
       "frontier_change": "",
       "frontier_summary": "",
       "git": {
-        "dirty_paths": 858,
+        "dirty_paths": 863,
         "head": "59e60f7",
         "last_commit": "Record event522 after event542 decision"
       },
@@ -36,7 +36,7 @@
       "inbox_files": 4,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787381457.7584693,
+      "last_progress_at": 1787381613.5446296,
       "max_rounds": 32,
       "mission_id": "a98748d1cd51",
       "mission_status": "working",
@@ -44,7 +44,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 3067328,
-      "progress_age_seconds": 2.383951187133789,
+      "progress_age_seconds": 148.55109882354736,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -55,7 +55,7 @@
       "state": "running"
     },
     "B": {
-      "active_role": "reviewer",
+      "active_role": "engineer",
       "alive": true,
       "artifacts": [
         "research/solve/hyperbolic_hemicycle_cyclicity_scope.md",
@@ -90,15 +90,15 @@
       "inbox_files": 2,
       "label": "B",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787381456.0580819,
+      "last_progress_at": 1787381755.749159,
       "max_rounds": 32,
-      "mission_id": "0b57f2b25035",
+      "mission_id": "3faeb155c4eb",
       "mission_status": "working",
-      "mission_title": "Compute retained-B K2 residual K4 separator",
+      "mission_title": "Compute retained-B K3 leading-zero next Taylor split",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 3067257,
-      "progress_age_seconds": 4.084338665008545,
+      "progress_age_seconds": 6.346569299697876,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
