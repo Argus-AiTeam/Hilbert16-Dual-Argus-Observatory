@@ -2395,3 +2395,7 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-22 23:22:16 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: proof graph goal does not match the Manager-owned math_goal |
 | 2026-08-22 23:27:21 UTC | B | `life.mission.completed` | Derive the FQ42 terminal-to-Xi covector theorem |
 | 2026-08-22 23:28:00 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-22 23:36:27 UTC | A | `life.mission.completed` | Certify post-event630 event481 bottom boundary |
+| 2026-08-22 23:37:23 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: proof graph goal does not match the Manager-owned math_goal |
+| 2026-08-22 23:36:57 UTC | B | `life.mission.completed` | Derive endpoint-root exact-return composition after FQ2906 |
+| 2026-08-22 23:37:59 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
