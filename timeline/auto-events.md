@@ -2281,3 +2281,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-22 15:48:20 UTC | B | `life.mission.completed` | Decide direct physical disjointness or subordination for the G_ord-ambiguous branch |
 | 2026-08-22 15:49:13 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
 | 2026-08-22 15:54:24 UTC | A | `life.manager.stage_decision` | Hold solve: the reviewed event432 top-branch checkpoint is valid and locally gap-reducing, but it is explicitly bounded… |
+| 2026-08-22 15:58:56 UTC | B | `life.mission.completed` | Decide source Volterra q1 versus alpha_rho coupling |
+| 2026-08-22 16:00:22 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
