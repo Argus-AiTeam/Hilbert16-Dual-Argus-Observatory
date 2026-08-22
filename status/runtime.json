@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-22 20:59:35 UTC",
+  "generated_at_utc": "2026-08-22 21:09:37 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -28,7 +28,7 @@
       "frontier_change": "",
       "frontier_summary": "",
       "git": {
-        "dirty_paths": 1175,
+        "dirty_paths": 1176,
         "head": "59e60f7",
         "last_commit": "Record event522 after event542 decision"
       },
@@ -36,7 +36,7 @@
       "inbox_files": 4,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787432374.9387639,
+      "last_progress_at": 1787432970.5827518,
       "max_rounds": 32,
       "mission_id": "978f52adc1f0",
       "mission_status": "working",
@@ -44,7 +44,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 3067328,
-      "progress_age_seconds": 0.4618232250213623,
+      "progress_age_seconds": 6.825010061264038,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -90,15 +90,15 @@
       "inbox_files": 2,
       "label": "B",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787432328.6610734,
+      "last_progress_at": 1787432928.8554404,
       "max_rounds": 32,
-      "mission_id": "a11a7fda6b30",
+      "mission_id": "8a66b5a9723c",
       "mission_status": "working",
-      "mission_title": "Derive the selected-word variational transport theorem",
+      "mission_title": "Construct selected source-anchor and parameter-jet theorem",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 3067257,
-      "progress_age_seconds": 46.739513635635376,
+      "progress_age_seconds": 48.552321434020996,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
