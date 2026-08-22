@@ -3,12 +3,12 @@
 > Generated deterministically from Argus durable state. No model writes this page, and it carries no cross-process solution transfer.
 > 本页面由确定性监控器根据 Argus 持久状态生成，不由模型写入，也不承担跨进程解题内容传递。
 
-**Updated / 更新时间:** 2026-08-22 02:09:29 UTC
+**Updated / 更新时间:** 2026-08-22 02:14:31 UTC
 
 | Seat | State | Stage | Active role | Round | Current mission | Review | Since semantic progress |
 |---|---|---|---|---:|---|---|---:|
-| A | running | `solve` | engineer | 1/32 | Decide the post-event462 event626 top successor | none | 1m |
-| B | running | `solve` | planner | 1/32 | Derive fixed second-flat section normalization or a gauge-invariant fla… | done | 12s |
+| A | running | `solve` | engineer | 1/32 | Decide the post-event462 event626 top successor | none | 3s |
+| B | running | `solve` | idle | 1/32 | Derive fixed second-flat section normalization or a gauge-invariant fla… | done | 44s |
 
 **Isolation integrity / 隔离完整性:** ✅ immutable controls match
 
