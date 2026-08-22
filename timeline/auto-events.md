@@ -2207,3 +2207,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-22 11:09:02 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
 | 2026-08-22 11:17:49 UTC | B | `life.mission.completed` | Compute or obstruct a source-domain S_star target jet |
 | 2026-08-22 11:19:46 UTC | B | `life.manager.stage_decision` | FQ2835f is reviewed and gap-reducing, but it only retires the current source-domain T_star jet candidate class; H3_14, … |
+| 2026-08-22 11:28:09 UTC | B | `life.mission.completed` | Test an S_star boundary-pinning or non-open image theorem |
+| 2026-08-22 11:29:23 UTC | B | `life.manager.stage_decision` | FQ2835g is accepted as a reviewed, substantive current-record obstruction and it retires the S_star boundary-pinning/no… |
