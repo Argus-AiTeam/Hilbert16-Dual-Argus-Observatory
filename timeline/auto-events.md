@@ -2219,3 +2219,6 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-22 11:58:37 UTC | B | `life.mission.completed` | Derive or obstruct a non-primary S_star displacement equation |
 | 2026-08-22 11:59:37 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
 | 2026-08-22 12:06:46 UTC | B | `life.mission.completed` | Test an endpoint-normal holonomy d-equation candidate |
+| 2026-08-22 12:08:43 UTC | A | `life.mission.completed` | Certify post-event399 event491 top boundary after event494 |
+| 2026-08-22 12:09:41 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: proof graph goal does not match the Manager-owned math_goal |
+| 2026-08-22 12:07:45 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
