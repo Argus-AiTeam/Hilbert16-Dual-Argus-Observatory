@@ -2813,3 +2813,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-23 23:27:02 UTC | A | `life.manager.stage_decision` | The reviewed event480 checkpoint is a valid bounded local obstruction/candidate, but it does not close the selected-row… |
 | 2026-08-23 23:28:57 UTC | B | `life.mission.completed` | Compute or obstruct the actual named-S2 T4/Z_p coupling |
 | 2026-08-23 23:29:53 UTC | B | `life.manager.stage_decision` | FQ3046 is reviewed, validated bounded solve progress and sharply narrows the T4/Z_p route, but the Hilbert contract rem… |
+| 2026-08-23 23:37:51 UTC | B | `life.mission.completed` | Derive first-principles T4/Z_p component-source rows |
+| 2026-08-23 23:38:48 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
