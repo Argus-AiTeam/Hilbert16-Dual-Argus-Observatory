@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-23 03:26:17 UTC",
+  "generated_at_utc": "2026-08-23 03:31:18 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -28,7 +28,7 @@
       "frontier_change": "",
       "frontier_summary": "",
       "git": {
-        "dirty_paths": 1298,
+        "dirty_paths": 1302,
         "head": "59e60f7",
         "last_commit": "Record event522 after event542 decision"
       },
@@ -36,7 +36,7 @@
       "inbox_files": 4,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787455517.165151,
+      "last_progress_at": 1787455604.4454255,
       "max_rounds": 32,
       "mission_id": "a6af8ab51a34",
       "mission_status": "working",
@@ -44,7 +44,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 3067328,
-      "progress_age_seconds": 59.976497173309326,
+      "progress_age_seconds": 274.51388001441956,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -55,7 +55,7 @@
       "state": "running"
     },
     "B": {
-      "active_role": "planner",
+      "active_role": "engineer",
       "alive": true,
       "artifacts": [
         "research/solve/hyperbolic_hemicycle_cyclicity_scope.md",
@@ -89,19 +89,19 @@
       "health": "active",
       "inbox_files": 2,
       "label": "B",
-      "last_event": "engineer.progress",
-      "last_progress_at": 1787455569.789954,
+      "last_event": "life.planner.verdict",
+      "last_progress_at": 1787455864.6332746,
       "max_rounds": 32,
-      "mission_id": "3c3a1f482085",
-      "mission_status": "continued",
-      "mission_title": "Derive the physical FQ2909 graph-lower channel",
+      "mission_id": "ab4364d54cdf",
+      "mission_status": "working",
+      "mission_title": "Derive or obstruct the D14 lower derivative-budget theorem",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 3067257,
-      "progress_age_seconds": 7.351694107055664,
+      "progress_age_seconds": 14.326030969619751,
       "rejected_attempts": 0,
-      "review_reason": "FQ2930 materially satisfies the bounded develop objective: it derives the conditional graph-lower quotient, shows the needed C^3_D/C^1_D lower remainder is absent from current records, and retires the current-data R_2909 route by exact same-A_14/same-r_2885 formal witnesses varying only graph-lower data.",
-      "review_status": "done",
+      "review_reason": "",
+      "review_status": "none",
       "round": 1,
       "route": "construction / lower bounds",
       "sid": "s-2fd8729b",
