@@ -2600,3 +2600,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-23 11:02:46 UTC | B | `life.manager.stage_decision` | FQ2974 is a reviewed substantive solve increment, but the original Hilbert-contract objective remains unresolved and th… |
 | 2026-08-23 11:04:47 UTC | A | `life.mission.completed` | Certify the post-event265-bottom event509 top boundary |
 | 2026-08-23 11:05:42 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: proof graph goal does not match the Manager-owned math_goal |
+| 2026-08-23 11:10:13 UTC | B | `life.mission.completed` | Construct FQ2974-SPD physical residual theorem |
+| 2026-08-23 11:11:19 UTC | B | `life.manager.stage_decision` | FQ2975 is a reviewed substantive solve increment, but it only sharpens the missing physical SPD residual-jet datum; FQ2… |
