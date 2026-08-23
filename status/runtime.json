@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-23 20:41:07 UTC",
+  "generated_at_utc": "2026-08-23 20:46:09 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -28,7 +28,7 @@
       "frontier_change": "",
       "frontier_summary": "",
       "git": {
-        "dirty_paths": 1757,
+        "dirty_paths": 1764,
         "head": "59e60f7",
         "last_commit": "Record event522 after event542 decision"
       },
@@ -36,7 +36,7 @@
       "inbox_files": 4,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787517626.2656624,
+      "last_progress_at": 1787517793.4301982,
       "max_rounds": 32,
       "mission_id": "f9578705a025",
       "mission_status": "working",
@@ -44,7 +44,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 3067328,
-      "progress_age_seconds": 41.284271240234375,
+      "progress_age_seconds": 176.2548668384552,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -55,7 +55,7 @@
       "state": "running"
     },
     "B": {
-      "active_role": "planner",
+      "active_role": "reviewer",
       "alive": true,
       "artifacts": [
         "research/solve/hyperbolic_hemicycle_cyclicity_scope.md",
@@ -82,26 +82,26 @@
       "frontier_change": "uncertainty_reduced",
       "frontier_summary": "Compact D=0, N-separated turning passages have moved from local/two-jet compatibility to a conditional all-orders exact-return and finite-zero insertion theorem.",
       "git": {
-        "dirty_paths": 343,
+        "dirty_paths": 345,
         "head": "c8b3494",
         "last_commit": "Record FQ2896 branch-selection obstruction"
       },
       "health": "active",
       "inbox_files": 2,
       "label": "B",
-      "last_event": "life.planner.start",
-      "last_progress_at": 1787517611.3353646,
+      "last_event": "round.main.completed",
+      "last_progress_at": 1787517968.4590259,
       "max_rounds": 32,
-      "mission_id": "ddaa8e5a90f1",
-      "mission_status": "continued",
-      "mission_title": "Test S2 normalizing-section gauge action on Q4",
+      "mission_id": "b4151b4095be",
+      "mission_status": "working",
+      "mission_title": "Compute S2 fourth-order gauge-quotient invariant",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 3067257,
-      "progress_age_seconds": 56.214569091796875,
+      "progress_age_seconds": 1.226039171218872,
       "rejected_attempts": 0,
-      "review_reason": "FQ3032 satisfies the bounded mission: Q4 non-invariance is established by an explicit admissible normalizing-section gauge orbit preserving the listed records while changing Q4",
-      "review_status": "done",
+      "review_reason": "",
+      "review_status": "none",
       "round": 1,
       "route": "construction / lower bounds",
       "sid": "s-2fd8729b",
