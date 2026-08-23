@@ -2658,3 +2658,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-23 14:21:11 UTC | B | `life.manager.stage_decision` | FQ2994 is a reviewed, bounded solve increment: RR2015 source-backs only boundary limit-periodic sets for I^1_6b, H^3_13… |
 | 2026-08-23 14:25:01 UTC | A | `life.mission.completed` | Certify event476 top boundary after event508 top |
 | 2026-08-23 14:26:11 UTC | A | `life.manager.stage_decision` | The reviewed event476-top verifier gives a substantive bounded obstruction/candidate and reduces the local route gap, b… |
+| 2026-08-23 14:35:38 UTC | B | `life.mission.completed` | Decompose the full I^1_6b quadratic graphic after the RR boundary theorem |
+| 2026-08-23 14:36:55 UTC | B | `life.manager.stage_decision` | FQ2995 is accepted as partial solve progress: it source-backs the I^1_6b boundary dependency, retires only the invalid … |
