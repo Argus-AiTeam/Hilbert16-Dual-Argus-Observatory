@@ -2608,3 +2608,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-23 11:25:51 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: proof graph goal does not match the Manager-owned math_goal |
 | 2026-08-23 11:27:13 UTC | B | `life.mission.completed` | Construct projected SPD density law |
 | 2026-08-23 11:28:12 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-23 11:35:26 UTC | B | `life.mission.completed` | Decide branch-selected SPD transport-composition datum |
+| 2026-08-23 11:36:18 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
