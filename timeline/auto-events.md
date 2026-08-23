@@ -2587,3 +2587,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-23 10:18:57 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: proof graph goal does not match the Manager-owned math_goal |
 | 2026-08-23 10:20:39 UTC | B | `life.mission.completed` | Decide actual realizability of phase-free source-landmark witnesses |
 | 2026-08-23 10:21:30 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-23 10:29:37 UTC | B | `life.mission.completed` | Decide target-output displacement after common source-section identity |
+| 2026-08-23 10:31:07 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
