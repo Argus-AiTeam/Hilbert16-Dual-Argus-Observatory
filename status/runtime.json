@@ -1,9 +1,9 @@
 {
-  "generated_at_utc": "2026-08-23 20:46:09 UTC",
+  "generated_at_utc": "2026-08-23 20:51:11 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
-      "active_role": "engineer",
+      "active_role": "reviewer",
       "alive": true,
       "artifacts": [
         "research/BOUNDED_RETURN_BLOCKS.md",
@@ -28,7 +28,7 @@
       "frontier_change": "",
       "frontier_summary": "",
       "git": {
-        "dirty_paths": 1764,
+        "dirty_paths": 1766,
         "head": "59e60f7",
         "last_commit": "Record event522 after event542 decision"
       },
@@ -36,7 +36,7 @@
       "inbox_files": 4,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787517793.4301982,
+      "last_progress_at": 1787518260.897633,
       "max_rounds": 32,
       "mission_id": "f9578705a025",
       "mission_status": "working",
@@ -44,7 +44,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 3067328,
-      "progress_age_seconds": 176.2548668384552,
+      "progress_age_seconds": 10.529132843017578,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -55,7 +55,7 @@
       "state": "running"
     },
     "B": {
-      "active_role": "reviewer",
+      "active_role": "engineer",
       "alive": true,
       "artifacts": [
         "research/solve/hyperbolic_hemicycle_cyclicity_scope.md",
@@ -89,16 +89,16 @@
       "health": "active",
       "inbox_files": 2,
       "label": "B",
-      "last_event": "round.main.completed",
-      "last_progress_at": 1787517968.4590259,
+      "last_event": "engineer.progress",
+      "last_progress_at": 1787518270.390205,
       "max_rounds": 32,
-      "mission_id": "b4151b4095be",
+      "mission_id": "a2c401db6797",
       "mission_status": "working",
-      "mission_title": "Compute S2 fourth-order gauge-quotient invariant",
+      "mission_title": "Test higher-order I16b-S2 residual gauge invariants",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 3067257,
-      "progress_age_seconds": 1.226039171218872,
+      "progress_age_seconds": 1.0365610122680664,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
