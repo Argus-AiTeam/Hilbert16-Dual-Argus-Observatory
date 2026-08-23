@@ -1,9 +1,9 @@
 {
-  "generated_at_utc": "2026-08-23 09:48:07 UTC",
+  "generated_at_utc": "2026-08-23 09:53:09 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
-      "active_role": "engineer",
+      "active_role": "reviewer",
       "alive": true,
       "artifacts": [
         "research/BOUNDED_RETURN_BLOCKS.md",
@@ -28,7 +28,7 @@
       "frontier_change": "",
       "frontier_summary": "",
       "git": {
-        "dirty_paths": 1444,
+        "dirty_paths": 1449,
         "head": "59e60f7",
         "last_commit": "Record event522 after event542 decision"
       },
@@ -36,7 +36,7 @@
       "inbox_files": 4,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787478457.2961555,
+      "last_progress_at": 1787478604.8064957,
       "max_rounds": 32,
       "mission_id": "fe17eaccc9dc",
       "mission_status": "working",
@@ -44,7 +44,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 3067328,
-      "progress_age_seconds": 30.055829524993896,
+      "progress_age_seconds": 184.38796401023865,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -55,7 +55,7 @@
       "state": "running"
     },
     "B": {
-      "active_role": "planner",
+      "active_role": "engineer",
       "alive": true,
       "artifacts": [
         "research/solve/hyperbolic_hemicycle_cyclicity_scope.md",
@@ -89,19 +89,19 @@
       "health": "active",
       "inbox_files": 2,
       "label": "B",
-      "last_event": "life.planner.start",
-      "last_progress_at": 1787478471.5820007,
+      "last_event": "engineer.progress",
+      "last_progress_at": 1787478789.2149775,
       "max_rounds": 32,
-      "mission_id": "895b064f9d4b",
-      "mission_status": "continued",
-      "mission_title": "Decide whether relative terminal output reduces to calibrated target-section data",
+      "mission_id": "d7970e37849e",
+      "mission_status": "working",
+      "mission_title": "Audit primary-source support for the calibrated target-section/global-hit route",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 3067257,
-      "progress_age_seconds": 15.769984245300293,
+      "progress_age_seconds": 0.0,
       "rejected_attempts": 0,
-      "review_reason": "FQ2967 correctly shows Theta_delta requires the FQ2918 calibrated target-section/outgoing-graph/global-hit data and retires the physical-relative-output route as non-independent without overclaiming Hilbert/configuration consequences",
-      "review_status": "done",
+      "review_reason": "",
+      "review_status": "none",
       "round": 1,
       "route": "construction / lower bounds",
       "sid": "s-2fd8729b",
