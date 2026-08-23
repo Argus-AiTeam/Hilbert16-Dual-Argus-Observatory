@@ -1,9 +1,9 @@
 {
-  "generated_at_utc": "2026-08-23 17:00:08 UTC",
+  "generated_at_utc": "2026-08-23 17:05:10 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
-      "active_role": "reviewer",
+      "active_role": "planner",
       "alive": true,
       "artifacts": [
         "research/BOUNDED_RETURN_BLOCKS.md",
@@ -35,19 +35,19 @@
       "health": "active",
       "inbox_files": 4,
       "label": "A",
-      "last_event": "engineer.progress",
-      "last_progress_at": 1787504351.1269996,
+      "last_event": "life.planner.start",
+      "last_progress_at": 1787504640.6824758,
       "max_rounds": 32,
       "mission_id": "20533dabacc9",
-      "mission_status": "working",
+      "mission_status": "continued",
       "mission_title": "Certify event191 I1 bottom boundary",
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 3067328,
-      "progress_age_seconds": 56.993019580841064,
+      "progress_age_seconds": 69.38543629646301,
       "rejected_attempts": 0,
-      "review_reason": "",
-      "review_status": "none",
+      "review_reason": "event191 I1 pair_resultant (0,7) bottom boundary is correctly classified harmless with certified successor, preserved <=9/<=18 bounds, and next blocker pos:event263:I1:pair_resultant:(4, 9):top_boundary",
+      "review_status": "done",
       "round": 1,
       "route": "theory / upper constraints",
       "sid": "s-54f17ee7",
@@ -55,7 +55,7 @@
       "state": "running"
     },
     "B": {
-      "active_role": "engineer",
+      "active_role": "reviewer",
       "alive": true,
       "artifacts": [
         "research/solve/hyperbolic_hemicycle_cyclicity_scope.md",
@@ -82,7 +82,7 @@
       "frontier_change": "uncertainty_reduced",
       "frontier_summary": "Compact D=0, N-separated turning passages have moved from local/two-jet compatibility to a conditional all-orders exact-return and finite-zero insertion theorem.",
       "git": {
-        "dirty_paths": 295,
+        "dirty_paths": 297,
         "head": "c8b3494",
         "last_commit": "Record FQ2896 branch-selection obstruction"
       },
@@ -90,7 +90,7 @@
       "inbox_files": 2,
       "label": "B",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787504402.0673149,
+      "last_progress_at": 1787504696.142774,
       "max_rounds": 32,
       "mission_id": "71d2b7360a86",
       "mission_status": "working",
@@ -98,7 +98,7 @@
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 3067257,
-      "progress_age_seconds": 6.052704334259033,
+      "progress_age_seconds": 13.925137996673584,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
