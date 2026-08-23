@@ -2619,3 +2619,6 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-23 12:02:35 UTC | B | `life.mission.completed` | Decide SPD phase-gauge covariance of Delta_phys |
 | 2026-08-23 12:03:38 UTC | B | `life.manager.stage_decision` | FQ2981 is reviewed and correctly scoped, but it leaves Delta_phys, FQ2977, H(2), H(n), and configuration claims unprove… |
 | 2026-08-23 12:08:20 UTC | A | `life.mission.completed` | Certify event629 top boundary after event264 bottom |
+| 2026-08-23 12:09:34 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: proof graph goal does not match the Manager-owned math_goal |
+| 2026-08-23 12:11:38 UTC | B | `life.mission.completed` | Decide the relative source-target SPD invariant |
+| 2026-08-23 12:12:52 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
