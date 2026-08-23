@@ -2687,3 +2687,6 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-23 16:00:12 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
 | 2026-08-23 16:10:54 UTC | B | `life.mission.completed` | Derive the I16b-S2 compactified ODE word and section atlas |
 | 2026-08-23 16:11:52 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-23 16:24:51 UTC | A | `life.mission.completed` | Certify event476 I2 bottom neg-zero boundary |
+| 2026-08-23 16:20:45 UTC | B | `life.mission.completed` | Decide the I16b-S2 global connection graph |
+| 2026-08-23 16:21:55 UTC | B | `life.manager.stage_decision` | FQ3006 is a reviewed, support-matched solve increment that retires the source-plus-local-topology route by narrowing S2… |
