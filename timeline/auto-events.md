@@ -2645,3 +2645,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-23 13:27:57 UTC | B | `life.manager.stage_decision` | FQ2990 is a reviewed substantive solve increment that retires the singular-end asymptotic selector route, but it is exp… |
 | 2026-08-23 13:33:21 UTC | A | `life.mission.completed` | Certify event509 bottom boundary after event629 bottom |
 | 2026-08-23 13:34:28 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: node 'ROW22_31_EVENT509_I2_PAIR_RESULTANT_4_6_BOTTOM_AFTER_EVENT629_BOTTOM' status 'c… |
+| 2026-08-23 13:39:51 UTC | B | `life.mission.completed` | Decide polynomial common-tuple law for FQ2990 source amplitudes |
+| 2026-08-23 13:40:41 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
