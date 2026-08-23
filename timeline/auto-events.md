@@ -2598,3 +2598,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-23 10:54:07 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
 | 2026-08-23 11:01:29 UTC | B | `life.mission.completed` | Compute terminal defects q_sigma or finite-zero difference |
 | 2026-08-23 11:02:46 UTC | B | `life.manager.stage_decision` | FQ2974 is a reviewed substantive solve increment, but the original Hilbert-contract objective remains unresolved and th… |
+| 2026-08-23 11:04:47 UTC | A | `life.mission.completed` | Certify the post-event265-bottom event509 top boundary |
+| 2026-08-23 11:05:42 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: proof graph goal does not match the Manager-owned math_goal |
