@@ -2584,3 +2584,6 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-23 10:07:34 UTC | B | `life.mission.completed` | Decide nonlinear phase-pinning in the actual compactified ERFZ14 equations |
 | 2026-08-23 10:08:28 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
 | 2026-08-23 10:17:56 UTC | A | `life.mission.completed` | Certify the post-event266-bottom event265 top boundary |
+| 2026-08-23 10:18:57 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: proof graph goal does not match the Manager-owned math_goal |
+| 2026-08-23 10:20:39 UTC | B | `life.mission.completed` | Decide actual realizability of phase-free source-landmark witnesses |
+| 2026-08-23 10:21:30 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
