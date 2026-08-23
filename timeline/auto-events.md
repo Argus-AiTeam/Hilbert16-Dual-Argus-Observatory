@@ -2789,3 +2789,6 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-23 21:51:06 UTC | B | `life.manager.stage_decision` | FQ3039 is reviewed and retires the local source-import closure route, but the original Hilbert XVI Part II objective re… |
 | 2026-08-23 22:00:09 UTC | B | `life.mission.completed` | Derive the I16b-S2 flat exact-return source law |
 | 2026-08-23 22:02:38 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-23 22:16:06 UTC | A | `life.mission.completed` | Certify event28 bottom after event28 top |
+| 2026-08-23 22:12:40 UTC | B | `life.mission.completed` | Derive common quadratic source-coherence constraints for the I16b-S2 flat remnant |
+| 2026-08-23 22:13:30 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
