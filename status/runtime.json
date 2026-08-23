@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-23 04:06:28 UTC",
+  "generated_at_utc": "2026-08-23 04:11:30 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -28,7 +28,7 @@
       "frontier_change": "",
       "frontier_summary": "",
       "git": {
-        "dirty_paths": 1310,
+        "dirty_paths": 1314,
         "head": "59e60f7",
         "last_commit": "Record event522 after event542 decision"
       },
@@ -36,7 +36,7 @@
       "inbox_files": 4,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787457974.5173604,
+      "last_progress_at": 1787458124.0704308,
       "max_rounds": 32,
       "mission_id": "193c4588338d",
       "mission_status": "working",
@@ -44,7 +44,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 3067328,
-      "progress_age_seconds": 13.991615056991577,
+      "progress_age_seconds": 166.2418692111969,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -55,7 +55,7 @@
       "state": "running"
     },
     "B": {
-      "active_role": "idle",
+      "active_role": "engineer",
       "alive": true,
       "artifacts": [
         "research/solve/hyperbolic_hemicycle_cyclicity_scope.md",
@@ -86,22 +86,22 @@
         "head": "c8b3494",
         "last_commit": "Record FQ2896 branch-selection obstruction"
       },
-      "health": "idle",
+      "health": "active",
       "inbox_files": 2,
       "label": "B",
-      "last_event": "life.mission.completed",
-      "last_progress_at": 1787457988.0212188,
+      "last_event": "engineer.progress",
+      "last_progress_at": 1787458264.7871542,
       "max_rounds": 32,
-      "mission_id": "15c2fbff8f89",
-      "mission_status": "continued",
-      "mission_title": "Test physical sectorization of the N_D exact zero graphs",
+      "mission_id": "0a2bbed836fd",
+      "mission_status": "working",
+      "mission_title": "Refute current-local direct N_D finite-zero closure",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 3067257,
-      "progress_age_seconds": 0.48775672912597656,
+      "progress_age_seconds": 25.525145769119263,
       "rejected_attempts": 0,
-      "review_reason": "FQ2934 materially satisfies the bounded objective: it correctly compares both FQ2933 exact-zero graphs against the recorded ERFZ14 same-section/source equations and concludes they remain compatible/open, with no H3_14/H(2)/H(n)/realizability/configuration overclaim.",
-      "review_status": "done",
+      "review_reason": "",
+      "review_status": "none",
       "round": 1,
       "route": "construction / lower bounds",
       "sid": "s-2fd8729b",
