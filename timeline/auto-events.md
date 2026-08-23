@@ -2724,3 +2724,6 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-23 18:22:26 UTC | B | `life.mission.completed` | Characterize second-order resectioning action on the FQ3016 residual |
 | 2026-08-23 18:23:24 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
 | 2026-08-23 18:30:18 UTC | B | `life.mission.completed` | Identify or obstruct the named S2 four-section packet |
+| 2026-08-23 18:33:33 UTC | A | `life.mission.completed` | Certify event85 I0 (3,5) top boundary |
+| 2026-08-23 18:34:26 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: node 'ROW22_31_EVENT191_I1_PAIR_RESULTANT_0_7_BOTTOM_AFTER_EVENT191_TOP' status 'cert… |
+| 2026-08-23 18:31:19 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
