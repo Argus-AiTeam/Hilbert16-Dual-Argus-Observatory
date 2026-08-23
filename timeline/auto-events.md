@@ -2483,3 +2483,6 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-23 04:07:51 UTC | B | `life.manager.stage_decision` | FQ2934 is a reviewed, evidence-backed solve checkpoint, but it leaves the original Hilbert-contract objective open and … |
 | 2026-08-23 04:17:00 UTC | B | `life.mission.completed` | Refute current-local direct N_D finite-zero closure |
 | 2026-08-23 04:18:02 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-23 04:25:37 UTC | A | `life.mission.completed` | Certify post-event272 event152 bottom boundary |
+| 2026-08-23 04:25:12 UTC | B | `life.mission.completed` | Audit quasianalytic sectorization for the actual N_D profiles |
+| 2026-08-23 04:26:20 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
