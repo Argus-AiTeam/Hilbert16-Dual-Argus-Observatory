@@ -2553,3 +2553,6 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-23 08:23:52 UTC | A | `life.manager.stage_decision` | The event268-bottom bounded checkpoint is reviewed as a valid gap-reducing solve increment, but the original Hilbert XV… |
 | 2026-08-23 08:25:53 UTC | B | `life.mission.completed` | Decide global source-to-section boundary-value selector for the endpoint tuple |
 | 2026-08-23 08:27:15 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-23 08:42:48 UTC | A | `life.mission.completed` | Certify the post-event268-bottom event267 top boundary |
+| 2026-08-23 08:40:03 UTC | B | `life.mission.completed` | Derive the anchored source-to-FQ37 entry map |
+| 2026-08-23 08:41:10 UTC | B | `life.manager.stage_decision` | FQ2960 is a reviewed, substantive solve-stage result, but the original Hilbert-contract objective remains unresolved an… |
