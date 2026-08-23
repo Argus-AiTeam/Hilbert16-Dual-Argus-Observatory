@@ -2781,3 +2781,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-23 21:26:51 UTC | B | `life.mission.completed` | Test physical source equations for the flat I16b-S2 remnant |
 | 2026-08-23 21:28:20 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
 | 2026-08-23 21:36:11 UTC | B | `life.mission.completed` | Derive the named S2 finite-leg transport table |
+| 2026-08-23 21:37:23 UTC | A | `round.stall` |  |
+| 2026-08-23 21:37:18 UTC | B | `life.manager.stage_decision` | FQ3038 is a reviewed substantive solve-stage result and retires the named finite-leg transport route, but the original … |
