@@ -2761,3 +2761,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-23 20:19:58 UTC | B | `life.mission.completed` | Test full-cycle S2 gamma closure |
 | 2026-08-23 20:21:01 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
 | 2026-08-23 20:29:39 UTC | B | `life.mission.completed` | Attempt direct named-coordinate S2 Q4 computation |
+| 2026-08-23 20:35:52 UTC | A | `life.mission.completed` | Certify event542 top after event508 bottom |
+| 2026-08-23 20:31:17 UTC | B | `life.manager.stage_decision` | FQ3031 is a reviewed, source-backed bounded obstruction and retires the direct named-coordinate S2 Q4 route, but it exp… |
