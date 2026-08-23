@@ -2463,3 +2463,8 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-23 03:05:09 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
 | 2026-08-23 03:13:45 UTC | B | `life.mission.completed` | Derive the physical FQ2885 lower residual budget |
 | 2026-08-23 03:20:40 UTC | B | `life.mission.completed` | Derive the physical FQ2909 graph-lower channel |
+| 2026-08-23 03:21:49 UTC | A | `life.mission.completed` | Certify post-event152-second event274 top boundary |
+| 2026-08-23 03:22:41 UTC | A | `life.manager.stage_decision` | Reviewed evidence accepts the event274 local-successor certification, preserving the selected-row/tail bounds and corre… |
+| 2026-08-23 03:21:36 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-23 03:24:15 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-23 03:25:54 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
