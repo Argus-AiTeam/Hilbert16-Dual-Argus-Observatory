@@ -2795,3 +2795,7 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-23 22:17:24 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: node 'ROW22_31_EVENT159_I1_ALPHA0_C7_BOTTOM_AFTER_EVENT159_TOP' status 'certified_bou… |
 | 2026-08-23 22:19:39 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: node 'ROW22_31_EVENT159_I1_ALPHA0_C7_BOTTOM_AFTER_EVENT159_TOP' status 'certified_bou… |
 | 2026-08-23 22:20:55 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: node 'ROW22_31_EVENT159_I1_ALPHA0_C7_BOTTOM_AFTER_EVENT159_TOP' status 'certified_bou… |
+| 2026-08-23 22:22:35 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: node 'ROW22_31_EVENT159_I1_ALPHA0_C7_BOTTOM_AFTER_EVENT159_TOP' status 'certified_bou… |
+| 2026-08-23 22:24:09 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: node 'ROW22_31_EVENT159_I1_ALPHA0_C7_BOTTOM_AFTER_EVENT159_TOP' status 'certified_bou… |
+| 2026-08-23 22:25:58 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: node 'ROW22_31_EVENT159_I1_ALPHA0_C7_BOTTOM_AFTER_EVENT159_TOP' status 'certified_bou… |
+| 2026-08-23 22:25:23 UTC | B | `life.mission.completed` | Compute the physical FQ41--FQ42/Omega source-output rows for I16b-S2 |
