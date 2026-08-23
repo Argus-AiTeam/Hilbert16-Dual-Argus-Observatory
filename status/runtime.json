@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-23 21:01:13 UTC",
+  "generated_at_utc": "2026-08-23 21:11:15 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -28,7 +28,7 @@
       "frontier_change": "",
       "frontier_summary": "",
       "git": {
-        "dirty_paths": 1766,
+        "dirty_paths": 1773,
         "head": "59e60f7",
         "last_commit": "Record event522 after event542 decision"
       },
@@ -36,7 +36,7 @@
       "inbox_files": 4,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787518848.5882425,
+      "last_progress_at": 1787519393.1175408,
       "max_rounds": 32,
       "mission_id": "363ea47ded09",
       "mission_status": "working",
@@ -44,7 +44,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 3067328,
-      "progress_age_seconds": 24.595202445983887,
+      "progress_age_seconds": 82.02462553977966,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -55,7 +55,7 @@
       "state": "running"
     },
     "B": {
-      "active_role": "planner",
+      "active_role": "engineer",
       "alive": true,
       "artifacts": [
         "research/solve/hyperbolic_hemicycle_cyclicity_scope.md",
@@ -82,7 +82,7 @@
       "frontier_change": "uncertainty_reduced",
       "frontier_summary": "Compact D=0, N-separated turning passages have moved from local/two-jet compatibility to a conditional all-orders exact-return and finite-zero insertion theorem.",
       "git": {
-        "dirty_paths": 347,
+        "dirty_paths": 349,
         "head": "c8b3494",
         "last_commit": "Record FQ2896 branch-selection obstruction"
       },
@@ -90,18 +90,18 @@
       "inbox_files": 2,
       "label": "B",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787518844.153949,
+      "last_progress_at": 1787519457.8196194,
       "max_rounds": 32,
-      "mission_id": "a2c401db6797",
-      "mission_status": "continued",
-      "mission_title": "Test higher-order I16b-S2 residual gauge invariants",
+      "mission_id": "5bad3dc688d4",
+      "mission_status": "working",
+      "mission_title": "Decide the all-orders gauge-normalized flat remnant",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 3067257,
-      "progress_age_seconds": 29.02949595451355,
+      "progress_age_seconds": 17.32254695892334,
       "rejected_attempts": 0,
-      "review_reason": "FQ3034 satisfies the bounded acceptance check: the recorded proposition and reproduced symbolic validator show rank-2/transitive target-section action and quotient dimension 0 for both surviving schemas, with no I16b-S2/Hilbert/configuration overclaim.",
-      "review_status": "done",
+      "review_reason": "",
+      "review_status": "none",
       "round": 1,
       "route": "construction / lower bounds",
       "sid": "s-2fd8729b",
