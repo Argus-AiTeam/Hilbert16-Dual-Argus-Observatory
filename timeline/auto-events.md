@@ -2649,3 +2649,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-23 13:40:41 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
 | 2026-08-23 13:52:01 UTC | B | `life.mission.completed` | Decide external physical selector for FQ2991 source amplitudes |
 | 2026-08-23 13:52:47 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-23 13:59:52 UTC | A | `life.mission.completed` | Certify event508 top boundary after event509 bottom |
+| 2026-08-23 14:01:14 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: node 'ROW22_31_EVENT508_I2_PAIR_RESULTANT_4_5_TOP_AFTER_EVENT509_BOTTOM' status 'cert… |
