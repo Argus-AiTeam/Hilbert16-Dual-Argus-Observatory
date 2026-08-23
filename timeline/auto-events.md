@@ -2745,3 +2745,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-23 19:30:36 UTC | B | `life.mission.completed` | Derive or obstruct the physical S2 return-word selector |
 | 2026-08-23 19:31:46 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: node 'ROW22_31_EVENT159_I1_ALPHA0_C7_TOP_AFTER_EVENT85_BOTTOM' status 'certified_boun… |
 | 2026-08-23 19:31:36 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-23 19:39:04 UTC | B | `life.mission.completed` | Test global S2 incidence for word selection |
+| 2026-08-23 19:40:02 UTC | B | `life.manager.stage_decision` | FQ3026 is reviewed and changes proposition status by retiring the current global-incidence/cyclic-order S2 selector rou… |
