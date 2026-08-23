@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-23 16:30:00 UTC",
+  "generated_at_utc": "2026-08-23 16:35:02 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -28,7 +28,7 @@
       "frontier_change": "",
       "frontier_summary": "",
       "git": {
-        "dirty_paths": 1648,
+        "dirty_paths": 1654,
         "head": "59e60f7",
         "last_commit": "Record event522 after event542 decision"
       },
@@ -36,7 +36,7 @@
       "inbox_files": 4,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787502598.2054267,
+      "last_progress_at": 1787502898.3777232,
       "max_rounds": 32,
       "mission_id": "3f7436618428",
       "mission_status": "working",
@@ -44,7 +44,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 3067328,
-      "progress_age_seconds": 2.027509927749634,
+      "progress_age_seconds": 3.705982208251953,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -55,7 +55,7 @@
       "state": "running"
     },
     "B": {
-      "active_role": "planner",
+      "active_role": "engineer",
       "alive": true,
       "artifacts": [
         "research/solve/hyperbolic_hemicycle_cyclicity_scope.md",
@@ -89,19 +89,19 @@
       "health": "active",
       "inbox_files": 2,
       "label": "B",
-      "last_event": "life.planner.start",
-      "last_progress_at": 1787502565.6978245,
+      "last_event": "engineer.progress",
+      "last_progress_at": 1787502784.7491698,
       "max_rounds": 32,
-      "mission_id": "405ad870c600",
-      "mission_status": "continued",
-      "mission_title": "Derive the I16b-S2 graph from the explicit center dynamics",
+      "mission_id": "9142018e6d69",
+      "mission_status": "working",
+      "mission_title": "Derive the I16b-S2 finite-branch endpoint transition",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 3067257,
-      "progress_age_seconds": 34.535112142562866,
+      "progress_age_seconds": 117.33453559875488,
       "rejected_attempts": 0,
-      "review_reason": "FQ3007 materially satisfies the bounded mission: the B0=2/3, mu=0 first integral and compactified endpoint behavior are derived, checked, and correctly used to record that the scalar invariant fixes only the finite P3->P4 branch while leaving the FQ3006 schema, D-face levels, and same-coordinate anchors undetermined.",
-      "review_status": "done",
+      "review_reason": "",
+      "review_status": "none",
       "round": 1,
       "route": "construction / lower bounds",
       "sid": "s-2fd8729b",
