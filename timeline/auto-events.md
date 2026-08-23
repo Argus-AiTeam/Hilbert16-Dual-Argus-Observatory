@@ -2656,3 +2656,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-23 14:07:52 UTC | B | `life.manager.stage_decision` | The reviewed FQ2993 Lu 2026/H3_14 boundary certification satisfies the bounded solve increment, but the immutable Hilbe… |
 | 2026-08-23 14:20:12 UTC | B | `life.mission.completed` | Audit remaining RR2015 quadratic graphic gaps after Lu2026 |
 | 2026-08-23 14:21:11 UTC | B | `life.manager.stage_decision` | FQ2994 is a reviewed, bounded solve increment: RR2015 source-backs only boundary limit-periodic sets for I^1_6b, H^3_13… |
+| 2026-08-23 14:25:01 UTC | A | `life.mission.completed` | Certify event476 top boundary after event508 top |
+| 2026-08-23 14:26:11 UTC | A | `life.manager.stage_decision` | The reviewed event476-top verifier gives a substantive bounded obstruction/candidate and reduces the local route gap, b… |
