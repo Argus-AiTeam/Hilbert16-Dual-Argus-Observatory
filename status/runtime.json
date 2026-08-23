@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-23 19:55:54 UTC",
+  "generated_at_utc": "2026-08-23 20:00:55 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -28,7 +28,7 @@
       "frontier_change": "",
       "frontier_summary": "",
       "git": {
-        "dirty_paths": 1735,
+        "dirty_paths": 1740,
         "head": "59e60f7",
         "last_commit": "Record event522 after event542 decision"
       },
@@ -36,7 +36,7 @@
       "inbox_files": 4,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787514926.6308303,
+      "last_progress_at": 1787515210.6798887,
       "max_rounds": 32,
       "mission_id": "981c22db911a",
       "mission_status": "working",
@@ -44,7 +44,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 3067328,
-      "progress_age_seconds": 27.527855157852173,
+      "progress_age_seconds": 45.306248903274536,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -55,7 +55,7 @@
       "state": "running"
     },
     "B": {
-      "active_role": "planner",
+      "active_role": "engineer",
       "alive": true,
       "artifacts": [
         "research/solve/hyperbolic_hemicycle_cyclicity_scope.md",
@@ -89,19 +89,19 @@
       "health": "active",
       "inbox_files": 2,
       "label": "B",
-      "last_event": "life.planner.start",
-      "last_progress_at": 1787514927.132412,
+      "last_event": "engineer.progress",
+      "last_progress_at": 1787515205.282924,
       "max_rounds": 32,
-      "mission_id": "cf4b735a0bee",
-      "mission_status": "continued",
-      "mission_title": "Decide two-schema S2 Q4 coefficient packets",
+      "mission_id": "45268c404549",
+      "mission_status": "working",
+      "mission_title": "Derive fourth-order S2 source-transport packet",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 3067257,
-      "progress_age_seconds": 27.026273488998413,
+      "progress_age_seconds": 50.703213691711426,
       "rejected_attempts": 0,
-      "review_reason": "bounded FQ3028 result is verified: the two Q4 schema formulas rebuild from FQ3023/FQ3026/FQ3027, the FQ3025 D-edge and finite P3->P4 packets validate, and compatible zero, distinct, and free symbolic Q4 packets show no selector-independent nonzero or finite-zero conclusion follows from current equations",
-      "review_status": "done",
+      "review_reason": "",
+      "review_status": "none",
       "round": 1,
       "route": "construction / lower bounds",
       "sid": "s-2fd8729b",
