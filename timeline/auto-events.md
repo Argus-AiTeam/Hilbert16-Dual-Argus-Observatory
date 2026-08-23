@@ -2502,3 +2502,6 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-23 05:16:44 UTC | B | `life.mission.completed` | Decide direct terminal chi covector for N_D residual |
 | 2026-08-23 05:17:49 UTC | B | `life.manager.stage_decision` | FQ2941 is a reviewed bounded solve increment: it derives the direct scalar chi row and changes the shortcut proposition… |
 | 2026-08-23 05:26:01 UTC | A | `life.mission.completed` | Certify the post-event152-bottom event274 bottom boundary |
+| 2026-08-23 05:27:00 UTC | A | `life.manager.stage_decision` | Reviewer accepted event274 bottom as a harmless local successor with preserved bounds, but the original Hilbert objecti… |
+| 2026-08-23 05:27:27 UTC | B | `life.mission.completed` | Decide physical terminal raw-to-chi covector theorem |
+| 2026-08-23 05:28:43 UTC | B | `life.manager.stage_decision` | FQ2942 is reviewed and validated as a bounded source-level obstruction, but it does not compute the physical terminal c… |
