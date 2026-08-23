@@ -2662,3 +2662,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-23 14:36:55 UTC | B | `life.manager.stage_decision` | FQ2995 is accepted as partial solve progress: it source-backs the I^1_6b boundary dependency, retires only the invalid … |
 | 2026-08-23 14:42:08 UTC | A | `life.mission.completed` | Resolve event476 common-alpha obstruction/candidate |
 | 2026-08-23 14:43:34 UTC | A | `life.manager.stage_decision` | event476 is materially resolved for the bounded selected-row checkpoint, but the support is explicitly local; selected-… |
+| 2026-08-23 14:46:51 UTC | B | `life.mission.completed` | Derive the I^1_6b four-Type-II coupled return model |
+| 2026-08-23 14:48:00 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
