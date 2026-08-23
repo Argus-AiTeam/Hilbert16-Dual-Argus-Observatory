@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-23 00:25:29 UTC",
+  "generated_at_utc": "2026-08-23 00:35:31 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -28,7 +28,7 @@
       "frontier_change": "",
       "frontier_summary": "",
       "git": {
-        "dirty_paths": 1235,
+        "dirty_paths": 1238,
         "head": "59e60f7",
         "last_commit": "Record event522 after event542 decision"
       },
@@ -36,7 +36,7 @@
       "inbox_files": 4,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787444700.7218502,
+      "last_progress_at": 1787445208.1715019,
       "max_rounds": 32,
       "mission_id": "dfeda33217bc",
       "mission_status": "working",
@@ -44,7 +44,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 3067328,
-      "progress_age_seconds": 28.567582368850708,
+      "progress_age_seconds": 122.95013809204102,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -55,7 +55,7 @@
       "state": "running"
     },
     "B": {
-      "active_role": "planner",
+      "active_role": "engineer",
       "alive": true,
       "artifacts": [
         "research/solve/hyperbolic_hemicycle_cyclicity_scope.md",
@@ -82,7 +82,7 @@
       "frontier_change": "uncertainty_reduced",
       "frontier_summary": "Compact D=0, N-separated turning passages have moved from local/two-jet compatibility to a conditional all-orders exact-return and finite-zero insertion theorem.",
       "git": {
-        "dirty_paths": 65,
+        "dirty_paths": 67,
         "head": "c8b3494",
         "last_commit": "Record FQ2896 branch-selection obstruction"
       },
@@ -90,18 +90,18 @@
       "inbox_files": 2,
       "label": "B",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787444727.3935573,
+      "last_progress_at": 1787445304.0069582,
       "max_rounds": 32,
-      "mission_id": "01e6a94b848f",
-      "mission_status": "continued",
-      "mission_title": "Derive or obstruct the branch-selection equations for L_sigma_e",
+      "mission_id": "368b290f28fb",
+      "mission_status": "working",
+      "mission_title": "Derive or obstruct the global source-section matching covector",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 3067257,
-      "progress_age_seconds": 1.8958752155303955,
+      "progress_age_seconds": 27.114681720733643,
       "rejected_attempts": 0,
-      "review_reason": "FQ2912 satisfies the bounded develop mission: it derives the actual endpoint-root/zero-connection/product-one first-jet rows after FQ2911, shows those rows contain no x1_{sigma,e} source-selection equation, and gives same-record branch-jet witnesses changing Gamma_14; the remaining failure layer is proof, namely the missing physical source-to-section row for each actual germ.",
-      "review_status": "done",
+      "review_reason": "",
+      "review_status": "none",
       "round": 1,
       "route": "construction / lower bounds",
       "sid": "s-2fd8729b",
