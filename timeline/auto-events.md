@@ -2429,3 +2429,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-23 01:17:13 UTC | A | `life.mission.completed` | Certify post-event513 event462 bottom boundary |
 | 2026-08-23 01:18:08 UTC | A | `life.manager.stage_decision` | The reviewed event462 bounded checkpoint is materially complete, but the broader Hilbert/CONFIG_n objective remains ope… |
 | 2026-08-23 01:16:16 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-23 01:26:15 UTC | B | `life.mission.completed` | Derive or obstruct the actual calibrated target section |
+| 2026-08-23 01:27:10 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
