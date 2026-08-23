@@ -1,9 +1,9 @@
 {
-  "generated_at_utc": "2026-08-23 10:03:13 UTC",
+  "generated_at_utc": "2026-08-23 10:08:14 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
-      "active_role": "engineer",
+      "active_role": "reviewer",
       "alive": true,
       "artifacts": [
         "research/BOUNDED_RETURN_BLOCKS.md",
@@ -28,7 +28,7 @@
       "frontier_change": "",
       "frontier_summary": "",
       "git": {
-        "dirty_paths": 1454,
+        "dirty_paths": 1459,
         "head": "59e60f7",
         "last_commit": "Record event522 after event542 decision"
       },
@@ -36,7 +36,7 @@
       "inbox_files": 4,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787479263.2046523,
+      "last_progress_at": 1787479691.8611207,
       "max_rounds": 32,
       "mission_id": "26c93a333b55",
       "mission_status": "working",
@@ -44,7 +44,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 3067328,
-      "progress_age_seconds": 129.79681277275085,
+      "progress_age_seconds": 3.100999593734741,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -55,7 +55,7 @@
       "state": "running"
     },
     "B": {
-      "active_role": "engineer",
+      "active_role": "planner",
       "alive": true,
       "artifacts": [
         "research/solve/hyperbolic_hemicycle_cyclicity_scope.md",
@@ -82,26 +82,26 @@
       "frontier_change": "uncertainty_reduced",
       "frontier_summary": "Compact D=0, N-separated turning passages have moved from local/two-jet compatibility to a conditional all-orders exact-return and finite-zero insertion theorem.",
       "git": {
-        "dirty_paths": 207,
+        "dirty_paths": 209,
         "head": "c8b3494",
         "last_commit": "Record FQ2896 branch-selection obstruction"
       },
       "health": "active",
       "inbox_files": 2,
       "label": "B",
-      "last_event": "engineer.progress",
-      "last_progress_at": 1787479387.490683,
+      "last_event": "life.planner.start",
+      "last_progress_at": 1787479657.2625942,
       "max_rounds": 32,
       "mission_id": "8af4437c37c3",
-      "mission_status": "working",
+      "mission_status": "continued",
       "mission_title": "Decide nonlinear phase-pinning in the actual compactified ERFZ14 equations",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 3067257,
-      "progress_age_seconds": 5.51078200340271,
+      "progress_age_seconds": 37.69952607154846,
       "rejected_attempts": 0,
-      "review_reason": "",
-      "review_status": "none",
+      "review_reason": "FQ2969 materially satisfies the bounded mission: the actual nonlinear affine-line endpoint/source and calibrated target/global-hit equations were stated, the U=d=0 invariant family gives an all-order source-phase-neutral witness, and the conclusion is correctly scoped as narrowing rather than closing the physical source-phase route.",
+      "review_status": "done",
       "round": 1,
       "route": "construction / lower bounds",
       "sid": "s-2fd8729b",
