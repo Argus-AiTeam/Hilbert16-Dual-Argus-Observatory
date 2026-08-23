@@ -2560,3 +2560,6 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-23 08:51:38 UTC | B | `life.mission.completed` | Decide endpoint-root atlas compatibility for the FQ2954/FQ2957 endpoint tuple |
 | 2026-08-23 08:52:49 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
 | 2026-08-23 09:02:02 UTC | A | `life.mission.completed` | Certify the post-event267-top event620 top boundary |
+| 2026-08-23 09:03:25 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: proof graph goal does not match the Manager-owned math_goal |
+| 2026-08-23 09:03:12 UTC | B | `life.mission.completed` | Classify the FQ2961 tuple in centered raw-chain coordinates |
+| 2026-08-23 09:04:17 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
