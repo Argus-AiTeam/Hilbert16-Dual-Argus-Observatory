@@ -2536,3 +2536,4 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-23 07:18:07 UTC | B | `life.mission.completed` | Decide source-selection control of the Y10 multiplier |
 | 2026-08-23 07:19:05 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
 | 2026-08-23 07:22:57 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: proof graph goal does not match the Manager-owned math_goal |
+| 2026-08-23 07:31:14 UTC | B | `life.mission.completed` | Decide direct W_D finite-zero theorem in the pole chart |
