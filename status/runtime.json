@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-23 12:13:52 UTC",
+  "generated_at_utc": "2026-08-23 12:23:54 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -28,7 +28,7 @@
       "frontier_change": "",
       "frontier_summary": "",
       "git": {
-        "dirty_paths": 1522,
+        "dirty_paths": 1531,
         "head": "59e60f7",
         "last_commit": "Record event522 after event542 decision"
       },
@@ -36,7 +36,7 @@
       "inbox_files": 4,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787487157.405287,
+      "last_progress_at": 1787487655.3000035,
       "max_rounds": 32,
       "mission_id": "3a7a43dacf5f",
       "mission_status": "working",
@@ -44,7 +44,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 3067328,
-      "progress_age_seconds": 74.7767927646637,
+      "progress_age_seconds": 178.84354543685913,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -82,23 +82,23 @@
       "frontier_change": "uncertainty_reduced",
       "frontier_summary": "Compact D=0, N-separated turning passages have moved from local/two-jet compatibility to a conditional all-orders exact-return and finite-zero insertion theorem.",
       "git": {
-        "dirty_paths": 235,
+        "dirty_paths": 238,
         "head": "c8b3494",
         "last_commit": "Record FQ2896 branch-selection obstruction"
       },
       "health": "active",
       "inbox_files": 2,
       "label": "B",
-      "last_event": "life.planner.verdict",
-      "last_progress_at": 1787487218.901236,
+      "last_event": "engineer.progress",
+      "last_progress_at": 1787487833.1030478,
       "max_rounds": 32,
-      "mission_id": "3873890a3d27",
+      "mission_id": "5053a7e2472b",
       "mission_status": "working",
-      "mission_title": "Decide target-calibration covariance of the quotient SPD invariant",
+      "mission_title": "Decide the actual matched target/global-hit offset",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 3067257,
-      "progress_age_seconds": 13.280843734741211,
+      "progress_age_seconds": 1.0405011177062988,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
