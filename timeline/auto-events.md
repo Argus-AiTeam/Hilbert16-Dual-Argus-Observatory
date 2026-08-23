@@ -2512,3 +2512,4 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-23 05:47:32 UTC | A | `life.manager.stage_decision` | The reviewed event273-bottom checkpoint is a valid local gap reduction, but the global Hilbert/configuration objective … |
 | 2026-08-23 05:53:24 UTC | B | `life.mission.completed` | Decide physical terminal chi_pi0 gauge fixing on FQ42 section |
 | 2026-08-23 05:54:25 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-23 06:03:31 UTC | B | `life.mission.completed` | Decide global boundary-value anchoring of terminal chi origin |
