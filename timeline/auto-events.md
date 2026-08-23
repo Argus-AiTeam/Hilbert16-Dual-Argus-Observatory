@@ -2618,3 +2618,4 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-23 11:55:13 UTC | B | `life.manager.stage_decision` | FQ2980 is a reviewed, substantive solve increment that sharpens the missing physical source-phase/global-separatrix anc… |
 | 2026-08-23 12:02:35 UTC | B | `life.mission.completed` | Decide SPD phase-gauge covariance of Delta_phys |
 | 2026-08-23 12:03:38 UTC | B | `life.manager.stage_decision` | FQ2981 is reviewed and correctly scoped, but it leaves Delta_phys, FQ2977, H(2), H(n), and configuration claims unprove… |
+| 2026-08-23 12:08:20 UTC | A | `life.mission.completed` | Certify event629 top boundary after event264 bottom |
