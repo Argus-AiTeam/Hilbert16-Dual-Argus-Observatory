@@ -2815,3 +2815,6 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-23 23:29:53 UTC | B | `life.manager.stage_decision` | FQ3046 is reviewed, validated bounded solve progress and sharply narrows the T4/Z_p route, but the Hilbert contract rem… |
 | 2026-08-23 23:37:51 UTC | B | `life.mission.completed` | Derive first-principles T4/Z_p component-source rows |
 | 2026-08-23 23:38:48 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-23 23:42:56 UTC | A | `life.mission.completed` | Resolve the event480 common-alpha denominator fold |
+| 2026-08-23 23:44:22 UTC | A | `life.manager.stage_decision` | HOLD in solve: the reviewed event480 denominator fold is a substantive bounded selected-row result, but it explicitly p… |
+| 2026-08-23 23:46:53 UTC | B | `life.mission.completed` | Derive selected second section-jet/T2 packet |
