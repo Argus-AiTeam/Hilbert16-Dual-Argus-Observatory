@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-23 11:48:44 UTC",
+  "generated_at_utc": "2026-08-23 11:58:46 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -28,7 +28,7 @@
       "frontier_change": "",
       "frontier_summary": "",
       "git": {
-        "dirty_paths": 1512,
+        "dirty_paths": 1517,
         "head": "59e60f7",
         "last_commit": "Record event522 after event542 decision"
       },
@@ -36,7 +36,7 @@
       "inbox_files": 4,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787485716.7029848,
+      "last_progress_at": 1787486156.4217536,
       "max_rounds": 32,
       "mission_id": "83b5983024d5",
       "mission_status": "working",
@@ -44,7 +44,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 3067328,
-      "progress_age_seconds": 8.196317911148071,
+      "progress_age_seconds": 170.42533206939697,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -82,7 +82,7 @@
       "frontier_change": "uncertainty_reduced",
       "frontier_summary": "Compact D=0, N-separated turning passages have moved from local/two-jet compatibility to a conditional all-orders exact-return and finite-zero insertion theorem.",
       "git": {
-        "dirty_paths": 229,
+        "dirty_paths": 231,
         "head": "c8b3494",
         "last_commit": "Record FQ2896 branch-selection obstruction"
       },
@@ -90,15 +90,15 @@
       "inbox_files": 2,
       "label": "B",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787485717.5739279,
+      "last_progress_at": 1787486315.5544407,
       "max_rounds": 32,
-      "mission_id": "43eb914101b0",
+      "mission_id": "cb3c531e2397",
       "mission_status": "working",
-      "mission_title": "Decide physical source-phase anchoring for the SPD variational packet",
+      "mission_title": "Decide SPD phase-gauge covariance of Delta_phys",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 3067257,
-      "progress_age_seconds": 7.3253748416900635,
+      "progress_age_seconds": 11.29264497756958,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",

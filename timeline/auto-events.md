@@ -2614,3 +2614,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-23 11:47:05 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: proof graph goal does not match the Manager-owned math_goal |
 | 2026-08-23 11:46:03 UTC | B | `life.mission.completed` | Derive SPD transport primitive from physical variational maps |
 | 2026-08-23 11:46:51 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-23 11:54:03 UTC | B | `life.mission.completed` | Decide physical source-phase anchoring for the SPD variational packet |
+| 2026-08-23 11:55:13 UTC | B | `life.manager.stage_decision` | FQ2980 is a reviewed, substantive solve increment that sharpens the missing physical source-phase/global-separatrix anc… |
