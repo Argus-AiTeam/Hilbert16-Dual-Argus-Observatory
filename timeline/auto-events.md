@@ -2625,3 +2625,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-23 12:19:42 UTC | B | `life.mission.completed` | Decide target-calibration covariance of the quotient SPD invariant |
 | 2026-08-23 12:21:22 UTC | B | `life.manager.stage_decision` | FQ2983 is reviewed and validated as a substantive solve increment, but it explicitly leaves Delta_phys/Hilbert claims u… |
 | 2026-08-23 12:28:41 UTC | B | `life.mission.completed` | Decide the actual matched target/global-hit offset |
+| 2026-08-23 12:33:52 UTC | A | `life.mission.completed` | Certify event228 top boundary after event629 top |
+| 2026-08-23 12:29:51 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
