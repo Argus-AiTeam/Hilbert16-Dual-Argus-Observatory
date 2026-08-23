@@ -2437,3 +2437,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-23 01:49:48 UTC | A | `life.mission.completed` | Certify post-event462-bottom event462 top boundary |
 | 2026-08-23 01:50:45 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: proof graph goal does not match the Manager-owned math_goal |
 | 2026-08-23 01:47:13 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-23 01:56:30 UTC | B | `life.mission.completed` | Test phase-gauge invariance of the physical Gamma14 transport |
+| 2026-08-23 01:57:30 UTC | B | `life.manager.stage_decision` | FQ2922 is a reviewed, substantive bounded solve result with direct symbolic/explicit witness support, but the original … |
