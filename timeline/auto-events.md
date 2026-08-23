@@ -2749,3 +2749,6 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-23 19:40:02 UTC | B | `life.manager.stage_decision` | FQ3026 is reviewed and changes proposition status by retiring the current global-incidence/cyclic-order S2 selector rou… |
 | 2026-08-23 19:46:45 UTC | B | `life.mission.completed` | Test selector-free Q4 descent under P3 swap |
 | 2026-08-23 19:47:58 UTC | B | `life.manager.stage_decision` | FQ3027 is reviewed and gives real solve-stage gap reduction by retiring selector-free Q4 descent under the P3-swap equi… |
+| 2026-08-23 19:51:12 UTC | A | `life.mission.completed` | Certify event159 I1 alpha0 c7 bottom boundary |
+| 2026-08-23 19:52:00 UTC | A | `life.manager.stage_decision` | The reviewed event159 bottom checkpoint is accepted as substantive, correctly scoped progress, but it remains a partial… |
+| 2026-08-23 19:55:24 UTC | B | `life.mission.completed` | Decide two-schema S2 Q4 coefficient packets |
