@@ -1,9 +1,9 @@
 {
-  "generated_at_utc": "2026-08-23 19:40:50 UTC",
+  "generated_at_utc": "2026-08-23 19:50:52 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
-      "active_role": "engineer",
+      "active_role": "reviewer",
       "alive": true,
       "artifacts": [
         "research/BOUNDED_RETURN_BLOCKS.md",
@@ -28,7 +28,7 @@
       "frontier_change": "",
       "frontier_summary": "",
       "git": {
-        "dirty_paths": 1733,
+        "dirty_paths": 1735,
         "head": "59e60f7",
         "last_commit": "Record event522 after event542 decision"
       },
@@ -36,7 +36,7 @@
       "inbox_files": 4,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787513810.6616776,
+      "last_progress_at": 1787514500.283045,
       "max_rounds": 32,
       "mission_id": "2309772f67f4",
       "mission_status": "working",
@@ -44,7 +44,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 3067328,
-      "progress_age_seconds": 239.85485005378723,
+      "progress_age_seconds": 152.13925528526306,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -82,23 +82,23 @@
       "frontier_change": "uncertainty_reduced",
       "frontier_summary": "Compact D=0, N-separated turning passages have moved from local/two-jet compatibility to a conditional all-orders exact-return and finite-zero insertion theorem.",
       "git": {
-        "dirty_paths": 331,
+        "dirty_paths": 333,
         "head": "c8b3494",
         "last_commit": "Record FQ2896 branch-selection obstruction"
       },
       "health": "active",
       "inbox_files": 2,
       "label": "B",
-      "last_event": "life.planner.verdict",
-      "last_progress_at": 1787514036.2230666,
+      "last_event": "engineer.progress",
+      "last_progress_at": 1787514650.4051616,
       "max_rounds": 32,
-      "mission_id": "c0b1f1019400",
+      "mission_id": "cf4b735a0bee",
       "mission_status": "working",
-      "mission_title": "Test selector-free Q4 descent under P3 swap",
+      "mission_title": "Decide two-schema S2 Q4 coefficient packets",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 3067257,
-      "progress_age_seconds": 14.293461084365845,
+      "progress_age_seconds": 2.017138719558716,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",

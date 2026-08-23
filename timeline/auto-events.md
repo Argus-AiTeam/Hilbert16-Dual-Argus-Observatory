@@ -2747,3 +2747,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-23 19:31:36 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
 | 2026-08-23 19:39:04 UTC | B | `life.mission.completed` | Test global S2 incidence for word selection |
 | 2026-08-23 19:40:02 UTC | B | `life.manager.stage_decision` | FQ3026 is reviewed and changes proposition status by retiring the current global-incidence/cyclic-order S2 selector rou… |
+| 2026-08-23 19:46:45 UTC | B | `life.mission.completed` | Test selector-free Q4 descent under P3 swap |
+| 2026-08-23 19:47:58 UTC | B | `life.manager.stage_decision` | FQ3027 is reviewed and gives real solve-stage gap reduction by retiring selector-free Q4 descent under the P3-swap equi… |
