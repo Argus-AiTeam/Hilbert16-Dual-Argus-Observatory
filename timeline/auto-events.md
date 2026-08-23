@@ -2530,3 +2530,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-23 07:01:45 UTC | A | `life.mission.completed` | Certify the post-event270-top event270 bottom boundary |
 | 2026-08-23 06:58:40 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
 | 2026-08-23 07:02:56 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: proof graph goal does not match the Manager-owned math_goal |
+| 2026-08-23 07:08:04 UTC | B | `life.mission.completed` | Decide pole-scale source-section multiplier transversality |
+| 2026-08-23 07:09:03 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
