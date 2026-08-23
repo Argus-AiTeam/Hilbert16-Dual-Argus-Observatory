@@ -2638,3 +2638,6 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-23 13:04:28 UTC | B | `life.mission.completed` | Decide the physical global-separatrix branch-value theorem |
 | 2026-08-23 13:06:05 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
 | 2026-08-23 13:13:52 UTC | B | `life.mission.completed` | Decide the physical source-to-entry normal selector |
+| 2026-08-23 13:16:01 UTC | A | `life.mission.completed` | Certify event629 bottom boundary after event228 bottom |
+| 2026-08-23 13:17:10 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: node 'ROW22_31_EVENT629_I2_PAIR_RESULTANT_15_16_BOTTOM_AFTER_EVENT228_BOTTOM' status … |
+| 2026-08-23 13:15:10 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
