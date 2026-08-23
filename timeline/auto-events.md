@@ -2778,3 +2778,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-23 21:17:17 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
 | 2026-08-23 21:24:26 UTC | A | `life.mission.completed` | Certify event625 top after event625 bottom |
 | 2026-08-23 21:25:12 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: node 'ROW22_31_EVENT159_I1_ALPHA0_C7_BOTTOM_AFTER_EVENT159_TOP' status 'certified_bou… |
+| 2026-08-23 21:26:51 UTC | B | `life.mission.completed` | Test physical source equations for the flat I16b-S2 remnant |
+| 2026-08-23 21:28:20 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
