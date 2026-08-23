@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-23 23:46:55 UTC",
+  "generated_at_utc": "2026-08-23 23:51:57 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -28,7 +28,7 @@
       "frontier_change": "",
       "frontier_summary": "",
       "git": {
-        "dirty_paths": 1811,
+        "dirty_paths": 1818,
         "head": "59e60f7",
         "last_commit": "Record event522 after event542 decision"
       },
@@ -36,7 +36,7 @@
       "inbox_files": 4,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787528809.4068832,
+      "last_progress_at": 1787529039.9697955,
       "max_rounds": 32,
       "mission_id": "5dbb2c057938",
       "mission_status": "working",
@@ -44,7 +44,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 3067328,
-      "progress_age_seconds": 6.137103796005249,
+      "progress_age_seconds": 77.45749688148499,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -55,7 +55,7 @@
       "state": "running"
     },
     "B": {
-      "active_role": "idle",
+      "active_role": "engineer",
       "alive": true,
       "artifacts": [
         "research/solve/hyperbolic_hemicycle_cyclicity_scope.md",
@@ -82,26 +82,26 @@
       "frontier_change": "uncertainty_reduced",
       "frontier_summary": "Compact D=0, N-separated turning passages have moved from local/two-jet compatibility to a conditional all-orders exact-return and finite-zero insertion theorem.",
       "git": {
-        "dirty_paths": 373,
+        "dirty_paths": 375,
         "head": "c8b3494",
         "last_commit": "Record FQ2896 branch-selection obstruction"
       },
-      "health": "idle",
+      "health": "active",
       "inbox_files": 2,
       "label": "B",
-      "last_event": "life.mission.completed",
-      "last_progress_at": 1787528813.4356303,
+      "last_event": "engineer.progress",
+      "last_progress_at": 1787529116.2157624,
       "max_rounds": 32,
-      "mission_id": "8789f62d8fff",
-      "mission_status": "continued",
-      "mission_title": "Derive selected second section-jet/T2 packet",
+      "mission_id": "ed8aeccf515c",
+      "mission_status": "working",
+      "mission_title": "Reconcile finite z anchor and two-jet gate",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 3067257,
-      "progress_age_seconds": 2.1083567142486572,
+      "progress_age_seconds": 1.2115299701690674,
       "rejected_attempts": 0,
-      "review_reason": "FQ3048 satisfies the bounded objective by recording a sharper first-principles obstruction before u2/v2 can be selected: the exact Type-II finite section gives a z-derivative half of the recorded FQ3038 z anchor on all four paths, while FQ3029's T2 slots remain symbolic and absent from FQ3042.",
-      "review_status": "done",
+      "review_reason": "",
+      "review_status": "none",
       "round": 1,
       "route": "construction / lower bounds",
       "sid": "s-2fd8729b",
