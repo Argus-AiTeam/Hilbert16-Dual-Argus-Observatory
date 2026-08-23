@@ -2401,3 +2401,6 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-22 23:37:59 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
 | 2026-08-22 23:47:31 UTC | B | `life.mission.completed` | Derive or obstruct the raw resummed endpoint-root solution map |
 | 2026-08-22 23:48:50 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-23 00:00:18 UTC | A | `life.mission.completed` | Certify post-event481 event29 top boundary |
+| 2026-08-22 23:56:35 UTC | B | `life.mission.completed` | Construct or obstruct the FQ2908 raw section/composition graph |
+| 2026-08-22 23:57:42 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
