@@ -2409,3 +2409,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-23 00:06:53 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
 | 2026-08-23 00:13:34 UTC | B | `life.mission.completed` | Compute or obstruct the FQ2910 C2 section-source multipliers |
 | 2026-08-23 00:14:36 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-23 00:19:02 UTC | A | `life.mission.completed` | Certify post-event29 bottom boundary |
+| 2026-08-23 00:20:23 UTC | A | `life.manager.stage_decision` | Reviewed evidence supports the bounded solve increment: event29 bottom is now certified harmless with preserved <=9/<=1… |
