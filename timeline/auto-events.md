@@ -2575,3 +2575,4 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-23 09:39:49 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: proof graph goal does not match the Manager-owned math_goal |
 | 2026-08-23 09:39:38 UTC | B | `life.mission.completed` | Decide the direct invariant Delta_phys chain after FQ2965 |
 | 2026-08-23 09:40:31 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-23 09:47:49 UTC | B | `life.mission.completed` | Decide whether relative terminal output reduces to calibrated target-section data |
