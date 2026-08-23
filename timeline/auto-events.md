@@ -2660,3 +2660,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-23 14:26:11 UTC | A | `life.manager.stage_decision` | The reviewed event476-top verifier gives a substantive bounded obstruction/candidate and reduces the local route gap, b… |
 | 2026-08-23 14:35:38 UTC | B | `life.mission.completed` | Decompose the full I^1_6b quadratic graphic after the RR boundary theorem |
 | 2026-08-23 14:36:55 UTC | B | `life.manager.stage_decision` | FQ2995 is accepted as partial solve progress: it source-backs the I^1_6b boundary dependency, retires only the invalid … |
+| 2026-08-23 14:42:08 UTC | A | `life.mission.completed` | Resolve event476 common-alpha obstruction/candidate |
+| 2026-08-23 14:43:34 UTC | A | `life.manager.stage_decision` | event476 is materially resolved for the bounded selected-row checkpoint, but the support is explicitly local; selected-… |

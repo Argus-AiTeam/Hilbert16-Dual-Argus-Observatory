@@ -1,9 +1,9 @@
 {
-  "generated_at_utc": "2026-08-23 14:39:29 UTC",
+  "generated_at_utc": "2026-08-23 14:44:31 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
-      "active_role": "reviewer",
+      "active_role": "engineer",
       "alive": true,
       "artifacts": [
         "research/BOUNDED_RETURN_BLOCKS.md",
@@ -36,15 +36,15 @@
       "inbox_files": 4,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787495860.3382773,
+      "last_progress_at": 1787496265.3528185,
       "max_rounds": 32,
-      "mission_id": "5524a60e16ae",
+      "mission_id": "1d4a64a7fb73",
       "mission_status": "working",
-      "mission_title": "Resolve event476 common-alpha obstruction/candidate",
+      "mission_title": "Certify event554 top boundary after event476 resolution",
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 3067328,
-      "progress_age_seconds": 109.06805729866028,
+      "progress_age_seconds": 6.074928045272827,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -82,7 +82,7 @@
       "frontier_change": "uncertainty_reduced",
       "frontier_summary": "Compact D=0, N-separated turning passages have moved from local/two-jet compatibility to a conditional all-orders exact-return and finite-zero insertion theorem.",
       "git": {
-        "dirty_paths": 267,
+        "dirty_paths": 269,
         "head": "c8b3494",
         "last_commit": "Record FQ2896 branch-selection obstruction"
       },
@@ -90,7 +90,7 @@
       "inbox_files": 2,
       "label": "B",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787495944.572871,
+      "last_progress_at": 1787496265.165094,
       "max_rounds": 32,
       "mission_id": "960ea35ed799",
       "mission_status": "working",
@@ -98,7 +98,7 @@
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 3067257,
-      "progress_age_seconds": 24.833463668823242,
+      "progress_age_seconds": 6.262652635574341,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
