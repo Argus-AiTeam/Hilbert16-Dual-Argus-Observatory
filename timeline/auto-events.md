@@ -2589,3 +2589,6 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-23 10:21:30 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
 | 2026-08-23 10:29:37 UTC | B | `life.mission.completed` | Decide target-output displacement after common source-section identity |
 | 2026-08-23 10:31:07 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-23 10:37:22 UTC | A | `life.mission.completed` | Certify the post-event265-top event265 bottom boundary |
+| 2026-08-23 10:38:17 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: proof graph goal does not match the Manager-owned math_goal |
+| 2026-08-23 10:33:23 UTC | B | `life.manager.stage_decision` | FQ2971 is a reviewed, substantive bounded solve result, but it only shows the current equations leave Delta_phys=beta_R… |
