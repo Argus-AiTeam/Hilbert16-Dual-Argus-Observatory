@@ -2469,3 +2469,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-23 03:24:15 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
 | 2026-08-23 03:25:54 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
 | 2026-08-23 03:28:10 UTC | B | `life.manager.stage_decision` | FQ2930 is accepted as a bounded solve-stage gap reduction, but it retires only the current-data graph-lower route and e… |
+| 2026-08-23 03:38:24 UTC | B | `life.mission.completed` | Derive or obstruct the D14 lower derivative-budget theorem |
+| 2026-08-23 03:39:03 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |

@@ -1,9 +1,9 @@
 {
-  "generated_at_utc": "2026-08-23 03:31:18 UTC",
+  "generated_at_utc": "2026-08-23 03:41:21 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
-      "active_role": "engineer",
+      "active_role": "reviewer",
       "alive": true,
       "artifacts": [
         "research/BOUNDED_RETURN_BLOCKS.md",
@@ -28,7 +28,7 @@
       "frontier_change": "",
       "frontier_summary": "",
       "git": {
-        "dirty_paths": 1302,
+        "dirty_paths": 1304,
         "head": "59e60f7",
         "last_commit": "Record event522 after event542 decision"
       },
@@ -36,7 +36,7 @@
       "inbox_files": 4,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787455604.4454255,
+      "last_progress_at": 1787456479.7027948,
       "max_rounds": 32,
       "mission_id": "a6af8ab51a34",
       "mission_status": "working",
@@ -44,7 +44,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 3067328,
-      "progress_age_seconds": 274.51388001441956,
+      "progress_age_seconds": 1.3185055255889893,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -82,23 +82,23 @@
       "frontier_change": "uncertainty_reduced",
       "frontier_summary": "Compact D=0, N-separated turning passages have moved from local/two-jet compatibility to a conditional all-orders exact-return and finite-zero insertion theorem.",
       "git": {
-        "dirty_paths": 102,
+        "dirty_paths": 104,
         "head": "c8b3494",
         "last_commit": "Record FQ2896 branch-selection obstruction"
       },
       "health": "active",
       "inbox_files": 2,
       "label": "B",
-      "last_event": "life.planner.verdict",
-      "last_progress_at": 1787455864.6332746,
+      "last_event": "engineer.progress",
+      "last_progress_at": 1787456454.554968,
       "max_rounds": 32,
-      "mission_id": "ab4364d54cdf",
+      "mission_id": "04acc9bdd6ab",
       "mission_status": "working",
-      "mission_title": "Derive or obstruct the D14 lower derivative-budget theorem",
+      "mission_title": "Principalize the D14 phase-rate variables after FQ2931",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 3067257,
-      "progress_age_seconds": 14.326030969619751,
+      "progress_age_seconds": 26.46633219718933,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
