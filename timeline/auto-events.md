@@ -2627,3 +2627,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-23 12:28:41 UTC | B | `life.mission.completed` | Decide the actual matched target/global-hit offset |
 | 2026-08-23 12:33:52 UTC | A | `life.mission.completed` | Certify event228 top boundary after event629 top |
 | 2026-08-23 12:29:51 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-23 12:34:50 UTC | A | `life.manager.stage_decision` | The reviewed event228 top checkpoint is accepted as a bounded solve-stage gap reduction, but it remains local selected-… |
+| 2026-08-23 12:37:52 UTC | B | `life.mission.completed` | Evaluate the actual physical SPD target/global-hit value |
