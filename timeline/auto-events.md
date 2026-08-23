@@ -2527,3 +2527,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-23 06:47:28 UTC | B | `life.mission.completed` | Analyze the small-output near-pole B_low blow-up |
 | 2026-08-23 06:48:36 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
 | 2026-08-23 06:57:11 UTC | B | `life.mission.completed` | Audit pole-scale source control of B_low components |
+| 2026-08-23 07:01:45 UTC | A | `life.mission.completed` | Certify the post-event270-top event270 bottom boundary |
+| 2026-08-23 06:58:40 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
