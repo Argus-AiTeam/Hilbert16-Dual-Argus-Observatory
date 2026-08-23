@@ -2776,3 +2776,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-23 21:09:15 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
 | 2026-08-23 21:16:17 UTC | B | `life.mission.completed` | Decide the all-orders gauge-normalized flat remnant |
 | 2026-08-23 21:17:17 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-23 21:24:26 UTC | A | `life.mission.completed` | Certify event625 top after event625 bottom |
+| 2026-08-23 21:25:12 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: node 'ROW22_31_EVENT159_I1_ALPHA0_C7_BOTTOM_AFTER_EVENT159_TOP' status 'certified_bou… |
