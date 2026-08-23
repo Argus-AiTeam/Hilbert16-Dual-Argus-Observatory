@@ -2707,3 +2707,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-23 17:25:03 UTC | A | `life.manager.stage_decision` | Accepted reviewer evidence establishes the event263 I1 (4,9) top boundary as harmless with direct verifier support, but… |
 | 2026-08-23 17:22:40 UTC | B | `life.mission.completed` | Compute the I16b-S2 first physical residual rank |
 | 2026-08-23 17:23:26 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-23 17:30:55 UTC | B | `life.mission.completed` | Decide the I16b-S2 first-order rank-drop locus |
+| 2026-08-23 17:31:51 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
