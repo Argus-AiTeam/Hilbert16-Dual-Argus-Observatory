@@ -2440,3 +2440,4 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-23 01:56:30 UTC | B | `life.mission.completed` | Test phase-gauge invariance of the physical Gamma14 transport |
 | 2026-08-23 01:57:30 UTC | B | `life.manager.stage_decision` | FQ2922 is a reviewed, substantive bounded solve result with direct symbolic/explicit witness support, but the original … |
 | 2026-08-23 02:05:50 UTC | B | `life.mission.completed` | Decide four-germ phase cancellation for Gamma14 |
+| 2026-08-23 02:06:57 UTC | B | `life.manager.stage_decision` | FQ2923 is reviewed and evidence-bearing, but it retires only the target-relations-only Gamma14 cancellation/sign-contro… |
