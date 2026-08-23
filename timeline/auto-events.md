@@ -2641,3 +2641,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-23 13:16:01 UTC | A | `life.mission.completed` | Certify event629 bottom boundary after event228 bottom |
 | 2026-08-23 13:17:10 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: node 'ROW22_31_EVENT629_I2_PAIR_RESULTANT_15_16_BOTTOM_AFTER_EVENT228_BOTTOM' status … |
 | 2026-08-23 13:15:10 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-23 13:26:25 UTC | B | `life.mission.completed` | Decide singular-end asymptotic selector for the FQ2989 normal entries |
+| 2026-08-23 13:27:57 UTC | B | `life.manager.stage_decision` | FQ2990 is a reviewed substantive solve increment that retires the singular-end asymptotic selector route, but it is exp… |
