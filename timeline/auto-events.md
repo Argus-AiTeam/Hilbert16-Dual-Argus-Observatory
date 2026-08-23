@@ -2643,3 +2643,4 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-23 13:15:10 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
 | 2026-08-23 13:26:25 UTC | B | `life.mission.completed` | Decide singular-end asymptotic selector for the FQ2989 normal entries |
 | 2026-08-23 13:27:57 UTC | B | `life.manager.stage_decision` | FQ2990 is a reviewed substantive solve increment that retires the singular-end asymptotic selector route, but it is exp… |
+| 2026-08-23 13:33:21 UTC | A | `life.mission.completed` | Certify event509 bottom boundary after event629 bottom |
