@@ -2421,3 +2421,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-23 00:41:35 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
 | 2026-08-23 00:48:49 UTC | B | `life.mission.completed` | Derive or obstruct the selected source cut/time hit map |
 | 2026-08-23 00:49:42 UTC | B | `life.manager.stage_decision` | FQ2915 is a reviewed substantive obstruction, but it leaves the solve-stage target open: the physical source-cut select… |
+| 2026-08-23 00:57:49 UTC | B | `life.mission.completed` | Derive or obstruct the physical source-cut selection law |
+| 2026-08-23 00:58:47 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
