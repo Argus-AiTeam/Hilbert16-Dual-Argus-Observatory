@@ -1,9 +1,9 @@
 {
-  "generated_at_utc": "2026-08-23 15:29:43 UTC",
+  "generated_at_utc": "2026-08-23 15:34:45 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
-      "active_role": "reviewer",
+      "active_role": "engineer",
       "alive": true,
       "artifacts": [
         "research/BOUNDED_RETURN_BLOCKS.md",
@@ -36,15 +36,15 @@
       "inbox_files": 4,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787498864.6604383,
+      "last_progress_at": 1787499283.0269392,
       "max_rounds": 32,
-      "mission_id": "0a43fe031ba4",
+      "mission_id": "ea1584b0c422",
       "mission_status": "working",
-      "mission_title": "Certify event210 top boundary after event554 top",
+      "mission_title": "Certify event210 bottom boundary",
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 3067328,
-      "progress_age_seconds": 118.58048391342163,
+      "progress_age_seconds": 2.2344229221343994,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -55,7 +55,7 @@
       "state": "running"
     },
     "B": {
-      "active_role": "engineer",
+      "active_role": "reviewer",
       "alive": true,
       "artifacts": [
         "research/solve/hyperbolic_hemicycle_cyclicity_scope.md",
@@ -82,7 +82,7 @@
       "frontier_change": "uncertainty_reduced",
       "frontier_summary": "Compact D=0, N-separated turning passages have moved from local/two-jet compatibility to a conditional all-orders exact-return and finite-zero insertion theorem.",
       "git": {
-        "dirty_paths": 277,
+        "dirty_paths": 279,
         "head": "c8b3494",
         "last_commit": "Record FQ2896 branch-selection obstruction"
       },
@@ -90,7 +90,7 @@
       "inbox_files": 2,
       "label": "B",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787498964.1136284,
+      "last_progress_at": 1787499280.009761,
       "max_rounds": 32,
       "mission_id": "db35a069f376",
       "mission_status": "working",
@@ -98,7 +98,7 @@
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 3067257,
-      "progress_age_seconds": 19.127293825149536,
+      "progress_age_seconds": 5.251600980758667,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
