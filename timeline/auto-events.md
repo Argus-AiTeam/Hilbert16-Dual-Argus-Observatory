@@ -2491,3 +2491,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-23 04:36:44 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
 | 2026-08-23 04:44:03 UTC | B | `life.mission.completed` | Decide zero-product N_D zero-graph branch-sector map |
 | 2026-08-23 04:45:15 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-23 04:47:40 UTC | A | `life.mission.completed` | Certify post-event152-bottom event271 top boundary |
+| 2026-08-23 04:48:44 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: proof graph goal does not match the Manager-owned math_goal |
