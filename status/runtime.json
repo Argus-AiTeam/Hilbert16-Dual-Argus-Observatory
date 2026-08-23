@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-23 17:45:19 UTC",
+  "generated_at_utc": "2026-08-23 17:55:21 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -28,7 +28,7 @@
       "frontier_change": "",
       "frontier_summary": "",
       "git": {
-        "dirty_paths": 1686,
+        "dirty_paths": 1693,
         "head": "59e60f7",
         "last_commit": "Record event522 after event542 decision"
       },
@@ -36,7 +36,7 @@
       "inbox_files": 4,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787507092.8545702,
+      "last_progress_at": 1787507675.8766005,
       "max_rounds": 32,
       "mission_id": "baf5416ba4e8",
       "mission_status": "working",
@@ -44,7 +44,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 3067328,
-      "progress_age_seconds": 26.9126980304718,
+      "progress_age_seconds": 45.81260943412781,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -82,7 +82,7 @@
       "frontier_change": "uncertainty_reduced",
       "frontier_summary": "Compact D=0, N-separated turning passages have moved from local/two-jet compatibility to a conditional all-orders exact-return and finite-zero insertion theorem.",
       "git": {
-        "dirty_paths": 303,
+        "dirty_paths": 305,
         "head": "c8b3494",
         "last_commit": "Record FQ2896 branch-selection obstruction"
       },
@@ -90,15 +90,15 @@
       "inbox_files": 2,
       "label": "B",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787507034.2923071,
+      "last_progress_at": 1787507709.1412487,
       "max_rounds": 32,
-      "mission_id": "9e37b2364c01",
+      "mission_id": "2f6221629ea7",
       "mission_status": "working",
-      "mission_title": "Decide the named I16b-S2 S2 anchor theorem",
+      "mission_title": "Audit primary sources for the I16b-S2 S2 section table",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 3067257,
-      "progress_age_seconds": 85.47496104240417,
+      "progress_age_seconds": 12.547961235046387,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
