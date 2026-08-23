@@ -2755,3 +2755,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-23 19:56:39 UTC | B | `life.manager.stage_decision` | FQ3028 is a verified bounded solve result and retires the current two-schema Q4 closure route, but it does not close th… |
 | 2026-08-23 20:08:28 UTC | B | `life.mission.completed` | Derive fourth-order S2 source-transport packet |
 | 2026-08-23 20:09:36 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-23 20:13:55 UTC | A | `life.mission.completed` | Certify event508 I2 (4,5) bottom boundary |
+| 2026-08-23 20:15:18 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: node 'ROW22_31_EVENT159_I1_ALPHA0_C7_BOTTOM_AFTER_EVENT159_TOP' status 'certified_bou… |
