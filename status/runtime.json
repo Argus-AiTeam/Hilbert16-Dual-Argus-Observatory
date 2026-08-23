@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-23 18:15:25 UTC",
+  "generated_at_utc": "2026-08-23 18:25:27 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -28,7 +28,7 @@
       "frontier_change": "",
       "frontier_summary": "",
       "git": {
-        "dirty_paths": 1705,
+        "dirty_paths": 1708,
         "head": "59e60f7",
         "last_commit": "Record event522 after event542 decision"
       },
@@ -36,7 +36,7 @@
       "inbox_files": 4,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787508844.7305872,
+      "last_progress_at": 1787509512.918119,
       "max_rounds": 32,
       "mission_id": "6df7efdc5e38",
       "mission_status": "working",
@@ -44,7 +44,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 3067328,
-      "progress_age_seconds": 80.94779801368713,
+      "progress_age_seconds": 14.909119367599487,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -82,7 +82,7 @@
       "frontier_change": "uncertainty_reduced",
       "frontier_summary": "Compact D=0, N-separated turning passages have moved from local/two-jet compatibility to a conditional all-orders exact-return and finite-zero insertion theorem.",
       "git": {
-        "dirty_paths": 309,
+        "dirty_paths": 311,
         "head": "c8b3494",
         "last_commit": "Record FQ2896 branch-selection obstruction"
       },
@@ -90,15 +90,15 @@
       "inbox_files": 2,
       "label": "B",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787508922.8136542,
+      "last_progress_at": 1787509508.322494,
       "max_rounds": 32,
-      "mission_id": "0a693dae0e8d",
+      "mission_id": "4ef8a6ec423a",
       "mission_status": "working",
-      "mission_title": "Characterize second-order resectioning action on the FQ3016 residual",
+      "mission_title": "Identify or obstruct the named S2 four-section packet",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 3067257,
-      "progress_age_seconds": 2.8647310733795166,
+      "progress_age_seconds": 19.504744291305542,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
