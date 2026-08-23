@@ -2604,3 +2604,7 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-23 11:11:19 UTC | B | `life.manager.stage_decision` | FQ2975 is a reviewed substantive solve increment, but it only sharpens the missing physical SPD residual-jet datum; FQ2… |
 | 2026-08-23 11:18:31 UTC | B | `life.mission.completed` | Derive branch-selected terminal first-jet density table |
 | 2026-08-23 11:19:24 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-23 11:24:54 UTC | A | `life.mission.completed` | Certify event264 top boundary after event509 top |
+| 2026-08-23 11:25:51 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: proof graph goal does not match the Manager-owned math_goal |
+| 2026-08-23 11:27:13 UTC | B | `life.mission.completed` | Construct projected SPD density law |
+| 2026-08-23 11:28:12 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
