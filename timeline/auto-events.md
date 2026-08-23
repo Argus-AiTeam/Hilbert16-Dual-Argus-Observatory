@@ -2651,3 +2651,6 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-23 13:52:47 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
 | 2026-08-23 13:59:52 UTC | A | `life.mission.completed` | Certify event508 top boundary after event509 bottom |
 | 2026-08-23 14:01:14 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: node 'ROW22_31_EVENT508_I2_PAIR_RESULTANT_4_5_TOP_AFTER_EVENT509_BOTTOM' status 'cert… |
+| 2026-08-23 14:04:45 UTC | B | `life.mission.completed` | Certify whether Lu 2026 directly discharges the H3_14 boundary target |
+| 2026-08-23 14:06:17 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-23 14:07:52 UTC | B | `life.manager.stage_decision` | The reviewed FQ2993 Lu 2026/H3_14 boundary certification satisfies the bounded solve increment, but the immutable Hilbe… |
