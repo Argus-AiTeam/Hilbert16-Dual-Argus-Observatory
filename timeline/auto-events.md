@@ -2481,3 +2481,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-23 04:04:18 UTC | A | `life.manager.stage_decision` | Reviewed event272 evidence gives a scoped solve-stage gain, but the global proof remains open: the proof graph still re… |
 | 2026-08-23 04:06:28 UTC | B | `life.mission.completed` | Test physical sectorization of the N_D exact zero graphs |
 | 2026-08-23 04:07:51 UTC | B | `life.manager.stage_decision` | FQ2934 is a reviewed, evidence-backed solve checkpoint, but it leaves the original Hilbert-contract objective open and … |
+| 2026-08-23 04:17:00 UTC | B | `life.mission.completed` | Refute current-local direct N_D finite-zero closure |
+| 2026-08-23 04:18:02 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
