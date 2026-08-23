@@ -1,9 +1,9 @@
 {
-  "generated_at_utc": "2026-08-23 06:12:06 UTC",
+  "generated_at_utc": "2026-08-23 06:22:09 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
-      "active_role": "engineer",
+      "active_role": "reviewer",
       "alive": true,
       "artifacts": [
         "research/BOUNDED_RETURN_BLOCKS.md",
@@ -28,15 +28,15 @@
       "frontier_change": "",
       "frontier_summary": "",
       "git": {
-        "dirty_paths": 1356,
+        "dirty_paths": 1365,
         "head": "59e60f7",
         "last_commit": "Record event522 after event542 decision"
       },
       "health": "active",
       "inbox_files": 4,
       "label": "A",
-      "last_event": "engineer.progress",
-      "last_progress_at": 1787465518.794404,
+      "last_event": "round.main.completed",
+      "last_progress_at": 1787466115.2656841,
       "max_rounds": 32,
       "mission_id": "d6fa3148c150",
       "mission_status": "working",
@@ -44,7 +44,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 3067328,
-      "progress_age_seconds": 8.112621784210205,
+      "progress_age_seconds": 13.762768507003784,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -55,7 +55,7 @@
       "state": "running"
     },
     "B": {
-      "active_role": "engineer",
+      "active_role": "planner",
       "alive": true,
       "artifacts": [
         "research/solve/hyperbolic_hemicycle_cyclicity_scope.md",
@@ -82,26 +82,26 @@
       "frontier_change": "uncertainty_reduced",
       "frontier_summary": "Compact D=0, N-separated turning passages have moved from local/two-jet compatibility to a conditional all-orders exact-return and finite-zero insertion theorem.",
       "git": {
-        "dirty_paths": 136,
+        "dirty_paths": 138,
         "head": "c8b3494",
         "last_commit": "Record FQ2896 branch-selection obstruction"
       },
       "health": "active",
       "inbox_files": 2,
       "label": "B",
-      "last_event": "life.planner.verdict",
-      "last_progress_at": 1787465510.5208983,
+      "last_event": "engineer.progress",
+      "last_progress_at": 1787466125.39284,
       "max_rounds": 32,
       "mission_id": "e37b9953bd8e",
-      "mission_status": "working",
+      "mission_status": "ended",
       "mission_title": "Decide coordinate-free FQ42 displacement route after chi-origin retirement",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 3067257,
-      "progress_age_seconds": 16.386127471923828,
+      "progress_age_seconds": 3.635612726211548,
       "rejected_attempts": 0,
-      "review_reason": "",
-      "review_status": "none",
+      "review_reason": "FQ2948 materially satisfies the bounded mission: it formulates the chi-free FQ42 terminal equation and correctly retires the FQ42-alone finite-zero route to the original N_D zero set because the source-to-target connector is absent",
+      "review_status": "done",
       "round": 1,
       "route": "construction / lower bounds",
       "sid": "s-2fd8729b",

@@ -2517,3 +2517,4 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-23 06:10:27 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: proof graph goal does not match the Manager-owned math_goal |
 | 2026-08-23 06:10:10 UTC | B | `life.mission.completed` | Audit primary closed-boundary sources for terminal target-origin row |
 | 2026-08-23 06:11:08 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-23 06:21:16 UTC | B | `life.mission.completed` | Decide coordinate-free FQ42 displacement route after chi-origin retirement |
