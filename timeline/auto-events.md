@@ -2565,3 +2565,7 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-23 09:04:17 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
 | 2026-08-23 09:12:19 UTC | B | `life.mission.completed` | Decide the D0-distance to raw-cut calibration shortcut |
 | 2026-08-23 09:13:24 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-23 09:20:15 UTC | A | `life.mission.completed` | Certify the post-event620-top event267 bottom boundary |
+| 2026-08-23 09:21:28 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: proof graph goal does not match the Manager-owned math_goal |
+| 2026-08-23 09:22:03 UTC | B | `life.mission.completed` | Decide gauge invariance of the raw-cut unit ratio |
+| 2026-08-23 09:22:58 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
