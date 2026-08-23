@@ -2513,3 +2513,7 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-23 05:53:24 UTC | B | `life.mission.completed` | Decide physical terminal chi_pi0 gauge fixing on FQ42 section |
 | 2026-08-23 05:54:25 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
 | 2026-08-23 06:03:31 UTC | B | `life.mission.completed` | Decide global boundary-value anchoring of terminal chi origin |
+| 2026-08-23 06:09:24 UTC | A | `life.mission.completed` | Certify the post-event273-bottom event272 bottom boundary |
+| 2026-08-23 06:10:27 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: proof graph goal does not match the Manager-owned math_goal |
+| 2026-08-23 06:10:10 UTC | B | `life.mission.completed` | Audit primary closed-boundary sources for terminal target-origin row |
+| 2026-08-23 06:11:08 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
