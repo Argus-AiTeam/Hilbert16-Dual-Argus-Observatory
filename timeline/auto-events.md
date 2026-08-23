@@ -2547,3 +2547,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-23 08:03:33 UTC | A | `life.mission.completed` | Certify the post-event269-bottom event268 top boundary |
 | 2026-08-23 08:05:12 UTC | A | `life.manager.stage_decision` | Reviewed event268-top evidence is accepted and updates the active boundary, but the original Hilbert-number/configurati… |
 | 2026-08-23 08:03:21 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-23 08:12:44 UTC | B | `life.mission.completed` | Decide physical source-landmark selector beyond four-row compatibility |
+| 2026-08-23 08:13:56 UTC | B | `life.manager.stage_decision` | FQ2958 is reviewed and evidence-backed for the bounded physical-landmark selector audit, but the original Hilbert Sixte… |
