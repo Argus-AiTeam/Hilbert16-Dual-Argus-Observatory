@@ -2958,3 +2958,7 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-24 06:24:40 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: node 'ROW22_31_EVENT159_I1_ALPHA0_C7_BOTTOM_AFTER_EVENT159_TOP' status 'certified_bou… |
 | 2026-08-24 06:24:51 UTC | B | `life.mission.completed` | Derive the H3_13 lower S0 endpoint-matched transition packet |
 | 2026-08-24 06:25:58 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-24 06:39:31 UTC | A | `life.mission.completed` | Consolidate tail-size-two support-row ledger after row22 retirement |
+| 2026-08-24 06:40:41 UTC | A | `life.manager.stage_decision` | Reviewer accepted a substantive, correctly scoped bounded result retiring only the row 22/31 selected tail, but tail-si… |
+| 2026-08-24 06:40:44 UTC | B | `life.mission.completed` | Compute the H3_13 lower compensated Tpm first-germ packet |
+| 2026-08-24 06:42:14 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
