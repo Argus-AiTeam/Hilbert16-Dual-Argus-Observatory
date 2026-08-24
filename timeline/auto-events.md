@@ -3166,3 +3166,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-24 20:28:56 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
 | 2026-08-24 20:36:00 UTC | A | `life.mission.completed` | Classify the rho=200 interior R-discriminant slice |
 | 2026-08-24 20:37:36 UTC | A | `life.manager.stage_decision` | The reviewed rho=200 slice is accepted as a bounded solve result, but the global objective remains open and the proof g… |
+| 2026-08-24 20:38:32 UTC | B | `life.mission.completed` | Derive the plus-edge physical residual datum |
+| 2026-08-24 20:39:44 UTC | B | `life.manager.stage_decision` | FQ3165 is reviewed and evidence-bearing, but it retires only the lambda-residual mechanism; the original Hilbert object… |
