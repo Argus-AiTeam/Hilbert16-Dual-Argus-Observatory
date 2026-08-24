@@ -2825,3 +2825,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-24 00:05:57 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: node 'ROW22_31_EVENT159_I1_ALPHA0_C7_BOTTOM_AFTER_EVENT159_TOP' status 'certified_bou… |
 | 2026-08-24 00:03:25 UTC | B | `life.mission.completed` | Derive selected named-S2 epsilon-two source-pullback theorem |
 | 2026-08-24 00:04:21 UTC | B | `life.manager.stage_decision` | FQ3050 is valid solve progress but not a stage-completing result: it sharpens the obstruction to the missing SelectedNa… |
+| 2026-08-24 00:15:51 UTC | B | `life.mission.completed` | Test epsilon-two cyclic compatibility constraints |
+| 2026-08-24 00:17:03 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
