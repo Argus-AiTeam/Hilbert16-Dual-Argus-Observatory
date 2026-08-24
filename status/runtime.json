@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-24 15:36:29 UTC",
+  "generated_at_utc": "2026-08-24 15:41:31 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -30,7 +30,7 @@
       "frontier_change": "",
       "frontier_summary": "",
       "git": {
-        "dirty_paths": 2064,
+        "dirty_paths": 2066,
         "head": "59e60f7",
         "last_commit": "Record event522 after event542 decision"
       },
@@ -38,7 +38,7 @@
       "inbox_files": 4,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787585728.48857,
+      "last_progress_at": 1787585955.007126,
       "max_rounds": 32,
       "mission_id": "a2d645e81b86",
       "mission_status": "working",
@@ -46,7 +46,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 3067328,
-      "progress_age_seconds": 60.774104595184326,
+      "progress_age_seconds": 136.16269373893738,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -57,7 +57,7 @@
       "state": "running"
     },
     "B": {
-      "active_role": "planner",
+      "active_role": "engineer",
       "alive": true,
       "artifacts": [
         "research/solve/hyperbolic_hemicycle_cyclicity_scope.md",
@@ -84,26 +84,26 @@
       "frontier_change": "uncertainty_reduced",
       "frontier_summary": "Compact D=0, N-separated turning passages have moved from local/two-jet compatibility to a conditional all-orders exact-return and finite-zero insertion theorem.",
       "git": {
-        "dirty_paths": 614,
+        "dirty_paths": 615,
         "head": "912c9ac",
         "last_commit": "Record FQ3101 physical atlas obstruction"
       },
       "health": "active",
       "inbox_files": 2,
       "label": "B",
-      "last_event": "life.planner.start",
-      "last_progress_at": 1787585715.3521895,
+      "last_event": "engineer.progress",
+      "last_progress_at": 1787586080.000507,
       "max_rounds": 32,
-      "mission_id": "d87e6e8b4b2e",
-      "mission_status": "continued",
-      "mission_title": "Decide plus coefficient covariance under selection changes",
+      "mission_id": "80042101d52d",
+      "mission_status": "working",
+      "mission_title": "Construct the canonical plus CDE coefficient packet",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 3067257,
-      "progress_age_seconds": 73.91048502922058,
+      "progress_age_seconds": 11.169312715530396,
       "rejected_attempts": 0,
-      "review_reason": "FQ3136 materially satisfies the bounded develop mission: the third-order coefficient transformation formulas are correct, the allowed regular target coordinate changes make D_+=E_+=0 non-invariant, the ungauged zero-locus route is retired, and the recorded scope preserves the FQ3135 nonclaims.",
-      "review_status": "done",
+      "review_reason": "",
+      "review_status": "none",
       "round": 1,
       "route": "construction / lower bounds",
       "sid": "s-2fd8729b",
