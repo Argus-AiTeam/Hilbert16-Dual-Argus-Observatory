@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-24 19:37:49 UTC",
+  "generated_at_utc": "2026-08-24 19:42:51 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -30,7 +30,7 @@
       "frontier_change": "",
       "frontier_summary": "",
       "git": {
-        "dirty_paths": 2146,
+        "dirty_paths": 2152,
         "head": "59e60f7",
         "last_commit": "Record event522 after event542 decision"
       },
@@ -38,7 +38,7 @@
       "inbox_files": 4,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787600268.1690967,
+      "last_progress_at": 1787600557.2461598,
       "max_rounds": 32,
       "mission_id": "82fd9b14a7e6",
       "mission_status": "working",
@@ -46,7 +46,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 3067328,
-      "progress_age_seconds": 1.2585797309875488,
+      "progress_age_seconds": 14.356313228607178,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -57,7 +57,7 @@
       "state": "running"
     },
     "B": {
-      "active_role": "idle",
+      "active_role": "engineer",
       "alive": true,
       "artifacts": [
         "research/solve/hyperbolic_hemicycle_cyclicity_scope.md",
@@ -88,23 +88,23 @@
         "head": "912c9ac",
         "last_commit": "Record FQ3101 physical atlas obstruction"
       },
-      "health": "idle",
+      "health": "active",
       "inbox_files": 2,
       "label": "B",
-      "last_event": "life.mission.completed",
-      "last_progress_at": 1787600267.2588964,
+      "last_event": "engineer.progress",
+      "last_progress_at": 1787600557.6907997,
       "max_rounds": 32,
-      "mission_id": "cd26cd39c70f",
-      "mission_status": "continued",
-      "mission_title": "Extend selected high-Y exclusion to fixed endpoint-height family",
+      "mission_id": "0b29f011df10",
+      "mission_status": "working",
+      "mission_title": "Decide the selected high-Y Yminus-to-zero degeneration",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 3067257,
-      "progress_age_seconds": 2.1687800884246826,
-      "rejected_attempts": 1,
-      "review_reason": "bounded FQ3159 repair is materially complete: the arbitrary fixed-height branch exclusion now uses the corrected two-height unit and preserves the required scope limits",
-      "review_status": "done",
-      "round": 2,
+      "progress_age_seconds": 13.911673307418823,
+      "rejected_attempts": 0,
+      "review_reason": "",
+      "review_status": "none",
+      "round": 1,
       "route": "construction / lower bounds",
       "sid": "s-2fd8729b",
       "stage": "solve",
