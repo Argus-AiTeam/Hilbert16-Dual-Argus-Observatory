@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-24 09:34:52 UTC",
+  "generated_at_utc": "2026-08-24 09:44:54 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -28,7 +28,7 @@
       "frontier_change": "",
       "frontier_summary": "",
       "git": {
-        "dirty_paths": 1974,
+        "dirty_paths": 1976,
         "head": "59e60f7",
         "last_commit": "Record event522 after event542 decision"
       },
@@ -36,7 +36,7 @@
       "inbox_files": 4,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787563585.9774354,
+      "last_progress_at": 1787564564.3992906,
       "max_rounds": 32,
       "mission_id": "eada9a97d7b1",
       "mission_status": "working",
@@ -44,7 +44,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 3067328,
-      "progress_age_seconds": 506.7722113132477,
+      "progress_age_seconds": 130.52095460891724,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -82,7 +82,7 @@
       "frontier_change": "uncertainty_reduced",
       "frontier_summary": "Compact D=0, N-separated turning passages have moved from local/two-jet compatibility to a conditional all-orders exact-return and finite-zero insertion theorem.",
       "git": {
-        "dirty_paths": 550,
+        "dirty_paths": 552,
         "head": "912c9ac",
         "last_commit": "Record FQ3101 physical atlas obstruction"
       },
@@ -90,15 +90,15 @@
       "inbox_files": 2,
       "label": "B",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787564071.9130177,
+      "last_progress_at": 1787564691.8814566,
       "max_rounds": 32,
-      "mission_id": "23b270cacfe8",
+      "mission_id": "90da8698645b",
       "mission_status": "working",
-      "mission_title": "Derive the corrected FQ3096 Phi_pm source-section variational packet",
+      "mission_title": "Derive the FQ3096 H313 source-coordinate and finite-nu atlas",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 3067257,
-      "progress_age_seconds": 20.836628913879395,
+      "progress_age_seconds": 3.0387885570526123,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
