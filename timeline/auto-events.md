@@ -2948,3 +2948,6 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-24 06:13:04 UTC | A | `life.mission.completed` | Bridge row 22/31 final coverage gap across event477 wall |
 | 2026-08-24 06:10:57 UTC | B | `life.mission.completed` | Analyze the H3_13 saddle-node lower successor |
 | 2026-08-24 06:12:48 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-24 06:14:42 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: node 'ROW22_31_EVENT159_I1_ALPHA0_C7_BOTTOM_AFTER_EVENT159_TOP' status 'certified_bou… |
+| 2026-08-24 06:17:56 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: node 'ROW22_31_EVENT159_I1_ALPHA0_C7_BOTTOM_AFTER_EVENT159_TOP' status 'certified_bou… |
+| 2026-08-24 06:15:42 UTC | B | `life.manager.stage_decision` | FQ3087 is reviewer-accepted as a substantive gap-reducing bounded solve result, but it explicitly does not close H(2), … |
