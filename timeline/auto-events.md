@@ -2875,3 +2875,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-24 02:53:51 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
 | 2026-08-24 03:01:38 UTC | B | `life.mission.completed` | Extract the leading AD_S2 q-return residual vector |
 | 2026-08-24 03:02:45 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-24 03:03:57 UTC | A | `life.mission.completed` | Resolve terminal-left proof-graph blocker |
+| 2026-08-24 03:05:27 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: node 'ROW22_31_EVENT159_I1_ALPHA0_C7_BOTTOM_AFTER_EVENT159_TOP' status 'certified_bou… |
