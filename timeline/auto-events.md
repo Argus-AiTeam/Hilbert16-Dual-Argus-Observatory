@@ -2845,3 +2845,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-24 01:14:56 UTC | B | `life.mission.completed` | Compute full extended lower-covector quotient |
 | 2026-08-24 01:23:11 UTC | B | `life.mission.completed` | Derive the named S2 physical C2 gauge selector |
 | 2026-08-24 01:24:52 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-24 01:29:17 UTC | A | `life.mission.completed` | Certify pos:event624 top after event508 top |
+| 2026-08-24 01:30:34 UTC | A | `life.manager.stage_decision` | event624 top is a reviewed bounded solve increment with exact validation preserving <=9/<=18 and no obstruction, but th… |

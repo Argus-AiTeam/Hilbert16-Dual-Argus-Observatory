@@ -1,9 +1,9 @@
 {
-  "generated_at_utc": "2026-08-24 01:27:23 UTC",
+  "generated_at_utc": "2026-08-24 01:32:24 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
-      "active_role": "reviewer",
+      "active_role": "engineer",
       "alive": true,
       "artifacts": [
         "research/BOUNDED_RETURN_BLOCKS.md",
@@ -36,15 +36,15 @@
       "inbox_files": 4,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787534633.9600534,
+      "last_progress_at": 1787535144.4649594,
       "max_rounds": 32,
-      "mission_id": "341abbb84066",
+      "mission_id": "8cda9007551f",
       "mission_status": "working",
-      "mission_title": "Certify pos:event624 top after event508 top",
+      "mission_title": "Certify pos:event624 bottom after event624 top",
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 3067328,
-      "progress_age_seconds": 209.14925456047058,
+      "progress_age_seconds": 0.5293257236480713,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -55,7 +55,7 @@
       "state": "running"
     },
     "B": {
-      "active_role": "engineer",
+      "active_role": "reviewer",
       "alive": true,
       "artifacts": [
         "research/solve/hyperbolic_hemicycle_cyclicity_scope.md",
@@ -82,7 +82,7 @@
       "frontier_change": "uncertainty_reduced",
       "frontier_summary": "Compact D=0, N-separated turning passages have moved from local/two-jet compatibility to a conditional all-orders exact-return and finite-zero insertion theorem.",
       "git": {
-        "dirty_paths": 392,
+        "dirty_paths": 393,
         "head": "c8b3494",
         "last_commit": "Record FQ2896 branch-selection obstruction"
       },
@@ -90,7 +90,7 @@
       "inbox_files": 2,
       "label": "B",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787534832.4435549,
+      "last_progress_at": 1787535136.5165827,
       "max_rounds": 32,
       "mission_id": "c57fdd625f29",
       "mission_status": "working",
@@ -98,7 +98,7 @@
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 3067257,
-      "progress_age_seconds": 10.66575312614441,
+      "progress_age_seconds": 8.477702379226685,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
