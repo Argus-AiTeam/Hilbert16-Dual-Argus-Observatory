@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-24 14:41:16 UTC",
+  "generated_at_utc": "2026-08-24 14:51:18 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -30,7 +30,7 @@
       "frontier_change": "",
       "frontier_summary": "",
       "git": {
-        "dirty_paths": 2042,
+        "dirty_paths": 2047,
         "head": "59e60f7",
         "last_commit": "Record event522 after event542 decision"
       },
@@ -38,7 +38,7 @@
       "inbox_files": 4,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787582434.117907,
+      "last_progress_at": 1787583029.2616267,
       "max_rounds": 32,
       "mission_id": "3bf5ab8f9b93",
       "mission_status": "working",
@@ -46,7 +46,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 3067328,
-      "progress_age_seconds": 42.18193173408508,
+      "progress_age_seconds": 49.2193284034729,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -84,7 +84,7 @@
       "frontier_change": "uncertainty_reduced",
       "frontier_summary": "Compact D=0, N-separated turning passages have moved from local/two-jet compatibility to a conditional all-orders exact-return and finite-zero insertion theorem.",
       "git": {
-        "dirty_paths": 604,
+        "dirty_paths": 606,
         "head": "912c9ac",
         "last_commit": "Record FQ3101 physical atlas obstruction"
       },
@@ -92,15 +92,15 @@
       "inbox_files": 2,
       "label": "B",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787582441.77501,
+      "last_progress_at": 1787583077.2572858,
       "max_rounds": 32,
-      "mission_id": "e64b0900f8f5",
+      "mission_id": "25eab8e6ff3b",
       "mission_status": "working",
-      "mission_title": "Derive the plus zero-locus third-variation successor",
+      "mission_title": "Certify the plus selected-hit C4 derivative budget",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 3067257,
-      "progress_age_seconds": 34.52482867240906,
+      "progress_age_seconds": 1.2236692905426025,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
