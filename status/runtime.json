@@ -1,9 +1,9 @@
 {
-  "generated_at_utc": "2026-08-24 02:07:34 UTC",
+  "generated_at_utc": "2026-08-24 02:12:36 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
-      "active_role": "engineer",
+      "active_role": "reviewer",
       "alive": true,
       "artifacts": [
         "research/BOUNDED_RETURN_BLOCKS.md",
@@ -28,7 +28,7 @@
       "frontier_change": "",
       "frontier_summary": "",
       "git": {
-        "dirty_paths": 1877,
+        "dirty_paths": 1880,
         "head": "59e60f7",
         "last_commit": "Record event522 after event542 decision"
       },
@@ -36,7 +36,7 @@
       "inbox_files": 4,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787537004.1718435,
+      "last_progress_at": 1787537536.3959239,
       "max_rounds": 32,
       "mission_id": "82345fd3ea6b",
       "mission_status": "working",
@@ -44,7 +44,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 3067328,
-      "progress_age_seconds": 250.53629422187805,
+      "progress_age_seconds": 20.097403049468994,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -55,7 +55,7 @@
       "state": "running"
     },
     "B": {
-      "active_role": "idle",
+      "active_role": "engineer",
       "alive": true,
       "artifacts": [
         "research/solve/hyperbolic_hemicycle_cyclicity_scope.md",
@@ -82,26 +82,26 @@
       "frontier_change": "uncertainty_reduced",
       "frontier_summary": "Compact D=0, N-separated turning passages have moved from local/two-jet compatibility to a conditional all-orders exact-return and finite-zero insertion theorem.",
       "git": {
-        "dirty_paths": 396,
+        "dirty_paths": 398,
         "head": "5258dc9",
         "last_commit": "Record quadratic bottleneck progress through FQ3061"
       },
-      "health": "idle",
+      "health": "active",
       "inbox_files": 2,
       "label": "B",
-      "last_event": "life.mission.completed",
-      "last_progress_at": 1787537253.915597,
+      "last_event": "engineer.progress",
+      "last_progress_at": 1787537553.616858,
       "max_rounds": 32,
-      "mission_id": "db162995f930",
-      "mission_status": "continued",
-      "mission_title": "Audit or derive the named S2 section-anchor theorem",
+      "mission_id": "23d68d39d4e4",
+      "mission_status": "working",
+      "mission_title": "Derive the selected-S2 anchor table or direct C_src return",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 3067257,
-      "progress_age_seconds": 0.7925407886505127,
+      "progress_age_seconds": 2.8764688968658447,
       "rejected_attempts": 0,
-      "review_reason": "FQ3063 materially satisfies the bounded mission: it verifies a negative source/derivation-scope result, records that RR2015 and current compactified-ODE data do not fix tau_E or compute C_src, applies this to the FQ3062 mixed rows as no finite-zero consequence, and preserves all nonclaims.",
-      "review_status": "done",
+      "review_reason": "",
+      "review_status": "none",
       "round": 1,
       "route": "construction / lower bounds",
       "sid": "s-2fd8729b",
