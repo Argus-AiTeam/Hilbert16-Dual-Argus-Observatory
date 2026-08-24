@@ -2989,3 +2989,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-24 08:21:22 UTC | B | `life.mission.completed` | Deciding the Mourtada bridge for the FQ3096 H313 successor |
 | 2026-08-24 08:31:24 UTC | B | `life.mission.completed` | Derive or refute the FQ3096 source-normalized common-leaf scalar return |
 | 2026-08-24 08:32:24 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-24 08:35:02 UTC | A | `life.mission.completed` | Decide row22/31 event476 top obstruction after event508 |
+| 2026-08-24 08:36:52 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: node 'ROW22_31_EVENT159_I1_ALPHA0_C7_BOTTOM_AFTER_EVENT159_TOP' status 'certified_bou… |
