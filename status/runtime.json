@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-24 15:16:24 UTC",
+  "generated_at_utc": "2026-08-24 15:26:27 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -30,15 +30,15 @@
       "frontier_change": "",
       "frontier_summary": "",
       "git": {
-        "dirty_paths": 2051,
+        "dirty_paths": 2061,
         "head": "59e60f7",
         "last_commit": "Record event522 after event542 decision"
       },
       "health": "active",
       "inbox_files": 4,
       "label": "A",
-      "last_event": "life.planner.verdict",
-      "last_progress_at": 1787584567.5495744,
+      "last_event": "engineer.progress",
+      "last_progress_at": 1787585164.6774905,
       "max_rounds": 32,
       "mission_id": "a2d645e81b86",
       "mission_status": "working",
@@ -46,7 +46,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 3067328,
-      "progress_age_seconds": 17.301904916763306,
+      "progress_age_seconds": 22.454288959503174,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -57,7 +57,7 @@
       "state": "running"
     },
     "B": {
-      "active_role": "engineer",
+      "active_role": "idle",
       "alive": true,
       "artifacts": [
         "research/solve/hyperbolic_hemicycle_cyclicity_scope.md",
@@ -84,26 +84,26 @@
       "frontier_change": "uncertainty_reduced",
       "frontier_summary": "Compact D=0, N-separated turning passages have moved from local/two-jet compatibility to a conditional all-orders exact-return and finite-zero insertion theorem.",
       "git": {
-        "dirty_paths": 610,
+        "dirty_paths": 612,
         "head": "912c9ac",
         "last_commit": "Record FQ3101 physical atlas obstruction"
       },
       "health": "active",
       "inbox_files": 2,
       "label": "B",
-      "last_event": "engineer.progress",
-      "last_progress_at": 1787584584.8057237,
+      "last_event": "life.planner.task_added",
+      "last_progress_at": 1787585187.1623473,
       "max_rounds": 32,
       "mission_id": "e0d9fb6e7fc5",
-      "mission_status": "working",
+      "mission_status": "ended",
       "mission_title": "Decide the coupled plus BVP zero-locus",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 3067257,
-      "progress_age_seconds": 0.045755624771118164,
+      "progress_age_seconds": 0.0,
       "rejected_attempts": 0,
-      "review_reason": "",
-      "review_status": "none",
+      "review_reason": "plan failure: FQ3135 correctly records that FQ3132/FQ3133/FQ3134 do not instantiate unique actual C_+(A), D_+(A), E_+(A), so the requested empty/isolated/physical-branch decision was not reached",
+      "review_status": "replan_requested",
       "round": 1,
       "route": "construction / lower bounds",
       "sid": "s-2fd8729b",
