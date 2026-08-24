@@ -1,9 +1,9 @@
 {
-  "generated_at_utc": "2026-08-24 06:44:00 UTC",
+  "generated_at_utc": "2026-08-24 06:54:02 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
-      "active_role": "engineer",
+      "active_role": "reviewer",
       "alive": true,
       "artifacts": [
         "research/BOUNDED_RETURN_BLOCKS.md",
@@ -28,7 +28,7 @@
       "frontier_change": "",
       "frontier_summary": "",
       "git": {
-        "dirty_paths": 1938,
+        "dirty_paths": 1941,
         "head": "59e60f7",
         "last_commit": "Record event522 after event542 decision"
       },
@@ -36,7 +36,7 @@
       "inbox_files": 4,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787553829.7945745,
+      "last_progress_at": 1787554352.4612987,
       "max_rounds": 32,
       "mission_id": "10d0fe7890ec",
       "mission_status": "working",
@@ -44,7 +44,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 3067328,
-      "progress_age_seconds": 10.961143016815186,
+      "progress_age_seconds": 90.25313210487366,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -82,7 +82,7 @@
       "frontier_change": "uncertainty_reduced",
       "frontier_summary": "Compact D=0, N-separated turning passages have moved from local/two-jet compatibility to a conditional all-orders exact-return and finite-zero insertion theorem.",
       "git": {
-        "dirty_paths": 522,
+        "dirty_paths": 524,
         "head": "5258dc9",
         "last_commit": "Record quadratic bottleneck progress through FQ3061"
       },
@@ -90,15 +90,15 @@
       "inbox_files": 2,
       "label": "B",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787553818.2484694,
+      "last_progress_at": 1787554441.11735,
       "max_rounds": 32,
-      "mission_id": "e62fddb83449",
+      "mission_id": "0b3d03ead6a9",
       "mission_status": "working",
-      "mission_title": "Derive the H3_13 lower physical S0 lift normalizer jet",
+      "mission_title": "Decide the H3_13 lower source-normalized S0 anchor",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 3067257,
-      "progress_age_seconds": 22.507248163223267,
+      "progress_age_seconds": 1.5970807075500488,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
