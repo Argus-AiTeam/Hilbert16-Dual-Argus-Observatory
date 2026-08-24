@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-24 13:10:54 UTC",
+  "generated_at_utc": "2026-08-24 13:20:57 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -30,7 +30,7 @@
       "frontier_change": "",
       "frontier_summary": "",
       "git": {
-        "dirty_paths": 2018,
+        "dirty_paths": 2022,
         "head": "59e60f7",
         "last_commit": "Record event522 after event542 decision"
       },
@@ -38,7 +38,7 @@
       "inbox_files": 4,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787577052.459457,
+      "last_progress_at": 1787577483.8320866,
       "max_rounds": 32,
       "mission_id": "dbe0f41ed064",
       "mission_status": "working",
@@ -46,7 +46,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 3067328,
-      "progress_age_seconds": 2.523388147354126,
+      "progress_age_seconds": 173.2530403137207,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -84,7 +84,7 @@
       "frontier_change": "uncertainty_reduced",
       "frontier_summary": "Compact D=0, N-separated turning passages have moved from local/two-jet compatibility to a conditional all-orders exact-return and finite-zero insertion theorem.",
       "git": {
-        "dirty_paths": 588,
+        "dirty_paths": 590,
         "head": "912c9ac",
         "last_commit": "Record FQ3101 physical atlas obstruction"
       },
@@ -92,15 +92,15 @@
       "inbox_files": 2,
       "label": "B",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787577040.3241599,
+      "last_progress_at": 1787577656.634831,
       "max_rounds": 32,
-      "mission_id": "347f60e4fbd1",
+      "mission_id": "a7c417192c4f",
       "mission_status": "working",
-      "mission_title": "Decide the true-exponent theta endpoint chart for unbounded Lambda",
+      "mission_title": "Decide the Theta_A projective boundary faces",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 3067257,
-      "progress_age_seconds": 14.658685207366943,
+      "progress_age_seconds": 0.45029592514038086,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",

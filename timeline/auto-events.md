@@ -3057,3 +3057,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-24 12:56:04 UTC | A | `life.mission.completed` | Resolve the far-negative H=0 separator crossings |
 | 2026-08-24 13:05:27 UTC | B | `life.mission.completed` | Prove or refute the bounded-Lambda physical component packet |
 | 2026-08-24 13:06:23 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-24 13:17:51 UTC | B | `life.mission.completed` | Decide the true-exponent theta endpoint chart for unbounded Lambda |
+| 2026-08-24 13:19:02 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
