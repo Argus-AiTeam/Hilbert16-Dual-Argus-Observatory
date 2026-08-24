@@ -3089,3 +3089,4 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-24 15:14:09 UTC | A | `life.mission.completed` | Certify the B=500 rho[224,225] wall-ray blocker |
 | 2026-08-24 15:15:15 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: node 'LRS_N6_SPAN20_T13_23_SELECTED13_B500_RHO188_189_H0_SEPARATOR_STRATIFICATION_AMB… |
 | 2026-08-24 15:25:24 UTC | B | `life.mission.completed` | Decide the coupled plus BVP zero-locus |
+| 2026-08-24 15:35:11 UTC | B | `life.mission.completed` | Decide plus coefficient covariance under selection changes |
