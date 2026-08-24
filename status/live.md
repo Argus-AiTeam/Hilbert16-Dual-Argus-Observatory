@@ -3,12 +3,12 @@
 > Generated deterministically from Argus durable state. No model writes this page, and it carries no cross-process solution transfer.
 > 本页面由确定性监控器根据 Argus 持久状态生成，不由模型写入，也不承担跨进程解题内容传递。
 
-**Updated / 更新时间:** 2026-08-24 11:45:30 UTC
+**Updated / 更新时间:** 2026-08-24 11:50:32 UTC
 
 | Seat | State | Stage | Active role | Round | Current mission | Review | Since semantic progress |
 |---|---|---|---|---:|---|---|---:|
-| A | running | `solve` | engineer | 1/32 | Resolve the first far-negative endpoint collision | none | 31s |
-| B | running | `solve` | planner | 1/32 | Compute the invariant H313 finite-leg residual data | done | 38s |
+| A | running | `solve` | engineer | 1/32 | Resolve the first far-negative endpoint collision | none | 2m |
+| B | running | `solve` | planner | 1/32 | Compute the invariant H313 finite-leg residual data | done | 31s |
 
 **Isolation integrity / 隔离完整性:** ✅ immutable controls match
 

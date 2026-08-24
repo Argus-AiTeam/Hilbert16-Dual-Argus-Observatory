@@ -3038,3 +3038,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-24 11:32:59 UTC | B | `life.mission.completed` | Decide section-gauge invariance of the H313 finite-leg cancellation data |
 | 2026-08-24 11:33:54 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
 | 2026-08-24 11:44:49 UTC | B | `life.mission.completed` | Compute the invariant H313 finite-leg residual data |
+| 2026-08-24 11:46:14 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-24 11:48:21 UTC | B | `life.manager.stage_decision` | FQ3116 is reviewed, validated, and correctly scoped as a substantive invariant BVP obstruction, but it does not close H… |
