@@ -3180,3 +3180,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-24 21:39:21 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
 | 2026-08-24 21:45:14 UTC | B | `life.mission.completed` | Evaluate the same-convention projected plus-edge coefficient |
 | 2026-08-24 21:46:24 UTC | B | `life.manager.stage_decision` | FQ3171 is reviewed substantive solve progress and narrows the blocker to the projected high-Y regular-transport/first-h… |
+| 2026-08-24 21:54:54 UTC | B | `life.mission.completed` | Derive the theta-edge projected plus transport/source-height packet |
+| 2026-08-24 21:56:47 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
