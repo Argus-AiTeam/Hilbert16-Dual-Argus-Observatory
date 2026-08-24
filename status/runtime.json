@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-24 16:31:51 UTC",
+  "generated_at_utc": "2026-08-24 16:36:53 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -46,7 +46,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 3067328,
-      "progress_age_seconds": 254.5903980731964,
+      "progress_age_seconds": 556.6962933540344,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -57,7 +57,7 @@
       "state": "running"
     },
     "B": {
-      "active_role": "planner",
+      "active_role": "engineer",
       "alive": true,
       "artifacts": [
         "research/solve/hyperbolic_hemicycle_cyclicity_scope.md",
@@ -91,19 +91,19 @@
       "health": "active",
       "inbox_files": 2,
       "label": "B",
-      "last_event": "life.planner.start",
-      "last_progress_at": 1787589098.5106678,
+      "last_event": "engineer.progress",
+      "last_progress_at": 1787589384.104233,
       "max_rounds": 32,
-      "mission_id": "5f1df0028484",
-      "mission_status": "continued",
-      "mission_title": "Decide the renormalized-to-fixed finite X/W bridge",
+      "mission_id": "78c8b9296358",
+      "mission_status": "working",
+      "mission_title": "Decide high-W persistence after X=3",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 3067257,
-      "progress_age_seconds": 13.307431697845459,
+      "progress_age_seconds": 29.819761753082275,
       "rejected_attempts": 0,
-      "review_reason": "FQ3142 proves the bounded bridge result with correct scope: uniform fixed X=3 hit/no-earlier-hit/transversality is supported, and the same estimates prove high-W divergence, so fixed_finite_XW_compact_entry_proved is correctly false.",
-      "review_status": "done",
+      "review_reason": "",
+      "review_status": "none",
       "round": 1,
       "route": "construction / lower bounds",
       "sid": "s-2fd8729b",
