@@ -3072,3 +3072,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-24 14:04:23 UTC | B | `life.mission.completed` | Derive the raw endpoint Taylor/flatness theorem for log-critical faces |
 | 2026-08-24 14:05:41 UTC | B | `life.manager.stage_decision` | FQ3128 provides substantive bounded solve progress and retires the raw endpoint Taylor-flatness route without overclaim… |
 | 2026-08-24 14:18:04 UTC | B | `life.mission.completed` | Decide the selected plus-endpoint D_+(A) BVP coefficient |
+| 2026-08-24 14:29:03 UTC | B | `life.mission.completed` | Principalize the plus log-critical derivative channel |
+| 2026-08-24 14:29:52 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
