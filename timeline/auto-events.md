@@ -3136,3 +3136,6 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-24 18:27:05 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
 | 2026-08-24 18:36:44 UTC | B | `life.mission.completed` | Derive the strict-margin high-Y scalar return row |
 | 2026-08-24 18:38:00 UTC | B | `life.manager.stage_decision` | FQ3154 is a reviewed, substantive bounded solve result with a valid strict-margin same-leaf scalar displacement and exp… |
+| 2026-08-24 18:51:41 UTC | A | `life.mission.completed` | Certify the rho[620,621] R-discriminant blocker |
+| 2026-08-24 18:47:58 UTC | B | `life.mission.completed` | Evaluate the high-Y finite-offset row using FQ3118 |
+| 2026-08-24 18:49:10 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
