@@ -3170,3 +3170,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-24 20:39:44 UTC | B | `life.manager.stage_decision` | FQ3165 is reviewed and evidence-bearing, but it retires only the lambda-residual mechanism; the original Hilbert object… |
 | 2026-08-24 20:54:52 UTC | B | `life.mission.completed` | Compute the plus-edge endpoint BVP correction |
 | 2026-08-24 20:55:44 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-24 21:06:19 UTC | B | `life.mission.completed` | Compute the saddle Dulac edge remainder |
+| 2026-08-24 21:07:49 UTC | B | `life.manager.stage_decision` | FQ3167 is substantive reviewed solve progress, but the proof-graph maintenance check cannot measure the gap because PRO… |

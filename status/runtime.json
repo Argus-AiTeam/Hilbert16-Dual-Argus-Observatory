@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-24 20:58:12 UTC",
+  "generated_at_utc": "2026-08-24 21:08:14 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -30,7 +30,7 @@
       "frontier_change": "",
       "frontier_summary": "",
       "git": {
-        "dirty_paths": 2184,
+        "dirty_paths": 2186,
         "head": "59e60f7",
         "last_commit": "Record event522 after event542 decision"
       },
@@ -38,7 +38,7 @@
       "inbox_files": 4,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787605087.1610765,
+      "last_progress_at": 1787605479.0766668,
       "max_rounds": 32,
       "mission_id": "65a2d8e09d9b",
       "mission_status": "working",
@@ -46,7 +46,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 3067328,
-      "progress_age_seconds": 4.845103979110718,
+      "progress_age_seconds": 215.30807089805603,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -57,7 +57,7 @@
       "state": "running"
     },
     "B": {
-      "active_role": "engineer",
+      "active_role": "planner",
       "alive": true,
       "artifacts": [
         "research/solve/hyperbolic_hemicycle_cyclicity_scope.md",
@@ -84,7 +84,7 @@
       "frontier_change": "uncertainty_reduced",
       "frontier_summary": "Compact D=0, N-separated turning passages have moved from local/two-jet compatibility to a conditional all-orders exact-return and finite-zero insertion theorem.",
       "git": {
-        "dirty_paths": 676,
+        "dirty_paths": 678,
         "head": "912c9ac",
         "last_commit": "Record FQ3101 physical atlas obstruction"
       },
@@ -92,18 +92,18 @@
       "inbox_files": 2,
       "label": "B",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787605076.9854977,
+      "last_progress_at": 1787605688.8103907,
       "max_rounds": 32,
       "mission_id": "aa44fcae5249",
-      "mission_status": "working",
+      "mission_status": "continued",
       "mission_title": "Compute the saddle Dulac edge remainder",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 3067257,
-      "progress_age_seconds": 15.02068281173706,
+      "progress_age_seconds": 5.574347019195557,
       "rejected_attempts": 0,
-      "review_reason": "",
-      "review_status": "none",
+      "review_reason": "FQ3167 materially answers the bounded h_A scale question: on fixed positive eta blocks the finite-saddle remainder has a computable first coefficient on the s2/theta scale, is not proved o_D(s2/theta), and no different dominant Dulac scale is claimed.",
+      "review_status": "done",
       "round": 1,
       "route": "construction / lower bounds",
       "sid": "s-2fd8729b",
