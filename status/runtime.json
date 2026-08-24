@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-24 12:30:42 UTC",
+  "generated_at_utc": "2026-08-24 12:40:44 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -30,7 +30,7 @@
       "frontier_change": "",
       "frontier_summary": "",
       "git": {
-        "dirty_paths": 2009,
+        "dirty_paths": 2012,
         "head": "59e60f7",
         "last_commit": "Record event522 after event542 decision"
       },
@@ -38,7 +38,7 @@
       "inbox_files": 4,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787574568.2042868,
+      "last_progress_at": 1787575065.8388076,
       "max_rounds": 32,
       "mission_id": "dd6bbb10b833",
       "mission_status": "working",
@@ -46,7 +46,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 3067328,
-      "progress_age_seconds": 74.63068771362305,
+      "progress_age_seconds": 179.03786778450012,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -84,7 +84,7 @@
       "frontier_change": "uncertainty_reduced",
       "frontier_summary": "Compact D=0, N-separated turning passages have moved from local/two-jet compatibility to a conditional all-orders exact-return and finite-zero insertion theorem.",
       "git": {
-        "dirty_paths": 580,
+        "dirty_paths": 582,
         "head": "912c9ac",
         "last_commit": "Record FQ3101 physical atlas obstruction"
       },
@@ -92,15 +92,15 @@
       "inbox_files": 2,
       "label": "B",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787574620.9659314,
+      "last_progress_at": 1787575239.6892257,
       "max_rounds": 32,
-      "mission_id": "230f07c040ed",
+      "mission_id": "44e9260e5843",
       "mission_status": "working",
-      "mission_title": "Decide the centered I_corner joint derivative-stable remainder budget",
+      "mission_title": "Principalize the H313 centered exponent-drift rate chart",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 3067257,
-      "progress_age_seconds": 21.869043111801147,
+      "progress_age_seconds": 5.18744969367981,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
