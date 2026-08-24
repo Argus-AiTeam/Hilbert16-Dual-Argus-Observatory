@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-24 14:36:14 UTC",
+  "generated_at_utc": "2026-08-24 14:41:16 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -30,7 +30,7 @@
       "frontier_change": "",
       "frontier_summary": "",
       "git": {
-        "dirty_paths": 2038,
+        "dirty_paths": 2042,
         "head": "59e60f7",
         "last_commit": "Record event522 after event542 decision"
       },
@@ -38,7 +38,7 @@
       "inbox_files": 4,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787582160.701108,
+      "last_progress_at": 1787582434.117907,
       "max_rounds": 32,
       "mission_id": "3bf5ab8f9b93",
       "mission_status": "working",
@@ -46,7 +46,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 3067328,
-      "progress_age_seconds": 13.765831708908081,
+      "progress_age_seconds": 42.18193173408508,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -57,7 +57,7 @@
       "state": "running"
     },
     "B": {
-      "active_role": "reviewer",
+      "active_role": "engineer",
       "alive": true,
       "artifacts": [
         "research/solve/hyperbolic_hemicycle_cyclicity_scope.md",
@@ -92,15 +92,15 @@
       "inbox_files": 2,
       "label": "B",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787582160.1481454,
+      "last_progress_at": 1787582441.77501,
       "max_rounds": 32,
-      "mission_id": "e01a326fb09a",
+      "mission_id": "e64b0900f8f5",
       "mission_status": "working",
-      "mission_title": "Classify the physical plus derivative channel from the selected BVP",
+      "mission_title": "Derive the plus zero-locus third-variation successor",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 3067257,
-      "progress_age_seconds": 14.318794250488281,
+      "progress_age_seconds": 34.52482867240906,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
