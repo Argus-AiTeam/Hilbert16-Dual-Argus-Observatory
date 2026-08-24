@@ -3130,3 +3130,7 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-24 18:13:07 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: node 'LRS_N6_SPAN20_T13_23_SELECTED13_B500_POST_RHO546_H1_SEPARATOR_BLOCKER' is marke… |
 | 2026-08-24 18:17:25 UTC | B | `life.mission.completed` | Promote the high-Y tail to an endpoint closing map |
 | 2026-08-24 18:18:36 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-24 18:25:24 UTC | A | `life.mission.completed` | Certify the first post-rho546 H0 separator blocker |
+| 2026-08-24 18:26:40 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: node 'LRS_N6_SPAN20_T13_23_SELECTED13_B500_POST_RHO546_H0_SEPARATOR_BLOCKER' is marke… |
+| 2026-08-24 18:26:18 UTC | B | `life.mission.completed` | Prove or obstruct the high-Y endpoint finite-leaf variation packet |
+| 2026-08-24 18:27:05 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
