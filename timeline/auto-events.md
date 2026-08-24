@@ -3065,3 +3065,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-24 13:32:52 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: node 'LRS_N6_SPAN20_T13_23_SELECTED13_B500_RHO188_189_H0_SEPARATOR_STRATIFICATION_AMB… |
 | 2026-08-24 13:39:03 UTC | B | `life.mission.completed` | Decide the logarithmic endpoint projective infinity chart |
 | 2026-08-24 13:40:50 UTC | B | `life.manager.stage_decision` | FQ3126 is accepted as bounded solve progress: it derives the logarithmic endpoint chart, closes the log-stable subchart… |
+| 2026-08-24 13:51:58 UTC | B | `life.mission.completed` | Decide the log-critical endpoint source coefficient gap |
+| 2026-08-24 13:53:54 UTC | B | `life.manager.stage_decision` | FQ3127 is reviewed and evidence-backed as a bounded solve result: it retires the current-record endpoint source-coeffic… |
