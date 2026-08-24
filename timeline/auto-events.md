@@ -3191,3 +3191,4 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-24 22:23:21 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
 | 2026-08-24 22:29:32 UTC | B | `life.mission.completed` | Build the common exact-balance C3 source-to-terminal transport theorem |
 | 2026-08-24 22:31:13 UTC | B | `life.manager.stage_decision` | FQ3176 is reviewed, validated bounded solve progress, but it records a sharper named obstruction rather than proving th… |
+| 2026-08-24 22:38:02 UTC | B | `life.mission.completed` | Decide the FQ3176 transported resolvent/source-height certificate |
