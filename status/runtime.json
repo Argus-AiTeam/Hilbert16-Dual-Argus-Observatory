@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-24 01:12:19 UTC",
+  "generated_at_utc": "2026-08-24 01:17:21 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -36,7 +36,7 @@
       "inbox_files": 4,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787533938.2510502,
+      "last_progress_at": 1787534150.678086,
       "max_rounds": 32,
       "mission_id": "341abbb84066",
       "mission_status": "working",
@@ -44,7 +44,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 3067328,
-      "progress_age_seconds": 1.0015349388122559,
+      "progress_age_seconds": 90.36915159225464,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -82,7 +82,7 @@
       "frontier_change": "uncertainty_reduced",
       "frontier_summary": "Compact D=0, N-separated turning passages have moved from local/two-jet compatibility to a conditional all-orders exact-return and finite-zero insertion theorem.",
       "git": {
-        "dirty_paths": 389,
+        "dirty_paths": 391,
         "head": "c8b3494",
         "last_commit": "Record FQ2896 branch-selection obstruction"
       },
@@ -90,15 +90,15 @@
       "inbox_files": 2,
       "label": "B",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787533907.1702523,
+      "last_progress_at": 1787534239.1155994,
       "max_rounds": 32,
-      "mission_id": "dcd18dea7dbc",
+      "mission_id": "480c6243b1cd",
       "mission_status": "working",
-      "mission_title": "Compute full extended lower-covector quotient",
+      "mission_title": "Derive the named S2 physical C2 gauge selector",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 3067257,
-      "progress_age_seconds": 32.08233284950256,
+      "progress_age_seconds": 1.931638240814209,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
