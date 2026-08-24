@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-24 18:57:33 UTC",
+  "generated_at_utc": "2026-08-24 19:02:36 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -38,7 +38,7 @@
       "inbox_files": 4,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787597852.6583161,
+      "last_progress_at": 1787598006.6757822,
       "max_rounds": 32,
       "mission_id": "d5023a78cb61",
       "mission_status": "working",
@@ -46,7 +46,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 3067328,
-      "progress_age_seconds": 1.0279955863952637,
+      "progress_age_seconds": 149.98505020141602,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -57,7 +57,7 @@
       "state": "running"
     },
     "B": {
-      "active_role": "reviewer",
+      "active_role": "engineer",
       "alive": true,
       "artifacts": [
         "research/solve/hyperbolic_hemicycle_cyclicity_scope.md",
@@ -92,15 +92,15 @@
       "inbox_files": 2,
       "label": "B",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787597844.8468304,
+      "last_progress_at": 1787598132.751744,
       "max_rounds": 32,
-      "mission_id": "c5b5dd44ac00",
+      "mission_id": "ab5821a94cc9",
       "mission_status": "working",
-      "mission_title": "Prove strict-margin high-Y centered dominance",
+      "mission_title": "Decide the high-Y near-threshold leaf layer",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 3067257,
-      "progress_age_seconds": 8.839481353759766,
+      "progress_age_seconds": 23.909088373184204,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
