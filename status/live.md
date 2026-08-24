@@ -3,11 +3,11 @@
 > Generated deterministically from Argus durable state. No model writes this page, and it carries no cross-process solution transfer.
 > 本页面由确定性监控器根据 Argus 持久状态生成，不由模型写入，也不承担跨进程解题内容传递。
 
-**Updated / 更新时间:** 2026-08-24 10:40:11 UTC
+**Updated / 更新时间:** 2026-08-24 10:45:13 UTC
 
 | Seat | State | Stage | Active role | Round | Current mission | Review | Since semantic progress |
 |---|---|---|---|---:|---|---|---:|
-| A | running | `solve` | engineer | 1/32 | Decide the T13/23 near-zero negative-lambda chamber | none | 1s |
+| A | running | `solve` | reviewer | 1/32 | Decide the T13/23 near-zero negative-lambda chamber | none | 1m |
 | B | running | `solve` | planner | 1/32 | Derive the FQ3096 rho-exit boundary-composite closing map | done | 0s |
 
 **Isolation integrity / 隔离完整性:** ✅ immutable controls match

@@ -1,9 +1,9 @@
 {
-  "generated_at_utc": "2026-08-24 10:40:11 UTC",
+  "generated_at_utc": "2026-08-24 10:45:13 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
-      "active_role": "engineer",
+      "active_role": "reviewer",
       "alive": true,
       "artifacts": [
         "research/BOUNDED_RETURN_BLOCKS.md",
@@ -36,7 +36,7 @@
       "inbox_files": 4,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787568009.574539,
+      "last_progress_at": 1787568246.575266,
       "max_rounds": 32,
       "mission_id": "154506815b96",
       "mission_status": "working",
@@ -44,7 +44,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 3067328,
-      "progress_age_seconds": 1.576608657836914,
+      "progress_age_seconds": 66.47422909736633,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -90,7 +90,7 @@
       "inbox_files": 2,
       "label": "B",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787568010.810365,
+      "last_progress_at": 1787568312.6962025,
       "max_rounds": 32,
       "mission_id": "097539198043",
       "mission_status": "continued",
@@ -98,7 +98,7 @@
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 3067257,
-      "progress_age_seconds": 0.34078264236450195,
+      "progress_age_seconds": 0.35329246520996094,
       "rejected_attempts": 0,
       "review_reason": "FQ3110 materially satisfies the bounded mission: the two endpoint Type-II maps and power cancellation are checked, and the requested full composite is sharply obstructed at the H313 boundary transition unit/remainder-control step on the FQ3106 slice; no full H^3_13, H(2), H(n), realizability, or configuration closure is claimed.",
       "review_status": "done",
