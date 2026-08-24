@@ -3124,3 +3124,6 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-24 17:54:31 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: node 'LRS_N6_SPAN20_T13_23_SELECTED13_B500_RHO188_189_H0_SEPARATOR_STRATIFICATION_AMB… |
 | 2026-08-24 18:01:00 UTC | B | `life.mission.completed` | Prove the negative high-Y tail tends to P_Y |
 | 2026-08-24 18:01:50 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-24 18:11:47 UTC | A | `life.mission.completed` | Certify the first post-rho546 H1 separator blocker |
+| 2026-08-24 18:09:43 UTC | B | `life.mission.completed` | Decide the negative endpoint source-height matching law |
+| 2026-08-24 18:10:49 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
