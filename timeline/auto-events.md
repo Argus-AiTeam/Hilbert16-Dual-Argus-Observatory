@@ -3142,3 +3142,4 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-24 18:53:05 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: node 'LRS_N6_SPAN20_T13_23_SELECTED13_B500_POST_RHO546_H0_SEPARATOR_BLOCKER' is marke… |
 | 2026-08-24 18:58:14 UTC | B | `life.mission.completed` | Prove strict-margin high-Y centered dominance |
 | 2026-08-24 18:59:48 UTC | B | `life.manager.stage_decision` | FQ3156 satisfies the solve checklist for the selected strict-margin high-Y centered dominance/no-zero proposition, but … |
+| 2026-08-24 19:07:07 UTC | B | `life.mission.completed` | Decide the high-Y near-threshold leaf layer |
