@@ -2999,3 +2999,4 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-24 09:04:14 UTC | B | `life.mission.completed` | Derive the FQ3096 same-leaf H313 closing transition |
 | 2026-08-24 09:09:35 UTC | A | `life.mission.completed` | Decide next T13/23 selected13 exterior strip |
 | 2026-08-24 09:05:32 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-24 09:11:23 UTC | A | `life.manager.stage_decision` | The accepted exact certificates are substantive local progress for the scoped row, but they explicitly preserve only bo… |
