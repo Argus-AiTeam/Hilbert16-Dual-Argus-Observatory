@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-24 09:19:48 UTC",
+  "generated_at_utc": "2026-08-24 09:29:50 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -28,7 +28,7 @@
       "frontier_change": "",
       "frontier_summary": "",
       "git": {
-        "dirty_paths": 1967,
+        "dirty_paths": 1974,
         "head": "59e60f7",
         "last_commit": "Record event522 after event542 decision"
       },
@@ -36,7 +36,7 @@
       "inbox_files": 4,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787563175.6361518,
+      "last_progress_at": 1787563585.9774354,
       "max_rounds": 32,
       "mission_id": "eada9a97d7b1",
       "mission_status": "working",
@@ -44,7 +44,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 3067328,
-      "progress_age_seconds": 12.782435655593872,
+      "progress_age_seconds": 204.77471804618835,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -55,7 +55,7 @@
       "state": "running"
     },
     "B": {
-      "active_role": "engineer",
+      "active_role": "planner",
       "alive": true,
       "artifacts": [
         "research/solve/hyperbolic_hemicycle_cyclicity_scope.md",
@@ -82,26 +82,26 @@
       "frontier_change": "uncertainty_reduced",
       "frontier_summary": "Compact D=0, N-separated turning passages have moved from local/two-jet compatibility to a conditional all-orders exact-return and finite-zero insertion theorem.",
       "git": {
-        "dirty_paths": 548,
+        "dirty_paths": 550,
         "head": "912c9ac",
         "last_commit": "Record FQ3101 physical atlas obstruction"
       },
       "health": "active",
       "inbox_files": 2,
       "label": "B",
-      "last_event": "engineer.progress",
-      "last_progress_at": 1787563176.6163542,
+      "last_event": "life.planner.start",
+      "last_progress_at": 1787563788.8939126,
       "max_rounds": 32,
       "mission_id": "c30e1a487d3f",
-      "mission_status": "working",
+      "mission_status": "continued",
       "mission_title": "Repair the FQ3096 oriented saddle-section atlas",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 3067257,
-      "progress_age_seconds": 11.802233219146729,
+      "progress_age_seconds": 1.8582408428192139,
       "rejected_attempts": 0,
-      "review_reason": "",
-      "review_status": "none",
+      "review_reason": "FQ3104 materially satisfies the bounded mission: it replaces the wrong incoming section by xi=-epsilon, proves base first-hit/no-earlier-hit/transversality in the corrected local saddle atlas, updates K_h/K_r and FQ3100 gauge conventions, and preserves the stated nonclaims.",
+      "review_status": "done",
       "round": 1,
       "route": "construction / lower bounds",
       "sid": "s-2fd8729b",
