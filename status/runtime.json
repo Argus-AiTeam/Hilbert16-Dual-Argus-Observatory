@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-24 22:53:46 UTC",
+  "generated_at_utc": "2026-08-24 23:03:48 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -30,7 +30,7 @@
       "frontier_change": "",
       "frontier_summary": "",
       "git": {
-        "dirty_paths": 2212,
+        "dirty_paths": 2218,
         "head": "59e60f7",
         "last_commit": "Record event522 after event542 decision"
       },
@@ -38,7 +38,7 @@
       "inbox_files": 4,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787611895.2455108,
+      "last_progress_at": 1787612451.5264926,
       "max_rounds": 32,
       "mission_id": "fa9811639210",
       "mission_status": "working",
@@ -46,7 +46,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 3067328,
-      "progress_age_seconds": 131.54998469352722,
+      "progress_age_seconds": 177.3168749809265,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -84,7 +84,7 @@
       "frontier_change": "uncertainty_reduced",
       "frontier_summary": "Compact D=0, N-separated turning passages have moved from local/two-jet compatibility to a conditional all-orders exact-return and finite-zero insertion theorem.",
       "git": {
-        "dirty_paths": 700,
+        "dirty_paths": 702,
         "head": "912c9ac",
         "last_commit": "Record FQ3101 physical atlas obstruction"
       },
@@ -92,15 +92,15 @@
       "inbox_files": 2,
       "label": "B",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787611967.3262165,
+      "last_progress_at": 1787612624.5652366,
       "max_rounds": 32,
-      "mission_id": "b1a28d3f92c7",
+      "mission_id": "548f1bf8cb0e",
       "mission_status": "working",
-      "mission_title": "Decide the plus-edge tail-hit Euler-C3 remainder",
+      "mission_title": "Decide the third source/flow-jet derivative-stable remainder",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 3067257,
-      "progress_age_seconds": 59.469279050827026,
+      "progress_age_seconds": 4.278131008148193,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
