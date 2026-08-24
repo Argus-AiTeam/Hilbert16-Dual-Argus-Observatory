@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-24 08:54:38 UTC",
+  "generated_at_utc": "2026-08-24 08:59:40 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -28,7 +28,7 @@
       "frontier_change": "",
       "frontier_summary": "",
       "git": {
-        "dirty_paths": 1964,
+        "dirty_paths": 1967,
         "head": "59e60f7",
         "last_commit": "Record event522 after event542 decision"
       },
@@ -36,7 +36,7 @@
       "inbox_files": 4,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787561605.810362,
+      "last_progress_at": 1787561955.6547894,
       "max_rounds": 32,
       "mission_id": "c1ef8b736ee2",
       "mission_status": "working",
@@ -44,7 +44,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 3067328,
-      "progress_age_seconds": 72.84478855133057,
+      "progress_age_seconds": 24.852292776107788,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -55,7 +55,7 @@
       "state": "running"
     },
     "B": {
-      "active_role": "planner",
+      "active_role": "engineer",
       "alive": true,
       "artifacts": [
         "research/solve/hyperbolic_hemicycle_cyclicity_scope.md",
@@ -82,26 +82,26 @@
       "frontier_change": "uncertainty_reduced",
       "frontier_summary": "Compact D=0, N-separated turning passages have moved from local/two-jet compatibility to a conditional all-orders exact-return and finite-zero insertion theorem.",
       "git": {
-        "dirty_paths": 549,
-        "head": "5258dc9",
-        "last_commit": "Record quadratic bottleneck progress through FQ3061"
+        "dirty_paths": 541,
+        "head": "912c9ac",
+        "last_commit": "Record FQ3101 physical atlas obstruction"
       },
       "health": "active",
       "inbox_files": 2,
       "label": "B",
-      "last_event": "life.planner.start",
-      "last_progress_at": 1787561597.3264604,
+      "last_event": "engineer.progress",
+      "last_progress_at": 1787561979.5456188,
       "max_rounds": 32,
-      "mission_id": "a911259d3731",
-      "mission_status": "continued",
-      "mission_title": "Build the FQ3096 physical common-leaf section atlas",
+      "mission_id": "b1ee8ae56d59",
+      "mission_status": "working",
+      "mission_title": "Derive the FQ3096 same-leaf H313 closing transition",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 3067257,
-      "progress_age_seconds": 81.32869029045105,
+      "progress_age_seconds": 0.961463451385498,
       "rejected_attempts": 0,
-      "review_reason": "FQ3101 satisfies the bounded develop objective: the physical endpoint/eigen-section atlas and induced FQ3100 gauge conventions are correct, and the remaining blocker is precisely the unavailable same-leaf H313 closing map plus first-hit source/leaf derivatives; no finite-cyclicity or Hilbert-number claim is made.",
-      "review_status": "done",
+      "review_reason": "",
+      "review_status": "none",
       "round": 1,
       "route": "construction / lower bounds",
       "sid": "s-2fd8729b",
