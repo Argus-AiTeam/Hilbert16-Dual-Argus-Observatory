@@ -2887,3 +2887,6 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-24 03:29:18 UTC | B | `life.mission.completed` | Prove or refute AD_S2 finite-zero identity alternative |
 | 2026-08-24 03:30:41 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
 | 2026-08-24 03:38:02 UTC | A | `life.mission.completed` | Bridge first row 22/31 coverage gap at event399 |
+| 2026-08-24 03:39:06 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: node 'ROW22_31_EVENT159_I1_ALPHA0_C7_BOTTOM_AFTER_EVENT159_TOP' status 'certified_bou… |
+| 2026-08-24 03:39:06 UTC | B | `life.mission.completed` | Build selected BVP table and test residual ideal |
+| 2026-08-24 03:40:31 UTC | B | `life.manager.stage_decision` | FQ3073 is reviewed, substantive solve progress that retires the local BVP residual-ideal route, but it leaves the physi… |
