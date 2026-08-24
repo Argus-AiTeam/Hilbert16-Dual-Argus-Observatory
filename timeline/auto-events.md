@@ -2827,3 +2827,4 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-24 00:04:21 UTC | B | `life.manager.stage_decision` | FQ3050 is valid solve progress but not a stage-completing result: it sharpens the obstruction to the missing SelectedNa… |
 | 2026-08-24 00:15:51 UTC | B | `life.mission.completed` | Test epsilon-two cyclic compatibility constraints |
 | 2026-08-24 00:17:03 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-24 00:21:52 UTC | A | `life.mission.completed` | Certify neg-zero:event423 bottom after event542 bottom |
