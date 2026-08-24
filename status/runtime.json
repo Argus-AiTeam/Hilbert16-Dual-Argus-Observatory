@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-24 11:35:28 UTC",
+  "generated_at_utc": "2026-08-24 11:45:30 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -36,7 +36,7 @@
       "inbox_files": 4,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787571327.7344704,
+      "last_progress_at": 1787571899.264815,
       "max_rounds": 32,
       "mission_id": "430ba1935e87",
       "mission_status": "working",
@@ -44,7 +44,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 3067328,
-      "progress_age_seconds": 0.6267929077148438,
+      "progress_age_seconds": 31.24955654144287,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -55,7 +55,7 @@
       "state": "running"
     },
     "B": {
-      "active_role": "engineer",
+      "active_role": "planner",
       "alive": true,
       "artifacts": [
         "research/solve/hyperbolic_hemicycle_cyclicity_scope.md",
@@ -82,26 +82,26 @@
       "frontier_change": "uncertainty_reduced",
       "frontier_summary": "Compact D=0, N-separated turning passages have moved from local/two-jet compatibility to a conditional all-orders exact-return and finite-zero insertion theorem.",
       "git": {
-        "dirty_paths": 572,
+        "dirty_paths": 574,
         "head": "912c9ac",
         "last_commit": "Record FQ3101 physical atlas obstruction"
       },
       "health": "active",
       "inbox_files": 2,
       "label": "B",
-      "last_event": "engineer.progress",
-      "last_progress_at": 1787571320.5336297,
+      "last_event": "life.planner.start",
+      "last_progress_at": 1787571892.4545343,
       "max_rounds": 32,
       "mission_id": "966979a3e6b6",
-      "mission_status": "working",
+      "mission_status": "continued",
       "mission_title": "Compute the invariant H313 finite-leg residual data",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 3067257,
-      "progress_age_seconds": 7.827633619308472,
+      "progress_age_seconds": 38.059837341308594,
       "rejected_attempts": 0,
-      "review_reason": "",
-      "review_status": "none",
+      "review_reason": "FQ3116 satisfies the bounded develop mission: it gives the covariant exact finite-saddle residual formulation and correctly records that current RR/FQ3106/FQ3107/FQ3115 data cannot determine the positive-side order/sign of D_exact(A).",
+      "review_status": "done",
       "round": 1,
       "route": "construction / lower bounds",
       "sid": "s-2fd8729b",
