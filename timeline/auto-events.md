@@ -2882,3 +2882,7 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-24 03:13:00 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
 | 2026-08-24 03:19:34 UTC | B | `life.mission.completed` | Derive or refute selected S2 source-section normalization |
 | 2026-08-24 03:20:45 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-24 03:28:34 UTC | A | `life.mission.completed` | Certify row 22/31 tail coverage |
+| 2026-08-24 03:29:57 UTC | A | `life.manager.stage_decision` | Reviewed evidence supports only a bounded row-local selected-tail coverage-gap result, not selected-row retirement or a… |
+| 2026-08-24 03:29:18 UTC | B | `life.mission.completed` | Prove or refute AD_S2 finite-zero identity alternative |
+| 2026-08-24 03:30:41 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
