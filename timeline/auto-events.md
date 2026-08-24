@@ -3095,3 +3095,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-24 15:46:26 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
 | 2026-08-24 15:52:33 UTC | B | `life.mission.completed` | Decide the canonical plus D/E zero-locus |
 | 2026-08-24 15:53:39 UTC | B | `life.manager.stage_decision` | FQ3138 is a reviewed bounded data-sufficiency obstruction and retires the packet-alone D/E classification route, but it… |
+| 2026-08-24 16:05:25 UTC | A | `life.mission.completed` | Resolve the B=500 predecessor-entry count-word mismatch |
+| 2026-08-24 16:05:58 UTC | B | `life.mission.completed` | Build the canonical plus transport evaluator |
