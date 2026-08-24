@@ -3031,3 +3031,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-24 11:12:35 UTC | A | `life.mission.completed` | Decide the T13/23 far-negative large-B chamber |
 | 2026-08-24 11:14:27 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: node 'ROW22_31_EVENT159_I1_ALPHA0_C7_BOTTOM_AFTER_EVENT159_TOP' status 'certified_bou… |
 | 2026-08-24 11:14:12 UTC | B | `life.mission.completed` | Principalize the linear-dominant mu5 H313 finite-leg composition |
+| 2026-08-24 11:16:21 UTC | A | `life.manager.stage_decision` | Reviewer accepted the bounded far-negative endpoint obstruction as a valid solve increment, but the open-ended Hilbert … |
+| 2026-08-24 11:15:30 UTC | B | `life.manager.stage_decision` | FQ3113 is reviewed substantive progress and correctly scoped, but it is an obstruction result: the linear-dominant fini… |
