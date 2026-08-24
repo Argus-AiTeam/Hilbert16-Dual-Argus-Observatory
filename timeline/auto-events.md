@@ -3013,3 +3013,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-24 10:07:55 UTC | B | `life.mission.completed` | Derive the FQ3096 Phi_pm BVP packet in the FQ3106 atlas |
 | 2026-08-24 10:08:49 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
 | 2026-08-24 10:14:01 UTC | A | `life.mission.completed` | Certify the row22/31 lambda-2-to-3 B-strip chamber |
+| 2026-08-24 10:15:11 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: node 'ROW22_31_EVENT159_I1_ALPHA0_C7_BOTTOM_AFTER_EVENT159_TOP' status 'certified_bou… |
+| 2026-08-24 10:17:11 UTC | B | `life.mission.completed` | Derive the FQ3096 H313 same-leaf closing map in the FQ3106 atlas |
