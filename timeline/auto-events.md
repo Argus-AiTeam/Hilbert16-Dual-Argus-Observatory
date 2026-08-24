@@ -3033,3 +3033,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-24 11:14:12 UTC | B | `life.mission.completed` | Principalize the linear-dominant mu5 H313 finite-leg composition |
 | 2026-08-24 11:16:21 UTC | A | `life.manager.stage_decision` | Reviewer accepted the bounded far-negative endpoint obstruction as a valid solve increment, but the open-ended Hilbert … |
 | 2026-08-24 11:15:30 UTC | B | `life.manager.stage_decision` | FQ3113 is reviewed substantive progress and correctly scoped, but it is an obstruction result: the linear-dominant fini… |
+| 2026-08-24 11:22:54 UTC | B | `life.mission.completed` | Compute the H313 finite-leg BVP principal coefficients |
+| 2026-08-24 11:24:04 UTC | B | `life.manager.stage_decision` | FQ3114 is a reviewed, substantive source-datum obstruction, but it does not obtain the finite-leg BVP principal coeffic… |
