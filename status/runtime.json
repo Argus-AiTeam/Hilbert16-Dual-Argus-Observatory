@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-24 21:38:22 UTC",
+  "generated_at_utc": "2026-08-24 21:43:24 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -30,7 +30,7 @@
       "frontier_change": "",
       "frontier_summary": "",
       "git": {
-        "dirty_paths": 2192,
+        "dirty_paths": 2194,
         "head": "59e60f7",
         "last_commit": "Record event522 after event542 decision"
       },
@@ -38,7 +38,7 @@
       "inbox_files": 4,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787607092.3613002,
+      "last_progress_at": 1787607634.481078,
       "max_rounds": 32,
       "mission_id": "65a2d8e09d9b",
       "mission_status": "working",
@@ -46,7 +46,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 3067328,
-      "progress_age_seconds": 410.04366636276245,
+      "progress_age_seconds": 169.9095778465271,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -57,7 +57,7 @@
       "state": "running"
     },
     "B": {
-      "active_role": "planner",
+      "active_role": "engineer",
       "alive": true,
       "artifacts": [
         "research/solve/hyperbolic_hemicycle_cyclicity_scope.md",
@@ -84,26 +84,26 @@
       "frontier_change": "uncertainty_reduced",
       "frontier_summary": "Compact D=0, N-separated turning passages have moved from local/two-jet compatibility to a conditional all-orders exact-return and finite-zero insertion theorem.",
       "git": {
-        "dirty_paths": 684,
+        "dirty_paths": 686,
         "head": "912c9ac",
         "last_commit": "Record FQ3101 physical atlas obstruction"
       },
       "health": "active",
       "inbox_files": 2,
       "label": "B",
-      "last_event": "life.planner.start",
-      "last_progress_at": 1787607489.7840173,
+      "last_event": "engineer.progress",
+      "last_progress_at": 1787607796.3306797,
       "max_rounds": 32,
-      "mission_id": "71f33d3eb006",
-      "mission_status": "continued",
-      "mission_title": "Evaluate the same-convention saddle coefficient a_h",
+      "mission_id": "5f3acb262421",
+      "mission_status": "working",
+      "mission_title": "Evaluate the same-convention projected plus-edge coefficient",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 3067257,
-      "progress_age_seconds": 12.620949268341064,
+      "progress_age_seconds": 8.05997610092163,
       "rejected_attempts": 0,
-      "review_reason": "FQ3170 correctly derives the same-convention local saddle coefficient, records the derivative-stable remainder scope, updates R_edge1, and avoids the out-of-scope sign/crossing/Hilbert claims.",
-      "review_status": "done",
+      "review_reason": "",
+      "review_status": "none",
       "round": 1,
       "route": "construction / lower bounds",
       "sid": "s-2fd8729b",
