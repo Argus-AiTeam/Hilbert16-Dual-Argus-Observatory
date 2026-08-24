@@ -1,9 +1,9 @@
 {
-  "generated_at_utc": "2026-08-24 07:04:06 UTC",
+  "generated_at_utc": "2026-08-24 07:09:08 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
-      "active_role": "engineer",
+      "active_role": "reviewer",
       "alive": true,
       "artifacts": [
         "research/BOUNDED_RETURN_BLOCKS.md",
@@ -36,7 +36,7 @@
       "inbox_files": 4,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787555044.8540592,
+      "last_progress_at": 1787555288.3713477,
       "max_rounds": 32,
       "mission_id": "c1469f22466d",
       "mission_status": "working",
@@ -44,7 +44,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 3067328,
-      "progress_age_seconds": 1.7088878154754639,
+      "progress_age_seconds": 60.34690260887146,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -55,7 +55,7 @@
       "state": "running"
     },
     "B": {
-      "active_role": "engineer",
+      "active_role": "planner",
       "alive": true,
       "artifacts": [
         "research/solve/hyperbolic_hemicycle_cyclicity_scope.md",
@@ -82,26 +82,26 @@
       "frontier_change": "uncertainty_reduced",
       "frontier_summary": "Compact D=0, N-separated turning passages have moved from local/two-jet compatibility to a conditional all-orders exact-return and finite-zero insertion theorem.",
       "git": {
-        "dirty_paths": 527,
+        "dirty_paths": 529,
         "head": "5258dc9",
         "last_commit": "Record quadratic bottleneck progress through FQ3061"
       },
       "health": "active",
       "inbox_files": 2,
       "label": "B",
-      "last_event": "engineer.progress",
-      "last_progress_at": 1787554983.3801486,
+      "last_event": "life.planner.start",
+      "last_progress_at": 1787555343.533156,
       "max_rounds": 32,
       "mission_id": "56c382de5736",
-      "mission_status": "working",
+      "mission_status": "ended",
       "mission_title": "Test a gauge-invariant finite-zero route for the H3_13 lower successor",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 3067257,
-      "progress_age_seconds": 63.18279838562012,
+      "progress_age_seconds": 5.185094356536865,
       "rejected_attempts": 0,
-      "review_reason": "",
-      "review_status": "none",
+      "review_reason": "FQ3092 correctly shows the current gauge-invariant packet cannot prove the lower-successor finite-zero/Rolle step; the route is retired without overclaiming H313, H(2), H(n), realizability, or configurations.",
+      "review_status": "done",
       "round": 1,
       "route": "construction / lower bounds",
       "sid": "s-2fd8729b",
