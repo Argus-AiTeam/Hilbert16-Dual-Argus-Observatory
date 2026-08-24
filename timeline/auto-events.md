@@ -3071,3 +3071,4 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-24 14:04:32 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: node 'LRS_N6_SPAN20_T13_23_SELECTED13_B500_RHO188_189_H0_SEPARATOR_STRATIFICATION_AMB… |
 | 2026-08-24 14:04:23 UTC | B | `life.mission.completed` | Derive the raw endpoint Taylor/flatness theorem for log-critical faces |
 | 2026-08-24 14:05:41 UTC | B | `life.manager.stage_decision` | FQ3128 provides substantive bounded solve progress and retires the raw endpoint Taylor-flatness route without overclaim… |
+| 2026-08-24 14:18:04 UTC | B | `life.mission.completed` | Decide the selected plus-endpoint D_+(A) BVP coefficient |

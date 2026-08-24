@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-24 14:06:08 UTC",
+  "generated_at_utc": "2026-08-24 14:21:10 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -30,7 +30,7 @@
       "frontier_change": "",
       "frontier_summary": "",
       "git": {
-        "dirty_paths": 2035,
+        "dirty_paths": 2042,
         "head": "59e60f7",
         "last_commit": "Record event522 after event542 decision"
       },
@@ -38,7 +38,7 @@
       "inbox_files": 4,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787580368.1238139,
+      "last_progress_at": 1787581181.3078313,
       "max_rounds": 32,
       "mission_id": "64aaf7ee7c2a",
       "mission_status": "working",
@@ -46,7 +46,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 3067328,
-      "progress_age_seconds": 0.2031548023223877,
+      "progress_age_seconds": 89.38416719436646,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -57,7 +57,7 @@
       "state": "running"
     },
     "B": {
-      "active_role": "planner",
+      "active_role": "engineer",
       "alive": true,
       "artifacts": [
         "research/solve/hyperbolic_hemicycle_cyclicity_scope.md",
@@ -84,7 +84,7 @@
       "frontier_change": "uncertainty_reduced",
       "frontier_summary": "Compact D=0, N-separated turning passages have moved from local/two-jet compatibility to a conditional all-orders exact-return and finite-zero insertion theorem.",
       "git": {
-        "dirty_paths": 598,
+        "dirty_paths": 600,
         "head": "912c9ac",
         "last_commit": "Record FQ3101 physical atlas obstruction"
       },
@@ -92,18 +92,18 @@
       "inbox_files": 2,
       "label": "B",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787580359.3650541,
+      "last_progress_at": 1787581264.7687287,
       "max_rounds": 32,
-      "mission_id": "15732c047f58",
-      "mission_status": "continued",
-      "mission_title": "Derive the raw endpoint Taylor/flatness theorem for log-critical faces",
+      "mission_id": "4e325d3627a1",
+      "mission_status": "working",
+      "mission_title": "Principalize the plus log-critical derivative channel",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 3067257,
-      "progress_age_seconds": 8.961914539337158,
+      "progress_age_seconds": 5.923269748687744,
       "rejected_attempts": 0,
-      "review_reason": "FQ3128 is a materially complete bounded develop result: the rho log-critical channels are closed from raw first-hit leaf independence, while the full endpoint Taylor-flatness theorem is correctly refuted/unavailable at the plus s_+ BVP datum D_+(A) and the route is retired without overclaiming.",
-      "review_status": "done",
+      "review_reason": "",
+      "review_status": "none",
       "round": 1,
       "route": "construction / lower bounds",
       "sid": "s-2fd8729b",
