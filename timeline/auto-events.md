@@ -2996,3 +2996,4 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-24 08:42:38 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
 | 2026-08-24 08:53:14 UTC | B | `life.mission.completed` | Build the FQ3096 physical common-leaf section atlas |
 | 2026-08-24 08:55:45 UTC | B | `life.manager.stage_decision` | FQ3101 is reviewed as a correct bounded solve result, but it only fixes the H313 physical atlas/gauge conventions and i… |
+| 2026-08-24 09:04:14 UTC | B | `life.mission.completed` | Derive the FQ3096 same-leaf H313 closing transition |
