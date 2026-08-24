@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-24 22:48:44 UTC",
+  "generated_at_utc": "2026-08-24 22:53:46 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -38,7 +38,7 @@
       "inbox_files": 4,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787611721.1416473,
+      "last_progress_at": 1787611895.2455108,
       "max_rounds": 32,
       "mission_id": "fa9811639210",
       "mission_status": "working",
@@ -46,7 +46,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 3067328,
-      "progress_age_seconds": 3.5920565128326416,
+      "progress_age_seconds": 131.54998469352722,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -57,7 +57,7 @@
       "state": "running"
     },
     "B": {
-      "active_role": "reviewer",
+      "active_role": "engineer",
       "alive": true,
       "artifacts": [
         "research/solve/hyperbolic_hemicycle_cyclicity_scope.md",
@@ -92,15 +92,15 @@
       "inbox_files": 2,
       "label": "B",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787611723.221221,
+      "last_progress_at": 1787611967.3262165,
       "max_rounds": 32,
-      "mission_id": "6ad1ccbe2a0e",
+      "mission_id": "b1a28d3f92c7",
       "mission_status": "working",
-      "mission_title": "Decide the actual theta-edge source-height O_D(epsilon_+) packet",
+      "mission_title": "Decide the plus-edge tail-hit Euler-C3 remainder",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 3067257,
-      "progress_age_seconds": 1.5124828815460205,
+      "progress_age_seconds": 59.469279050827026,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",

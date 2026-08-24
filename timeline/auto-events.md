@@ -3196,3 +3196,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-24 22:40:34 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
 | 2026-08-24 22:43:47 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: node 'LRS_N6_SPAN20_T13_23_SELECTED13_B500_POST_RHO546_H0_SEPARATOR_BLOCKER' is marke… |
 | 2026-08-24 22:46:24 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: node 'LRS_N6_SPAN20_T13_23_SELECTED13_B500_POST_RHO546_H0_SEPARATOR_BLOCKER' is marke… |
+| 2026-08-24 22:50:20 UTC | B | `life.mission.completed` | Decide the actual theta-edge source-height O_D(epsilon_+) packet |
+| 2026-08-24 22:51:15 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
