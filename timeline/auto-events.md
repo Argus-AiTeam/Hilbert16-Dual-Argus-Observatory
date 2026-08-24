@@ -3152,3 +3152,7 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-24 19:20:21 UTC | B | `life.manager.stage_decision` | FQ3158 is a reviewed bounded solve increment: it proves only the selected H313 high-W/high-Y branch value-exclusion wit… |
 | 2026-08-24 19:37:47 UTC | B | `life.mission.completed` | Extend selected high-Y exclusion to fixed endpoint-height family |
 | 2026-08-24 19:38:58 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-24 19:49:00 UTC | A | `life.mission.completed` | Lift the completed B=500 far-negative wall ray to a stratified B>=500 chamber decision |
+| 2026-08-24 19:50:16 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: node 'LRS_N6_SPAN20_T13_23_SELECTED13_B500_POST_RHO546_H0_SEPARATOR_BLOCKER' is marke… |
+| 2026-08-24 19:51:35 UTC | B | `life.mission.completed` | Decide the selected high-Y Yminus-to-zero degeneration |
+| 2026-08-24 19:52:47 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
