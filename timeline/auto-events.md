@@ -2834,3 +2834,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-24 00:36:41 UTC | B | `life.mission.completed` | Decide lower-covector gauge freedom versus invariant source law |
 | 2026-08-24 00:38:30 UTC | A | `life.mission.completed` | Certify neg-zero:event480 bottom after event423 bottom |
 | 2026-08-24 00:39:18 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: node 'ROW22_31_EVENT159_I1_ALPHA0_C7_BOTTOM_AFTER_EVENT159_TOP' status 'certified_bou… |
+| 2026-08-24 00:47:56 UTC | B | `life.mission.completed` | Compute gauge-invariant quotient of the S2 lower residual |
+| 2026-08-24 00:49:35 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
