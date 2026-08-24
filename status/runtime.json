@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-24 08:39:34 UTC",
+  "generated_at_utc": "2026-08-24 08:44:36 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -36,7 +36,7 @@
       "inbox_files": 4,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787560773.913319,
+      "last_progress_at": 1787561069.3926566,
       "max_rounds": 32,
       "mission_id": "6fbdca79c349",
       "mission_status": "continued",
@@ -44,7 +44,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 3067328,
-      "progress_age_seconds": 0.47791266441345215,
+      "progress_age_seconds": 7.25774884223938,
       "rejected_attempts": 0,
       "review_reason": "event476 top denominator-zero mechanism is resolved by reproducible exact evidence as a removable harmless wall; the bounded successor, preserved <=9/<=18 bounds, and next blocker are correctly scoped",
       "review_status": "done",
@@ -55,7 +55,7 @@
       "state": "running"
     },
     "B": {
-      "active_role": "reviewer",
+      "active_role": "engineer",
       "alive": true,
       "artifacts": [
         "research/solve/hyperbolic_hemicycle_cyclicity_scope.md",
@@ -90,15 +90,15 @@
       "inbox_files": 2,
       "label": "B",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787560768.5239363,
+      "last_progress_at": 1787561062.605101,
       "max_rounds": 32,
-      "mission_id": "02a3b142dbdc",
+      "mission_id": "a911259d3731",
       "mission_status": "working",
-      "mission_title": "Decide the FQ3096 source-normalized family-packet first jet",
+      "mission_title": "Build the FQ3096 physical common-leaf section atlas",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 3067257,
-      "progress_age_seconds": 5.867295503616333,
+      "progress_age_seconds": 14.045304298400879,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
