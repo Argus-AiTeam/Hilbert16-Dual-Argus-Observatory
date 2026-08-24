@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-24 12:20:40 UTC",
+  "generated_at_utc": "2026-08-24 12:30:42 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -30,7 +30,7 @@
       "frontier_change": "",
       "frontier_summary": "",
       "git": {
-        "dirty_paths": 1997,
+        "dirty_paths": 2009,
         "head": "59e60f7",
         "last_commit": "Record event522 after event542 decision"
       },
@@ -38,7 +38,7 @@
       "inbox_files": 4,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787574030.4220958,
+      "last_progress_at": 1787574568.2042868,
       "max_rounds": 32,
       "mission_id": "dd6bbb10b833",
       "mission_status": "working",
@@ -46,7 +46,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 3067328,
-      "progress_age_seconds": 10.073845863342285,
+      "progress_age_seconds": 74.63068771362305,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -84,7 +84,7 @@
       "frontier_change": "uncertainty_reduced",
       "frontier_summary": "Compact D=0, N-separated turning passages have moved from local/two-jet compatibility to a conditional all-orders exact-return and finite-zero insertion theorem.",
       "git": {
-        "dirty_paths": 578,
+        "dirty_paths": 580,
         "head": "912c9ac",
         "last_commit": "Record FQ3101 physical atlas obstruction"
       },
@@ -92,15 +92,15 @@
       "inbox_files": 2,
       "label": "B",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787574022.8408535,
+      "last_progress_at": 1787574620.9659314,
       "max_rounds": 32,
-      "mission_id": "12423576cac7",
+      "mission_id": "230f07c040ed",
       "mission_status": "working",
-      "mission_title": "Principalize the H313 centered base-corner finite-leg equation",
+      "mission_title": "Decide the centered I_corner joint derivative-stable remainder budget",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 3067257,
-      "progress_age_seconds": 17.655088186264038,
+      "progress_age_seconds": 21.869043111801147,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
