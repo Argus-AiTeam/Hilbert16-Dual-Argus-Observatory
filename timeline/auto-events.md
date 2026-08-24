@@ -2969,3 +2969,4 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-24 07:00:56 UTC | B | `life.mission.completed` | Decide the H3_13 lower source-normalized S0 anchor |
 | 2026-08-24 07:08:39 UTC | B | `life.mission.completed` | Test a gauge-invariant finite-zero route for the H3_13 lower successor |
 | 2026-08-24 07:12:52 UTC | A | `life.mission.completed` | Certify or obstruct T13/23 selected13 left exterior strip |
+| 2026-08-24 07:14:12 UTC | A | `life.manager.stage_decision` | The fixed-strip certificate is reviewed and substantive, but it is explicitly local/bounded; the proof graph still repo… |
