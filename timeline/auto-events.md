@@ -3168,3 +3168,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-24 20:37:36 UTC | A | `life.manager.stage_decision` | The reviewed rho=200 slice is accepted as a bounded solve result, but the global objective remains open and the proof g… |
 | 2026-08-24 20:38:32 UTC | B | `life.mission.completed` | Derive the plus-edge physical residual datum |
 | 2026-08-24 20:39:44 UTC | B | `life.manager.stage_decision` | FQ3165 is reviewed and evidence-bearing, but it retires only the lambda-residual mechanism; the original Hilbert object… |
+| 2026-08-24 20:54:52 UTC | B | `life.mission.completed` | Compute the plus-edge endpoint BVP correction |
+| 2026-08-24 20:55:44 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |

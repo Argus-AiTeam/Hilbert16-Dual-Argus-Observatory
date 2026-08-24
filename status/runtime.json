@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-24 20:43:09 UTC",
+  "generated_at_utc": "2026-08-24 20:58:12 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -30,7 +30,7 @@
       "frontier_change": "",
       "frontier_summary": "",
       "git": {
-        "dirty_paths": 2179,
+        "dirty_paths": 2184,
         "head": "59e60f7",
         "last_commit": "Record event522 after event542 decision"
       },
@@ -38,7 +38,7 @@
       "inbox_files": 4,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787604100.169901,
+      "last_progress_at": 1787605087.1610765,
       "max_rounds": 32,
       "mission_id": "65a2d8e09d9b",
       "mission_status": "working",
@@ -46,7 +46,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 3067328,
-      "progress_age_seconds": 89.52807855606079,
+      "progress_age_seconds": 4.845103979110718,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -84,7 +84,7 @@
       "frontier_change": "uncertainty_reduced",
       "frontier_summary": "Compact D=0, N-separated turning passages have moved from local/two-jet compatibility to a conditional all-orders exact-return and finite-zero insertion theorem.",
       "git": {
-        "dirty_paths": 674,
+        "dirty_paths": 676,
         "head": "912c9ac",
         "last_commit": "Record FQ3101 physical atlas obstruction"
       },
@@ -92,15 +92,15 @@
       "inbox_files": 2,
       "label": "B",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787604183.3880029,
+      "last_progress_at": 1787605076.9854977,
       "max_rounds": 32,
-      "mission_id": "a2e831775556",
+      "mission_id": "aa44fcae5249",
       "mission_status": "working",
-      "mission_title": "Compute the plus-edge endpoint BVP correction",
+      "mission_title": "Compute the saddle Dulac edge remainder",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 3067257,
-      "progress_age_seconds": 6.309976577758789,
+      "progress_age_seconds": 15.02068281173706,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
