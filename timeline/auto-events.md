@@ -2850,3 +2850,7 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-24 01:33:09 UTC | B | `life.mission.completed` | Formulate the I16b-S2 gauge-invariant return ideal |
 | 2026-08-24 01:39:41 UTC | B | `life.mission.completed` | Test prolonged D-theta finite-jet invariants |
 | 2026-08-24 01:40:29 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-24 01:49:41 UTC | A | `life.mission.completed` | Certify pos:event624 bottom after event624 top |
+| 2026-08-24 01:50:37 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: node 'ROW22_31_EVENT159_I1_ALPHA0_C7_BOTTOM_AFTER_EVENT159_TOP' status 'certified_bou… |
+| 2026-08-24 01:47:39 UTC | B | `life.mission.completed` | Decide the physical source law for D-theta gauges |
+| 2026-08-24 01:49:33 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
