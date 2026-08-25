@@ -3230,3 +3230,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-25 01:17:04 UTC | B | `life.manager.stage_decision` | FQ3192 is accepted bounded solve progress, but it records a sharper C4 transport-budget obstruction rather than proving… |
 | 2026-08-25 01:19:25 UTC | A | `life.manager.stage_decision` | Accepted event-3 evidence is a bounded local obstruction, not a route-closing proof: exact runs show rank-zero/higher-o… |
 | 2026-08-25 01:24:01 UTC | B | `life.mission.completed` | Decide common exact-balance C4 transport budget |
+| 2026-08-25 01:28:02 UTC | A | `round.stall` |  |
+| 2026-08-25 01:24:58 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
