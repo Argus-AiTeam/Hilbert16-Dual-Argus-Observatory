@@ -3254,3 +3254,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-25 02:32:32 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
 | 2026-08-25 02:39:21 UTC | B | `life.mission.completed` | Decide the transported row scale-matching limit |
 | 2026-08-25 02:40:28 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-25 02:49:30 UTC | A | `life.mission.completed` | Repair the rho=200 two-parameter tube using the event-3 weighted isolation certificate |
+| 2026-08-25 02:49:36 UTC | B | `life.mission.completed` | Decide the adjoint entry first theta coefficient |
