@@ -3262,3 +3262,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-25 03:01:50 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
 | 2026-08-25 03:12:29 UTC | B | `life.mission.completed` | Construct the high-Y theta-zero boundary packet |
 | 2026-08-25 03:13:55 UTC | B | `life.manager.stage_decision` | FQ3204 is accepted as bounded solve progress: it isolates terminal_covector_pullback_gap inside the high-Y theta-zero b… |
+| 2026-08-25 03:22:13 UTC | B | `life.mission.completed` | Decide the terminal covector pullback |
+| 2026-08-25 03:23:20 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
