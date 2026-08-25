@@ -3290,3 +3290,7 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-25 05:38:50 UTC | B | `life.manager.stage_decision` | FQ3218 is reviewed and validates a bounded no-witness obstruction with a proposition status change, but it explicitly d… |
 | 2026-08-25 05:44:38 UTC | A | `life.mission.completed` | Resolve the event-7 R-discriminant u-root collision obstruction |
 | 2026-08-25 05:45:41 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: node 'LRS_N6_SPAN20_T13_23_SELECTED13_B500_POST_RHO546_H0_SEPARATOR_BLOCKER' is marke… |
+| 2026-08-25 05:58:27 UTC | A | `life.mission.completed` | Splice the certified rho=200 tube into the far-negative chamber lift |
+| 2026-08-25 05:59:08 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: node 'LRS_N6_SPAN20_T13_23_SELECTED13_B500_POST_RHO546_H0_SEPARATOR_BLOCKER' is marke… |
+| 2026-08-25 05:57:49 UTC | B | `life.mission.completed` | Decide the off-line H313 annular/lower separatrix bucket |
+| 2026-08-25 05:59:12 UTC | B | `life.manager.stage_decision` | FQ3219 is a reviewed, substantive solve-stage reduction with correctly scoped support and real gap reduction, but the o… |
