@@ -3299,3 +3299,4 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-25 06:22:55 UTC | B | `life.mission.completed` | Decide the H313 off-line Delta_G>0 one-saddle splitting stratum |
 | 2026-08-25 06:23:58 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
 | 2026-08-25 06:34:46 UTC | B | `life.mission.completed` | Decide residual one-sided/non-H313 relevance for the H313 annular/lower bucket |
+| 2026-08-25 06:36:01 UTC | B | `life.manager.stage_decision` | FQ3222 is accepted as a bounded solve increment: it closes the residual Delta_G>0 H313 annular/lower no-witness questio… |
