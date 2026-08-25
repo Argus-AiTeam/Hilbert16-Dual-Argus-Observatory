@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-25 05:05:20 UTC",
+  "generated_at_utc": "2026-08-25 05:15:22 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -30,7 +30,7 @@
       "frontier_change": "",
       "frontier_summary": "",
       "git": {
-        "dirty_paths": 2456,
+        "dirty_paths": 2469,
         "head": "59e60f7",
         "last_commit": "Record event522 after event542 decision"
       },
@@ -38,7 +38,7 @@
       "inbox_files": 4,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787634267.5885,
+      "last_progress_at": 1787634754.5128467,
       "max_rounds": 32,
       "mission_id": "267ca2b3538c",
       "mission_status": "working",
@@ -46,7 +46,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 3067328,
-      "progress_age_seconds": 52.85544776916504,
+      "progress_age_seconds": 168.12167644500732,
       "rejected_attempts": 1,
       "review_reason": "proof layer incomplete: the event_index_7 weighted positivity certificate is valid and scoped, but the patched rho=200 tube verifier timed out before a RESULT line or next genuine obstruction; its success template also reports weighted_isolated_event_count=1 despite two splices",
       "review_status": "continue",
@@ -57,7 +57,7 @@
       "state": "running"
     },
     "B": {
-      "active_role": "planner",
+      "active_role": "engineer",
       "alive": true,
       "artifacts": [
         "research/solve/hyperbolic_hemicycle_cyclicity_scope.md",
@@ -84,26 +84,26 @@
       "frontier_change": "uncertainty_reduced",
       "frontier_summary": "Compact D=0, N-separated turning passages have moved from local/two-jet compatibility to a conditional all-orders exact-return and finite-zero insertion theorem.",
       "git": {
-        "dirty_paths": 772,
+        "dirty_paths": 774,
         "head": "0ecba9a",
         "last_commit": "Record FQ3194 high-Y resolvent certificate"
       },
       "health": "active",
       "inbox_files": 2,
       "label": "B",
-      "last_event": "codex.util.completed",
-      "last_progress_at": 1787634262.7490263,
+      "last_event": "round.start",
+      "last_progress_at": 1787634907.944932,
       "max_rounds": 32,
-      "mission_id": "ece5b3801929",
-      "mission_status": "continued",
-      "mission_title": "Decide the H313 balanced mu5/y central-transition coefficient face",
+      "mission_id": "06c2b923048b",
+      "mission_status": "working",
+      "mission_title": "Decide whether a same-convention H313 central two-jet atlas exists",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 3067257,
-      "progress_age_seconds": 57.69492149353027,
+      "progress_age_seconds": 14.6895911693573,
       "rejected_attempts": 0,
-      "review_reason": "FQ3215 correctly establishes that the current RR/FQ3106/FQ3107 conventions do not determine Q, so the balanced mu5/y face is obstructed and separated cells are only conditional.",
-      "review_status": "done",
+      "review_reason": "",
+      "review_status": "none",
       "round": 1,
       "route": "construction / lower bounds",
       "sid": "s-2fd8729b",
