@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-25 04:45:12 UTC",
+  "generated_at_utc": "2026-08-25 04:50:14 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -30,7 +30,7 @@
       "frontier_change": "",
       "frontier_summary": "",
       "git": {
-        "dirty_paths": 2437,
+        "dirty_paths": 2444,
         "head": "59e60f7",
         "last_commit": "Record event522 after event542 decision"
       },
@@ -38,7 +38,7 @@
       "inbox_files": 4,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787632991.2070534,
+      "last_progress_at": 1787633412.704044,
       "max_rounds": 32,
       "mission_id": "267ca2b3538c",
       "mission_status": "working",
@@ -46,7 +46,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 3067328,
-      "progress_age_seconds": 121.67837929725647,
+      "progress_age_seconds": 2.1360325813293457,
       "rejected_attempts": 1,
       "review_reason": "proof layer incomplete: the event_index_7 weighted positivity certificate is valid and scoped, but the patched rho=200 tube verifier timed out before a RESULT line or next genuine obstruction; its success template also reports weighted_isolated_event_count=1 despite two splices",
       "review_status": "continue",
@@ -57,7 +57,7 @@
       "state": "running"
     },
     "B": {
-      "active_role": "planner",
+      "active_role": "engineer",
       "alive": true,
       "artifacts": [
         "research/solve/hyperbolic_hemicycle_cyclicity_scope.md",
@@ -91,19 +91,19 @@
       "health": "active",
       "inbox_files": 2,
       "label": "B",
-      "last_event": "life.planner.start",
-      "last_progress_at": 1787633092.6421616,
+      "last_event": "engineer.progress",
+      "last_progress_at": 1787633359.3615334,
       "max_rounds": 32,
-      "mission_id": "e462cf24252b",
-      "mission_status": "continued",
-      "mission_title": "Decide the post-turning low-V section equivalence caveat",
+      "mission_id": "6cb69337976b",
+      "mission_status": "working",
+      "mission_title": "Decide strict plus-edge exact-balance branch accounting after no-return",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 3067257,
-      "progress_age_seconds": 20.243271112442017,
+      "progress_age_seconds": 55.478543281555176,
       "rejected_attempts": 0,
-      "review_reason": "FQ3213 materially completes the bounded mission: it proves the current compactified-flow/finite-hit conventions do not authorize treating the non-finite post-turning low-V section as the FQ3104/FQ3116/FQ3174 finite-hit row contribution, and it records the required nonclaims.",
-      "review_status": "done",
+      "review_reason": "",
+      "review_status": "none",
       "round": 1,
       "route": "construction / lower bounds",
       "sid": "s-2fd8729b",
