@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-25 00:44:14 UTC",
+  "generated_at_utc": "2026-08-25 00:54:16 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -30,7 +30,7 @@
       "frontier_change": "",
       "frontier_summary": "",
       "git": {
-        "dirty_paths": 2285,
+        "dirty_paths": 2292,
         "head": "59e60f7",
         "last_commit": "Record event522 after event542 decision"
       },
@@ -38,7 +38,7 @@
       "inbox_files": 4,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787618597.5858145,
+      "last_progress_at": 1787619206.5994537,
       "max_rounds": 32,
       "mission_id": "4b73d897d936",
       "mission_status": "working",
@@ -46,7 +46,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 3067328,
-      "progress_age_seconds": 57.31398892402649,
+      "progress_age_seconds": 50.34617829322815,
       "rejected_attempts": 1,
       "review_reason": "proof layer: the run gives real progress but the tangent-cone branch claim is not exact; the quadratic discriminant is only interval-inconclusive, so the asserted one unisolated real direction is not a certified algebraic/Puiseux isolation",
       "review_status": "continue",
@@ -84,7 +84,7 @@
       "frontier_change": "uncertainty_reduced",
       "frontier_summary": "Compact D=0, N-separated turning passages have moved from local/two-jet compatibility to a conditional all-orders exact-return and finite-zero insertion theorem.",
       "git": {
-        "dirty_paths": 722,
+        "dirty_paths": 724,
         "head": "912c9ac",
         "last_commit": "Record FQ3101 physical atlas obstruction"
       },
@@ -92,15 +92,15 @@
       "inbox_files": 2,
       "label": "B",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787618601.4054852,
+      "last_progress_at": 1787619194.7834086,
       "max_rounds": 32,
-      "mission_id": "0b20339e9ad0",
+      "mission_id": "8c6171734590",
       "mission_status": "working",
-      "mission_title": "Decide physical ratio-even fourth source-to-terminal regularity",
+      "mission_title": "Decide strict-edge fourth Hreg pathwise control",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 3067257,
-      "progress_age_seconds": 53.49431824684143,
+      "progress_age_seconds": 62.16222333908081,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
