@@ -1,12 +1,13 @@
 {
+  "status": "pass",
   "pdf": "main.pdf",
   "pdf_exists": true,
   "pdf_size_bytes": 304951,
   "text_extractor": "pdftotext",
   "extracted_text_chars": 25593,
   "semantic_text_checks": {
-    "title": false,
-    "open_problem_language": false,
+    "title": true,
+    "open_problem_language": true,
     "rho_200_semantic": true,
     "delta_strata_semantic": true,
     "y_equals_zero_semantic": true,
@@ -19,5 +20,6 @@
   "dependency_nodes_count": 7,
   "final_review_status": "pass",
   "general_hilbert_problem_solved_claimed": false,
-  "forbidden_complete_solution_claims_found": false
+  "forbidden_complete_solution_claims_found": false,
+  "private_absolute_paths_found_in_pdf_text": false
 }

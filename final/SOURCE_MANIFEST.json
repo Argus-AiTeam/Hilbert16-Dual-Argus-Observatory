@@ -131,6 +131,5 @@
       "size_bytes": 1232684,
       "sha256": "cfd094e06d09df00cdd6e10061952dcfc12d283cf809536e71866137daaabeaa"
     }
-  ],
-  "public_path_policy": "Evidence paths are repository-root-relative labels under math1/ and math2/; SHA-256 and byte sizes are unchanged from the reviewed private evidence store."
+  ]
 }
