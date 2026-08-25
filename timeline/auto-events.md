@@ -3225,3 +3225,6 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-25 00:50:36 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
 | 2026-08-25 01:01:38 UTC | B | `life.mission.completed` | Decide strict-edge fourth Hreg pathwise control |
 | 2026-08-25 01:03:30 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-25 01:18:05 UTC | A | `life.mission.completed` | Resolve the event-3 R-discriminant rank-zero singularity |
+| 2026-08-25 01:15:29 UTC | B | `life.mission.completed` | Decide fourth transported variational regularity |
+| 2026-08-25 01:17:04 UTC | B | `life.manager.stage_decision` | FQ3192 is accepted bounded solve progress, but it records a sharper C4 transport-budget obstruction rather than proving… |
