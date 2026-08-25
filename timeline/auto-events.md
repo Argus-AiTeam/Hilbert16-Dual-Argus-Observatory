@@ -3213,3 +3213,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-24 23:52:49 UTC | B | `life.mission.completed` | Decide the strict-edge Hreg third-jet composition packet |
 | 2026-08-24 23:54:16 UTC | B | `life.manager.stage_decision` | manager held (default) |
 | 2026-08-25 00:03:22 UTC | B | `life.mission.completed` | Decide the direct strict-edge Hreg C3 tensor theorem |
+| 2026-08-25 00:11:23 UTC | B | `life.mission.completed` | Decide the ratio-resolved Hreg pathwise expansion |
+| 2026-08-25 00:12:36 UTC | B | `life.manager.stage_decision` | FQ3186 is reviewed and gives a real solve-stage status change, but the original Hilbert XVI-II objective remains unreso… |
