@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-25 00:39:13 UTC",
+  "generated_at_utc": "2026-08-25 00:44:14 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -30,7 +30,7 @@
       "frontier_change": "",
       "frontier_summary": "",
       "git": {
-        "dirty_paths": 2283,
+        "dirty_paths": 2285,
         "head": "59e60f7",
         "last_commit": "Record event522 after event542 decision"
       },
@@ -38,7 +38,7 @@
       "inbox_files": 4,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787618350.7768111,
+      "last_progress_at": 1787618597.5858145,
       "max_rounds": 32,
       "mission_id": "4b73d897d936",
       "mission_status": "working",
@@ -46,7 +46,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 3067328,
-      "progress_age_seconds": 2.316568613052368,
+      "progress_age_seconds": 57.31398892402649,
       "rejected_attempts": 1,
       "review_reason": "proof layer: the run gives real progress but the tangent-cone branch claim is not exact; the quadratic discriminant is only interval-inconclusive, so the asserted one unisolated real direction is not a certified algebraic/Puiseux isolation",
       "review_status": "continue",
@@ -57,7 +57,7 @@
       "state": "running"
     },
     "B": {
-      "active_role": "planner",
+      "active_role": "engineer",
       "alive": true,
       "artifacts": [
         "research/solve/hyperbolic_hemicycle_cyclicity_scope.md",
@@ -91,19 +91,19 @@
       "health": "active",
       "inbox_files": 2,
       "label": "B",
-      "last_event": "life.planner.start",
-      "last_progress_at": 1787618330.08977,
+      "last_event": "engineer.progress",
+      "last_progress_at": 1787618601.4054852,
       "max_rounds": 32,
-      "mission_id": "1aeaf7802d1f",
-      "mission_status": "continued",
-      "mission_title": "Decide uniform Taylor-integral segment third-bound",
+      "mission_id": "0b20339e9ad0",
+      "mission_status": "working",
+      "mission_title": "Decide physical ratio-even fourth source-to-terminal regularity",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 3067257,
-      "progress_age_seconds": 23.003609657287598,
+      "progress_age_seconds": 53.49431824684143,
       "rejected_attempts": 0,
-      "review_reason": "FQ3189 correctly records the accepted sharper obstruction: r in [0,1] Taylor-integral segment bounds are not implied by the r=0 terminal-third slot; the formal witness preserves r=0 but violates O(t^kappa) along theta=t^4, and no physical refutation or composite readiness is claimed.",
-      "review_status": "done",
+      "review_reason": "",
+      "review_status": "none",
       "round": 1,
       "route": "construction / lower bounds",
       "sid": "s-2fd8729b",
