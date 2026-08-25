@@ -3294,3 +3294,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-25 05:59:08 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: node 'LRS_N6_SPAN20_T13_23_SELECTED13_B500_POST_RHO546_H0_SEPARATOR_BLOCKER' is marke… |
 | 2026-08-25 05:57:49 UTC | B | `life.mission.completed` | Decide the off-line H313 annular/lower separatrix bucket |
 | 2026-08-25 05:59:12 UTC | B | `life.manager.stage_decision` | FQ3219 is a reviewed, substantive solve-stage reduction with correctly scoped support and real gap reduction, but the o… |
+| 2026-08-25 06:12:10 UTC | B | `life.mission.completed` | Decide the H313 off-line Delta_G=0 degenerate stratum |
+| 2026-08-25 06:13:23 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
