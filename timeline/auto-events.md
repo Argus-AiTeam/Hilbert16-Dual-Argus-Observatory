@@ -3274,3 +3274,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-25 04:16:36 UTC | B | `life.mission.completed` | Decide plus-edge transport re-anchoring after same-A refutation |
 | 2026-08-25 04:18:07 UTC | B | `life.manager.stage_decision` | FQ3210 is a reviewed bounded solve increment: it retires the plus-edge transported-row coefficient route after the FQ32… |
 | 2026-08-25 04:27:31 UTC | B | `life.mission.completed` | Decide the low-V to finite-overlap transition datum |
+| 2026-08-25 04:36:29 UTC | B | `life.mission.completed` | Test direct no-return closure from the low-V barrier |
+| 2026-08-25 04:37:29 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
