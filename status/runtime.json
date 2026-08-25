@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-25 04:20:06 UTC",
+  "generated_at_utc": "2026-08-25 04:30:08 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -30,7 +30,7 @@
       "frontier_change": "",
       "frontier_summary": "",
       "git": {
-        "dirty_paths": 2416,
+        "dirty_paths": 2426,
         "head": "59e60f7",
         "last_commit": "Record event522 after event542 decision"
       },
@@ -38,7 +38,7 @@
       "inbox_files": 4,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787631555.011927,
+      "last_progress_at": 1787632186.8340645,
       "max_rounds": 32,
       "mission_id": "267ca2b3538c",
       "mission_status": "working",
@@ -46,7 +46,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 3067328,
-      "progress_age_seconds": 51.80293107032776,
+      "progress_age_seconds": 22.04279351234436,
       "rejected_attempts": 1,
       "review_reason": "proof layer incomplete: the event_index_7 weighted positivity certificate is valid and scoped, but the patched rho=200 tube verifier timed out before a RESULT line or next genuine obstruction; its success template also reports weighted_isolated_event_count=1 despite two splices",
       "review_status": "continue",
@@ -84,7 +84,7 @@
       "frontier_change": "uncertainty_reduced",
       "frontier_summary": "Compact D=0, N-separated turning passages have moved from local/two-jet compatibility to a conditional all-orders exact-return and finite-zero insertion theorem.",
       "git": {
-        "dirty_paths": 762,
+        "dirty_paths": 764,
         "head": "0ecba9a",
         "last_commit": "Record FQ3194 high-Y resolvent certificate"
       },
@@ -92,15 +92,15 @@
       "inbox_files": 2,
       "label": "B",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787631601.9641526,
+      "last_progress_at": 1787632208.8759327,
       "max_rounds": 32,
-      "mission_id": "06249333b1c0",
+      "mission_id": "c7e3dc97a661",
       "mission_status": "working",
-      "mission_title": "Decide the low-V to finite-overlap transition datum",
+      "mission_title": "Test direct no-return closure from the low-V barrier",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 3067257,
-      "progress_age_seconds": 4.85070538520813,
+      "progress_age_seconds": 0.0009253025054931641,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
