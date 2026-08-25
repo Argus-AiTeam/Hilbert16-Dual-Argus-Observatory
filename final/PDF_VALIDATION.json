@@ -2,9 +2,9 @@
   "status": "pass",
   "pdf": "main.pdf",
   "pdf_exists": true,
-  "pdf_size_bytes": 304951,
+  "pdf_size_bytes": 304980,
   "text_extractor": "pdftotext",
-  "extracted_text_chars": 25593,
+  "extracted_text_chars": 25618,
   "semantic_text_checks": {
     "title": true,
     "open_problem_language": true,

@@ -13,7 +13,7 @@
   },
   "size_audit": {
     "status": "pass",
-    "max_file_bytes": 304951,
+    "max_file_bytes": 304980,
     "oversize": []
   },
   "license_audit": {

@@ -261,7 +261,7 @@ fb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></u
 sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/sha
 re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb></usr/share/texl
 ive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on main.pdf (10 pages, 303909 bytes).
+Output written on main.pdf (10 pages, 303935 bytes).
 Transcript written on main.log.
 This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex)
  restricted \write18 enabled.
@@ -481,5 +481,5 @@ fb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></u
 sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/sha
 re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb></usr/share/texl
 ive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on main.pdf (10 pages, 304951 bytes).
+Output written on main.pdf (10 pages, 304980 bytes).
 Transcript written on main.log.
