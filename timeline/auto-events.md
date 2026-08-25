@@ -3232,3 +3232,9 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-25 01:24:01 UTC | B | `life.mission.completed` | Decide common exact-balance C4 transport budget |
 | 2026-08-25 01:28:02 UTC | A | `round.stall` |  |
 | 2026-08-25 01:24:58 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-25 01:35:48 UTC | A | `round.stall` |  |
+| 2026-08-25 01:37:26 UTC | A | `round.stall` |  |
+| 2026-08-25 01:38:35 UTC | A | `round.stall` |  |
+| 2026-08-25 01:38:49 UTC | A | `life.mission.completed` | Certify the event-3 cuspidal Newton sector transport |
+| 2026-08-25 01:34:41 UTC | B | `life.mission.completed` | Decide commuted high-Y resolvent/tube certificate |
+| 2026-08-25 01:36:34 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
