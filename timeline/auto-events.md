@@ -3286,3 +3286,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-25 05:13:31 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
 | 2026-08-25 05:22:32 UTC | B | `life.mission.completed` | Decide whether a same-convention H313 central two-jet atlas exists |
 | 2026-08-25 05:24:34 UTC | B | `life.manager.stage_decision` | FQ3217 is a reviewed, validated bounded solve result and retires the unspecified central-atlas route, but it explicitly… |
+| 2026-08-25 05:37:23 UTC | B | `life.mission.completed` | Screen the remaining H313 D_mubar annular/lower successor bucket |
+| 2026-08-25 05:38:50 UTC | B | `life.manager.stage_decision` | FQ3218 is reviewed and validates a bounded no-witness obstruction with a proposition status change, but it explicitly d… |
