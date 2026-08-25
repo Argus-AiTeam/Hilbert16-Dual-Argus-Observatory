@@ -3289,3 +3289,4 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-25 05:37:23 UTC | B | `life.mission.completed` | Screen the remaining H313 D_mubar annular/lower successor bucket |
 | 2026-08-25 05:38:50 UTC | B | `life.manager.stage_decision` | FQ3218 is reviewed and validates a bounded no-witness obstruction with a proposition status change, but it explicitly d… |
 | 2026-08-25 05:44:38 UTC | A | `life.mission.completed` | Resolve the event-7 R-discriminant u-root collision obstruction |
+| 2026-08-25 05:45:41 UTC | A | `life.manager.stage_decision` | stage 'solve' completion blocked: node 'LRS_N6_SPAN20_T13_23_SELECTED13_B500_POST_RHO546_H0_SEPARATOR_BLOCKER' is marke… |
