@@ -3248,3 +3248,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-25 02:10:38 UTC | B | `life.mission.completed` | Decide normalized endpoint-to-transport scalar data theorem |
 | 2026-08-25 02:11:48 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
 | 2026-08-25 02:17:35 UTC | A | `life.manager.stage_decision` | The weighted positivity certificate is a real scoped solve result, but it explicitly leaves the full B>=500 chamber, se… |
+| 2026-08-25 02:20:31 UTC | B | `life.mission.completed` | Decide the D_theta endpoint-resolvent limit |
+| 2026-08-25 02:21:34 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |

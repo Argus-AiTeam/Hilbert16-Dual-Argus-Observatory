@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-25 02:19:38 UTC",
+  "generated_at_utc": "2026-08-25 02:24:40 UTC",
   "isolation_issues": [],
   "seats": {
     "A": {
@@ -30,7 +30,7 @@
       "frontier_change": "",
       "frontier_summary": "",
       "git": {
-        "dirty_paths": 2338,
+        "dirty_paths": 2346,
         "head": "59e60f7",
         "last_commit": "Record event522 after event542 decision"
       },
@@ -38,7 +38,7 @@
       "inbox_files": 4,
       "label": "A",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787624370.3481948,
+      "last_progress_at": 1787624667.490915,
       "max_rounds": 32,
       "mission_id": "f1ececd7ddbb",
       "mission_status": "working",
@@ -46,7 +46,7 @@
       "models": "Engineer/Planner gpt-5.6-sol · Reviewer Gemini 3.1 Pro",
       "outbox_files": 3,
       "pid": 3067328,
-      "progress_age_seconds": 8.469894409179688,
+      "progress_age_seconds": 13.052229404449463,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
@@ -57,7 +57,7 @@
       "state": "running"
     },
     "B": {
-      "active_role": "reviewer",
+      "active_role": "engineer",
       "alive": true,
       "artifacts": [
         "research/solve/hyperbolic_hemicycle_cyclicity_scope.md",
@@ -92,15 +92,15 @@
       "inbox_files": 2,
       "label": "B",
       "last_event": "engineer.progress",
-      "last_progress_at": 1787624366.141927,
+      "last_progress_at": 1787624680.0789113,
       "max_rounds": 32,
-      "mission_id": "01bb81236b2c",
+      "mission_id": "ff1cf8d0c326",
       "mission_status": "working",
-      "mission_title": "Decide the D_theta endpoint-resolvent limit",
+      "mission_title": "Decide the endpoint d_e scale asymptotic",
       "models": "Engineer/Planner Gemini 3.1 Pro · Reviewer gpt-5.6-sol",
       "outbox_files": 4,
       "pid": 3067257,
-      "progress_age_seconds": 12.676162242889404,
+      "progress_age_seconds": 0.4642331600189209,
       "rejected_attempts": 0,
       "review_reason": "",
       "review_status": "none",
