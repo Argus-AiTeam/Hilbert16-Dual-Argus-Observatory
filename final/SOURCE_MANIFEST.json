@@ -1,0 +1,136 @@
+{
+  "generated_for": "Certified Local Obstructions and Exact Wall-Stratified Continuation toward Hilbert's Sixteenth Problem",
+  "claim_bearing_inputs": [
+    {
+      "path": "math2/research/scope/foundational_conventions_and_configuration_theorem.md",
+      "size_bytes": 13398,
+      "sha256": "5aca76060de153e222ad2cb407ea282cac2b04e3720b67dbe26ed25593713212"
+    },
+    {
+      "path": "math2/CONVENTIONS.md",
+      "size_bytes": 11431,
+      "sha256": "cf295f1d4a97ce616cf0bcf55da17f23470a5a2d49cc31e424b2897fbe7288a3"
+    },
+    {
+      "path": "math1/research/SCOPE.md",
+      "size_bytes": 26685,
+      "sha256": "31b5ed1a92a23d8237d98da292c9c13033651201c62727f06b2cce10bb30de84"
+    },
+    {
+      "path": "math1/research/FIXED_DEGREE_REALIZATION.md",
+      "size_bytes": 2774710,
+      "sha256": "af7db9751697ac54944f4f51c64e433ec86d5e22f740fa41ef309c62a27f0237"
+    },
+    {
+      "path": "math1/CHECKPOINT.md",
+      "size_bytes": 2523,
+      "sha256": "deae81fe3b94866b030843cfa4fbd4e1fc6be605ecd8842455cece972ebf040a"
+    },
+    {
+      "path": "math1/computations/lrs_n6_full_triangle_span20_tail_size_two_largeB_first_row_rho200_interior_rdisc_slice_stratifier.py",
+      "size_bytes": 51847,
+      "sha256": "25f95b86d1f5a35ae35a5f4a4032cd4746b8961c24715996b9c8b08c00391bb7"
+    },
+    {
+      "path": "math1/computations/lrs_n6_full_triangle_span20_tail_size_two_largeB_first_row_rho200_interior_rdisc_slice_exact_run.out",
+      "size_bytes": 206438,
+      "sha256": "ea65bce1e798b7bbd7c27ab4b14e3b308d4c5ffe247d66833240e6c212d3a01c"
+    },
+    {
+      "path": "math1/computations/lrs_n6_full_triangle_span20_tail_size_two_largeB_first_row_rho200_two_parameter_tube_verifier.py",
+      "size_bytes": 82833,
+      "sha256": "b02f80cd6f716f3d788c19c55d30b851246eb1d3531938e3aa2abfd5c7c7c9ad"
+    },
+    {
+      "path": "math1/computations/lrs_n6_full_triangle_span20_tail_size_two_largeB_first_row_rho200_two_parameter_tube_exact_run_v14.out",
+      "size_bytes": 35506,
+      "sha256": "78eb124a38925872adbcc350612ce21d3359ea02465a5a68eb7e5a1c7b0f4b71"
+    },
+    {
+      "path": "math1/computations/lrs_n6_full_triangle_span20_tail_size_two_largeB_first_row_rho200_two_parameter_tube_resume_exact_run_v26.out",
+      "size_bytes": 204188,
+      "sha256": "d9b597be0641ca31d261f2d25903acda0973d2ee6852a8c34d3b2cc422c430f4"
+    },
+    {
+      "path": "math1/computations/lrs_n6_full_triangle_span20_tail_size_two_largeB_first_row_rho200_boundary_verifier.py",
+      "size_bytes": 33522,
+      "sha256": "bd8e57a05f3827322d6785b63fb349be0bcc01cb54a9ef5962c39c3a49072908"
+    },
+    {
+      "path": "math1/computations/lrs_n6_full_triangle_span20_tail_size_two_largeB_first_row_rho200_boundary_exact_run_v7.out",
+      "size_bytes": 3097,
+      "sha256": "8fdbbe89d5b0b2450d665c2727a536ed17b92b2e6301b5940681657082e50d1e"
+    },
+    {
+      "path": "math1/computations/row22_31_event263_I1_pair_resultant_4_9_bottom_after_event263_top.py",
+      "size_bytes": 49661,
+      "sha256": "76cd90ce5b2ec1a698727d2649d3e86787d3e1e37f30c747b0af40cefaaf7e79"
+    },
+    {
+      "path": "math1/computations/row22_31_event263_I1_pair_resultant_4_9_bottom_after_event263_top_exact_run.out",
+      "size_bytes": 12789,
+      "sha256": "3e884011e452fadc54c4db2840b8df8a6100346682d2ff18a7acb851ae04e2a3"
+    },
+    {
+      "path": "math1/computations/row22_31_event263_I1_pair_resultant_4_9_bottom_after_event263_top_artifact_validation.out",
+      "size_bytes": 2687,
+      "sha256": "84e6e02ef8b3af5f195c4b07c4e4e1f4f88abc0a7e3311839dbae207d86cd6a2"
+    },
+    {
+      "path": "math2/research/literature/summary.md",
+      "size_bytes": 41719,
+      "sha256": "1592ae187e24fb883e7348e9d297ed73b132d47b0646ac2d90cb6f81cb164749"
+    },
+    {
+      "path": "math2/research/solve/h3_14_boundary_cyclicity_gap.md",
+      "size_bytes": 4120330,
+      "sha256": "63dce24fa11f83a707c2b8329494eedc2f298ec464e10ec7a893628df0ed4e24"
+    },
+    {
+      "path": "math2/computations/fq3081_h313_nonboundary_atlas.sidecar.json",
+      "size_bytes": 11473,
+      "sha256": "06a3386f2bd20bc9251b1cc8f145b3bd9c519bf98d6ec5fa35b8f43417d5c115"
+    },
+    {
+      "path": "math2/computations/fq3082_h313_direct_typeii_composition.sidecar.json",
+      "size_bytes": 7622,
+      "sha256": "b6d68880515648ee69d14e00690f0bf7551b66f3d957c3dd82b5549cea929a97"
+    },
+    {
+      "path": "math2/computations/fq3221_offline_positive_discriminant_splitting_sidecar.json",
+      "size_bytes": 10489,
+      "sha256": "762e8879401373a0baf6e302592e43021469dd1fa38d2451d6ca548b1d3e98c6"
+    },
+    {
+      "path": "math2/computations/fq3221_offline_positive_discriminant_splitting.command.log",
+      "size_bytes": 58,
+      "sha256": "9c795770d4c211042f630e307f007819d06ae96dde315c535425eb5d33cfb158"
+    },
+    {
+      "path": "math2/computations/fq3222_residual_relevance_sidecar.json",
+      "size_bytes": 11010,
+      "sha256": "7a344b005361b69cc87d318d4cec9d9e5db7746d9c3966e114dab3091e647b6c"
+    },
+    {
+      "path": "math2/computations/fq3222_residual_relevance.validation.log",
+      "size_bytes": 45,
+      "sha256": "54869dfd96289160f1cd9816afe8802687fbdfdd76a9438ce8db2fc8d3e26ccf"
+    },
+    {
+      "path": "math2/computations/fq3223_h313_saddlenode_global_landing_sidecar.json",
+      "size_bytes": 9325,
+      "sha256": "94b363b0909b6174e6ee5538c3269ea35eff240c3d65312008ead9d2ab7a2bc9"
+    },
+    {
+      "path": "math2/computations/fq3223_h313_saddlenode_global_landing.command.log",
+      "size_bytes": 1144,
+      "sha256": "f8a7857fec7ef625e4c1efc812c5ac316142f9da94a8b63399b35c38eaa26e9b"
+    },
+    {
+      "path": "math2/research/ROUTE_LEDGER.json",
+      "size_bytes": 1232684,
+      "sha256": "cfd094e06d09df00cdd6e10061952dcfc12d283cf809536e71866137daaabeaa"
+    }
+  ],
+  "public_path_policy": "Evidence paths are repository-root-relative labels under math1/ and math2/; SHA-256 and byte sizes are unchanged from the reviewed private evidence store."
+}

@@ -1,0 +1,23 @@
+{
+  "pdf": "main.pdf",
+  "pdf_exists": true,
+  "pdf_size_bytes": 304951,
+  "text_extractor": "pdftotext",
+  "extracted_text_chars": 25593,
+  "semantic_text_checks": {
+    "title": false,
+    "open_problem_language": false,
+    "rho_200_semantic": true,
+    "delta_strata_semantic": true,
+    "y_equals_zero_semantic": true,
+    "limitations_section": true
+  },
+  "readable_extracted_text": true,
+  "json_artifacts_parse": true,
+  "claims_count": 7,
+  "manifest_source_count": 26,
+  "dependency_nodes_count": 7,
+  "final_review_status": "pass",
+  "general_hilbert_problem_solved_claimed": false,
+  "forbidden_complete_solution_claims_found": false
+}

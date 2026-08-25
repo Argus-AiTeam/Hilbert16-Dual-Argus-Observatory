@@ -1,0 +1,289 @@
+\documentclass[11pt]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{amsmath,amssymb,amsthm}
+\usepackage{longtable}
+\usepackage{array}
+\usepackage{xcolor}
+\usepackage{hyperref}
+\hypersetup{colorlinks=true,linkcolor=blue,citecolor=blue,urlcolor=blue}
+
+\newtheorem{theorem}{Theorem}
+\newtheorem{proposition}{Proposition}
+\newtheorem{claim}{Claim}
+\newcommand{\R}{\mathbb R}
+\newcommand{\NN}{\mathbb N}
+\newcommand{\classone}{\textbf{Class 1: established cited result}}
+\newcommand{\classtwo}{\textbf{Class 2: proved here}}
+\newcommand{\classthree}{\textbf{Class 3: exact finite certificate}}
+\newcommand{\classfour}{\textbf{Class 4: conditional reduction}}
+\newcommand{\classfive}{\textbf{Class 5: open gap or failed route}}
+
+\title{Certified Local Obstructions and Exact Wall-Stratified Continuation toward Hilbert's Sixteenth Problem}
+\author{Consolidated evidence from the \texttt{math1} and \texttt{math2} campaigns}
+\date{24 August 2026}
+
+\begin{document}
+\maketitle
+
+\begin{abstract}
+This paper consolidates two bounded research campaigns toward Hilbert's sixteenth problem, Part II.  The general problem remains open: no value of \(H(n)\), \(H(2)\), \(H(6)\), no uniform finiteness theorem, no complete configuration theorem, and no 20-cycle degree-six candidate is claimed.  The retained contribution is narrower: exact conventions for the problem, audited reasons why pointwise Dulac finiteness does not supply a uniform degree-wise bound, a finite wall-stratified continuation certificate for one Llibre--Ramirez--Sadovskaia-style degree-six local atlas cell near \(\rho=200\), and local obstructions in the quadratic \((H^3_{13})\) successor analysis, including \(\Delta_G\) strata and a one-way \(Y=0\) crossing obstruction.
+\end{abstract}
+
+\section{Evidence classes and scope}
+Every formal theorem or proposition below is tagged by one of the five allowed evidence classes:
+\begin{enumerate}
+\item \classone;
+\item \classtwo;
+\item \classthree;
+\item \classfour;
+\item \classfive.
+\end{enumerate}
+The tags are part of the statements.  Computational certificates are used only over the finite algebraic objects and parameter boxes explicitly named in the statement.  A successful program exit code is treated as verifier evidence, not as a mathematical proof by itself; the proof sketches spell out the exact finite object, arithmetic domain, sign or root-count argument, and coverage claim.  Anything not bridged in this way is explicitly downgraded to evidence or an open gap.
+
+\section{Problem conventions}
+Let
+\[
+  X=(P,Q),\qquad \dot x=P(x,y),\quad \dot y=Q(x,y),
+\]
+where \(P,Q\in\R[x,y]\), and put \(\deg X=\max(\deg P,\deg Q)\), with the zero field assigned degree \(-\infty\).  For \(n\ge0\),
+\[
+  \mathcal V_{\le n}=\{X:\deg X\le n\}.
+\]
+A periodic orbit is the image in \(\R^2\) of a non-stationary periodic solution.  It is counted geometrically: reparametrization, orientation, period, multiplicity of a Poincare fixed point, and cyclicity do not create additional elements.  A limit cycle is a periodic-orbit image isolated among periodic-orbit images.  Define
+\[
+  \operatorname{LC}(X)=\{\hbox{geometric finite-plane limit cycles of }X\},
+\]
+and
+\[
+  L(X)=\sup\{|A|:A\subseteq\operatorname{LC}(X),\ A\hbox{ finite}\}\in\NN_0\cup\{\infty\}.
+\]
+The Hilbert number used here is the extended supremum
+\[
+  H(n)=\sup_{X\in\mathcal V_{\le n}}L(X).
+\]
+Thus \(H(n)=\infty\) means unbounded finite counts across the degree-\(\le n\) family, not necessarily one vector field with infinitely many cycles.  If \(H(n)=m<\infty\), then the maximum is attained, since all realized finite values are integers.  The line at infinity in the Poincare compactification is an invariant boundary used in cyclicity arguments, but it is not an affine limit cycle and contributes no element to \(\operatorname{LC}(X)\).
+
+\begin{theorem}[Conventions and finite configuration invariant; \classtwo, with \classone\ background for Dulac finiteness]\label{thm:conventions}
+For finite affine cycle families, ambient configuration equivalence is exactly unlabelled rooted nesting-forest equivalence.  Singularities, separatrices, stability, multiplicity, and the line at infinity are not nodes of the base cycle configuration.  Moreover \(H_{=}(n)=H(n)\) for the exact-degree supremum \(H_{=}(n)=\sup_{\deg X=n}L(X)\), but this equality of suprema is not a complete phase-portrait reduction for each field.
+\end{theorem}
+
+\begin{proof}
+Distinct periodic orbits of a polynomial ODE are disjoint by uniqueness, and each periodic orbit is a Jordan curve by least-period injectivity.  For finitely many disjoint Jordan curves, the relation \(\gamma\prec\delta\) if \(\gamma\) lies in the bounded component of \(\R^2\setminus\delta\) has a unique parent for every non-root curve; hence its Hasse diagram is a rooted forest.  A plane homeomorphism preserves bounded complementary components, so it preserves the forest.  Conversely, a forest isomorphism identifies the boundary components of the outer sphere-with-holes region and each disk-with-holes region; the Jordan--Schoenflies theorem and cross-cuts extend those boundary maps and glue them into an ambient homeomorphism fixing infinity.
+
+For \(H_{=}(n)=H(n)\), take a finite subfamily \(A\subseteq\operatorname{LC}(X)\) of a degree-\(d<n\) nonzero field \(X\).  Choose a line \(x=a\) disjoint from the compact union of curves in \(A\) and set \(Y=(x-a)^{n-d}X\).  Near every curve of \(A\), the multiplier is nonzero, so trajectories and isolation are preserved up to time change.  Therefore every finite cycle count visible below degree \(n\) is visible at exact degree \(n\); the reverse inequality is inclusion.  This proves equality of suprema, while deliberately not asserting preservation of all singularities or all nonselected global phase-portrait data.
+\end{proof}
+
+\begin{proposition}[Dulac finiteness is not a uniform Hilbert bound; \classtwo, with \classone\ background]\label{prop:dulac-uniform}
+The per-vector-field Dulac--Ilyashenko--Ecalle theorem supplies
+\[
+  \forall X\in\mathcal V_{\le n}\ \exists M_X\quad L(X)\le M_X,
+\]
+not the uniform statement
+\[
+  \exists M_n\ \forall X\in\mathcal V_{\le n}\quad L(X)\le M_n.
+\]
+Consequently, citing pointwise finiteness alone does not prove \(H(n)<\infty\).
+\end{proposition}
+
+\begin{proof}
+The first formula has the quantifier order \(\forall X\,\exists M_X\); the second has \(\exists M_n\,\forall X\).  The latter implies the former, but the reverse implication is invalid without an additional compactness, stratification, valency, or cyclicity theorem that controls the constants uniformly over the degree-\(\le n\) parameter space.  This logical gap is exactly the remaining uniform Hilbert-number problem.
+\end{proof}
+
+\section{Route A: exact LRS-style wall-stratified continuation}
+The \texttt{math1} campaign investigated Llibre--Ramirez--Sadovskaia-style Darboux/invariant-curve mechanisms in degree six.  The relevant local atlas fixes \(n=6\), the full-triangle span-20 tail-size-two support, target \(T=\{(1,3),(2,3)\}\), and selected tail \((1,3)\) for the first row in a far-negative \(B\)-chamber.  The project tracks real branches of algebraic curves by event walls: nonzero constant and leading coefficients, discriminant walls for \(u\)-root collisions, common-resultant walls with the comparison polynomial \(C\), and critical-value walls for levels \(0\) and \(1\).  Descartes and Sturm isolation supply one-dimensional root counts on the \(\rho=200\) slice; rational interpolation and Bernstein sign certificates supply the local two-parameter tube.
+
+\begin{proposition}[The \(\rho=200\) LRS local tube certificate; \classthree]\label{prop:rho200}
+In the Route A first-row selected-tail model just described, with \(\rho=-\lambda-2\), \(B=500+s\), \(s\in(0,\infty)\), and
+\[
+  \rho\in\left[
+  \frac{944473296573929042739199}{4722366482869645213696},
+  \frac{944473296573929042739201}{4722366482869645213696}
+  \right],
+\]
+the finite certificate proves the following and only the following:
+\begin{enumerate}
+\item the \(\rho=200\) slice is transported through all positive-\(s\) event walls in the listed first-row selected-tail atlas;
+\item the split-resumed local two-parameter tube has 24 ordered event clusters, 25 bad-event-free \(s\)-cells, and no regular-level \(E=11\) witness in that finite model;
+\item every local cell has at most 10 real regular-level curve roots in the counted side word;
+\item the certificate does not prove the full \(B\ge500\) chamber, selected-row retirement, tail-size-two retirement, global \(E=11\) nonexistence, \(H(6)\), CONFIG6, or uniform Hilbert finiteness.
+\end{enumerate}
+\end{proposition}
+
+\begin{proof}
+The finite algebraic object is the list of event polynomials recorded by the verifier:
+\[
+\begin{array}{c|c|c}
+\hbox{event} & \deg_q & \deg_s\\
+\hline
+R\hbox{ constant coefficient} & 0 & 4\\
+R\hbox{ leading coefficient} & 4 & 0\\
+R\hbox{ discriminant} & 60 & 54\\
+R,C\hbox{ discriminant common root} & 16 & 16\\
+R,C\hbox{ leading common root} & 12 & 12\\
+\hbox{critical value }0 & 32 & 32\\
+\hbox{critical value }1 & 96 & 96
+\end{array}
+\]
+where \(q=\rho-200\) is restricted to the rational interval of half-width \(1/4722366482869645213696\).  On the central slice \(q=0\), the verifier isolates all positive \(s\)-roots of these families using exact integer/rational Sturm and Descartes computations: the respective positive root counts are \(0,0,3,3,2,4,12\), giving 24 ordered clusters.  Between adjacent clusters, signs of the event polynomials are fixed; therefore the real branch count word is locally constant.
+
+For the two discriminant clusters where the naive graph bracket fails, the certificate uses weighted local coordinates and exact positivity isolation to show there is no real punctured branch in the weighted subbox.  The adjacent side words agree in maximum count, so these events are real collisions with no count increase.  For the two-parameter tube, \(129\) rational \(q\)-nodes (\(-64,\ldots,64\)) are interpolated exactly; Bernstein sign certificates prove the same event signs on every cell and on the \(s\ge4096\) tail.  The output line records \(\texttt{two\_parameter\_tube\_transport\_certified=True}\), \(\texttt{regular\_level\_E11\_candidate\_found=False}\), and all nonclaims listed above.  The boundary-exit q-collar output records a predecessor audit of this tube but no separate terminal theorem is used here.
+\end{proof}
+
+\begin{proposition}[A selected successor wall certificate; \classthree]\label{prop:event263}
+For the separate Route A selected row \(T=\{(2,2),(3,1)\}\), selected tail \((2,2)\), the certified crossing of
+\[
+\texttt{pos:event263:I1:pair\_resultant:(4,9):bottom}
+\]
+after the event263-top/event191-bottom predecessor is harmless in the finite atlas sense: event263 retires on that branch, event554 remains active, \(\texttt{max\_projected\_real\_u\_roots\_bound}=9\), \(\texttt{max\_curve\_point\_upper\_bound}=18\), and no certified 20-point regular-level candidate is isolated.  This is row-local selected-tail evidence only.
+\end{proposition}
+
+\begin{proof}
+The verifier constructs a rational successor rectangle and checks the wall crossing by exact signs at the bottom edge, exact resultants in \(\lambda\) for the common-\(\alpha\) numerator and denominator, and a Descartes deletion certificate with maximum excess zero.  The union audit then covers the successor pieces with Bernstein boxes and negative sign certificates.  The validation output confirms the result line and preserves the next blocker as event554.  Since the proof object is one selected wall in one selected atlas branch, it cannot be promoted to an \(H(6)\), CONFIG6, row-retirement, or global nonexistence theorem.
+\end{proof}
+
+\section{Route B: compactified quadratic transition analysis}
+The \texttt{math2} campaign worked in the compactified Dumortier--Roussarie--Rousseau quadratic program.  The retained local model for \((H^3_{13})\) uses the RR weighted blow-up with invariant leaves \(r\rho=\nu\), Type-II endpoint Dulac maps at \(P_1,P_2\), and a rescaled \(D_{\bar\mu}\) field.  The sidecar sources identify the direct nonboundary \(P_1\)-to-\(P_2\) successor as the first concrete unresolved successor after the boundary hemicycle contrast.
+
+\begin{proposition}[H313 direct Type-II composition remains an open packet; \classfour\ and \classfive]\label{prop:h313-direct}
+For \(0<B<1/2\) in the RR \((H^3_{13})\) range, the nonboundary direct \(P_1\)-to-\(P_2\) successor reduces to a scalar endpoint comparison on the same leaf \(r\rho=\nu\),
+\[
+  V_A(r,\rho)=D^r_1(r,\rho)-
+  S_A\bigl(D^r_2(U_A r,U_A^{-1}\rho),\nu\bigr),
+\]
+with \(U_A(0,0)\ne0\).  After the connection constant term is imposed,
+\[
+  V_A=r^{\sigma_0}\bigl(C_{H313}^{(0)}(A,\nu)+C_{H313}^{(1)}(r,\rho,A)\bigr).
+\]
+The checked RR derivation-division theorem does not apply directly because the two endpoint Type-II terms have the same base monomial on the actual same-\(r\) comparison.  Therefore this packet is a conditional reduction/open gap, not a finite-cyclicity theorem.
+\end{proposition}
+
+\begin{proof}
+The finite symbolic check records \(a=2/3\), sample \(B=1/3\), \(\sigma=1/2\), endpoint eigenvalue signs consistent with Type-II passages at both \(P_1\) and \(P_2\), and \(\texttt{actual\_same\_r\_thderdiv\_delta}=0\).  RR's theorem requires nonresonance of ratios of leading monomials.  The direct comparison places both endpoint leading terms in the same \(r^{\sigma_0}\) scale, so the named theorem's hypothesis is absent.  No alternate checked theorem supplies the missing finite-zero statement.
+\end{proof}
+
+\begin{proposition}[\(\Delta_G>0\) middle-saddle one-way crossing obstruction; \classtwo]\label{prop:delta-positive}
+Consider the RR \(H313\) off-line Lienard reduction with \(1/2<a<1\), \(\bar\mu_1\ne0\), and \(\Delta_G>0\).  Let \(\xi_1<\xi_2<\xi_3\) be the three simple roots of
+\[
+  G(X)=(X+\bar\mu_3)(aX^2+\bar\mu_2)-\bar\mu_1,
+\]
+and let \(S_2=(\xi_2,Y_s)\), \(Y_s=-a\xi_2^2-\bar\mu_2\), be the middle finite saddle.  Then \(S_2\) cannot be the middle vertex of an endpoint-compatible \(H313\) chain \(P_1\to S_2\to P_2\).
+\end{proposition}
+
+\begin{proof}
+The root ordering and \(\Delta_G>0\) hypothesis give a unique middle saddle: \(G'(\xi_2)<0\), with hyperbolicity ratio
+\[
+  \rho=\frac{\sqrt{\tau_s^2-4G'(\xi_2)}-\tau_s}
+  {\sqrt{\tau_s^2-4G'(\xi_2)}+\tau_s},
+  \qquad \tau_s=(2a+1)\xi_2+\bar\mu_3.
+\]
+The \(H313\) endpoint branch has \(Y=c/X+O(X^{-2})\), \(c=-\bar\mu_1/(a+1)\).  Hence the sign of \(Y\) near \(P_1\) is \(\operatorname{sign}(\bar\mu_1)\), while the sign near \(P_2\) is \(-\operatorname{sign}(\bar\mu_1)\).  On the line \(Y=0\), the original vector field satisfies \(\dot Y=\bar\mu_1\), so crossings of \(Y=0\) are one-way.  Therefore a \(P_1\to S_2\) H313 half requires \(\operatorname{sign}(Y_s)=\operatorname{sign}(\bar\mu_1)\), whereas an \(S_2\to P_2\) H313 half requires \(\operatorname{sign}(Y_s)=-\operatorname{sign}(\bar\mu_1)\).  In the off-line bucket \(Y_s\ne0\), because \(Y_s=0\) at a finite singularity would force \(G(\xi_2)=-\bar\mu_1\), contradicting \(\bar\mu_1\ne0\).  The two necessary sign conditions are incompatible.
+\end{proof}
+
+\begin{proposition}[\(\Delta_G=0\) semihyperbolic landing split; \classtwo]\label{prop:delta-zero}
+In the same RR \(H313\) off-line model, a double-root stratum with \(q/\tau>0\) has the local semihyperbolic left-in/right-out orientation, but no off-line member \(\bar\mu_1\ne0\) has both H313 endpoint landings.  The only two-ended survivor in this packet is the invariant-line case \(\bar\mu_1=\bar\mu_2=s=0\), \(Y=0\), oriented \(P_1\to S_0\to P_2\); its endpoint-matched Dulac/anchor packet remains open.
+\end{proposition}
+
+\begin{proof}
+For a double root \(s\),
+\[
+\bar\mu_2=-a(3s^2+2\bar\mu_3s),\qquad
+\bar\mu_1=-2as(s+\bar\mu_3)^2,
+\]
+and, after translation, the normal form is
+\[
+  \dot z=u,\qquad
+  \dot u=\tau u+(2a+1)zu-qz^2-az^3,
+\]
+where \(\tau=(2a+1)s+\bar\mu_3\) and \(q=a(3s+\bar\mu_3)\).  The case \(q/\tau>0\) is the local left-in/right-out saddle-node orientation.  At the double root,
+\[
+  Y_s=2as(s+\bar\mu_3),\qquad
+  \bar\mu_1Y_s=-4a^2s^2(s+\bar\mu_3)^3.
+\]
+The H313 endpoint signs and one-way \(Y=0\) crossing rule are the same as in Proposition~\ref{prop:delta-positive}.  If \(s+\bar\mu_3>0\), only the \(S\to P_2\) half is sign-compatible; if \(s+\bar\mu_3<0\), only the \(P_1\to S\) half is sign-compatible.  Thus no off-line \(\bar\mu_1\ne0\) double-root member gives both endpoint landings.  The invariant-line case has \(Y=0\), \(\dot X=aX^2\), and \(Y/X^2\to0\) at both endpoints, so it remains an incidence candidate, but no finite-cyclicity theorem for its full endpoint-matched transition packet is supplied.
+\end{proof}
+
+\section{Synthesis}
+The two routes share a strategy.  First compactify the phase portrait or parameterized algebraic family.  Then stratify the parameter space by exact event walls: discriminants, resultants, endpoint signs, transition domains, and invariant leaves.  On each stratum, replace qualitative continuation by exact sign, root-count, or transition data.  Finally, certify local exclusions or identify the exact theorem missing for global gluing.
+
+The common obstruction is global uniformity.  Route A shows that an exact wall-stratified atlas can transport a chosen local model through many events without finding an \(E=11\) or 20-point candidate, but the certificate is explicitly finite and selected.  Route B shows that several plausible H313 successor chains fail by endpoint or one-way crossing signs, while the surviving direct or semihyperbolic packets still require endpoint-matched Dulac/transition finite-zero theorems.  Neither route covers all vector fields of a fixed degree.
+
+\section{Claim table and proof dependencies}
+\begin{longtable}{>{\raggedright\arraybackslash}p{0.17\textwidth}>{\raggedright\arraybackslash}p{0.17\textwidth}>{\raggedright\arraybackslash}p{0.31\textwidth}>{\raggedright\arraybackslash}p{0.25\textwidth}}
+\textbf{Claim} & \textbf{Class} & \textbf{Main dependencies} & \textbf{Limit}\\
+\hline
+Theorem~\ref{thm:conventions} & Class 2; Class 1 for Dulac background & \path{math2/research/scope/foundational_conventions_and_configuration_theorem.md}; \path{math1/research/SCOPE.md} & Definitions and finite configurations only; no \(H(n)\) bound.\\
+Proposition~\ref{prop:dulac-uniform} & Class 2; Class 1 for Dulac background & same scope files; Ilyashenko/Ecalle citations & Logical quantifier audit only.\\
+Proposition~\ref{prop:rho200} & Class 3 & \path{math1/computations/lrs_n6_full_triangle_span20_tail_size_two_largeB_first_row_rho200_interior_rdisc_slice_exact_run.out}; \path{math1/computations/lrs_n6_full_triangle_span20_tail_size_two_largeB_first_row_rho200_two_parameter_tube_resume_exact_run_v26.out} & Local first-row selected-tail tube; not \(H(6)\) or CONFIG6.\\
+Proposition~\ref{prop:event263} & Class 3 & \path{math1/CHECKPOINT.md}; \path{math1/computations/row22_31_event263_I1_pair_resultant_4_9_bottom_after_event263_top_exact_run.out} & One selected successor wall only.\\
+Proposition~\ref{prop:h313-direct} & Class 4/5 & \path{math2/computations/fq3081_h313_nonboundary_atlas.sidecar.json}; \path{math2/computations/fq3082_h313_direct_typeii_composition.sidecar.json} & Reduction and theorem-gap statement, not cyclicity.\\
+Proposition~\ref{prop:delta-positive} & Class 2 & \path{math2/computations/fq3221_offline_positive_discriminant_splitting_sidecar.json} & Only \(\Delta_G>0\) middle-saddle H313 chain.\\
+Proposition~\ref{prop:delta-zero} & Class 2 & \path{math2/computations/fq3223_h313_saddlenode_global_landing_sidecar.json}; \path{math2/computations/fq3222_residual_relevance_sidecar.json} & Landing split only; surviving saddle-node packet open.\\
+\end{longtable}
+
+The machine-readable dependency graph is in \texttt{PROOF\_DEPENDENCIES.json}.  The audit rows in \texttt{CLAIMS\_AUDIT.json} are intended to be checked claim-by-claim against the theorem and proposition labels above.
+
+\section{Research process and route decisions}
+Route A began with lower-bound and fixed-degree realizability mechanisms, including Harnack/tropical and LRS sparse-curve constructions.  Many degree-six search classes were retired by exact genus, patchworking, Reeb-graph, and root-budget obstructions.  The surviving evidence most useful for this paper is not a global construction but the exact continuation discipline: list event walls, isolate their roots, certify successor behavior, and mark every failed candidate with its finite scope.
+
+Route B began with the DRR compactified quadratic program.  Source audits kept the RR boundary theorem for named boundary limit-periodic sets separated from full finite cyclicity of all successors.  The H313 direct Type-II packet remains open because the available derivation-division theorem does not match the same-monomial endpoint composition.  The \(\Delta_G>0\) and \(\Delta_G=0\) strata nevertheless yield useful obstructions: one-way \(Y=0\) crossing blocks two-sided H313 landing through the middle saddle or off-line saddle-node, while the invariant-line survivor is narrowed to an explicit remaining packet.
+
+Adversarial checks changed the frontier by demoting several plausible proof paths: boundary cyclicity was not treated as full H313 cyclicity; same-coordinate and central-atlas data not present in the source were not invented; Route A's local rho tube was not promoted to a full chamber or Hilbert-number statement; and a missing boundary-exit terminal result was not used as a theorem.
+
+\section{Limitations and open problems}
+The following are not proved here:
+\begin{enumerate}
+\item Hilbert's sixteenth problem, Part II, in general;
+\item uniform finiteness \(H(n)<\infty\) for any new \(n\);
+\item a value of \(H(2)\), \(H(6)\), or any \(H(n)\);
+\item a complete degree-six configuration theorem or CONFIG6;
+\item a certified degree-six 20-cycle candidate;
+\item full finite cyclicity of all H313 nonboundary successors;
+\item a global gluing theorem turning the local Route A or Route B exclusions into degree-wise uniform bounds.
+\end{enumerate}
+The remaining mathematical gap is not a lack of local signs; it is the absence of a theorem that glues all compactified strata, degenerate exact-degree faces, transition maps, and local finite-zero packets uniformly over the relevant coefficient space.
+
+\appendix
+\section{Reproducibility appendix}
+The exact verifier entry points and expected outputs are as follows.
+\begin{longtable}{>{\raggedright\arraybackslash}p{0.28\textwidth}>{\raggedright\arraybackslash}p{0.33\textwidth}>{\raggedright\arraybackslash}p{0.29\textwidth}}
+\textbf{Scope} & \textbf{Entry point} & \textbf{Expected output}\\
+\hline
+Route A \(\rho=200\) slice & \path{math1/computations/lrs_n6_full_triangle_span20_tail_size_two_largeB_first_row_rho200_interior_rdisc_slice_stratifier.py --certify} & \texttt{first\_row\_rho200\_interior\_rdisc\_slice\_stratifier\_certified=True}; no \(E=11\) witness.\\
+Route A local tube & \path{math1/computations/lrs_n6_full_triangle_span20_tail_size_two_largeB_first_row_rho200_two_parameter_tube_verifier.py --resume-after-event-strips} & \texttt{first\_row\_rho200\_two\_parameter\_tube\_after\_event7\_split\_resume\_certified=True}; \texttt{two\_parameter\_tube\_transport\_certified=True}.\\
+Route A boundary audit & \path{math1/computations/lrs_n6_full_triangle_span20_tail_size_two_largeB_first_row_rho200_boundary_verifier.py --certify} & predecessor audit only in this paper; no independent boundary theorem imported.\\
+Route A successor & \path{math1/computations/row22_31_event263_I1_pair_resultant_4_9_bottom_after_event263_top.py} & harmless successor; \(\le9\) projected real \(u\)-roots, \(\le18\) curve points, no 20-point candidate.\\
+Route B direct H313 packet & \path{math2/computations/fq3082_h313_direct_typeii_composition.sidecar.json} & theorem-gap decision: RR \texttt{thderdiv} not applicable to same-monomial comparison.\\
+Route B \(\Delta_G>0\) & \path{math2/computations/fq3221_offline_positive_discriminant_splitting_validator.py} & validation passed; no endpoint-compatible \(P_1\to S_2\to P_2\) H313 chain.\\
+Route B residual relevance & \path{math2/computations/fq3222_residual_relevance_validator.py} & validation passed; no new residual \(\Delta_G>0\) annular/lower witness.\\
+Route B \(\Delta_G=0\) & \path{math2/computations/fq3223_h313_saddlenode_global_landing_validator.py} & validation passed; off-line semihyperbolic candidates lack both H313 landings; invariant-line survivor remains open.\\
+\end{longtable}
+
+All exact arithmetic cited above is rational/integer arithmetic.  Root counts are Sturm or Descartes counts on explicitly isolated rational intervals.  Sign coverage in two variables uses rational interpolation and Bernstein sign certificates on rational boxes.  The finite domains and nonclaims are part of the verifier output and are repeated in \texttt{CLAIMS\_AUDIT.json}.
+
+\section{SHA-256 manifest of claim-bearing source files}
+\InputIfFileExists{source_hashes.tex}{}{The source hash table is generated as \texttt{source\_hashes.tex} before PDF compilation.}
+
+\begin{thebibliography}{9}
+\bibitem{Dulac}
+H. Dulac, Sur les cycles limites, \emph{Bulletin de la Societe Mathematique de France} 51 (1923), 45--188.
+
+\bibitem{Ecalle}
+J. Ecalle, Introduction aux fonctions analysables et preuve constructive de la conjecture de Dulac, Hermann, 1992.
+
+\bibitem{Ilyashenko}
+Yu. S. Ilyashenko, Finiteness theorems for limit cycles, American Mathematical Society, 1991.
+
+\bibitem{RR2015}
+R. Roussarie and C. Rousseau, Finite cyclicity of some graphics through a nilpotent point inside quadratic systems, locally cached arXiv source \texttt{1506.07104}.
+
+\bibitem{RSZ2016}
+C. Rousseau, H. Shan, and X. Zhu, Finite cyclicity of elementary graphics surrounding a focus or center in quadratic systems, locally cached arXiv source \texttt{1502.00689}.
+
+\bibitem{LRS}
+J. Llibre, R. Ramirez, and N. Sadovskaia, Invariant algebraic curves and limit cycles for polynomial vector fields, as audited in the Route A source cache.
+
+\bibitem{MP}
+J. Margalef-Bentabol and D. Peralta-Salas, Realization of prescribed limit-cycle configurations by polynomial vector fields, as cited in the project convention sources.
+\end{thebibliography}
+
+\end{document}

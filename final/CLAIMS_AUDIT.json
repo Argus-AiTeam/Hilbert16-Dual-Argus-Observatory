@@ -1,0 +1,107 @@
+[
+  {
+    "claim_id": "T1_conventions_configuration",
+    "statement": "Finite affine limit-cycle configurations are classified by unlabelled rooted nesting forests; singularities, multiplicity and infinity are not base nodes; exact-degree and at-most-degree Hilbert suprema agree.",
+    "classification": "self-contained proved proposition/theorem in this paper; established result with primary citation for per-field Dulac background",
+    "hypotheses": "Finite families of pairwise disjoint affine periodic-orbit Jordan curves; polynomial vector fields over R; base degree-at-most convention.",
+    "proof_location": "main.tex, Theorem 1 and proof",
+    "source_paths": [
+      "math2/research/scope/foundational_conventions_and_configuration_theorem.md",
+      "math2/CONVENTIONS.md",
+      "math1/research/SCOPE.md"
+    ],
+    "citation_status": "Dulac/Ilyashenko/Ecalle used only as known per-system finiteness background; configuration proof is self-contained.",
+    "limitation": "Does not prove H(n)<infinity, any H(n) value, or any fixed-degree configuration classification."
+  },
+  {
+    "claim_id": "P1_dulac_not_uniform",
+    "statement": "Per-vector-field Dulac finiteness does not imply a degree-wise uniform Hilbert bound.",
+    "classification": "self-contained proved proposition/theorem in this paper; established result with primary citation for pointwise finiteness",
+    "hypotheses": "Known pointwise theorem supplies forall X exists M_X; no additional uniformity theorem is assumed.",
+    "proof_location": "main.tex, Proposition 1 and proof",
+    "source_paths": [
+      "math1/research/SCOPE.md",
+      "math2/research/scope/foundational_conventions_and_configuration_theorem.md"
+    ],
+    "citation_status": "Dulac/Ilyashenko/Ecalle cited as pointwise theorem only.",
+    "limitation": "Pure quantifier audit; gives neither positive nor negative value of H(n)."
+  },
+  {
+    "claim_id": "P2_routeA_rho200_tube",
+    "statement": "The selected Route A LRS first-row tail (1,3) rho=200 slice and a rational local two-parameter tube are certified with 24 event clusters, 25 local cells, max regular-level real curve roots 10, and no E=11 witness.",
+    "classification": "exact symbolic/computational certificate with explicit finite scope",
+    "hypotheses": "n=6 LRS span-20 tail-size-two first-row model; target T={(1,3),(2,3)}; selected_tail=(1,3); B=500+s, s>0; rho interval centered at 200 with half-width 1/4722366482869645213696.",
+    "proof_location": "main.tex, Proposition 2 and proof",
+    "source_paths": [
+      "math1/research/FIXED_DEGREE_REALIZATION.md",
+      "math1/computations/lrs_n6_full_triangle_span20_tail_size_two_largeB_first_row_rho200_interior_rdisc_slice_stratifier.py",
+      "math1/computations/lrs_n6_full_triangle_span20_tail_size_two_largeB_first_row_rho200_interior_rdisc_slice_exact_run.out",
+      "math1/computations/lrs_n6_full_triangle_span20_tail_size_two_largeB_first_row_rho200_two_parameter_tube_verifier.py",
+      "math1/computations/lrs_n6_full_triangle_span20_tail_size_two_largeB_first_row_rho200_two_parameter_tube_exact_run_v14.out",
+      "math1/computations/lrs_n6_full_triangle_span20_tail_size_two_largeB_first_row_rho200_two_parameter_tube_resume_exact_run_v26.out",
+      "math1/computations/lrs_n6_full_triangle_span20_tail_size_two_largeB_first_row_rho200_boundary_verifier.py",
+      "math1/computations/lrs_n6_full_triangle_span20_tail_size_two_largeB_first_row_rho200_boundary_exact_run_v7.out"
+    ],
+    "citation_status": "LRS mechanism cited as source-backed background; finite certificate is local project arithmetic.",
+    "limitation": "Not full B>=500 chamber, not selected-row retirement, not tail-size-two retirement, not global E=11 nonexistence, not H(6), not CONFIG6, not uniform finiteness."
+  },
+  {
+    "claim_id": "P3_routeA_event263_successor",
+    "statement": "The selected event263 bottom successor is harmless in the finite atlas and preserves <=9 projected real u-roots and <=18 curve-point bound with no certified 20-point candidate.",
+    "classification": "exact symbolic/computational certificate with explicit finite scope",
+    "hypotheses": "Selected row T={(2,2),(3,1)}, selected_tail=(2,2), pos:event263:I1:pair_resultant:(4,9):bottom after certified event263-top/event191-bottom predecessor.",
+    "proof_location": "main.tex, Proposition 3 and proof",
+    "source_paths": [
+      "math1/CHECKPOINT.md",
+      "math1/computations/row22_31_event263_I1_pair_resultant_4_9_bottom_after_event263_top.py",
+      "math1/computations/row22_31_event263_I1_pair_resultant_4_9_bottom_after_event263_top_exact_run.out",
+      "math1/computations/row22_31_event263_I1_pair_resultant_4_9_bottom_after_event263_top_artifact_validation.out"
+    ],
+    "citation_status": "No external citation needed; exact local verifier evidence only.",
+    "limitation": "One selected successor wall; does not retire row/supports or prove H(6), CONFIG6, 20-cycle nonexistence globally, or uniform finiteness."
+  },
+  {
+    "claim_id": "P4_h313_direct_typeII_gap",
+    "statement": "The H313 direct nonboundary P1-to-P2 Type-II endpoint comparison reduces to a same-leaf scalar displacement, but RR thderdiv is not applicable because the actual same-r comparison has delta=0/same base monomial.",
+    "classification": "conditional reduction with all hypotheses stated; conjecture/open gap/failed route",
+    "hypotheses": "RR H313 range 0<B<1/2; direct nonboundary P1-to-P2 successor; same leaf r*rho=nu; endpoint Type-II maps and regular transition U_A.",
+    "proof_location": "main.tex, Proposition 4 and proof",
+    "source_paths": [
+      "math2/computations/fq3081_h313_nonboundary_atlas.sidecar.json",
+      "math2/computations/fq3082_h313_direct_typeii_composition.sidecar.json",
+      "math2/research/literature/summary.md"
+    ],
+    "citation_status": "RR2015 source locators quoted by sidecars; no theorem imported beyond its stated nonapplicability.",
+    "limitation": "No finite cyclicity, H3_13, H(2), H(n), realizability, or configuration closure follows."
+  },
+  {
+    "claim_id": "P5_deltaG_positive_one_way_obstruction",
+    "statement": "In the off-line RR H313 Lienard model with Delta_G>0 and mubar1!=0, the middle saddle cannot provide an endpoint-compatible H313 P1->S2->P2 chain because Y=0 crossings are one-way.",
+    "classification": "self-contained proved proposition/theorem in this paper",
+    "hypotheses": "1/2<a<1; mubar1!=0; Delta_G>0; three simple finite roots xi1<xi2<xi3 of G; H313 endpoint branch with Y/X^2->0.",
+    "proof_location": "main.tex, Proposition 5 and proof",
+    "source_paths": [
+      "math2/computations/fq3221_offline_positive_discriminant_splitting_sidecar.json",
+      "math2/computations/fq3221_offline_positive_discriminant_splitting.command.log",
+      "math2/research/ROUTE_LEDGER.json"
+    ],
+    "citation_status": "RR model/source locators inherited through sidecar; proof uses explicit formulas and signs.",
+    "limitation": "Only closes the Delta_G>0 middle-saddle H313 chain; individual one-sided landings and non-H313 residuals remain outside scope."
+  },
+  {
+    "claim_id": "P6_deltaG_zero_semihyperbolic_split",
+    "statement": "In the Delta_G=0 semihyperbolic double-root stratum, off-line mubar1!=0 candidates do not have both H313 endpoint landings; the invariant-line mubar1=mubar2=s=0 survivor remains open at the Dulac/anchor packet.",
+    "classification": "self-contained proved proposition/theorem in this paper",
+    "hypotheses": "RR H313 off-line model, 1/2<a<1, double-root parameterization, q/tau>0 local semihyperbolic orientation.",
+    "proof_location": "main.tex, Proposition 6 and proof",
+    "source_paths": [
+      "math2/computations/fq3223_h313_saddlenode_global_landing_sidecar.json",
+      "math2/computations/fq3223_h313_saddlenode_global_landing.command.log",
+      "math2/computations/fq3222_residual_relevance_sidecar.json",
+      "math2/computations/fq3222_residual_relevance.validation.log",
+      "math2/research/ROUTE_LEDGER.json"
+    ],
+    "citation_status": "RR model/source locators inherited through sidecars; proof uses explicit formulas and signs.",
+    "limitation": "Landing/incidence statement only; no endpoint-matched finite-cyclicity theorem and no H3_13/H(2)/H(n) claim."
+  }
+]

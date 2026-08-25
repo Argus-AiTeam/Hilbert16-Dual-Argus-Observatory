@@ -1,0 +1,49 @@
+{
+  "secret_audit": {
+    "status": "pass",
+    "hits": []
+  },
+  "absolute_private_path_audit": {
+    "status": "pass",
+    "hits": []
+  },
+  "symlink_audit": {
+    "status": "pass",
+    "symlinks": []
+  },
+  "size_audit": {
+    "status": "pass",
+    "max_file_bytes": 304951,
+    "oversize": []
+  },
+  "license_audit": {
+    "status": "pass",
+    "policy": "No upstream source campaign files, cached papers, vendor trees, or virtual environments are bundled; public package contains reviewed generated paper/audit artifacts and path/hash manifest only."
+  },
+  "claim_boundary_audit": {
+    "status": "pass",
+    "forbidden_affirmative_hits": [],
+    "claims_match_dependency_nodes": true
+  },
+  "required_artifacts_audit": {
+    "status": "pass",
+    "missing": []
+  },
+  "published_paths": [
+    "final/BUILD_LOG.txt",
+    "final/CLAIMS_AUDIT.json",
+    "final/FINAL_REVIEW.json",
+    "final/PDF_VALIDATION.json",
+    "final/PROOF_DEPENDENCIES.json",
+    "final/PUBLICATION_AUDIT.json",
+    "final/README.md",
+    "final/REPRODUCIBILITY.md",
+    "final/SOURCE_MANIFEST.json",
+    "final/SUMMARY_ZH.md",
+    "final/claim_sources/README.md",
+    "final/main.pdf",
+    "final/main.tex",
+    "final/source_hashes.tex"
+  ],
+  "status": "pass"
+}

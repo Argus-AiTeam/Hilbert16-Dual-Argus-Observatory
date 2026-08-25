@@ -1,0 +1,84 @@
+{
+  "paper": "main.tex",
+  "nodes": [
+    {
+      "id": "T1_conventions_configuration",
+      "type": "theorem",
+      "depends_on": [
+        "math2_foundational_conventions",
+        "math1_scope_conventions",
+        "dulac_ilyashenko_ecalle_background"
+      ]
+    },
+    {
+      "id": "P1_dulac_not_uniform",
+      "type": "proposition",
+      "depends_on": [
+        "T1_conventions_configuration",
+        "dulac_ilyashenko_ecalle_background"
+      ]
+    },
+    {
+      "id": "P2_routeA_rho200_tube",
+      "type": "proposition",
+      "depends_on": [
+        "routeA_lrs_context",
+        "routeA_rho200_slice_certificate",
+        "routeA_rho200_tube_v14_event_strip_phase",
+        "routeA_rho200_tube_v26_split_resume",
+        "routeA_boundary_audit_nonimported"
+      ]
+    },
+    {
+      "id": "P3_routeA_event263_successor",
+      "type": "proposition",
+      "depends_on": [
+        "routeA_event263_exact_run",
+        "routeA_event263_artifact_validation",
+        "math1_checkpoint_scope_nonclaims"
+      ]
+    },
+    {
+      "id": "P4_h313_direct_typeII_gap",
+      "type": "proposition",
+      "depends_on": [
+        "routeB_fq3081_h313_nonboundary_atlas",
+        "routeB_fq3082_direct_typeII_sidecar",
+        "RR2015_typeII_and_thderdiv_source_locators"
+      ]
+    },
+    {
+      "id": "P5_deltaG_positive_one_way_obstruction",
+      "type": "proposition",
+      "depends_on": [
+        "routeB_fq3221_sidecar",
+        "routeB_fq3221_validation",
+        "routeB_ledger_nonclaims"
+      ]
+    },
+    {
+      "id": "P6_deltaG_zero_semihyperbolic_split",
+      "type": "proposition",
+      "depends_on": [
+        "routeB_fq3223_sidecar",
+        "routeB_fq3223_validation",
+        "routeB_fq3222_residual_relevance",
+        "routeB_ledger_nonclaims"
+      ]
+    }
+  ],
+  "external_background": [
+    "Dulac--Ilyashenko--Ecalle per-vector-field finiteness is used only as pointwise background.",
+    "RR2015 is used through cached source locators for the quadratic normal form, H313 range, Type-II maps, and derivation-division hypotheses.",
+    "LRS is used only as the source-backed mechanism motivating Route A's finite local atlas, not as a new global Hilbert theorem."
+  ],
+  "global_nonclaims": {
+    "general_hilbert_problem_solved": false,
+    "H2_claimed": false,
+    "H6_claimed": false,
+    "Hn_value_claimed": false,
+    "uniform_finiteness_claimed": false,
+    "CONFIG6_claimed": false,
+    "twenty_cycle_candidate_claimed": false
+  }
+}

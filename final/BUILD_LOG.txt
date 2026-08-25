@@ -1,0 +1,484 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(./main.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size11.clo))
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amscls/amsthm.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+(/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def)
+No file main.aux.
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd) [1{/var/lib/texmf/fo
+nts/map/pdftex/updmap/pdftex.map}] [2] [3]
+Overfull \hbox (118.09647pt too wide) in paragraph at lines 136--138
+\OT1/cmr/m/it/10.95 re-tires on that branch, event554 re-mains ac-tive, $[] \OT
+1/cmr/m/n/10.95 = 9$\OT1/cmr/m/it/10.95 , $[] \OT1/cmr/m/n/10.95 =
+[4]
+
+LaTeX Warning: Reference `prop:delta-positive' on page 5 undefined on input lin
+e 202.
+
+[5]
+
+LaTeX Warning: Reference `thm:conventions' on page 6 undefined on input line 21
+4.
+
+
+LaTeX Warning: Reference `prop:dulac-uniform' on page 6 undefined on input line
+ 215.
+
+
+LaTeX Warning: Reference `prop:rho200' on page 6 undefined on input line 216.
+
+
+LaTeX Warning: Reference `prop:event263' on page 6 undefined on input line 217.
+
+
+
+LaTeX Warning: Reference `prop:h313-direct' on page 6 undefined on input line 2
+18.
+
+
+LaTeX Warning: Reference `prop:delta-positive' on page 6 undefined on input lin
+e 219.
+
+
+LaTeX Warning: Reference `prop:delta-zero' on page 6 undefined on input line 22
+0.
+
+
+Overfull \hbox (1.02159pt too wide) in alignment at lines 211--221
+ [] [] [] [] 
+[6]
+Overfull \hbox (16.36351pt too wide) in paragraph at lines 226--227
+\OT1/cmr/m/n/10.95 Route A be-gan with lower-bound and fixed-degree re-al-iz-ab
+il-ity mech-a-nisms, in-clud-ing Har-nack/tropical
+[7]
+Overfull \hbox (217.71576pt too wide) in paragraph at lines 251--252
+[]|\OT1/cmtt/m/n/10.95 first[]row[]rho200[]interior[]rdisc[]slice[]stratifier[]
+certified=True\OT1/cmr/m/n/10.95 ; 
+
+Overfull \hbox (14.19194pt too wide) in paragraph at lines 252--252
+\OT1/cmtt/m/n/10.95 py-[]-[]resume-[]after-[]event-[]strips$|  
+
+Overfull \hbox (287.6198pt too wide) in paragraph at lines 252--253
+[]|\OT1/cmtt/m/n/10.95 first[]row[]rho200[]two[]parameter[]tube[]after[]event7[
+]split[]resume[]certified=True\OT1/cmr/m/n/10.95 ; 
+
+Overfull \hbox (107.5709pt too wide) in paragraph at lines 252--253
+\OT1/cmtt/m/n/10.95 two[]parameter[]tube[]transport[]certified=True\OT1/cmr/m/n
+/10.95 .|  
+[8] (./source_hashes.tex
+Overfull \hbox (131.07597pt too wide) in paragraph at lines 5--6
+[]|\OT1/cmtt/m/n/8 5aca76060de153e222ad2cb407ea282cac2b04e3720b67dbe26ed2559371
+3212|  
+
+Overfull \hbox (131.07597pt too wide) in paragraph at lines 6--7
+[]|\OT1/cmtt/m/n/8 cf295f1d4a97ce616cf0bcf55da17f23470a5a2d49cc31e424b2897fbe72
+88a3|  
+
+Overfull \hbox (131.07597pt too wide) in paragraph at lines 7--8
+[]|\OT1/cmtt/m/n/8 31b5ed1a92a23d8237d98da292c9c13033651201c62727f06b2cce10bb30
+de84|  
+
+Overfull \hbox (131.07597pt too wide) in paragraph at lines 8--9
+[]|\OT1/cmtt/m/n/8 af7db9751697ac54944f4f51c64e433ec86d5e22f740fa41ef309c62a27f
+0237|  
+
+Overfull \hbox (131.07597pt too wide) in paragraph at lines 9--10
+[]|\OT1/cmtt/m/n/8 deae81fe3b94866b030843cfa4fbd4e1fc6be605ecd8842455cece972ebf
+040a|  
+
+Overfull \hbox (131.07597pt too wide) in paragraph at lines 10--11
+[]|\OT1/cmtt/m/n/8 25f95b86d1f5a35ae35a5f4a4032cd4746b8961c24715996b9c8b08c0039
+1bb7|  
+
+Overfull \hbox (131.07597pt too wide) in paragraph at lines 11--12
+[]|\OT1/cmtt/m/n/8 ea65bce1e798b7bbd7c27ab4b14e3b308d4c5ffe247d66833240e6c212d3
+a01c|  
+
+Overfull \hbox (131.07597pt too wide) in paragraph at lines 12--13
+[]|\OT1/cmtt/m/n/8 b02f80cd6f716f3d788c19c55d30b851246eb1d3531938e3aa2abfd5c7c7
+c9ad|  
+
+Overfull \hbox (131.07597pt too wide) in paragraph at lines 13--14
+[]|\OT1/cmtt/m/n/8 78eb124a38925872adbcc350612ce21d3359ea02465a5a68eb7e5a1c7b0f
+4b71|  
+
+Overfull \hbox (131.07597pt too wide) in paragraph at lines 14--15
+[]|\OT1/cmtt/m/n/8 d9b597be0641ca31d261f2d25903acda0973d2ee6852a8c34d3b2cc422c4
+30f4|  
+
+Overfull \hbox (131.07597pt too wide) in paragraph at lines 15--16
+[]|\OT1/cmtt/m/n/8 bd8e57a05f3827322d6785b63fb349be0bcc01cb54a9ef5962c39c3a4907
+2908|  
+
+Overfull \hbox (131.07597pt too wide) in paragraph at lines 16--17
+[]|\OT1/cmtt/m/n/8 8fdbbe89d5b0b2450d665c2727a536ed17b92b2e6301b5940681657082e5
+0d1e|  
+
+Overfull \hbox (131.07597pt too wide) in paragraph at lines 17--18
+[]|\OT1/cmtt/m/n/8 76cd90ce5b2ec1a698727d2649d3e86787d3e1e37f30c747b0af40cefaaf
+7e79|  
+
+Overfull \hbox (131.07597pt too wide) in paragraph at lines 18--19
+[]|\OT1/cmtt/m/n/8 3e884011e452fadc54c4db2840b8df8a6100346682d2ff18a7acb851ae04
+e2a3|  
+
+Overfull \hbox (131.07597pt too wide) in paragraph at lines 19--20
+[]|\OT1/cmtt/m/n/8 84e6e02ef8b3af5f195c4b07c4e4e1f4f88abc0a7e3311839dbae207d86c
+d6a2|  
+
+Overfull \hbox (131.07597pt too wide) in paragraph at lines 20--21
+[]|\OT1/cmtt/m/n/8 1592ae187e24fb883e7348e9d297ed73b132d47b0646ac2d90cb6f81cb16
+4749|  
+
+Overfull \hbox (131.07597pt too wide) in paragraph at lines 21--22
+[]|\OT1/cmtt/m/n/8 63dce24fa11f83a707c2b8329494eedc2f298ec464e10ec7a893628df0ed
+4e24|  
+
+Overfull \hbox (131.07597pt too wide) in paragraph at lines 22--23
+[]|\OT1/cmtt/m/n/8 06a3386f2bd20bc9251b1cc8f145b3bd9c519bf98d6ec5fa35b8f43417d5
+c115|  
+
+Overfull \hbox (131.07597pt too wide) in paragraph at lines 23--24
+[]|\OT1/cmtt/m/n/8 b6d68880515648ee69d14e00690f0bf7551b66f3d957c3dd82b5549cea92
+9a97|  
+
+Overfull \hbox (131.07597pt too wide) in paragraph at lines 24--25
+[]|\OT1/cmtt/m/n/8 762e8879401373a0baf6e302592e43021469dd1fa38d2451d6ca548b1d3e
+98c6|  
+
+Overfull \hbox (131.07597pt too wide) in paragraph at lines 25--26
+[]|\OT1/cmtt/m/n/8 9c795770d4c211042f630e307f007819d06ae96dde315c535425eb5d33cf
+b158|  
+
+Overfull \hbox (131.07597pt too wide) in paragraph at lines 26--27
+[]|\OT1/cmtt/m/n/8 7a344b005361b69cc87d318d4cec9d9e5db7746d9c3966e114dab3091e64
+7b6c|  
+
+Overfull \hbox (131.07597pt too wide) in paragraph at lines 27--28
+[]|\OT1/cmtt/m/n/8 54869dfd96289160f1cd9816afe8802687fbdfdd76a9438ce8db2fc8d3e2
+6ccf|  
+
+Overfull \hbox (131.07597pt too wide) in paragraph at lines 28--29
+[]|\OT1/cmtt/m/n/8 94b363b0909b6174e6ee5538c3269ea35eff240c3d65312008ead9d2ab7a
+2bc9|  
+
+Overfull \hbox (131.07597pt too wide) in paragraph at lines 29--30
+[]|\OT1/cmtt/m/n/8 f8a7857fec7ef625e4c1efc812c5ac316142f9da94a8b63399b35c38eaa2
+6e9b|  
+
+Overfull \hbox (131.07597pt too wide) in paragraph at lines 30--31
+[]|\OT1/cmtt/m/n/8 cfd094e06d09df00cdd6e10061952dcfc12d283cf809536e71866137daaa
+beaa|  
+
+Overfull \hbox (9.38213pt too wide) in alignment at lines 2--31
+ [] [] [] 
+) [9] [10] (./main.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package rerunfilecheck Warning: File `main.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+ )
+(see the transcript file for additional information)</usr/share/texlive/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmbx8.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmitt10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pf
+b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr
+/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/
+texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
+msy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.p
+fb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></u
+sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/sha
+re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb></usr/share/texl
+ive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on main.pdf (10 pages, 303909 bytes).
+Transcript written on main.log.
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(./main.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size11.clo))
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amscls/amsthm.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+(/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def)
+(./main.aux)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (./main.out) (./main.out)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd) [1{/var/lib/texmf/fo
+nts/map/pdftex/updmap/pdftex.map}] [2] [3]
+Overfull \hbox (118.09647pt too wide) in paragraph at lines 136--138
+\OT1/cmr/m/it/10.95 re-tires on that branch, event554 re-mains ac-tive, $[] \OT
+1/cmr/m/n/10.95 = 9$\OT1/cmr/m/it/10.95 , $[] \OT1/cmr/m/n/10.95 =
+[4] [5]
+Overfull \hbox (1.02159pt too wide) in alignment at lines 211--221
+ [] [] [] [] 
+[6]
+Overfull \hbox (16.36351pt too wide) in paragraph at lines 226--227
+\OT1/cmr/m/n/10.95 Route A be-gan with lower-bound and fixed-degree re-al-iz-ab
+il-ity mech-a-nisms, in-clud-ing Har-nack/tropical
+[7]
+Overfull \hbox (217.71576pt too wide) in paragraph at lines 251--252
+[]|\OT1/cmtt/m/n/10.95 first[]row[]rho200[]interior[]rdisc[]slice[]stratifier[]
+certified=True\OT1/cmr/m/n/10.95 ; 
+
+Overfull \hbox (14.19194pt too wide) in paragraph at lines 252--252
+\OT1/cmtt/m/n/10.95 py-[]-[]resume-[]after-[]event-[]strips$|  
+
+Overfull \hbox (287.6198pt too wide) in paragraph at lines 252--253
+[]|\OT1/cmtt/m/n/10.95 first[]row[]rho200[]two[]parameter[]tube[]after[]event7[
+]split[]resume[]certified=True\OT1/cmr/m/n/10.95 ; 
+
+Overfull \hbox (107.5709pt too wide) in paragraph at lines 252--253
+\OT1/cmtt/m/n/10.95 two[]parameter[]tube[]transport[]certified=True\OT1/cmr/m/n
+/10.95 .|  
+[8] (./source_hashes.tex
+Overfull \hbox (131.07597pt too wide) in paragraph at lines 5--6
+[]|\OT1/cmtt/m/n/8 5aca76060de153e222ad2cb407ea282cac2b04e3720b67dbe26ed2559371
+3212|  
+
+Overfull \hbox (131.07597pt too wide) in paragraph at lines 6--7
+[]|\OT1/cmtt/m/n/8 cf295f1d4a97ce616cf0bcf55da17f23470a5a2d49cc31e424b2897fbe72
+88a3|  
+
+Overfull \hbox (131.07597pt too wide) in paragraph at lines 7--8
+[]|\OT1/cmtt/m/n/8 31b5ed1a92a23d8237d98da292c9c13033651201c62727f06b2cce10bb30
+de84|  
+
+Overfull \hbox (131.07597pt too wide) in paragraph at lines 8--9
+[]|\OT1/cmtt/m/n/8 af7db9751697ac54944f4f51c64e433ec86d5e22f740fa41ef309c62a27f
+0237|  
+
+Overfull \hbox (131.07597pt too wide) in paragraph at lines 9--10
+[]|\OT1/cmtt/m/n/8 deae81fe3b94866b030843cfa4fbd4e1fc6be605ecd8842455cece972ebf
+040a|  
+
+Overfull \hbox (131.07597pt too wide) in paragraph at lines 10--11
+[]|\OT1/cmtt/m/n/8 25f95b86d1f5a35ae35a5f4a4032cd4746b8961c24715996b9c8b08c0039
+1bb7|  
+
+Overfull \hbox (131.07597pt too wide) in paragraph at lines 11--12
+[]|\OT1/cmtt/m/n/8 ea65bce1e798b7bbd7c27ab4b14e3b308d4c5ffe247d66833240e6c212d3
+a01c|  
+
+Overfull \hbox (131.07597pt too wide) in paragraph at lines 12--13
+[]|\OT1/cmtt/m/n/8 b02f80cd6f716f3d788c19c55d30b851246eb1d3531938e3aa2abfd5c7c7
+c9ad|  
+
+Overfull \hbox (131.07597pt too wide) in paragraph at lines 13--14
+[]|\OT1/cmtt/m/n/8 78eb124a38925872adbcc350612ce21d3359ea02465a5a68eb7e5a1c7b0f
+4b71|  
+
+Overfull \hbox (131.07597pt too wide) in paragraph at lines 14--15
+[]|\OT1/cmtt/m/n/8 d9b597be0641ca31d261f2d25903acda0973d2ee6852a8c34d3b2cc422c4
+30f4|  
+
+Overfull \hbox (131.07597pt too wide) in paragraph at lines 15--16
+[]|\OT1/cmtt/m/n/8 bd8e57a05f3827322d6785b63fb349be0bcc01cb54a9ef5962c39c3a4907
+2908|  
+
+Overfull \hbox (131.07597pt too wide) in paragraph at lines 16--17
+[]|\OT1/cmtt/m/n/8 8fdbbe89d5b0b2450d665c2727a536ed17b92b2e6301b5940681657082e5
+0d1e|  
+
+Overfull \hbox (131.07597pt too wide) in paragraph at lines 17--18
+[]|\OT1/cmtt/m/n/8 76cd90ce5b2ec1a698727d2649d3e86787d3e1e37f30c747b0af40cefaaf
+7e79|  
+
+Overfull \hbox (131.07597pt too wide) in paragraph at lines 18--19
+[]|\OT1/cmtt/m/n/8 3e884011e452fadc54c4db2840b8df8a6100346682d2ff18a7acb851ae04
+e2a3|  
+
+Overfull \hbox (131.07597pt too wide) in paragraph at lines 19--20
+[]|\OT1/cmtt/m/n/8 84e6e02ef8b3af5f195c4b07c4e4e1f4f88abc0a7e3311839dbae207d86c
+d6a2|  
+
+Overfull \hbox (131.07597pt too wide) in paragraph at lines 20--21
+[]|\OT1/cmtt/m/n/8 1592ae187e24fb883e7348e9d297ed73b132d47b0646ac2d90cb6f81cb16
+4749|  
+
+Overfull \hbox (131.07597pt too wide) in paragraph at lines 21--22
+[]|\OT1/cmtt/m/n/8 63dce24fa11f83a707c2b8329494eedc2f298ec464e10ec7a893628df0ed
+4e24|  
+
+Overfull \hbox (131.07597pt too wide) in paragraph at lines 22--23
+[]|\OT1/cmtt/m/n/8 06a3386f2bd20bc9251b1cc8f145b3bd9c519bf98d6ec5fa35b8f43417d5
+c115|  
+
+Overfull \hbox (131.07597pt too wide) in paragraph at lines 23--24
+[]|\OT1/cmtt/m/n/8 b6d68880515648ee69d14e00690f0bf7551b66f3d957c3dd82b5549cea92
+9a97|  
+
+Overfull \hbox (131.07597pt too wide) in paragraph at lines 24--25
+[]|\OT1/cmtt/m/n/8 762e8879401373a0baf6e302592e43021469dd1fa38d2451d6ca548b1d3e
+98c6|  
+
+Overfull \hbox (131.07597pt too wide) in paragraph at lines 25--26
+[]|\OT1/cmtt/m/n/8 9c795770d4c211042f630e307f007819d06ae96dde315c535425eb5d33cf
+b158|  
+
+Overfull \hbox (131.07597pt too wide) in paragraph at lines 26--27
+[]|\OT1/cmtt/m/n/8 7a344b005361b69cc87d318d4cec9d9e5db7746d9c3966e114dab3091e64
+7b6c|  
+
+Overfull \hbox (131.07597pt too wide) in paragraph at lines 27--28
+[]|\OT1/cmtt/m/n/8 54869dfd96289160f1cd9816afe8802687fbdfdd76a9438ce8db2fc8d3e2
+6ccf|  
+
+Overfull \hbox (131.07597pt too wide) in paragraph at lines 28--29
+[]|\OT1/cmtt/m/n/8 94b363b0909b6174e6ee5538c3269ea35eff240c3d65312008ead9d2ab7a
+2bc9|  
+
+Overfull \hbox (131.07597pt too wide) in paragraph at lines 29--30
+[]|\OT1/cmtt/m/n/8 f8a7857fec7ef625e4c1efc812c5ac316142f9da94a8b63399b35c38eaa2
+6e9b|  
+
+Overfull \hbox (131.07597pt too wide) in paragraph at lines 30--31
+[]|\OT1/cmtt/m/n/8 cfd094e06d09df00cdd6e10061952dcfc12d283cf809536e71866137daaa
+beaa|  
+
+Overfull \hbox (9.38213pt too wide) in alignment at lines 2--31
+ [] [] [] 
+) [9] [10] (./main.aux) )
+(see the transcript file for additional information)</usr/share/texlive/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmbx8.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmitt10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pf
+b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr
+/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/
+texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
+msy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.p
+fb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></u
+sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/sha
+re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb></usr/share/texl
+ive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on main.pdf (10 pages, 304951 bytes).
+Transcript written on main.log.
