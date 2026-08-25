@@ -3244,3 +3244,6 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-25 01:55:29 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
 | 2026-08-25 02:02:38 UTC | B | `life.mission.completed` | Decide strict plus-edge L_d/L_c coefficient evaluation |
 | 2026-08-25 02:03:44 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-25 02:14:13 UTC | A | `life.mission.completed` | Certify event-3 as an isolated real R-discriminant point or find a punctured-zero witness |
+| 2026-08-25 02:10:38 UTC | B | `life.mission.completed` | Decide normalized endpoint-to-transport scalar data theorem |
+| 2026-08-25 02:11:48 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
