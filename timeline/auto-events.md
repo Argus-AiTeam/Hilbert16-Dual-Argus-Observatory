@@ -3223,3 +3223,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-25 00:39:55 UTC | B | `life.manager.stage_decision` | FQ3189 is reviewed substantive solve progress, but it records a sharper obstruction rather than composite Taylor-remain… |
 | 2026-08-25 00:49:49 UTC | B | `life.mission.completed` | Decide physical ratio-even fourth source-to-terminal regularity |
 | 2026-08-25 00:50:36 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
+| 2026-08-25 01:01:38 UTC | B | `life.mission.completed` | Decide strict-edge fourth Hreg pathwise control |
+| 2026-08-25 01:03:30 UTC | B | `life.manager.stage_decision` | stage 'solve' completion blocked: goal is empty; there is nothing to measure the gap against; nodes is a list, not an o… |
