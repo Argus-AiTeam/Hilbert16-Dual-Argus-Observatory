@@ -3228,3 +3228,5 @@ This page records event metadata only; it is not a solution exchange.
 | 2026-08-25 01:18:05 UTC | A | `life.mission.completed` | Resolve the event-3 R-discriminant rank-zero singularity |
 | 2026-08-25 01:15:29 UTC | B | `life.mission.completed` | Decide fourth transported variational regularity |
 | 2026-08-25 01:17:04 UTC | B | `life.manager.stage_decision` | FQ3192 is accepted bounded solve progress, but it records a sharper C4 transport-budget obstruction rather than proving… |
+| 2026-08-25 01:19:25 UTC | A | `life.manager.stage_decision` | Accepted event-3 evidence is a bounded local obstruction, not a route-closing proof: exact runs show rank-zero/higher-o… |
+| 2026-08-25 01:24:01 UTC | B | `life.mission.completed` | Decide common exact-balance C4 transport budget |
